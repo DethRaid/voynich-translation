@@ -14,7 +14,7 @@ import java.util.*
  */
 
 val BASE_URL = "http://www.voynich.nu/";
-val LOG = LogManager.getLogger("VoynichDownloader");
+val LOG = LogManager.getLogger("VoynichCreator");
 
 val PAGES_IN_FOLIOS         = intArrayOf(8, 8, 8, 8, 8, 8, 8, 10, 2, 2, 2, 2, 10, 2, 4, 2, 4, 2, 4, 14);
 val NUM_FOLIOS              = PAGES_IN_FOLIOS.reduce { accum, value -> accum + value };
@@ -32,10 +32,8 @@ val client = HttpClients.createDefault();
  * @return The full text of each folio
  */
 private fun getFolioText(quire : Int, folio : Int) {
-    /*var folioText =*/ getSingleFolio(quire, folio, "v");
-    /*folioText +=*/ getSingleFolio(quire, folio, "r");
-
-    //return folioText;
+    getSingleFolio(quire, folio, "v");
+    getSingleFolio(quire, folio, "r");
 }
 
 private fun getSingleFolio(quire: Int, folio: Int, code: String) {
@@ -72,12 +70,22 @@ private fun getSingleFolio(quire: Int, folio: Int, code: String) {
 private fun makeVoynichWord(text : String) : VoynichWord {
     var word = "";
     var certain = true;
+    var shouldAppend = true;
 
     text.forEach { char ->
-        if(char == '!') {
+        if(char == '!' || char == '*') {
             certain = false;
-        } else {
+        } else if(char == '=' || char == '{') {
+            // Ignore all equals signs
+            shouldAppend = false;
+        }
+
+        if(shouldAppend) {
             word += char;
+        }
+
+        if(char == '}') {
+            shouldAppend = true;
         }
     }
 
@@ -94,10 +102,17 @@ private fun makeVoynichWord(text : String) : VoynichWord {
  */
 private fun makeVoynichLine(lines : MutableList<String>) : VoynichLine {
     var fullWords : MutableList<MutableList<VoynichWord>> = ArrayList();
-    lines.forEach { line ->
+    for (line in lines) {
+        if(line.contains(',')) {
+            // Don't want no uncertain spaces here
+            continue;
+        }
+
         var wordsInLine : MutableList<VoynichWord> = ArrayList();
         // Split the line on periods, because those delimit words
-        var words = line.splitToSequence('.');
+        // Replace uncertain spaces (,) with certain spaces (.). There's no room for probability here
+        // Get everything before the = and - signs. Those things seriously mess me up. I hate them.
+        var words = line.substringBefore('=').replace(Regex("""-{[\w]+}"""), ".").substringBefore('-').splitToSequence('.');
 
         words.forEach { word ->
             var wordSan = sanitize(word);
@@ -140,13 +155,20 @@ private fun makeVoynichFolio(text : String) : VoynichFolio {
     var lines = text.lines();
     var curLineGroup : MutableList<String> = ArrayList();
     var voynichLines : MutableList<VoynichLine> = ArrayList();
+    var firstSkipped = false;
 
-    lines.forEach { line ->
+    for (line in lines) {
+        if(!firstSkipped) {
+            // Skip the first line of every file because It's just a header saying what folio the file represents
+            firstSkipped = true;
+            continue;
+        }
+
         if (line.startsWith("#")) {
             // If the line starts with a #, it's a comment and we can ignore it for right now.
 
             // Although, being in a comment means we should make a new VoynichLine from the current line group
-            if (curLineGroup.isNotEmpty()) {
+            if (curLineGroup.isNotEmpty() && curLineGroup[0].length > 0) {
                 voynichLines.add(makeVoynichLine(curLineGroup));
                 curLineGroup.clear();
             }
@@ -157,7 +179,8 @@ private fun makeVoynichFolio(text : String) : VoynichFolio {
         }
     }
 
-    return VoynichFolio(voynichLines);
+    var folio = VoynichFolio(voynichLines);
+    return folio;
 }
 
 /**
@@ -166,8 +189,6 @@ private fun makeVoynichFolio(text : String) : VoynichFolio {
  * If any pages are unavailable, they're not added and nothing bad happens.
  *
  * Saves all pages to separate files
- *
- * @return The Voynich Book
  */
 fun downloadWholeThing() {
     var folioToGet = 1;
@@ -189,27 +210,25 @@ fun loadFromFiles() : VoynichBook {
         var folioFile : File;
 
         try {
-            LOG.info("Trying to load folio ${i}r");
-
             folioFile = File(String.format("corpa/voynich/f%03dr_tr.txt", i));
             folios.add(makeVoynichFolio(folioFile.readText()));
 
-            LOG.info("Loaded folio " + folioFile.name);
+            LOG.debug("Loaded folio " + folioFile.name);
         } catch(e : FileNotFoundException) {
             LOG.log(Level.ERROR, "Could not read folio ${i}v", e);
         }
 
         try {
-            LOG.info("Trying to load folio ${i}v");
-
             folioFile = File(String.format("corpa/voynich/f%03dv_tr.txt", i));
             folios.add(makeVoynichFolio(folioFile.readText()));
 
-            LOG.info("Loaded folio " + folioFile.name);
+            LOG.debug("Loaded folio " + folioFile.name);
         } catch(e : FileNotFoundException) {
             LOG.log(Level.ERROR, "Could not read folio ${i}r", e);
         }
     }
+
+    LOG.info("All folios loaded");
 
     return VoynichBook(folios);
 }

@@ -1,5 +1,6 @@
 package com.ddubois.automt
 
+import com.ddubois.automt.com.dduboic.automt.voynich.VoynichBook
 import com.ddubois.automt.com.dduboic.automt.voynich.downloadWholeThing
 import com.ddubois.automt.com.dduboic.automt.voynich.loadFromFiles
 import org.apache.logging.log4j.LogManager
@@ -17,12 +18,12 @@ import java.io.File
 
 val LOG = LogManager.getLogger("com.ddubois.automt.Driver");
 
-fun loadVoynichModel() : WordVectors {
+fun loadVoynichModel(forceRetrain : Boolean) : WordVectors {
     var voynichVec : WordVectors;
 
     // Try to load the vectors from file
     var vectorsFile = File("corpa/voynich/vectors.w2v");
-    if(vectorsFile.canRead()) {
+    if(vectorsFile.canRead() && !forceRetrain) {
         // Read the vectors from the file
         voynichVec = WordVectorSerializer.loadTxtVectors(vectorsFile);
     } else {
@@ -37,14 +38,16 @@ private fun learnVoynichVectors() : WordVectors {
     var manuscript = loadFromFiles();
     LOG.info("Voynich manuscript loaded");
 
+    saveToFile(manuscript);
+
     var iter = BasicLineIterator(manuscript.toString().byteInputStream());
     var tokenizerFactory = DefaultTokenizerFactory();
     tokenizerFactory.setTokenPreProcessor(CommonPreprocessor());
 
     voynichVec = Word2Vec.Builder()
-            .minWordFrequency(5)
+            .minWordFrequency(1)
             .iterations(5)
-            .layerSize(300)
+            .layerSize(500)
             .seed(42)
             .windowSize(5)
             .iterate(iter)
@@ -55,29 +58,33 @@ private fun learnVoynichVectors() : WordVectors {
     voynichVec.fit();
 
     WordVectorSerializer.writeWordVectors(voynichVec, "corpa/voynich/vectors.w2v");
-    return voynichVec
+    return voynichVec;
 }
 
-fun loadEnglishModel() : WordVectors {
+fun saveToFile(manuscript : VoynichBook) {
+    var saveFile = File("corpa/voynich/manuscript.evt");
+    saveFile.appendText(manuscript.toString());
+}
+
+fun loadEnglishModel(forceRetrain : Boolean) : WordVectors {
     var LOG = LogManager.getLogger("Driver");
-    var train = false;
 
     var englishVec : WordVectors;
 
-    if(train) {
-        var file = Thread.currentThread().contextClassLoader.getResource("raw_sentences.txt");
+    if(forceRetrain) {
+        var file = File("corpa/english/tweets_clean.txt");
         var filePath = file.path;
 
-        LOG.info("Load & vectorize sentances");
+        LOG.info("Load & vectorise sentences");
         var iter = BasicLineIterator(filePath);
         var tokenizerFactory = DefaultTokenizerFactory();
         tokenizerFactory.setTokenPreProcessor(CommonPreprocessor());
 
         LOG.info("Building model...");
         englishVec = Word2Vec.Builder()
-                .minWordFrequency(5)
+                .minWordFrequency(3)
                 .iterations(2)
-                .layerSize(300)
+                .layerSize(500)
                 .seed(42)
                 .windowSize(5)
                 .iterate(iter)
@@ -89,7 +96,7 @@ fun loadEnglishModel() : WordVectors {
 
         LOG.info("Writing word vectors to file...");
 
-        WordVectorSerializer.writeWordVectors(englishVec, "vectors.tzt");
+        WordVectorSerializer.writeWordVectors(englishVec, "corpa/english/vectors.w2v");
 
         // Closest: [game, week, public, year, director, night, season, time, office, group]
 
@@ -126,6 +133,28 @@ fun loadSpanishModel(): WordVectors {
 }
 
 fun main(args : Array<String>) {
-    var voynichModel = loadVoynichModel();
-    var englishMode = loadEnglishModel();
+    var voynichModel = loadVoynichModel(true);
+    //var englishModel = loadEnglishModel(true);
+
+    println(voynichModel.wordsNearest("octhey", 10))
+    // [ytsho, oeeockhy, shocthol, opshody, oldaiin, opom, alchedar, dold, pcheeody, qoeeo]
+    // [okchochor, dalam, shtey, dais, qopcheos, qokeeody, shcfhydaiin, qal, teolshy, pcheoly]
+    // [dolo, otytchy, otyda, qofchy, otaray, chckheal, yshear, dcheedy, okshes, chcthosy]
+    // [kechod, sheetey, ckhod, chokan, ypchedpy, sheeoly, sholkshy, oteoy, solchey, lkeedor]
+    // [ykchdy, qolkeey, olald, korary, cheef, oteey, cthoary, kom, shelain, ytchodaiin]
+    // [shcthal, chek, sheoldy, chsey, checkhy, ochkchar, ykcheor, shcheaiin, ksheody, ychoy]
+    // [ytsho, aiin, yees, yfchor, chdy, chedal, okar, okeedy, qokeey, ds]
+    // [daiioam, cphal, okos, oykshy, kchal, cheen, ykar, kchaiin, kcho, qodam]
+    // [qokshe, sheekal, cheedy, ykair, loain, qokchaiin, chdal, chekeedy, cthorchy, keeey]
+    // [chkchedaram, qodaim, pyoaly, qotolaiin, socthh, dalteoshy, qokomo, otoy, checthy, qocthy]
+    // [ofaiin, ycheeal, charam, ykchom, oriin, otaral, kchain, qekey, shaiiin, cheady]
+    // [qtchaly, teokaiin, otolor, oteody, ykedckhy, okochey, sheeodees, oriim, alchd, kech]
+    // Changes to getting whole certain lines, not just word-by-word certainties
+    // [shedy, okedy, qokedar, okeey, keedy, chech, chekey, qokedy, okeedy, qol]
+
+    //println(englishModel.wordsNearest("app", 10));
+    // [bbq, streaming, select, android, streams, now, concertgoers, mapquest, free, guide]
+    // [bbq, streaming, holler, his, android, concertgoers, disc, mapquest, free, platform]
+    // [select, although, android, now, streams, concertgoers, hollergram, #iphone, grape, free]
+    // [streaming, android, concertgoers, grape, k, time, mapquest, free, wall, platform]
 }

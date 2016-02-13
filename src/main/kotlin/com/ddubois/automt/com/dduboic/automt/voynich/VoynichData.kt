@@ -9,8 +9,9 @@ import java.util.*
 class VoynichBook(var folios: MutableList<VoynichFolio>) {
     override fun toString() : String {
         var book : String = "";
+        var curFolio = 0;
 
-        folios.forEach { page -> book += page; }
+        folios.forEach { page -> book += "${(curFolio / 2) + 1}\n$page"; curFolio++; }
 
         return book;
     }
@@ -26,17 +27,42 @@ class VoynichFolio(var lines : List<VoynichLine>) {
     }
 }
 
-class VoynichLine(var words : List<List<VoynichWord>>) {
+class VoynichLine(var linePossibilities : List<List<VoynichWord>>) {
     override fun toString() : String {
+        return getLineComplete()
+    }
+
+    private fun getLineComplete() : String {
+        for(line in linePossibilities) {
+            // If the whole line is certain, return it
+            var certain = true;
+            var lineText = "";
+            for(word in line) {
+                if(!word.certain) {
+                    certain = false;
+                }
+                lineText += word.word + " ";
+            }
+
+            if(certain) {
+                return lineText + "\n";
+            }
+        }
+
+        // If none of the lines are certain, return the empty string
+        return "";
+    }
+
+    private fun getLineVoting() : String {
         var line : String = "";
 
         // Go through the words in each line consecutively
         // Get the most certain proposed transcription
         // Add it to the list
-        for(i in words[0].indices) {
+        for (i in linePossibilities[0].indices) {
             var wordCounts = getWordCounts(i)
 
-            var highestWord: String = getHighestWord(wordCounts)
+            var highestWord : String = getHighestWord(wordCounts)
 
             line += highestWord + " ";
         }
@@ -66,15 +92,15 @@ class VoynichLine(var words : List<List<VoynichWord>>) {
     private fun getWordCounts(i: Int): HashMap<String, Int> {
         var wordCounts = HashMap<String, Int>();
 
-        for (wordInd in words.indices) {
-            if(words[wordInd].size > i) {
-                var curWord = words[wordInd][i];
+        for (wordInd in linePossibilities.indices) {
+            if(linePossibilities[wordInd].size > i) {
+                var curWord = linePossibilities[wordInd][i];
 
                 // Do we have a good word?
                 // Add more if we have a certain word so that certain words are more useful, but if everything is uncertain we can still get something
                 var amountToAdd = 1;
                 if (curWord.certain) {
-                    amountToAdd = 2;
+                    amountToAdd = 4;
                 }
 
                 var count = wordCounts[curWord.word];
