@@ -1,0 +1,154 @@
+<f42r>         {$I=H $Q=F $P=C $L=A $H=1}
+# Last edited on 1998-10-10 07:43:14 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f42r = FC (Rene) = p081 (Stolfi)
+#   Folio: f42
+#   Panels: f42r
+#   Bifolio: bF2 = f42+f47
+#   Quire: F (Rene) = VI (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green (Reeds)
+#   Plant: 81 (Petersen)
+#
+# Description:
+#
+# Comments:
+#
+#
+## <f42r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-07 07:15:09 by stolfi
+#
+<f42r.P1.1;H>      !!!sho.ofaiin.cthachcthy.otcheey.pchear-{plant}
+<f42r.P1.1;C>      !!!sho.ofaiin.ckhachc!hy.otcheey.pchear-{plant}
+<f42r.P1.1;F>      cthsho.ofaiin.cthachc!hy.otcheey.pchear-{plant}
+<f42r.P1.1;G>      !t!sho.ofaiin.cthachc!hy.otcheey.pchear-{plant}
+#
+<f42r.P1.2;H>      s!ol.kaiin.char.cheky.otshaiin.daiiry-{plant}
+<f42r.P1.2;C>      shol!kaiin.char.cheky.otshaiin.daiiry-{plant}
+<f42r.P1.2;F>      s!ol.kaiin.char.cheky.otshaiin.daiiry-{plant}
+<f42r.P1.2;G>      s!ol.kaiin.char.cheky.otshaiin.dainry-{plant}
+#
+<f42r.P1.3;H>      toshy.chtshar.chotar.chain.dal-{plant}
+<f42r.P1.3;C>      toshy.chtshar.chotar.chain.dal-{plant}
+<f42r.P1.3;F>      toshy.chtshar.chotar.chain.dal-{plant}
+#
+<f42r.P1.4;H>      shor.chetar.chotais.dar.cthaiin-{plant}
+<f42r.P1.4;C>      shor.chetar.chotair.dar.cthaiin-{plant}
+<f42r.P1.4;F>      shor.chetar.chotair.dar.cthaiin-{plant}
+#
+<f42r.P1.5;H>      qokar.chockhy.chotor.cha.kary={plant}
+<f42r.P1.5;C>      qokar.chockhy.chotor.chy.kary={plant}
+<f42r.P1.5;F>      qokar.chockhy.chotor.chy.kary={plant}
+#
+## <f42r.T1> {}
+# title 1, centered
+# Last edited on 1998-12-07 07:18:13 by stolfi
+#
+<f42r.T1.6;H>      dorain.char=
+<f42r.T1.6;C>      dorain.char=
+<f42r.T1.6;F>      dorain.char=
+#
+## <f42r.P2> {}
+# text - parag 2
+# Last edited on 1998-12-12 13:56:17 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f42r.P2.7;H>      pcho.chy.kshaiin.sho!taiin.cham.shan-{plant}
+<f42r.P2.7;C>      pcho.chy.kshaiin.sho!taiin.cham.shan-{plant}
+<f42r.P2.7;F>      pcho.chy.kshaiin.sho.taiin.cham.shan-{plant}
+#
+<f42r.P2.9;H>      yshol.chees.cthol.shor.shol.ety.chary-{plant}
+<f42r.P2.9;F>      yshol.chees.cthol.shor.shol.ety.chary-{plant}
+#
+<f42r.P2.9a;H>     qotchor.otchol.ctho.kchodan.chkchory-{plant}
+<f42r.P2.9a;C>     qotchar.otchol.ctho!kchodan.chkchory-{plant}
+<f42r.P2.9a;F>     qotchor.otchol.ctho.kchodan.chkchory-{plant}
+<f42r.P2.9a;G>     qotchar.otchol.ctho.kchodan.chkchory-{plant}
+#
+<f42r.P2.10;H>     choty.dol.ksheo.cthor.otol.cthol.chol-{plant}shol.dain-
+<f42r.P2.10;C>     choty.dol.ksheo.cthor.otol.cthol.chol-{plant}shol.dain-
+<f42r.P2.10;F>     choty.dol.kcheo.cthor.otol.cthol.chol-{plant}shol.dain-
+<f42r.P2.10;G>     choty.dol.ksheo.cthor.otol.cthol.chol-{plant}shol.dain-
+#
+<f42r.P2.11;H>     qotor.cho.chody.daiin.chol.ctheey.dar-{plant}chy.daiidy-
+<f42r.P2.11;C>     qotor.cho.chody.daiin.chol.ctheey.dar-{plant}chy.daiijy-
+<f42r.P2.11;F>     qotor.cho.chody.daiin.shol.ctheey.dar-{plant}chy.daiidy-
+<f42r.P2.11;G>     qotor.cho.chody.daiin.shol.ctheey.dar-{plant}chy.daindy-
+#
+<f42r.P2.12;H>     dcheey.chol.shol.chokaiin.choeky.dck{&K}!y-{plant}dain.dal-
+<f42r.P2.12;C>     dchooy.chol.shol.chokaiin.choeky.dckh!!!!y-{plant}dain.dal-
+<f42r.P2.12;F>     dcheey.chol.shol.chokaiin.choeky.dckh!!!!y-{plant}dain.dal-
+#
+<f42r.P2.13;H>     qopor.shol.shot.shol.shol.daiin.dain.s-{plant}cheam-
+<f42r.P2.13;C>     qopor.shol.shot.shol.shol.daiin.dain.s-{plant}cheam-
+<f42r.P2.13;F>     qopor.shol.shot.shol.shol.daiin.dain.s-{plant}cheam-
+#
+<f42r.P2.14;H>     sho.kshey.choty.chdain.chodaiin.daiin-{plant}da!m=
+<f42r.P2.14;C>     sho!kshey.choty.chdain.chodaiin.daiin={plant}!!!!!
+<f42r.P2.14;F>     sho.kshey.choty.chdain.chodaiin.daiin-{plant}dain=
+<f42r.P2.14;U>     sho,kshey.choty.chdain.chodaiin.daiin-{plant}da!m=
+#
+## <f42r.T2> {}
+# title 2, right justified against plant
+# Last edited on 1998-12-07 07:17:54 by stolfi
+#
+<f42r.T2.15;H>     !chody.otshey.dodaiin={plant}
+<f42r.T2.15;C>     pchody.otshey.dodaiin={plant}
+<f42r.T2.15;F>     pchody.otshey.dodaiin={plant}
+#
+## <f42r.P3> {}
+# text - parag 3
+# Last edited on 1998-12-11 12:41:27 by stolfi
+#
+<f42r.P3.16;H>     pydaiin.sheor.shaiin.tsh.olcha.sholy-{plant}
+<f42r.P3.16;C>     pydaiin.sheor.shaiin.tsh.olchy.sholy-{plant}
+<f42r.P3.16;F>     pydaiin.sheor.shaiin.tsh.olchy.sholy-{plant}
+<f42r.P3.16;G>     pydaiin.shear.shaiin.tsh.olchy.sholy-{plant}
+#
+<f42r.P3.17;H>     shotol.shol.chety.daiin.chokchy.chkaiin-{plant}
+<f42r.P3.17;C>     chotol.shol.chety.daiin.chokchy.chkaiin-{plant}
+<f42r.P3.17;F>     shotol.shol.chety.daiin.chokchy.chkaiin-{plant}
+#
+<f42r.P3.18;H>     qody.cthochy.otaiin.shy.kshes.chor.ain-{plant}
+<f42r.P3.18;C>     qody.cthochy.otaiin.shy.kshes.chor!ain-{plant}
+<f42r.P3.18;F>     qody.cthochy.otaiin.shy.ksher.chor.ain-{plant}
+<f42r.P3.18;G>     qody.cthochy.otaiin.shy.tshes.cho.rain-{plant}
+#
+<f42r.P3.19;H>     otchoty.daiin.chot.sho.ckhhy.ct{&T}y.s.os-{plant}
+<f42r.P3.19;C>     otchoty.daiin.chot.sho.ckh!y.cth!!!y.s.os-{plant}
+<f42r.P3.19;F>     otchoty.daiin.chot.sho.ckh!y.cth!!!y.s!os-{plant}
+<f42r.P3.19;G>     otchoty.daiin.chot.sho.ckhey.cth!!!y.s!os-{plant}
+#
+<f42r.P3.20;H>     shol.chol.shoky.okol.sho.chol.chol.chal-{plant}
+<f42r.P3.20;C>     shol.chol.shoky.okol.sho.chol.shol.chal-{plant}
+<f42r.P3.20;F>     shol.chol.shoky.okol.sho.chol.shol.chal-{plant}
+#
+<f42r.P3.21;H>     shol.chol.chol.shol.c!toiin.s{&S}os.odan-{plant}
+<f42r.P3.21;C>     shol.chol.chol.shol.e!toiin.sh!!!ns.odan-{plant}
+<f42r.P3.21;F>     shol.chol.chol.shol.chtaiin.sh!!!os.odan-{plant}
+<f42r.P3.21;G>     shol.chol.chol.shol.cthaiin.sh!!!!s.odan-{plant}
+#
+<f42r.P3.22;H>     kchaiin.chos.ckhaiin.choro*.chaiin=
+<f42r.P3.22;C>     kchaiin.chos.ckhaiin.choror.chaiin=
+<f42r.P3.22;F>     kchaiin.chos.ckhaiin.choror.chaiin=
+<f42r.P3.22;G>     tchaiin.chos.ckhaiin.choror.chaiin=
+#
+## <f42r.T3> {}
+# title 3, right justified against plant
+# Last edited on 1998-12-07 07:20:20 by stolfi
+#
+<f42r.T3.23;H>     okchol.shol.kolschees={plant}
+<f42r.T3.23;C>     okchol.shol.kolschees={plant}
+<f42r.T3.23;F>     okchol.shol.kolschees={plant}
+#

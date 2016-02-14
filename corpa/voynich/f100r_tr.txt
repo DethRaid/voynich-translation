@@ -1,0 +1,253 @@
+<f100r>          {$I=P $Q=S $P=C $L=A}
+# Last edited on 1998-10-09 05:03:50 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f100r = SC (Rene) = p201 (Stolfi)
+#   Folio: f100
+#   Panels: f100r
+#   Bifolio: bS2 = f100+f101
+#   Quire: S (Rene) = XVII (Beinecke)
+#
+#   B&R p88, Brum Spec. p547, Brum p96, Way p138 
+#   Brumbaugh p86
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 4? (Currier)
+#   Subsets: P (Rene), pha (Stolfi)
+#   Subject: pharmaceutical
+#   Colors: red,green,b (Reeds)
+#
+# Description:
+#
+#   two rows of plants, with (mostly) one word captions
+#   4 line text paragraph
+#   one row of plants with one word captions in staggerd order
+#   6 line text paragraph
+#
+## <f100r.L1> {}
+# panel 100r, top row of plant labels
+# Last edited on 1998-12-24 23:55:30 by stolfi
+#
+# There are 5 or 6 labels and 5 plants
+#
+# Label above plant [1,1]
+<f100r.L1.1;H>     chos!aroshol=
+<f100r.L1.1;C>     ches.aroshol=
+<f100r.L1.1;K>     chos!aroshol={was <f100r.15A;K>}
+<f100r.L1.1;V>     chos.aroshol=
+<f100r.L1.1;U>     chos.aroshol=
+#
+# plant [1,1] - dark bulbs
+#
+# Label above plant [1,2]
+<f100r.L1.2;H>     sochorcfhy=
+<f100r.L1.2;C>     socharcfh!=
+<f100r.L1.2;K>     sochorcfhy={was <f100r.16A;K>}
+<f100r.L1.2;V>     sochorcfhy=
+<f100r.L1.2;U>     sochorcfhy=
+#
+# plant [1,2] - dark arrow shaped leaves left of stem only
+#
+# Label above plant [1,3]
+<f100r.L1.3;H>     otear=
+<f100r.L1.3;C>     otear=
+<f100r.L1.3;K>     otear={was <f100r.17A;K>}
+<f100r.L1.3;V>     otear=
+<f100r.L1.3;U>     otear=
+#
+# plant [1,3] - dark triangular leaves
+#
+# Label abov eplant [1,4]
+<f100r.L1.4;H>     chofary=
+<f100r.L1.4;C>     chofora=
+<f100r.L1.4;K>     chofany={was <f100r.18A;K>}
+<f100r.L1.4;V>     chofary=
+<f100r.L1.4;U>     chofary=
+#
+# plant [1,4] - dark leaves
+#
+# Label above plant [1,5] - split by leaf of plant
+<f100r.L1.5;H>     sar.char-{stem}daiindy=
+<f100r.L1.5;C>     sar.chas-{stem}daiind!=
+<f100r.L1.5;K>     sar.char-{stem}daiindy={was <f100r.19A;K>}
+<f100r.L1.5;V>     sar!char-{stem}daiindy=
+<f100r.L1.5;U>     sar,char-{stem}daiindy=
+#
+# plant [1,5] - dark flowers, Brumbaugh's pepper
+#
+## <f100r.L2> {}
+# panel 100r, second row of plants and labels
+# Last edited on 1998-12-24 23:22:51 by stolfi
+#
+# label above plant [2,1]
+<f100r.L2.1;H>     os!aro=
+<f100r.L2.1;C>     os!aro=
+<f100r.L2.1;K>     os!ano={From photo in Brumbaugh}{was <f100r.20A;K>}
+<f100r.L2.1;P>     or!aro={from Petersen, reported by K. Kluge}
+<f100r.L2.1;V>     or.aro=
+<f100r.L2.1;U>     or,aro=
+#
+# plant [2,1] - dark leaves
+#
+# plant [2,2] - dark leaves on left side of stem only
+#
+# LAbel under plant [2,2]
+<f100r.L2.2;H>     chalsain=
+<f100r.L2.2;C>     chalsain=
+<f100r.L2.2;K>     chalsain={was <f100r.21A;K>}
+<f100r.L2.2;V>     chalsain=
+<f100r.L2.2;U>     chalsain=
+#
+# plant [2,3] - dark leaf(?) with white teeth
+#
+# Label under plant [2,3]
+<f100r.L2.3;H>     s!oity=
+<f100r.L2.3;C>     choity=
+<f100r.L2.3;K>     !soity={was <f100r.22A;K>}
+<f100r.L2.3;V>     !soity=
+<f100r.L2.3;U>     !soity=
+#
+# plant [2,4] - dark "closed umbrella" leaf?
+#
+<f100r.L2.4;H>     s!osam=
+<f100r.L2.4;C>     choram=
+<f100r.L2.4;K>     s!osam={From photo in Brumbaugh}{was <f100r.23A;K>}
+<f100r.L2.4;P>     s!ysam={From Petersen, reported by K. Kluge}
+<f100r.L2.4;V>     s!osam=
+<f100r.L2.4;U>     s!osam=
+#
+# plant [2,5] - dark leaves
+#
+<f100r.L2.5;H>     dakocth=
+<f100r.L2.5;C>     dakocth=
+<f100r.L2.5;K>     dakocth={was <f100r.24A;K>}
+<f100r.L2.5;V>     dakock!=
+<f100r.L2.5;U>     dakocth=
+#
+# plant [2,6] - huge dark drooping leaves, leg-shaped roots
+#
+# Label above plant [2,6]
+<f100r.L2.6;H>     sofal=
+<f100r.L2.6;C>     sofal=
+<f100r.L2.6;K>     !!!!!={missing in interlin16.evt?}
+<f100r.L2.6;V>     sofam=
+<f100r.L2.6;U>     sofam=
+#
+#
+## <f100r.P1> {}
+# panel 100r, middle text
+# Last edited on 1998-12-10 08:56:04 by stolfi
+#
+# The two <t>s in <cthedat> below are actuallya single <t> with one leg ineach spot.
+<f100r.P1.1;H>     pcheol.sheod.qocphee!ckhy.shodol.cth!!daoto.ch.qeos.sheey!.chcths!o.s-
+<f100r.P1.1;C>     pcheol.sheod.qo!p!ee!ckhi!!!!!!l.*!!**.*oto.ch!*eos.sheeil.chcthsho.s-
+<f100r.P1.1;F>     pcheol.sheod.qocphee.ckhy.shodol.!!!tedaoto.ch.!!os.sheey!.chcthsho.s-
+<f100r.P1.1;U>     pchsol.sheod.qocphee!ckhy.shodol.cthedatoto.ch!qeos.sheey!.chcths!o.s-
+#
+<f100r.P1.2;H>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sor!ary.daiin.daiin.deeam!shol-
+<f100r.P1.2;C>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sar!ary.daiin.daiin.deeom.chol-
+<f100r.P1.2;F>     dsheor.cthey.qokeey.oteey.ykeeodaiin.ror.ary.daiin.daiin.deeam.chol-
+<f100r.P1.2;U>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sor!ary,daiin.daiin.deeam.shol-
+#
+<f100r.P1.3;H>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.ota!l.ykecho-{plant}
+<f100r.P1.3;C>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.otchl.ykeeeo-{plant}
+<f100r.P1.3;F>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.ota!l.ykecho-{plant}
+<f100r.P1.3;U>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so,raiin.ota!l.ykecho-{plant}
+#
+<f100r.P1.4;H>     dcheor.shol.qokeeol.chor.chol.qokeeody.dorean=
+<f100r.P1.4;C>     dcheor.shol.qokeeol.chor.chol.qokeeody.dareen=
+<f100r.P1.4;D>     dcheor.shol.qokeeol.chor.chol.qokeeody.dare!u=
+<f100r.P1.4;F>     dcheor.shol.qokeeol.chor.chol.qokeeody.dariin=
+<f100r.P1.4;U>     dcheor.shol.qokeeol.chor.chol.qokeeody.dara!n=
+#
+## <f100r.L3> {}
+# panel 100r, third row of plants and labels
+# Last edited on 1998-12-10 08:51:30 by stolfi
+#
+# There are 6 labels and 5 plants; not clear how they are to be paired.
+#
+# No label on container?
+#
+# plant [3,1] - dark leaves, flowers?
+#
+# Label under leaves of plant [3,1]:
+<f100r.L3.1;H>     okeeos=
+<f100r.L3.1;C>     okeeos=
+<f100r.L3.1;K>     okeeos={was <f100r.26Aa;K>}
+<f100r.L3.1;V>     okeeos=
+<f100r.L3.1;U>     okeeos=
+#
+# Label above plants [3,1] and [3,2]:
+<f100r.L3.2a;H>    shockhey=
+<f100r.L3.2a;C>    chockhoy={higher}
+<f100r.L3.2a;K>    shockhey={was <f100r.27A;K>}
+<f100r.L3.2a;V>    shockhey=
+<f100r.L3.2a;U>    shockhey=
+#
+# Label next to root of plant [3,2]
+<f100r.L3.2b;H>    orol=
+<f100r.L3.2b;C>    orol=
+<f100r.L3.2b;K>    orol={was <f100r.26Ab;K>}
+<f100r.L3.2b;V>    orol=
+<f100r.L3.2b;U>    orol=
+#
+# plant [3,2]? - crumpled root, bushy leaves
+#
+# plant [3,3] - light roots, dark stem and leaf
+# 
+<f100r.L3.3;H>     olcheom=
+<f100r.L3.3;C>     olchiom=
+<f100r.L3.3;K>     olcheom={was <f100r.28A;K>}
+<f100r.L3.3;V>     olcheom=
+<f100r.L3.3;U>     olcheom=
+#
+# plant [3,4] - light roots, dark leaves with white trim
+#
+# Label under leaves of plant [3,4]
+<f100r.L3.4;H>     okols=
+<f100r.L3.4;C>     otols=
+<f100r.L3.4;K>     okols={was <f100r.29A;K>}
+<f100r.L3.4;V>     okols=
+<f100r.L3.4;U>     okols=
+#
+# Label above leaves of plants [3,4] and [3,5]
+<f100r.L3.5;H>     oteol=
+<f100r.L3.5;C>     oteol={higher}
+<f100r.L3.5;K>     oteol={was <f100r.30A;K>}
+<f100r.L3.5;V>     oteol=
+<f100r.L3.5;U>     oteol=
+#
+# plant [3,5] - many roots, large serrated leaves
+#
+## <f100r.P2> {}
+# panel 100r, bottom block of text
+# Last edited on 1998-12-11 13:22:29 by stolfi
+# 
+<f100r.P2.5;H>     folshody.chol.daiin.fchod!y!cheol.cphol.qotees.shey.oreso.alcfhy-
+<f100r.P2.5;C>     folsho!y.chol!daiin.fchod.y!cheol.cphol.qotees.shey.aseso!alcfhy-
+<f100r.P2.5;F>     folshody.chol.daiin.fchod!y.cheol.cphol.qotees.shey.areso.alcfhy-
+# 
+<f100r.P2.6;H>     soiin.chol.cphol.shol.shol.qockhol.chor.chol.sho.keey.cckhhy.ykeeam-
+<f100r.P2.6;C>     soiin.chol.cphol.shol.!!!!!qockhoy.chor.chol.sha.keey.eckhey.ykeeam-
+<f100r.P2.6;F>     saiin.chol.cphol.shol.shol.qockhol.chor.chol.sho.keey.!!ckhy.ykeeam-
+# 
+<f100r.P2.7;H>     saii!chor.sheor.qockhody.odeor.yksheey.chol.sheody.sai.cheol.raiin-
+<f100r.P2.7;C>     saii!chor.sheor.qockhody.odeor.yksheey.chol!sheody.sai.sheol.raiin-
+<f100r.P2.7;F>     saiinchor.sh!or.qockhody.odeor.yksheey.chol.sheody.sai.cheol.raiin-
+# 
+<f100r.P2.8;H>     sheor.qkeeody.chol.daiin.ctheol.olcheol.chek!y.cheol.cheockhy.okeol-
+<f100r.P2.8;C>     sheor.qkeeody.chol.daiin.ctheol.olcheal.chek!y.cheol.cheockhy.okeol-
+<f100r.P2.8;F>     sheor.qkeeody.chol.daiin.ctheol.olcheol.chckhy.cheal.che!ckhy.okeol-
+# 
+<f100r.P2.9;H>     yaiin.chekeey.chol.cholody.chos.olchor.qokeol.okeeol.cheol!s.al-
+<f100r.P2.9;C>     yaiin.chekeey.chol.cholody.chos.olchor.qokeol.okeeol.cheol!s.al-
+<f100r.P2.9;F>     yaiin.chckh!y.chol.cholody.chos.olchor.qokeol.okeeol.cheol.s!al-
+# 
+<f100r.P2.10;H>    chol.cheol.cho.chckheody.otolchey=
+<f100r.P2.10;C>    chol.cheol.cho.chckheody.otolchey=
+<f100r.P2.10;F>    chol.cheol.cho.chckheody.otolchey=
+#

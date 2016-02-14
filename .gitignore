@@ -78,5 +78,6 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-corpa
+corpa/english
+corpa/spanish
 all.log

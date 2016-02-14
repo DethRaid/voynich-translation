@@ -1,0 +1,268 @@
+<f99v>           {$I=P $Q=S $P=B $L=A}
+# Last edited on 1998-10-09 05:00:36 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f99v = SB (Rene) = p200 (Stolfi)
+#   Folio: f99
+#   Panels: f99v
+#   Bifolio: bS1 = f99+f102
+#   Quire: S (Rene) = XVII (Beinecke)
+#
+#   B&R p88; faces ``capsicum''
+# 
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: ? (Currier)
+#   Subsets: P (Rene), pha (Stolfi)
+#   Subject: phamaceutical
+#   Colors: red,tan,green,blue(some) (Reeds)
+#
+# Description:
+#
+#
+## <f99v.L1> {}
+# Labels - top row
+# Last edited on 1998-12-10 08:28:56 by stolfi
+#
+# Label on container
+<f99v.L1.0;H>      otaramy=
+<f99v.L1.0;U>      *******=
+#
+<f99v.L1.1;H>      otoldy=
+<f99v.L1.1;V>      otoldy=
+<f99v.L1.1;U>      otoldy=
+#
+# root [1,1] - light
+#
+# Label broken by stem of plant [1,2]
+<f99v.L1.2;H>      otor-{plant}chy=
+<f99v.L1.2;V>      otos-{plant}chy=
+<f99v.L1.2;U>      otor-{plant}chy=
+#
+# root [1,2] - light, S-shaped stem
+#
+<f99v.L1.3;H>      oldy=
+<f99v.L1.3;V>      oldy=
+<f99v.L1.3;U>      oldy=
+#
+# root [1,3] - bulb with fingers
+#
+# plant [1,4] - dark table-fork root, big leaf
+#
+# Label around plant [1,4]
+<f99v.L1.4;H>      dar-{plant}ary=
+<f99v.L1.4;V>      dar-{plant}ary=
+<f99v.L1.4;U>      dar-{plant}ary=
+#
+<f99v.L1.5;H>      otaly=
+<f99v.L1.5;V>      otaly=
+<f99v.L1.5;U>      otaly=
+#
+# root [1,5] - pitchfork root
+#
+<f99v.L1.6;H>      olsy=
+<f99v.L1.6;V>      olsy=
+<f99v.L1.6;U>      olsy=
+#
+# root [1,6] - knobby, three legs
+#
+<f99v.L1.7;H>      arol=
+<f99v.L1.7;V>      arol=
+<f99v.L1.7;U>      arol=
+#
+# root [1,7] - dark, bifurcated
+#
+<f99v.L1.8;H>      otoky=
+<f99v.L1.8;V>      otoky=
+<f99v.L1.8;U>      otoky=
+#
+# root [1,8] - light, big, kohlrabi-like, hairy
+#
+## <f99v.P1> {}
+# text - block 1
+# Last edited on 1998-12-10 08:33:55 by stolfi
+#
+<f99v.P1.1;H>      sol.cheols.ockhey.qockhy.qkoldy.s-{hole}ok.oleees.oteey.dai!n-{plant}
+<f99v.P1.1;F>      sol.cheols.ockhey.qockhy.qkoldy.s-{hole}ok.oleees.oteey.daiin-{plant}
+#
+<f99v.P1.2;H>      okoiin.choty.qokchol.qokeol.okoldy-{hole}q!kholdy.toly.daiin-{plant}
+<f99v.P1.2;F>      okaiin.choty.qokchol.qokeol.okoldy-{hole}qckholdy.taly.daiin-{plant}
+#
+<f99v.P1.3;H>      qokeo.qokeol.chockhy.otol.daiin.oty-{hole}otockey.da.cho!saiin-{plant}
+<f99v.P1.3;F>      qokeo.qokeol.chockhy.otol.daiin.oty-{hole}otockhy.da.cho.raiin-{plant}
+#
+<f99v.P1.4;H>      okoraiin.okol.shocthy.qokor.oloiram={hole}
+<f99v.P1.4;F>      okoraiin.okol.shocthy.qokor.oloiram={hole}
+#
+## <f99v.L2> {}
+# Labels - second row
+# Last edited on 1998-12-10 08:30:12 by stolfi
+#
+# Label on container
+<f99v.L2.0;H>      okoldody=
+<f99v.L2.0;U>      ********=
+#
+# root [2,1] - light
+#
+<f99v.L2.1;H>      oeeesary=
+<f99v.L2.1;V>      oeeesary=
+<f99v.L2.1;U>      oeeesary=
+#
+# root [2,2] - light, bilobed, dark shading?
+#
+<f99v.L2.2;H>      daiiine=
+<f99v.L2.2;V>      daiiino=
+<f99v.L2.2;U>      daiiine=
+#
+# root [2,3] - dark
+#
+<f99v.L2.3;H>      sory=
+<f99v.L2.3;V>      sary=
+<f99v.L2.3;U>      sary=
+#
+# root [2,4] - light
+#
+<f99v.L2.4;H>      saiino=
+<f99v.L2.4;V>      saiino=
+<f99v.L2.4;U>      raiino=
+#
+# root [2,5] - beet?, light
+#
+<f99v.L2.5;H>      otolsar=
+<f99v.L2.5;V>      otolsar=
+<f99v.L2.5;U>      otolsar=
+#
+# root [2,6] - dark
+#
+<f99v.L2.6;H>      osary=
+<f99v.L2.6;V>      osary=
+<f99v.L2.6;U>      osary=
+#
+## <f99v.P2> {}
+# text - block 2
+# Last edited on 1998-12-10 08:34:11 by stolfi
+#
+<f99v.P2.5;H>      doror.okeeody.opar.okor.eosaiin.otoraiin.shey.ols.aiiin.qoetal-
+<f99v.P2.5;F>      doror.okeeody.opar.okor.eosaiin.otoraiin.shey.ols.aii!n.qoetal-
+#
+<f99v.P2.6;H>      doiin.otey.okeeol.saiin.okeol.qokeol.ctheol.qokeol.dy.qokaiin-
+<f99v.P2.6;F>      daiin.otey.okeeol.saiin.okeol.qokeol.ctheol.qokeol.dy.qokaiin-
+#
+<f99v.P2.7;H>      qokeey.chol.okeoldy.qokol.qokeolo.lchol.okeol.sheodol.qokeechom-
+<f99v.P2.7;F>      qokeey.chol.okeoldy.qokal.qokeolo.lchol.okeal.sheodol.qokeecham-
+#
+<f99v.P2.8;H>      shokeeey.chol.shey.okol.qokey.okeo!dal.oldy=
+<f99v.P2.8;F>      shokeeey.chol.shey.okol.qokey.okeo.dal.oldy=
+#
+## <f99v.L3> {}
+# Labels - row 3
+# Last edited on 1998-12-10 08:32:11 by stolfi
+#
+# There are 6-7 labels and only 5 plants - not clear how to pair them up.
+#
+# Label on container
+<f99v.L3.0;H>      darolaly=
+<f99v.L3.0;U>      ********=
+#
+<f99v.L3.0b;H>     okechy=
+<f99v.L3.0b;V>     okechy=
+<f99v.L3.0b;U>     okechy=
+#
+# root [3,1] - light
+#
+<f99v.L3.1;H>      otal=
+<f99v.L3.1;V>      otal=
+<f99v.L3.1;U>      otal=
+#
+# root [3,2] - dark, beagle-shaped
+#
+# Two labels?
+<f99v.L3.2;H>      cho!r.olekor=
+<f99v.L3.2;V>      cho.r.olekor=
+<f99v.L3.2;U>      cho!r.olekor=
+#
+# root [3,3] - dark, two wide lobes
+#
+<f99v.L3.3;H>      okeodor=
+<f99v.L3.3;V>      okeodar=
+<f99v.L3.3;U>      okeodar=
+#
+# root [3,4] - dark, three lobes
+#
+<f99v.L3.4;H>      olky=
+<f99v.L3.4;V>      olky=
+<f99v.L3.4;U>      olky=
+#
+# root [3,5] - light, two walking legs, dark shading?
+#
+<f99v.L3.5;H>      doldam=
+<f99v.L3.5;V>      doldam=
+<f99v.L3.5;U>      doldam=
+#
+## <f99v.P3> {}
+# text - block 4
+# Last edited on 1998-12-19 22:52:15 by stolfi
+#
+<f99v.P3.9;H>      qoteeoy.chokol.qokeeo.dy.qokeeol.olpchey.doiir.okeedy-{plant}okolol-
+<f99v.P3.9;F>      qokeeoy.chokol.qokeeo.dy.qokeeo!.olpchey.daiir.okeedy-{plant}okolol-
+<f99v.P3.9;U>      qokeeoy.chokol.qokeeo.dy.qokeeol.olpchey.daiir.okeedy-{plant}okolol-
+#
+<f99v.P3.10;H>     dol.okeeol.okeor.okol.okaiin.ckheol.okolaiin.okolaiin.cheol.dy-
+<f99v.P3.10;F>     dol.okeeol.okeor.okal.okaiin.ckheol.okala*!!.okolaiin.cheol!dy-
+<f99v.P3.10;U>     dol.okeeol.okeor.okal.okaiin.ckheol.okalaiin.okolaiin.cheol,dy-
+#
+<f99v.P3.11;H>     yoiin.ol.ol.olaiin.qockhey.qokol.olshy.qokeeor.or.aiin.dol.dam-
+<f99v.P3.11;F>     yaiin.ol.ol.olaiin.qockhey.qokol.olshy.qok%%%%%%%%%%%%%%%%%%%%-
+<f99v.P3.11;U>     yaiin.ol.ol.olaiin.qockhey.qokol.olshy.qokeeor.or.aiin.dol!dam-
+#
+<f99v.P3.11a;H>    ol.okeeey.oqoeeol.cheol.chody.okoiin={plant}!
+<f99v.P3.11a;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<f99v.P3.11a;U>    ol.okeeey.oqoeeol.cheol.chody.okaiin={plant}!
+#
+#
+# The first two <t>s below are actually a single wide <t>with one leg in each word.
+<f99v.P3.11b;H>    oteol.socthey.qokol.olkeol.daiin-{plant}okoly-{plant}!
+<f99v.P3.11b;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<f99v.P3.11b;U>    oteol.socthey.qokol.olkeol.daiin-{plant}okaly-{plant}!
+#
+<f99v.P3.11c;H>    olcheey.qokeol.okeol.okeol.shokol-{plant}ykey-{plant}!
+<f99v.P3.11c;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<f99v.P3.11c;U>    olcheey.qokeal.okeal.okeol.shokal-{plant}ykey-{plant}!
+#
+<f99v.P3.11d;H>    dor.shol.okchey.ckhey.qokol!olal-{plant}okeol-{plant}!
+<f99v.P3.11d;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<f99v.P3.11d;U>    dar.shol.okchey.ckhey.qokol,olal-{plant}okeol-{plant}!
+#
+<f99v.P3.12;H>     or.aiin.okeody.okol.o!daiin.qoky-{plant}olaldy-{plant}
+<f99v.P3.12;F>     %%%%%%%%okeody.oka*.o!daiin.qoky-{plant}olaldy-{plant}
+<f99v.P3.12;U>     or.aiin.okeody.okal.o,daiin,qoky-{plant}olaldy-{plant}
+#
+<f99v.P3.13;H>     qockhol.aii!n.shody.qokol.aiidal-{plant}aii.daiim-{plant}
+<f99v.P3.13;F>     qockhol.aiiin.shody.qokal.aindal-{plant}ain!daiim-{plant}
+<f99v.P3.13;U>     qockhol.aii!n.shody.qokol.aiidal-{plant}aii!daiim-{plant}
+#
+<f99v.P3.14;H>     ol!sheol.olkeol.okol.or.oraloly-{plant}ykeol.okal.okoldaly-{plant}
+<f99v.P3.14;F>     ol.sheol.olkeol.okol.or.oralaly-{plant}ykeol.okal.okaldaly-{plant}
+<f99v.P3.14;U>     ol!sheol.olkeol.okol,or.oraroly-{plant}ykeol.okal.okoldaly-{plant}
+#
+<f99v.P3.14a;H>    ychol.olkeeoldy={plant}
+<f99v.P3.14a;F>    ychol.olkeeoldy={plant}
+<f99v.P3.14a;U>    ychol,olkeeoldy={plant}
+#
+## <f99v.L4> {}
+# Labels - row 4
+# Last edited on 1998-12-10 08:32:53 by stolfi
+#
+# Label on container
+<f99v.L4.0;H>      dralas=
+<f99v.L4.0;U>      ******=
+#
+# plant - large dark roots, large leaf
+#
+<f99v.L4.1;H>      koleearol=
+<f99v.L4.1;V>      kaleearol=
+<f99v.L4.1;U>      kaleearol=
+#

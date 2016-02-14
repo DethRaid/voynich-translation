@@ -1,0 +1,226 @@
+<f73v>           {$I=Z $Q=L $P=B}
+# Last edited on 1998-10-09 03:27:54 by stolfi
+#
+# Identification:
+#
+#   Title: "Sagittarius"
+#   Page: f73v = LB (Rene) = p144 (Stolfi)
+#   Folio: f73
+#   Panels: f73v
+#   Bifolio: bL1 = f73+f74
+#   Quire: L (Rene) = XII (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   [To be checked and completed]
+#
+#   Six faint, mostly concentric, mechanically drawn circles delimit
+#   three rings of text. At 09:30 there is a wider gap in the middle
+#   ring and a radial stroke (a modern scribble on the copy?) cutting
+#   across the outer ring.
+#
+#   Inside the inner circle is a beardless human figure, apparently
+#   smiling, walking Westward. The figure (possibly, but not
+#   necessarily male) is wearing a hat with round rim and a long veil
+#   or plume falling down the back, to the waist. He also wears a
+#   shirt with ring collar and broad sleeves, closed at the wrist; a
+#   flaring skirt, with heavy pleats, down to knee level; and boots to
+#   mid-leg.
+#
+#   The figure is holding an armed crossbow, pointing forward and down.
+#
+#   Between the figure's feet is an almost illegible word, possibly
+#   "oct" in lowercase Latin alphabet (with a "t" resembling EVA "c")
+#
+#   Between the rings of text, there are two bands of naked figures
+#   ("nymphs"), 10 in the inner one and 16 in the outer one. There 
+#   are 4 additional nymphs standing on top of the outer ring of text.
+#   Most of them are female (with breasts and shoulder-long hair).
+#
+#   Each nymph is holding or pointing to a star.
+#
+#   There is a label just clockwise of each nymph.
+#
+# Comments:
+#
+#
+## <f73v.S0> {}
+# Labels on stars, Sagittarius, not in circle
+# Last edited on 1998-12-10 01:08:29 by stolfi
+#
+# Transcribed clockwise
+#
+<f73v.S0.1;H>      okol=
+<f73v.S0.1;V>      okal={Grove's_#1,_carpet?}
+#
+<f73v.S0.2;H>      oteody=
+<f73v.S0.2;V>      oteody={Grove's_#2}
+#
+<f73v.S0.3;H>      oteody=
+<f73v.S0.3;V>      oteody={Grove's_#3}
+#
+<f73v.S0.4;H>      cheody=
+<f73v.S0.4;V>      ch!ody={Grove's_#4}
+<f73v.S0.4;U>      cheody={Grove's_#4}
+#
+## <f73v.R1> {}
+# outer ring of text
+# Last edited on 1998-12-10 01:07:30 by stolfi
+#
+# Transcribed clockwise from faint radial stroke at 10:00
+# (which may be apocryphal).
+#
+<f73v.R1.1;H>      
+otoar.ykeody.okodeey.qopchey.opaiin.qoteedy.dpy.otedy.csedy.qokeody.cheor!al.oke
+dal.oteody.shedy.otesal!od.air.chy.ykchs.aly.y!keol.y!dys.opchey.dy.toly.chfaikc
+h!.ytedar.echy.qokeey.oty.yteedy.choldy.qokalaiin.ykaipy.orary-{stroke}
+<f73v.R1.1;U>      
+otoar.ykeody.okodchy.qopchey.opaiin.qoteedy.opy.otedy,shedy.qokeody.cheor,al.oke
+dal.oteody.shedy.otesal,*d,air,chy.yta!r!aly.y,keol!y,dy*.opchey,dy.toly.chfaekc
+hy.ytedar.chey.qokeey.oty.yteedy.choldy.qokalaiin.ykaipy.orary-{stroke}
+#
+## <f73v.S1> {}
+# Labels on stars, Sagittarius, outer ring
+# Last edited on 1998-12-11 13:59:24 by stolfi
+#
+# Transcribed clockwise from nymph with stretched left arm at 10:30
+# 
+<f73v.S1.1;H>      okeody=
+<f73v.S1.1;V>      okeody={Grove's_#15}
+<f73v.S1.1;U>      okeody=
+# 
+<f73v.S1.2;H>      sheol=
+<f73v.S1.2;V>      sheol={Grove's_#16}
+<f73v.S1.2;U>      sheol=
+# 
+<f73v.S1.3;H>      odees=
+<f73v.S1.3;V>      odees={Grove's_#1}
+<f73v.S1.3;U>      odees=
+# 
+# 
+<f73v.S1.4;H>      ecsy=
+<f73v.S1.4;V>      airy={Grove's_#2}
+<f73v.S1.4;U>      a!ry={'ai'_overlapped?}
+# 
+<f73v.S1.5;H>      ykeor=
+<f73v.S1.5;V>      ykeor={Grove's_#3}
+<f73v.S1.5;U>      ykeor=
+# 
+<f73v.S1.6;H>      opals=
+<f73v.S1.6;V>      ofals={Grove's_#4,_male?}
+<f73v.S1.6;U>      o*als=
+# 
+<f73v.S1.7;H>      ykeody=
+<f73v.S1.7;V>      ykeody={Grove's_#5}
+<f73v.S1.7;U>      ykeody=
+# 
+<f73v.S1.8;H>      okeody=
+<f73v.S1.8;V>      yteody={Grove's_#6}
+<f73v.S1.8;U>      oteody=
+# 
+<f73v.S1.9;H>      ypaiin=
+<f73v.S1.9;V>      ypaiin={Grove's_#7}
+# 
+<f73v.S1.10;H>     yfaiin.y=
+<f73v.S1.10;V>     yfaiin.y={Grove's_#8}
+# 
+<f73v.S1.11;H>     ofcheesy=
+<f73v.S1.11;V>     ofcheesy={Grove's_#9}
+<f73v.S1.11;U>     ofcheesy=
+# 
+<f73v.S1.12;H>     oraiiny=
+<f73v.S1.12;V>     oraiiny={Grove's_#10}
+<f73v.S1.12;U>     oraiiny=
+# 
+<f73v.S1.13;H>     ykeeody=
+<f73v.S1.13;V>     ykchody={Grove's_#11}
+<f73v.S1.13;U>     ykeeody=
+# 
+<f73v.S1.14;H>     okeos=
+<f73v.S1.14;V>     okeos={Grove's_#12}
+<f73v.S1.14;U>     okeos=
+# 
+<f73v.S1.15;H>     ykeear=
+<f73v.S1.15;V>     ykeear={Grove's_#13}
+<f73v.S1.15;U>     ykeeo*=
+# 
+<f73v.S1.16;H>     qokeoly=
+<f73v.S1.16;V>     qokeoly={Grove's_#14}
+<f73v.S1.16;U>     qokeoly=
+#
+## <f73v.R2> {}
+# middle ring of text
+# Last edited on 1998-12-10 01:08:00 by stolfi
+#
+# Transcribed clockwise from extra-wide gap at 10:00
+#
+<f73v.R2.1;H>      
+oteotor.alshy.oteolain.chokeedam.otody.qoty.shedy.chdy.tchol.oteody.cheytey.chot
+y.okey.dy.okecholy.otey.chodaiin.chey.okchdy.saly.ar.daly-{gap}
+<f73v.R2.1;U>      
+oteotor.alshy.oteolain.choka!dam.otody.qoty,shedy.chdy.tchol!oteody.cheytey.chot
+y.okey,dy.okecholy.otey.chodaiin.chey.okeedy.raly.ar.daly-{gap}
+#
+## <f73v.S2> {}
+# Labels on stars, Sagittarius, inner band
+# Last edited on 1998-12-11 13:59:50 by stolfi
+#
+# Transcribed clockwise atarting after wide gap at 10:30
+#                  
+<f73v.S2.1;H>      ched=
+<f73v.S2.1;V>      ched={Grove's_#1}
+<f73v.S2.1;U>      ched=
+#                  
+<f73v.S2.2;H>      oky=
+<f73v.S2.2;V>      oky={Grove's_#2}
+<f73v.S2.2;U>      oky=
+#                  
+<f73v.S2.3;H>      oi!air=
+<f73v.S2.3;V>      ai.ain={Grove's_#3}
+<f73v.S2.3;U>      ar.ain=
+#                  
+<f73v.S2.4;H>      okal=
+<f73v.S2.4;V>      okal={Grove's_#4}
+<f73v.S2.4;U>      okal=
+#                  
+<f73v.S2.5;H>      ykey=
+<f73v.S2.5;V>      ykey={Grove's_#5}
+<f73v.S2.5;U>      ykey=
+#                  
+<f73v.S2.6;H>      ykeeo=
+<f73v.S2.6;V>      ykeey={Grove's_#6}
+<f73v.S2.6;U>      ykeey=
+#                  
+<f73v.S2.7;H>      okeod!=
+<f73v.S2.7;V>      okeed*={Grove's_#7}
+<f73v.S2.7;U>      okeod!=
+#                  
+<f73v.S2.8;H>      ykey=
+<f73v.S2.8;V>      ykey={Grove's_#8}
+<f73v.S2.8;U>      ykey=
+#                  
+<f73v.S2.9;H>      ypal=
+<f73v.S2.9;V>      ypal={Grove's_#9,_star_held_down}
+<f73v.S2.9;U>      ypal=
+#
+<f73v.S2.10;H>     otedy=
+<f73v.S2.10;V>     otedy={Grove's_#10,_writing_in_star_--oiil?}
+<f73v.S2.10;U>     otedy=
+#
+## <f73v.R3> {}
+# inner ring of text
+# Last edited on 1998-12-10 01:08:17 by stolfi
+#
+# Transcribed clockwise from wider gap and radial stroke at 09:00
+#
+<f73v.R3.1;H>      otedchor.alar.olkcho.oto.lam.okees.chory.ytaly.ylaly.otasam-{gap}
+<f73v.R3.1;U>      otarchor.alar.olkchy.oto!lam.okchs.chory.ytaly.alaly.otaram-{gap}
+#

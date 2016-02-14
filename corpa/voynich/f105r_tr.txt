@@ -1,0 +1,158 @@
+<f105r>          {$I=S $Q=T $P=E $L=B $H=Y}
+# Last edited on 1998-10-09 05:19:51 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f105r = TE (Rene) = p215 (Stolfi)
+#   Folio: f105
+#   Panels: f105r
+#   Bifolio: bT3 = f105+f114
+#   Quire: T (Rene) = XVIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: Y (Currier)
+#   Subsets: S (Rene), str (Stolfi)
+#   Subject: unknown (text only)
+#   Colors: red(stars),yellow(stars) (Reeds)
+#
+# Description:
+#
+#
+## <f105r.P1> {}
+# text - parags 1-2
+# Last edited on 1998-12-11 08:42:00 by stolfi
+#
+<f105r.P1.1;H>     paiin.dar.chcphy.qokeey.qopaiin.ypcheeey.saraisl.!!in.cheedy.kaiin.arody-
+<f105r.P1.1;F>     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!eey.saraisl.aiin.cheedy.kaiin.arody-
+<f105r.P1.1;U>     paiin.dar.chcphy.qokeey.qopaiin.ypcheeey.sarairl.aiin.cheedy.kaiin.arody-
+#
+<f105r.P1.2;H>     dshees.yey.cheey.raiin.otchdy.qodos.ches.or.cheey.okees.odar.cheody.qody-
+<f105r.P1.2;F>     dshees.yey.cheey.raiin.otchdy.qodo!.ches.or.cheey.okees.odar.cheody.qody-
+#
+<f105r.P1.3;H>     olshey.qodan.odeey.kcheody.cheeo.ar.yteey.ytchy.otedy.qokeedy.qokeey.rol-
+<f105r.P1.3;F>     olshey.qodan.odeey.kcheody.cheeo.ar.yteey.ytchy.otedy.qokeedy.qokeey.rol-
+#
+<f105r.P1.4;H>     ykaiin.olkeedy.odaiin.okar.eeeodaiin.yteey.ochedy.qokeeey.oy.teedy.qotam-
+<f105r.P1.4;F>     ykaiin.olkeedy.odaiin.okar.eeeodaiin.yteey.ochedy.qokeeey.oy.teedy.qotam-
+#
+<f105r.P1.5;H>     doiin.yteedy.yteeeody.yl.cheod.or.aiisockhy.otchdy.otey=
+<f105r.P1.5;F>     daiin.yteedy.ytee!ody.yl.cheod.ar.ainsockhy.otchdy.otey=
+#
+#
+<f105r.P1.6;H>     por.arody.shedeeey.qopchedy.qody.qoteody.aiin.yteody.qokor.olpshedy-
+<f105r.P1.6;F>     par.arody.shedeeey.qopchedy.qody.qoteody.aiin.yteody.qokor.olpshedy-
+#
+<f105r.P1.7;H>     ysheeody.ykeeos.or.aiiin.shey.qodaiiin.qokeed.qokeey.raiin.aiirody-
+<f105r.P1.7;F>     ysheeody.ykeeos.or.aii!n.shey.qodaii!n.qokeed.qokeey.raiin.aiirody-
+#
+<f105r.P1.8;H>     sheey.oleeey.or.air.qokaiin.chey.qokeedy.qokedy.oteedy.lchedy.oesal-
+<f105r.P1.8;F>     sheey.oleeey.or.air.qokaiin.chey.qokeedy.qokedy.oteedy.lchedy.oesal-
+#
+<f105r.P1.9;H>     oeeolchy.okeeody.okeey.okchey=
+<f105r.P1.9;F>     oeeolchy.okeeady.okeey.okchey=
+#
+## <f105r.T1> {}
+# title
+# Last edited on 1998-12-12 17:35:25 by stolfi
+#
+# This "title" is a half-line of text, right-justified, 
+# squeezed between two paragraphs.  The title is interrupted by
+# the tops of two gallows from the following line.
+#
+<f105r.T1.9a;H>    sairy-{gal}ore-{gal}daiindy.ytam=
+<f105r.T1.9a;F>    sairy-{gal}ore-{gal}daiindy.ytam=
+<f105r.T1.9a;U>    sairy-{gal}ore-{gal}daiindy.ytam=
+#
+## <f105r.P2> {}
+# text - block 2
+# Last edited on 1998-12-19 23:02:14 by stolfi
+#
+<f105r.P2.10;H>    pdar.o!shedy.otcheos.oiiin.al.tchedar.chy.fchosaiin.polaiin.polkeeey.dyaiin-
+<f105r.P2.10;F>    pdar!o.shedy.otcheos.oii!n.al.tchedar.chy.fchosaiin.!olaiin.!olteeey.dyaiin-
+#
+<f105r.P2.11;H>    yaiir.yteeody.qoeeody.qoeedy.kchedy.qotchdy.otcheey.chey.teeor.ykedy.ry-
+<f105r.P2.11;F>    yai!r.yteeody.qoeeody.qoeedy.kchedy.qotchdy.otcheey.chey.teeor.ykedy.ry-
+#
+<f105r.P2.12;H>    dyteey.qokdy.chedy.chedy.dol.qoked.shedy.qoteody.cheedy.ot=
+<f105r.P2.12;F>    dyteey.qokdy.chedy.chedy.dal.qoked.shedy.qoteody.cheedy.ot=
+#
+<f105r.P2.13;H>    kesoar.qoeeedy.keeody.dlls.air.shckhy.oekeody.cheody.oeey.qokeeody.sheol!keey-
+<f105r.P2.13;F>    kesoar.qoeeedy.keeody.dlls.air.shckhy.oekeody.cheody.oeey.qokeeody.sheol.keey-
+#
+<f105r.P2.14;H>    lksheey.ol.r.aiin.okeedy.olkeeody.lkaiin.okeeol.oteeol.shod.daiin.aral-
+<f105r.P2.14;F>    lksheey.ol.r!aiin.okeedy.olkeeody.lkaiin.okeeol.oteeol.shod.daiin.aral-
+#
+<f105r.P2.15;H>    yteody.oteeeos.aiin.odal.oiir.oteedy.oral=
+<f105r.P2.15;F>    yteody.oteeeor.aiin.odal.o*!r.okeedy.oral=
+#
+# homeoteleuton...
+<f105r.P2.16;H>    lteedy.okeeddl.sheoked.qokedy.shol.kol.aiirol.qopchedy.daiin.okedy.qlky-
+<f105r.P2.16;F>    lteedy.okeeddl.sheoked.%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%daiin.okedy.qlky-
+#
+<f105r.P2.17;H>    sheoy.oleedy.daiin.al.chedy.okeeey.chdaiin.otedy.cheoty.oteedy.oteey.chdy-
+<f105r.P2.17;F>    sheoy.oleedy.daiin.al.chedy.okeeey.chdaiin.otedy.cheoty.oteedy.oteey.chdy-
+#
+<f105r.P2.18;H>    dsechey.oteol.daiindy.saiin.chedy.laiin.okeeody.okeey!teedy.odaiin.aiiral-
+<f105r.P2.18;F>    dshchey.oteol.daiindy.saiin.chedy.laiin.okeeody.okeey.teedy.odaiin.aiiral-
+#
+<f105r.P2.19;H>    saiin.chey.teol.ykair.paiir.olkaiin.olfaiin.odar.al.airody.al.teedar.dam-
+<f105r.P2.19;F>    saiin.chey.teol.ykair.pa!ir.olkaiin.olfaiin.odar.al.airody.al.tchdar.dam-
+#
+<f105r.P2.20;H>    ycheo.lkedy.qoeey.qokedy.qokedal.saiin.otol.shody.chedy.okaiin.chekaim-
+<f105r.P2.20;F>    ycheo.lkedy.qoeey.qokedy.qokedal.saiin.otol.shody.chedy.okaiin.chekaim-
+#
+<f105r.P2.21;H>    olkcho!keedy.ypair.opaiin.opail.oteodl.eeol.keey.raiin.ylkaiin.am.ols-
+<f105r.P2.21;F>    olkcho.keedy.ypair.opaiin.opail.oteodl.eeol.keey.raiin.ylkaiin.am.ols-
+#
+<f105r.P2.22;H>    dchees.opchey.aeeodeey.chefchey=
+<f105r.P2.22;F>    dchees.opchey.aeeodchy.chefchey=
+#
+<f105r.P2.23;H>    pcheor.ai!n.ckheey.okeeey.paiin.ar.aiiin.chpaiikey.sheo.pcheey.dal.daiin.dam-
+<f105r.P2.23;F>    pcheor.aiin.ckheey.okeeey.paiin.ar!aii!n.chpainkey.sheo.pcheey.dal.daiin.dam-
+#
+<f105r.P2.24;H>    deeedy.cheodkedy.chedy.decthdy.daiiils.airols=
+<f105r.P2.24;F>    deeedy.cheodkedy.chedy.decthdy.daiinls.airols=
+#
+<f105r.P2.25;H>    pdal.sheey.yqopchy.airal.sheey.fchdy.qopchdy.raiis.oky.chdedy.qodeedy.qokedy-
+<f105r.P2.25;F>    pdal.sheey.yqopchy.airal.sheey.fchdy.qopchdy.rai!s.oky.chdedy.qodchdy.qokedy-
+#
+<f105r.P2.26;H>    dair.cho.al.r.lal.cheesy.cphedy=
+<f105r.P2.26;F>    dair.cho.al.r!*al.cheesy.cphedy=
+#
+<f105r.P2.27;H>    pchsed.sheefy.opchey.qoteedy.qoeey.qokeedy.laiiin.odeaiin.aiir.opair.kechedy-
+<f105r.P2.27;F>    pchsed.sheefy.opchey.qoteedy.qoeey.qokeedy.laii!n.od!aiin.aiir.opair.kechedy-
+#
+<f105r.P2.28;H>    oees.olkeedy.qockhy.raiin.chol.okair.oteedy.qopchedy.odaiin.ypchedy.ykam-
+<f105r.P2.28;F>    oees.olkeedy.qockhy.raiin.chol.okair.oteedy.qopchedy.odaiin.ypchedy.ytam-
+#
+<f105r.P2.29;H>    oleedar.aiildy.dar.oiin.yteey.tair.cheody.qokolky.cheol!kary=
+<f105r.P2.29;F>    oleedar.aiildy.dar.aiin.yteey.tair.cheody.qokolky.cheol.kary=
+#
+<f105r.P2.30;H>    kodeey.lchl.sh!x.ar.aii!dy.cpheesy.okal.lkedy.lkor.chedy.qokaiin.or.fchoky-
+<f105r.P2.30;F>    kodeey.lchl.shox.ar.aiindy.cpheshy.okal.lkedy.lkar.chedy.qokaiin.or.fchoky-
+#
+<f105r.P2.31;H>    ycheochy.lkeol.daiin.ykair.olkchey.dar.qopchdy.dair.otar.ar.adam-
+<f105r.P2.31;F>    ycheochy.lkeol.daiin.qkair.olkchey.dar.qopchdy.dair.otar.a*.adam-
+#
+<f105r.P2.32;H>    okeeo!dair.oteey.lkeey.teeol!teedy.ot!okal.oraiiin.qokaiin.ar.airod-
+<f105r.P2.32;F>    okeeo.dair.oteey.lkeey.teeol.teedy.ot.okal.oraii!n.qokaiin.ar.airod-
+#
+<f105r.P2.33;H>    dor.ail.cheky.kar.odaiin.ykl.al.oees.al.ar.alkam=
+<f105r.P2.33;F>    dor.ail.cheky.kar.odaiin.ykl.al.oees.al.ar!alkam=
+#
+<f105r.P2.34;H>    ypchedy.okaiir.opcheedy.qokair.dar.kol.otar.ol.qokal.kor.orol.pchey.ofory-
+<f105r.P2.34;F>    ypchedy.okaiir.opcheedy.qokair.dar.kal.otar.ol.qokal.kor.orol.pchey.ofory-
+#
+<f105r.P2.35;H>    dyteey.otedaiin.otar.ol.chedy.ted.qotar.oteodar.otam.ytedy.otaiin=
+<f105r.P2.35;F>    dyteey.otedaiin.otar.ol.chedy.ted.qotar.oteodar.otam.ytedy.otaiin=
+#
+## <f105r.T2> {}
+# title 2
+# Last edited on 1998-12-11 08:46:58 by stolfi
+#
+<f105r.T2.36;H>    otoiis.chedaiin.otair.otaly=
+<f105r.T2.36;F>    otaiir.chedaiin.otair.otaly=
+#
