@@ -9,17 +9,16 @@ import java.util.*
 class VoynichBook(var folios: MutableList<VoynichFolio>) {
     override fun toString() : String {
         var book : String = "";
-        var curFolio = 0;
 
-        folios.forEach { page -> book += "${(curFolio / 2) + 1}\n$page"; curFolio++; }
+        folios.forEach { page -> book += page }
 
         return book;
     }
 }
 
-class VoynichFolio(var lines : List<VoynichLine>) {
+class VoynichFolio(var lines : List<VoynichLine>, var num : Int) {
     override fun toString() : String {
-        var text : String = "";
+        var text : String = "$num\n";
 
         lines.forEach { line -> text += line; }
 

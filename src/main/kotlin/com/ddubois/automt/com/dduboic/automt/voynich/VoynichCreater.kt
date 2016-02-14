@@ -80,7 +80,7 @@ private fun makeVoynichWord(text : String) : VoynichWord {
             shouldAppend = false;
         }
 
-        if(shouldAppend) {
+        if(shouldAppend) {// && char.isLetter()) { TODO: Re-enable line when data is cleaner
             word += char;
         }
 
@@ -112,7 +112,7 @@ private fun makeVoynichLine(lines : MutableList<String>) : VoynichLine {
         // Split the line on periods, because those delimit words
         // Replace uncertain spaces (,) with certain spaces (.). There's no room for probability here
         // Get everything before the = and - signs. Those things seriously mess me up. I hate them.
-        var words = line.substringBefore('=').replace(Regex("""-{[\w]+}"""), ".").substringBefore('-').splitToSequence('.');
+        var words = line.substringBefore('=').replace(Regex("""-\{[\w\.:]+\}"""), ".").substringBefore('-').splitToSequence('.');
 
         words.forEach { word ->
             var wordSan = sanitize(word);
@@ -151,11 +151,15 @@ private fun sanitize(word: String): String {
  *
  * @return The VoynichFolio that comes from the given text
  */
-private fun makeVoynichFolio(text : String) : VoynichFolio {
+private fun makeVoynichFolio(text : String, number : Int) : VoynichFolio {
     var lines = text.lines();
     var curLineGroup : MutableList<String> = ArrayList();
     var voynichLines : MutableList<VoynichLine> = ArrayList();
     var firstSkipped = false;
+
+    if(number == 71) {
+        var breakpoint = 3;
+    }
 
     for (line in lines) {
         if(!firstSkipped) {
@@ -168,7 +172,7 @@ private fun makeVoynichFolio(text : String) : VoynichFolio {
             // If the line starts with a #, it's a comment and we can ignore it for right now.
 
             // Although, being in a comment means we should make a new VoynichLine from the current line group
-            if (curLineGroup.isNotEmpty() && curLineGroup[0].length > 0) {
+            if (curLineGroup.isNotEmpty()) {
                 voynichLines.add(makeVoynichLine(curLineGroup));
                 curLineGroup.clear();
             }
@@ -179,7 +183,7 @@ private fun makeVoynichFolio(text : String) : VoynichFolio {
         }
     }
 
-    var folio = VoynichFolio(voynichLines);
+    var folio = VoynichFolio(voynichLines, number);
     return folio;
 }
 
@@ -211,7 +215,7 @@ fun loadFromFiles() : VoynichBook {
 
         try {
             folioFile = File(String.format("corpa/voynich/f%03dr_tr.txt", i));
-            folios.add(makeVoynichFolio(folioFile.readText()));
+            folios.add(makeVoynichFolio(folioFile.readText(), i));
 
             LOG.debug("Loaded folio " + folioFile.name);
         } catch(e : FileNotFoundException) {
@@ -220,7 +224,7 @@ fun loadFromFiles() : VoynichBook {
 
         try {
             folioFile = File(String.format("corpa/voynich/f%03dv_tr.txt", i));
-            folios.add(makeVoynichFolio(folioFile.readText()));
+            folios.add(makeVoynichFolio(folioFile.readText(), i));
 
             LOG.debug("Loaded folio " + folioFile.name);
         } catch(e : FileNotFoundException) {
