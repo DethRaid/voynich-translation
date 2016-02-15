@@ -206,8 +206,8 @@
 #
 <f112v.P.36;H>     tchede.okeey.lky.shedaiiin.chdy.qokeedy.cheky.lkedy.qotedy.raram-
 <f112v.P.36;T>     tchede.okeey.lky.shedaiiin.chdy.qokeedy.cheky.lkedy.qotedy.raram-
-<f112v.P.36;F>     tched*.okeey.lky.shedaii!n.chdy.qokeedy.cheky.lkedy.qotedy.raram-{swapped line}
-<f112v.P.36;G>     tchede.okeey.lky.shedaiiin.chdy.qokeedy.cheky.lkedy.qotedy.raram-{swapped line}
+<f112v.P.36;F>     tched*.okeey.lky.shedaii!n.chdy.qokeedy.cheky.lkedy.qotedy.raram-{swapped_line}
+<f112v.P.36;G>     tchede.okeey.lky.shedaiiin.chdy.qokeedy.cheky.lkedy.qotedy.raram-{swapped_line}
 #
 <f112v.P.37;H>     teedal.sai!n.ar.otaiin.shedy.qokedaiin.ar.qokaiin.chol.kedy.qokam-
 <f112v.P.37;T>     teedal.sai!n!ar.otaiin.shedy.qokedaiin!ar.qokaiin.chol!kedy.qokam-
@@ -216,8 +216,8 @@
 #
 <f112v.P.38;H>     sa.ar.oiin.okchey.al.chedy.chol.otaiin.chedar.lkai!n.cheo.dai!n=
 <f112v.P.38;T>     sa.ar!oiin.okchey.al.chedy.chol.otaiin.chedar.lkai!n.cheo!dai!n=
-<f112v.P.38;F>     sa.ar!aiin.okchey.al.chedy.chol.otaiin.chedar.lkaiin.cheo.daiin={swapped line}
-<f112v.P.38;G>     sa.ar.aiin.okchey.al.chedy.chol.otaiin.chedar.lkai!n.cheo.dai!n={swapped line}
+<f112v.P.38;F>     sa.ar!aiin.okchey.al.chedy.chol.otaiin.chedar.lkaiin.cheo.daiin={swapped_line}
+<f112v.P.38;G>     sa.ar.aiin.okchey.al.chedy.chol.otaiin.chedar.lkai!n.cheo.dai!n={swapped_line}
 #
 <f112v.P.39;H>     teodarody.opcheed.okaiin.chaiin.otam.oteedy.qoteey.qotai!n.chcthd-
 <f112v.P.39;T>     teodarody.opcheed.okaiin.chaiin.otam.oteedy.qoteey.qotai!n.chcthd-

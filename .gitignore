@@ -80,4 +80,5 @@ buildNumber.properties
 
 corpa/english
 corpa/spanish
+**.w2v
 all.log

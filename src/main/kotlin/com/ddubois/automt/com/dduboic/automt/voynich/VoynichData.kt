@@ -18,7 +18,7 @@ class VoynichBook(var folios: MutableList<VoynichFolio>) {
 
 class VoynichFolio(var lines : List<VoynichLine>, var num : Int) {
     override fun toString() : String {
-        var text : String = "$num\n";
+        var text : String = ""  // ""$num\n";
 
         lines.forEach { line -> text += line; }
 

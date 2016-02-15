@@ -151,6 +151,10 @@ fun main(args : Array<String>) {
     // [qtchaly, teokaiin, otolor, oteody, ykedckhy, okochey, sheeodees, oriim, alchd, kech]
     // Changes to getting whole certain lines, not just word-by-word certainties
     // [shedy, okedy, qokedar, okeey, keedy, chech, chekey, qokedy, okeedy, qol]
+    // Lots of processing on raw data
+    // [okedy, aiin, ar, saiin, sair, okeey, ain, chockhy, okar, okeeos]
+    // [shedy, saldy, qotedy, sches, oldar, chedy, eeeos, ykeedy, cheom, lkedy]
+    // [ytedy, cthhy, qokar, cheedy, qoear, schy, chekey, oltchedy, chdal, qokchdy]
 
     //println(englishModel.wordsNearest("app", 10));
     // [bbq, streaming, select, android, streams, now, concertgoers, mapquest, free, guide]
