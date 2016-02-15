@@ -78,8 +78,19 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-corpa/english
-corpa/spanish
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### Project-specific ###
 **.w2v
 all.log
+corpa/spanish
+corpa/english
 python/voynich
