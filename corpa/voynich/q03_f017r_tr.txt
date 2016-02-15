@@ -1,0 +1,138 @@
+<f17r>         {$I=H $Q=C $P=A $L=A $H=1 $X=U}
+# Last edited on 1998-10-09 02:32:53 by stolfi
+#
+# Identification:
+#
+#   Title: "Roots with eyes"
+#   Page: f17r = CA (Rene) = p031 (Stolfi)
+#   Folio: f17
+#   Panels: f17r
+#   Bifolio: bC1 = f17+f24
+#   Quire: C (Rene) = III (Beinecke)
+#
+#   First page of quire.
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b,green (Reeds)
+#
+# Description:
+#
+#   One plant, flush against the right margin,
+#   spanning from the bottom edge to a little below the top
+#   margin.
+#
+#   Three paragraphs (with 2.6, 2.5, 5.5 lines) at the top, left- and
+#   right-justified except for the last paragraph (which follows the
+#   plant's outline on the right), extending down to mid-page.
+#   Paragraph 3 may actually be two paragraphs (with 2.9 and 2.5
+#   lines).
+#   
+#   There is one extra line of text above the top margin (unit
+#   f17r.H), apparently not in the same hand as the rest of the page.
+#   The letters are smalled than normal; some of them resemble
+#   Voynichese charactersthey, others look more like Latin. One of the
+#   legible characters is an EVA "y" with macron; another, less
+#   legible, could be an EVA "r". The right half of the line is almost
+#   completely erased, and may extend beyond the normal right margin;
+#   the left half is not quite readable.
+#  
+# Comments:
+#
+#   The extra line of text at the top of the page looks similar to the
+#   hand of f116v (especially the characters shaped like "l"s). The
+#   letters are probably Latin, or possibly Greek; the EVA-"y" with macron
+#   would then be an abbreviation.
+#
+#   The eyes in the roots seem to be the result of "enhancing" two
+#   eye-like gaps in the roots.
+#
+## <f17r.H> {}
+# Extraneous writing at the top (almost certainly not Voynichese).
+# Last edited on 1998-12-23 04:24:18 by stolfi
+# 
+# "U" transcription by J. Stolfi from scanned image
+#
+# Reading in Latin alphabet:
+# <f17r.H.0;U>     mallior.allor.*u*{9-with-macron}.ha*.umi***.o.***al.****{rest 
+erased}=
+#
+## <f17r.P> {}
+# text
+# Last edited on 1998-12-11 12:32:16 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+# The "9" looks like an EVA "y" with an overbar.
+# Line 0 roman:    malliar.al*or.lu9.hav.vin*******a.o.***al.***=
+#
+<f17r.P.1;H>       fshody.daram.ydar!chom.opydy.ypod.chop.otchy.dody.oldckhy-
+<f17r.P.1;C>       fshody.daram.ydar.chom.opydy.ypod.!!!!!otchy.dody.oldckhy-
+<f17r.P.1;F>       fshody.daram.ydar.chom.opydy.ypod.chop.otchy.dody.oldckhy-
+<f17r.P.1;U>       fshody.daram.ydar,chom.opydy.ypod,chop.otchy.dody.oldckhy-
+#  
+<f17r.P.2;H>       ydair.sho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;C>       odair.cho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;F>       ydair.chokoky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;U>       ydair.cho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+#  
+<f17r.P.3;H>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;C>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;F>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;U>       chol,or,chy.qodam.okor.chor.okchom=
+#  
+<f17r.P.4;H>       tcho*.shol.qokol.qor.olaiin.opydg-{plant}som.ypchy.ypaim-
+<f17r.P.4;C>       tchom.shol.qokol.qor.olaiin.otydd-{plant}som.ypchy.ypaim-
+<f17r.P.4;F>       tcho*.shol.qokol.qor.olaiin.opydm-{plant}som.ypchy.ypaim-
+<f17r.P.4;U>       tchom.shol.qokol.qor.olaiin.opydm-{plant}som.ypchy.ypaim-
+#  
+<f17r.P.5;H>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+<f17r.P.5;C>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.ota!y.qody-
+<f17r.P.5;F>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+<f17r.P.5;U>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+#  
+<f17r.P.6;H>       tsho.qof!cho.qokcheor.chekeg=
+<f17r.P.6;C>       tsho.qof.cho.qokcheor.choto*=
+<f17r.P.6;F>       tsho.qof!cho.qokcheor.chekem=
+<f17r.P.6;U>       tsho.qof,cho.qokcheor.chetom=
+#  
+<f17r.P.7;H>       ksheo.qokchy.choldshy.!zepchy-{plant}ds{&S}!a-
+{plant}opchordy-{plant}
+<f17r.P.7;C>       ksheo.qokchy.choldshy.!!mpchy-{plant}d*!!!!!!-
+{plant}opchordy-{plant}
+<f17r.P.7;F>       ksheo.qokchy.choldshy.**!pchy-{plant}dsh!!!!y-
+{plant}opchordy-{plant}
+<f17r.P.7;U>       ksheo.qokchy.choldshy.**epchy-{plant}dsh!!!!y-
+{plant}opchordy-{plant}
+#  
+<f17r.P.8;H>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;C>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;F>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;U>       dchchy.dychear.schar.ykchy-{plant}
+#  
+# paragraph break here?
+<f17r.P.9;H>       soy.chckhy.o.dar.chypcham-{plant}
+<f17r.P.9;C>       soy.chckhy.o.das.chypcham-{plant}
+<f17r.P.9;F>       soy.chckho.o!dar.chypcham-{plant}
+<f17r.P.9;U>       soy.chckhy.o,dar.chypcham-{plant}
+#  
+# ... or here?
+<f17r.P.10;H>      dar.chear.dsheor.*!ain.y.mol-{plant}
+<f17r.P.10;C>      dar.chear.dcheor.*!ain.y!dol-{plant}
+<f17r.P.10;F>      dar.chear.dsheor.d!ain.y!mol-{plant}
+<f17r.P.10;U>      dar.chear.dsheor.r,ain.y,mol-{plant}
+#  
+<f17r.P.11;H>      otchol.cthar.okaiin.chol.daiiin-
+<f17r.P.11;C>      otchol.cthar.okaiin.chol.doiiin-
+<f17r.P.11;F>      otchol.cthar.okaiin.chol.daii!n-
+<f17r.P.11;U>      otchol.cthar.okaiin.chol.daiiin-
+#  
+<f17r.P.12;H>      ychod!y.chotom=
+<f17r.P.12;C>      ychod!y.chotom=
+<f17r.P.12;F>      ychod!y.chotom=
+<f17r.P.12;U>      ychod,y,chotom=
+#

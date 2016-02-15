@@ -1,0 +1,190 @@
+<f58v>           {$I=T $Q=H $P=D $L=A}
+# Last edited on 1998-10-09 02:40:27 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f58v = HD (Rene) = p114 (Stolfi)
+#   Folio: f58
+#   Panels: f58v
+#   Bifolio: bH2 = f58+f65
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: ? (Currier)
+#   Subsets: T (Rene), str (Stolfi)
+#   Subject: stars
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   Text only: four paragraphs (with 21.0, 5.8, 4.3, and 5.7 lines,
+#   respectively). Below the first paragraph there is a centered
+#   title, which may be simply the last line of the paragraph.
+# 
+#   There is a six-pointed star with tail (perhaps a flower?) in the
+#   top left corner, right next to the top edge, with the tail ending
+#   on the first baseline, just to the left of the first character.
+#
+#
+## <f58v.P1> {}
+# Text, above title
+# Last edited on 1998-12-27 22:57:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# 6pt star above first line
+#
+<f58v.P1.1;H>      {star 
+tail}tol.shokchy.opaiin.opaiin.chofaly.ypar.ypal.opal.opaldaiin-
+<f58v.P1.1;U>      {star 
+tail}tol.shokchy.opaiin.opaiin.chofaly.ypar.ypal.opal.opaldaiin-
+#
+<f58v.P1.2;H>      
+dair.or.sheaiin.tair.y.qotalody.saiin.okeody.qotair.ar.alor.orky-
+<f58v.P1.2;U>      
+dair.ar.oshaiin.tair.y.qotalojy.saiin.okeody.qotair.ar,alor.orky-
+#
+<f58v.P1.3;H>      todal.qotain.sho.ckheey.qokeol.okey.qokalchal.daly.ar.aim-
+<f58v.P1.3;U>      todal.qotain.sho!ckheey.qokeol.okey.qokalchal.daly.ar,aim-
+#
+<f58v.P1.4;H>      
+or.aiin.okair.y.dair!al.qokal.qokaiin.qokaly.okar.olkaly.okal-
+<f58v.P1.4;U>      
+or,aiin.okair,y.dair,al.qokal.qokaiin.qokaly.okar.olkaly.okal-
+#
+<f58v.P1.5;H>      faiir.ofaror.qotaiin.sholy.qotaiin.yqokaly.okal.qokaly.okaly-
+<f58v.P1.5;U>      faiir.ofasar.qotaiin.sholy.qotaiin.yqokaly.okal.qokaly.okaly-
+#
+<f58v.P1.6;H>      
+qokair.or.aly.shor.daiin.choly.dal.ykaiin.org.fchey.okaly.oky-
+<f58v.P1.6;U>      
+qokair.ar,aly.shos.daiin.choly.dal.ykaiin.org.fchey.okaly.oky-
+#
+<f58v.P1.7;H>      y.daiin.qokeey.qokar.lchedy.qokalor.sheols.oteor.aiin.cheky-
+<f58v.P1.7;U>      y.daiin.qokeey.qokar.lchedy.qokalor.sheols.oteor,aiin.cheky-
+#
+<f58v.P1.8;H>      
+taiin.ckhey.daldy.qokair.alar.ytal.aiin.otaiin.ykaiin.ykaly.dam-
+<f58v.P1.8;U>      
+taiin.ckhey.daldy.qokair.alar.ytal,aiin.otaiin.ykaiin.ykaly.dam-
+#
+<f58v.P1.9;H>      
+s!alal.qolaiin.chockhey.tcholy.qokaiin.qokaiin!os.orcheey.olaly-
+<f58v.P1.9;U>      
+s,alal.qolaiin.chockhey.tcholy.qokaiin.qokaiin,os.orcheey.olaly-
+#
+<f58v.P1.10;H>     ykair.shey.key.ctholy.qotalom.qokal!.qokaiin.okal.okaldy.ory-
+<f58v.P1.10;U>     ykair.shey,key.ctholy.qotalor.qokals.qokaiin.okal.okaldy.ory-
+#
+<f58v.P1.11;H>     tchol!shol.tor.qokair!or.y.ykaiin.dory.okaiir.chodaiin.otals-
+<f58v.P1.11;U>     tchol,shol.tar.qokair,oj.y,ykaiin.dory.okaiir.chodaiin.otals-
+#
+# The last "p" below is extra wide
+<f58v.P1.12;H>     
+oreeey.cheekey.cheal.qokey.chedal.dy.tolair.opchey.poaly.cfhy-
+<f58v.P1.12;U>     
+oreeey.cheekey.cheal.qokey.chedal,dy.tolair.opchey.poaly.cfhy-
+#
+<f58v.P1.13;H>     qoeear.alkeain.ytal.chor.alor.okal.chcthy.tal.ck{&K}shy.kar-
+<f58v.P1.13;U>     qoeear.alkeain.ytal.chos.alor.ykal.chotey.tal.ck{&K}shy.kar-
+#
+<f58v.P1.14;H>     shar.air.alos.chol.oeear.sho.qotal.chol.talar.tar.ar.opam-
+<f58v.P1.14;U>     shar.air.alos.chol.oeear.sho.qotal.chol.talar.tar.ar!opam-
+#
+<f58v.P1.15;H>     qotoiin.otal.ar!al.s.air.qoal.talchos.okal.cho.ytam.dam-
+<f58v.P1.15;U>     qotoiin.otal.ar,al.r.air.qoal.talchos.okal.cho.otam.dam-
+#
+<f58v.P1.16;H>     ykaiin.qokair.okaly.qokal.chaly.cheockhey.olaly.tal!dar.al-
+<f58v.P1.16;U>     ykaiin.qokair.ykaly.qokal.chaly.cheocthey.olaly,tal,dar,al-
+#
+<f58v.P1.17;H>     daiin.al!al.dal.qokiir.otal.chodol.qokeal.cheol.chos.okeeam-
+<f58v.P1.17;U>     daiin.al,al,dal.qoka!r.otal.chodal.qokeal.cheol.chos.okeeam-
+#
+<f58v.P1.18;H>     taiin.chal.sheal.qockhy.dar.aiin.ockhey.qokeey.qoaiin.aral-
+<f58v.P1.18;U>     taiin.chol.sheal.qockhy.dar.aiin.ockhey.qokeey.qoaiin.aral-
+#
+<f58v.P1.18a;H>    okair.chokal.cheoldy.qokor.olkam.cheol.dar.chokeey.okalchy-
+<f58v.P1.18a;U>    okain.chokal.sheoldy.qokar.olkam.cheol.dar.eeokeey.okalchy-
+#
+<f58v.P1.19;H>     tolain.ar.ykeain.qokeey.otal.chol.okal.ar.chety.chkalar.ol-
+<f58v.P1.19;U>     tolain.ar.ykeain.qokeey.otal.chol.okal.ar.chety.chkalar,ol-
+#
+<f58v.P1.20;H>     olain.olalor.odaiin.qotais.otal.qokal.dai!r.oishy.otam=
+<f58v.P1.20;U>     olain.olalor.odaiin.qetair.otal.qokal.daiin.o*shy.otam=
+#
+## <f58v.T> {}
+# title - centered
+# Last edited on 1998-12-08 10:28:59 by stolfi
+#
+<f58v.T.21;H>      okar.sheey.shekealy=
+<f58v.T.21;V>      okar.sheey.shekealy=
+<f58v.T.21;U>      okar.sheey.shekealy=
+#
+## <f58v.P2> {}
+# Text, below title
+# Last edited on 1998-12-27 22:57:54 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f58v.P2.22;H>     
+pchshy.sheoltey.shopolchedy.sheol!keal.qokar.aldaiin.qokalar.dal-
+<f58v.P2.22;U>     
+pchshy.sheoltey.shopalchedy.sheol,keal.qokar.aldaiin.qokalar.dal-
+#
+<f58v.P2.23;H>     
+qokal.daiin.qokal.cham.qokal!cheol.okor!air.ain!ar!als.okom.daly-
+<f58v.P2.23;U>     
+qokal.daiin.qokal.chem.qokal,cheal.okor,air.ain,ar,als.okam.daly-
+#
+<f58v.P2.24;H>     qotain.okeor.sheey.qokeol.okeoly.qokaly.qokair!or.tas.y!kal-
+<f58v.P2.24;U>     qotain.okeor.shchy.qokeol.okealy.qokaly.qokair,or,tar.y,kal-
+#
+<f58v.P2.25;H>     ykaly.qokal.ol.ar.qokeos.okal!ar.oko!s.al.shekar.qokair.alam-
+<f58v.P2.25;U>     ykoly.qokal,ol,al.qokeos.okal,ar.oko,s,al.shekar.qotair,alam-
+#
+<f58v.P2.26;H>     
+qokar.s.aiin.al.y.qokchedy.qoekaly.odaiin.qokar.chos.alaiin.om-
+<f58v.P2.26;U>     
+qokar.s.aiin.al.y.qokchedy.qoetaly.odaiin.qokar.chor,alaiin!om-
+#
+<f58v.P2.27;H>     ycheo.ckhy.okey.okal.otaly.okaldy.okeor.sheey=
+<f58v.P2.27;U>     ycheo!ckhy.okey.okal.okaly.okaldy.okeor.sheey=
+#
+<f58v.P2.28;H>     
+polal.keeo.oleeckhey.dalar.ykeeody.choar.ck!!!!!!har.yfair.ylam=
+<f58v.P2.28;U>     
+polol.keeo.oleeckhey.dalar.ykeeody.choar.ck{&176}har.yfair.alam=
+#
+<f58v.P2.29;H>     daiin.sheoikhy.ykey.sheky.qokal.qokeey.okain.okar.ol.dam-
+<f58v.P2.29;U>     daiin.sheockhy.ykey.shoky.qotal.qokeey.okain.ykar.ol,dam-
+#
+<f58v.P2.30;H>     tcheor.chor.kar.okal.qokeey.qotal.shol.qokain.ar.oetalchg-
+<f58v.P2.30;U>     t**eor.chor,kar.okal.qokeey.qokal.shol.qotain.ar.oetalchg-
+#
+<f58v.P2.31;H>     psheey.qoty.qokar.qokey.ky.ykar.cheal.otal.kol.olchedy-
+<f58v.P2.31;U>     psheey.qoty.qokar.qokey.ky.ykar.cheal.otal.kol.olchedy-
+#
+<f58v.P2.32;H>     qoais.chol.ar.chey=
+<f58v.P2.32;U>     qoair.chol!ar.shey=
+#
+<f58v.P2.33;H>     tolsheo.keo!ar.qofcheol.dar.aiphey.opchal.shockhy.okaly-
+<f58v.P2.33;U>     tolsheo.keo,ar.qofcheal.dar.acphey.opchal.shockhy.okaly-
+#
+<f58v.P2.34;H>     daiin.otain.okain.chhy.okeey.qokeeos.olar.sheo.daly.dalychs-
+<f58v.P2.34;U>     daiin.otain.okain.chey.okeey.qokeeos.olar.sheo.daly.dalychs-
+#
+<f58v.P2.35;H>     tcheody.okeor.ockhy.qokal.okal.shokey.qokeey.dalas-
+<f58v.P2.35;U>     tcheody.okeor.ockhy.qokal.okal,shotey.qokeey.dalar-
+#
+<f58v.P2.36;H>     olkeey.okar.ar.choky.otair.otol.chokey.cheeky.dalar-
+<f58v.P2.36;U>     olkeey.okar.ar.choky.otair.otol.chokey.cha!ty.dalar-
+#
+<f58v.P2.37;H>     ykeeody.qokar.qoky.keey.qokol.okol.okor.cheky.sy!dy-
+<f58v.P2.37;U>     ykeeody.qokar.qoky.keey.qokal.okol.okor.cheky.ry,dy-
+#
+<f58v.P2.38;H>     o!shor.qokain.okam.shear.sher.sarols=
+<f58v.P2.38;U>     o,shor.qokain.okam.shear.cher.sarols=
+#

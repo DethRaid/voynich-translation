@@ -1,0 +1,67 @@
+<f11v>         {$I=H $Q=B $P=F $L=A $H=1}
+# Last edited on 1998-10-09 01:45:27 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f11v = BF (Rene) = p022 (Stolfi)
+#   Folio: f11
+#   Panels: f11v
+#   Bifolio: bB3 = f11+f14
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue,brown (Reeds)
+#   Plant: 21 (Petersen)
+#
+# Description:
+#
+#   One large plant, flush against the right edge and spanning from
+#   the top to the bottom.
+#
+#   One paragraph (with 5.6 lines), just below mid-page,
+#   left- and right-justified, interrupted by the 
+#   plant's twin stem.
+#
+# Comments:
+#
+#
+## <f11v.P> {}
+# text
+# Last edited on 1998-12-11 12:29:30 by stolfi
+#
+<f11v.P.1;H>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+<f11v.P.1;C>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+<f11v.P.1;F>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan!y-
+<f11v.P.1;U>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+#
+<f11v.P.2;H>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;C>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;F>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;U>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+#
+<f11v.P.3;H>       otchor.dy.kchy.tchy.*{&152}ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;C>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;F>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;U>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+#
+<f11v.P.4;H>       qokchor.chololer.chyky.dchy.qoky-{plant}ctho.tchey.tan-
+<f11v.P.4;C>       qokchor.chololar.chyky.dchy.qoky-{plant}ctho.tchey.tu!-
+<f11v.P.4;F>       qokchor.chololor.chyky.dchy.qoky-{plant}ctho.tchey.ton-
+<f11v.P.4;U>       qokchor.chololor.chyky.dchy.qoky-{plant}ctho.tchey.tu!-
+#
+<f11v.P.5;H>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arg-
+<f11v.P.5;C>       loydy.qoteey.qot.chor.dy.ddy-{plant}cthor.shy!arg-
+<f11v.P.5;F>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arm-
+<f11v.P.5;U>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arg-
+#
+<f11v.P.6;H>       ycheor.ksho.dor.cthey.s!chold={plant}
+<f11v.P.6;C>       ycheor.ksho.dor.cthoy.s.chold={plant}
+<f11v.P.6;F>       ycheor.ksho.dor.cthey.s!chold={plant}
+<f11v.P.6;U>       ycheor.ksho.dor.cthey.s.chold={plant}
+#

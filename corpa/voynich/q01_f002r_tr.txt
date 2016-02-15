@@ -1,0 +1,137 @@
+<f2r>          {$I=H $Q=A $P=C $L=A $H=1}
+# Last edited on 1998-10-09 00:46:36 by stolfi
+#
+# Identification:
+#
+#   Title: "Petersen's cornflower"
+#   Page: f2r = AC (Rene) = p003 (Stolfi)
+#   Folio: f2
+#   Panels: f2r
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Plant: 2 (Petersen)
+#   Colors: green,red (Reeds)
+#   Plant: 2 (Petersen)
+#
+# Description:
+#
+#   One plant centered on page.
+#
+#     Root: left-right symmetrical, planar, looking sort of like 
+#       headless stick man with outstretched arms and gripping hands.
+#       Overpainted with dark color.
+#     Stem: short and thin.
+#     Branches: two main ones, almost upright, slightly bent.
+#       Irregular thickness, awkward shape (cf. top right leaf).
+#       Light-clored with a dark vein grossly painted along the middle.
+#     Leaves: Dark overpaint, shaped like a triangular fan with five
+#       lanceolated fingers. Stalk: medium length, looks like a branch.
+#     Flowers: three, on tip of main branch.
+#       Stalk: longish, looks like a branch.  Chalyx: an oblong oval
+#       sweelling at end of stalk, partial dark overpaint.  Petals: many,
+#       narrow and long; the flower looks like a shaving brush.  Core:
+#       hidden by petals.
+#
+#   Two paragraphs (with 6.4 and 5.4 lines), left- and rightjustified:
+#   one at the top, slightly narrower, interrupted by three flowers;
+#   and one near the bottom, interrupted by two branches.
+#
+# Comments:
+#
+#   The root looks rather strange, the stems and leaves are 
+#   somewhat awkward, but the flowers look normal.
+#
+#   Petersen tentative identification is "cyanus segetum, cornflower
+#   (caeruleus) (cf 153)".  That must be
+#
+#     Centaurea_cyanus (cornflower,fiodaliso;bluet,kornblume)
+#     http://www.lysator.liu.se/runeberg/nordflor/7.html
+#
+#   The flower shape and branching pattern seem to match fairly well.
+#   However, those features are not very specific. [What about color?]
+#   Also, the leaves of Centaurea cyanus are long and thin, with
+#   smooth edges or a few very shallow teeth, attached directly to the
+#   stem; quite unlike those of f2r.
+#
+#   Infusions of Centaurea cyanus were once used as a febrifugue 
+#   (whole plant) and eye wash (flowers only).
+#
+## <f2r.P> {}
+# text
+# Last edited on 1998-12-12 13:51:24 by stolfi
+#
+<f2r.P.1;H>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;C>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;F>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+#
+<f2r.P.2;H>        dorchory-{plant}chkar.s-{plant}shor.cthy.cth!-
+<f2r.P.2;C>        dorchory-{plant}chkar.s-{plant}shor.cthy.***!-
+<f2r.P.2;F>        dorchory-{plant}chkar.s-{plant}shor.cthy.ctho-
+#
+<f2r.P.3;H>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;C>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;F>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+#
+<f2r.P.4;H>        chaindy-{plant}chtod.dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+<f2r.P.4;C>        !*aiidy-{plant}chtod.dy-{plant}cphy.dal.s-{plant}chokaiin.d-
+<f2r.P.4;F>        shaiidy-{plant}chtod!dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+#
+<f2r.P.5;H>        otochor.al-{plant}shodaiin-{plant}chol.!dan-
+{plant}ytchaiin.dan-
+<f2r.P.5;C>        otochor.al-{plant}shodaiin-{plant}chol.chan-
+{plant}ytchaiin.dan-
+<f2r.P.5;F>        otochor.al-{plant}shodaiin-{plant}chol.!dan-
+{plant}ytchaiin.dan-
+#
+<f2r.P.6;H>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+<f2r.P.6;C>        saiin.daind-{plant}d.kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+<f2r.P.6;F>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+#
+<f2r.P.7;H>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;C>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;F>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+#
+<f2r.P.8;H>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+<f2r.P.8;C>        kydain.shaiin.qoy.s.shol.fodan-{plant}ytsh.olsheey.daiildy-
+<f2r.P.8;F>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+#
+<f2r.P.9;H>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+<f2r.P.9;C>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirdl-
+<f2r.P.9;F>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+#
+<f2r.P.10;H>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;C>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;F>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s.aiin.saiin-
+#
+<f2r.P.11;H>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+<f2r.P.11;C>       ychain.dal.chy.dalor.shan!!!!-{plant}**saiin.sheey.ckhor-
+<f2r.P.11;F>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+#
+<f2r.P.12;H>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;C>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;F>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+#
+<f2r.P.13;H>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;C>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;F>       sho.ykeey.chey.daiin.chcthy=
+#
+## <f2r.L> {}
+# label on plant
+# Last edited on 1998-12-25 06:54:39 by stolfi
+# 
+# "U" transcription by J. Stolfi from scanned image
+#
+<f2r.L.1;U>        ytoain=

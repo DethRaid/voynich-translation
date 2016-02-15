@@ -1,0 +1,104 @@
+<f7r>          {$I=H $Q=A $P=M $L=A $H=1}
+# Last edited on 1998-10-09 01:15:01 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f7r = AM (Rene) = p013 (Stolfi)
+#   Folio: f7
+#   Panels: f7r
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Petersen's plant 12
+#   Colors: green,tan (Reeds)
+#   Plant: 12 (Petersen)
+#
+# Description:
+#
+#   One plant with no leaves and a single huge flower, spanning the
+#   entire height and width of the page.
+#
+#     Root: a short, vertical, cylindrical stem that splits
+#       into two almost horizontal mousetails.
+#     Stem: straight, vertical.
+#     Branches: none.
+#     Leaves: none.
+#     Flowers: a single flower at the tip of the stem.
+#       Stalk: not visible, or indistinguishable from stem.
+#       Chalyx: eight symmetrical sepals, shaped like long parabolas.
+#       Corolla: four layers, of decreasing sizes, each having four 
+#         symmetric petals, located diagonally with respect to 
+#         the previous layer.  Core: none.
+#
+#   Two paragraphs (with 4.3 lines and 4.5 lines), both left- and
+#   right-justified: one at the top, interrupted by the flower; one
+#   just below mid-page, interrupted by the main stem.
+#
+# Comments:
+#
+#   Petersen has identified this plant with high confidence
+#   as 
+#
+#     Nymphaea alba (white water lily, seerose)
+#     http://www.lysator.liu.se/runeberg/nordflor/181.html
+#     http://linnaeus.nrm.se/flora/di/nymphaea/nymph/nympcan2.jpg
+#
+#   There is indeed a good match in the shape and arrangement of the
+#   petals and sepals. Also, the lack of leaves and branches in f7v is
+#   plausibly explained by the fact that Nymphaea's flowers float on
+#   the water's surface, and thus may have been hidden from the
+#   artist's view.
+#
+#   But if f7v is Nymphaea alba, then what do we make of f2v?
+#
+## <f7r.P> {}
+# text
+# Last edited on 1998-12-11 12:28:24 by stolfi
+#
+<f7r.P.1;H>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.chorochy-
+<f7r.P.1;C>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.charochy-
+<f7r.P.1;F>        fchodaiin.chopchey.qko-{plant}chey.qoos.sheey.chorochy-
+#
+<f7r.P.2;H>        dcheey.keo!r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;C>        dcheey.keo.r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;F>        dcheey.keo!r.chor.dold-{plant}dchey.kchey.otchy.cheody-
+#
+<f7r.P.3;H>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;C>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;F>        ochees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+#
+<f7r.P.4;H>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;C>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;F>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+#
+<f7r.P.5;H>        oaiir-{plant}otaiin=
+<f7r.P.5;C>        oaiir-{plant}otaiin=
+<f7r.P.5;F>        oains-{plant}otaiin=
+#
+<f7r.P.6;H>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;C>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;F>        ksholo.chey.qotoees.chkoldy-{plant}otchor.choaiin-
+#
+<f7r.P.7;H>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;C>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;F>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+#
+<f7r.P.8;H>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+<f7r.P.8;C>        okchey.deeeese.choty.qotchy-{plant}chol.keey.choky.chain-
+<f7r.P.8;F>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+#
+<f7r.P.9;H>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;C>        qokechy.ol.choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;F>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+#
+<f7r.P.10;H>       s!chain.chor.daiin.chckhy={plant}
+<f7r.P.10;C>       s.chain.chor.daiin.chckhy={plant}
+<f7r.P.10;F>       s!chain.chor.daiin.chckhy={plant}
+#

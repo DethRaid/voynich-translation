@@ -1,0 +1,222 @@
+<f57v>           {$I=C $Q=H $P=B}
+# Last edited on 1998-10-09 02:36:50 by stolfi
+#
+# Identification:
+#
+#   Title: "The 4 times 17 sequence"
+#   Page: f57v = HB (Rene) = p112 (Stolfi)
+#   Folio: f57
+#   Panels: f57v
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: 2 (Currier)
+#   Subsets: C (Rene), cos (Stolfi)
+#   Subject: cosmological
+#   Colors: tan (Reeds)
+#
+# Description:
+#
+#   A circular diagram. 
+#
+#   Eight concentric mechanically drawn circles delimit four text
+#   rings, which are divided into 4 quadrants by straight lines in
+#   the NE, NW, SW, and SE directions. The lines are drawn with ruler,
+#   but do not quite meet at the center (They may be modern additions
+#   to the copy). there is an isolated word outside the outer circle.
+#
+#   At the center is a simple rosette, with 4 short and 4 long rounded
+#   lobes, with a circle and a dot in the middle.
+#
+#   Inside the inner circle there are four naked human figures,
+#   visible from the chest up, heads towards the center.
+#   Two are male, two female; two are seen mostly from the front
+#   two mostly from the back; two have both arms raised, two have 
+#   only one.  Here are the combinations:
+#
+#     North:  male,   back,  two arms straight in "V".
+#     West:   female, front, one arm straight at 45 degrees.
+#     South:  female, back,  two arms straight in "V".
+#     East:   male,   front, one arm forward then bent up, holding a ball.
+#
+#   There are 8 words inside the inner circle. Four of them radiate
+#   from the rosette, roughly along the diagonal lines.  The other
+#   four are tangential (but with straight baselines), to be read
+#   in the clockwise direction; it is not clear whether they
+#   label the four figures, or the spaces between them.
+#
+# Comments:
+#
+#
+## <f57v.T> {}
+# Single word outside circle, just clockwise of the NW radial line.
+# Last edited on 1998-08-07 15:03:23 by stolfi
+#
+# "V" transcription by J.Grove
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+<f57v.T.1;H>       dairol=
+<f57v.T.1;V>       dairol=
+<f57v.T.1;U>       dairal=
+#
+## <f57v.R1> {}
+# Outer band of text, starting from the NW line.
+# Last edited on 1998-12-08 02:17:07 by stolfi
+#
+# "V" transcription by J.Grove
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+# The "peeeee" may be "pe.ee.e.e"
+#
+<f57v.R1.1;H>      
+v.sa.l.y.soe!os.v!s.ar.okees.o.d.socfchees.l!g.sos.okey.defo.f!o.rkedam.sh.ofol.
+sar.ddal.yty.s.y.daiis.oteo.dsh.dy.dkals.ety.fchcho.a.r.ofaiin.dal.karody.a!r.ok
+chy.daram.qokar.okal.okal.d!.o.l.shkeal.dyd!as.o.k.sher.saiin.
+<f57v.R1.1;V>      
+v.sa.l.y.saeeos.v!s.ar.okees.o.d.soefchees.l!d.sos.okey.defo.f.o.rkedam.sh.ofol.
+sar.ddal.yty.s.y.daiir.otey.dsh!dy.dkalr.oty.peeeee.a.r.opaiin.dal.karody.v!r.ok
+eey.daram.qokar.okal.okal.d*.o.l.shkeal.dydchs.o.t.sher.saiin.
+<f57v.R1.1;U>      
+v.sa,l,y.sae!ar.v,r.yr.okees.a.d.roefchees.l,m.sor.okey.defo.f,o.rkedam.sh.ofol.
+rar.ddal.yty.s.y.daiir.otey.dsh!dy.dkalr.oty.peoch*.a.r.opaiin.dal.karody.v,r.ok
+eey.daram.qokar.okal.okal.d!.o.l.shkeal.dydchs.o,k.sher.saiin.
+#
+## <f57v.R2> {}
+# Second ring of text  (17 character sequence X 4), clockwise from NW
+# Last edited on 1998-12-24 21:06:14 by stolfi
+#
+# "V" Transcription by John Grove, edited by J.Stolfi
+# "U" transcription by J. Stolfi from unidentified scan.
+#
+# Asterisks are "weirdoes".  Note that the repetition
+# is not perfect: 
+#  "I" in the first period becomes "c" in the rest,
+#  "j" in the first period becomes "m" in the rest,
+#  "f" in the first two periods becomes "d" in the other two.
+#
+#  &169 = "Lo^" with "o" above the "L"
+#  &170 = like "h" with top detached
+#  &171 = gallows with three loops
+#  &172 = upside-down lambda
+#  &I   = first half of "ih"
+#
+# The {|} marks the period boundaries 
+# First period:
+#
+<f57v.R2.1;H>      o-l-d-r-v-x-k-k-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-k-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-k-p-
+*{&169}-t-r-*{&169}-*{&171}-y-c!!!!-r!!!!!!-n-
+<f57v.R2.1;V>      o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-*{&I}-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-m-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-m-p-
+*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}!!-
+<f57v.R2.1;U>      o-l-j-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-*{&I}-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-m-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-m-p-
+*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}!!-
+## <f57v.R3> {}
+# Third ring 
+# Last edited on 1998-12-08 02:21:13 by stolfi
+#
+# "V" transcription by John Grove
+# "U" transcription by J. stolfi from unidentified scans.
+#
+# &172 = upside down lambda
+#
+<f57v.R3.1;H>      
+daiin.otey.ofchey.shes.o.d.okchod!!.o.l.okeeol.dkedar.o!f.aros.s.y.chedaiin.k.ec
+hty.x.doe!dal.vo.tchor.cs.tedas.dal.*{&172}.daiin.aiin.otyl.daro.v=
+<f57v.R3.1;V>      
+daiin.otey.ofchey.shes.o.d.okchod.l.o.l!!keeol.dkedar.o!f.aros.r.y.chedaiin.k.ch
+ety.x.docodal.vo.tchor.sh.tedar.dal.*{&172}.daiin.aiin.otal.daro.v=
+<f57v.R3.1;U>      
+daiin.otey.ofchey.shes.o.d.okchod.l.o.l!!keeol.dkedar.o,f.aros.r.y.chedaiin.k.ch
+ety.x.docodal.vo.tchor.sh.tedar.dal.*{&172}.daiin.aiin.otal.daro.v=
+#
+## <f57v.R4> {}
+# Inner ring of text, clockwise from the wide NW gap.
+# Last edited on 1998-12-08 09:59:07 by stolfi
+#
+# "V" translation by John Grove
+# "U" tranlation by J. stolfi from unidentified scan.
+#
+# Weirdos:
+#
+#   &170 = like "h" with top detached (#13 of the 17-element sequence)
+#   &171 = gallows with three loops (#14 of the 17-element sequence)
+#   &I   = first half of "ih" (#16 of the 17-element sequence)
+#   &^   = top half of "y"
+#
+# The notation {#NN} means item NN of the 17-element sequence, i.e. 
+<f57v.R2.NN;V>
+#
+# The first "o" actually lies just before the NW radial line
+#
+<f57v.R4.1;H>      
+o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}.ar.o.s.*!!!!.t.l.s!!!.d.y
+.!!ar.teodar.otodar.sheky.otchody.x!s!l=
+<f57v.R4.1;V>      
+o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}!ar.o.r.*!!!!.t.l.s{?}.d.y
+.d!ar.teodar.otadal.shcky!oteeody.x.r.l=
+<f57v.R4.1;U>      
+o.v.l.r.m.aiin.d.*{&170}.c{&I}.f.r.y.l.k.x.l.r.*{&171},ar.o,r.*{&^}.t.l.s!!!.d.y
+.d,ar.teodar.otadal.sheky.otchody.x.r.l=
+#
+## <f57v.X> {}
+# Labels: human figures inside inner circle
+# Last edited on 1998-12-08 09:22:28 by stolfi
+#
+# "V" transcription by John Grove
+# "U" transcription by J.Stolfi from unidentified scan
+#
+# southern side facing away
+<f57v.X.1;H>       olkchdal=
+<f57v.X.1;V>       olkchdal=
+<f57v.X.1;U>       olkchdal=
+#
+# eastern side facing forward, holding round object
+<f57v.X.2;H>       oparairdly=
+<f57v.X.2;V>       oparairdly=
+<f57v.X.2;U>       oparairdly=
+#
+# western side facing forward
+<f57v.X.3;H>       otardaly=
+<f57v.X.3;V>       otardaly=
+<f57v.X.3;U>       otardaly=
+#
+# northern side facing away
+<f57v.X.4;H>       otodarod=
+<f57v.X.4;V>       otodaram=
+<f57v.X.4;U>       otodaram=
+#
+## <f57v.Y> {}
+# Labels: four directions?
+# Last edited on 1998-12-08 09:59:55 by stolfi
+#
+# "V" transcription by John Grove
+# "U" trancription by J.Stolfi from unidentified scan
+#
+# northeast (towards the "otodaram" nymph)
+<f57v.Y.1;H>       oralaror=
+<f57v.Y.1;V>       aralarar=
+<f57v.Y.1;U>       ara*arar=
+#
+# southeast (towards the "oparairdly" nymph)
+<f57v.Y.2;H>       okchoy=
+<f57v.Y.2;V>       okeely=
+<f57v.Y.2;U>       oka!ly=
+#
+# southwest  (towards the "olkchdal" nymph)
+<f57v.Y.3;H>       ocfhor.okear=
+<f57v.Y.3;V>       o!fhal.okear=
+<f57v.Y.3;U>       ocfhor.okear=
+#
+# northwest  (towards the "otardaly" nymph)
+<f57v.Y.4;H>       ackaldy=
+<f57v.Y.4;V>       alkaldy=
+<f57v.Y.4;U>       alkaldy=
+#
