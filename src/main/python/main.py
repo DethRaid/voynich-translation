@@ -11,8 +11,8 @@ from gensim.models.word2vec import LineSentence
 
 from download import download_files
 
-download = True
-concatenate = False
+download = False
+concatenate = True
 train = False
 
 # configure logging
