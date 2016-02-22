@@ -1,10 +1,13 @@
-'''Handles downloading the files of the Voynich manuscript
-'''
+"""Handles downloading the files of the Voynich manuscript
+"""
 
 import logging
-from urllib2 import urlopen, HTTPError
+from urllib.error import HTTPError
+from urllib.request import urlopen
+
 
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
+
 
 def download_single_folio(quire, folio, code):
     try:
@@ -27,12 +30,14 @@ def download_single_folio(quire, folio, code):
         # Just log that downloading failed
         logging.error('Download failed')
 
+
 def download_full_folio(quire, folio):
     quire += 1
     folio += 1
 
     download_single_folio(quire, folio, 'r')
     download_single_folio(quire, folio, 'v')
+
 
 def download_files(): 
     pages_in_folios = [8, 8, 8, 8, 8, 8, 8, 10, 2, 2, 2, 2, 10, 2, 4, 2, 4, 2, 4, 14]

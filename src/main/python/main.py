@@ -1,14 +1,14 @@
-'''
+"""
 Super main Python file to run the whole thing
 
 Relies on gensim and python2
-'''
+"""
 
 import logging
-from urllib2 import urlopen, HTTPError
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 
+from concatenate import concatenate_files
 from download import download_files
 
 download = False
