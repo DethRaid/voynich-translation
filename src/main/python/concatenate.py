@@ -22,7 +22,7 @@ def process_line(line):
     :param line: A single line of text from an EVA file
     :return: The line of text as an array of words
     """
-    chars_to_ignore = ['!', '-', '=']
+    chars_to_ignore = ['!', '-', '=', ' ']
     start_chars = ['{', '<']
     end_chars = ['}', '>']
     write_character = True
@@ -39,16 +39,26 @@ def process_line(line):
 
         if write_character and char not in chars_to_ignore:
             final_string += char
+        elif char == '-' or char == '=':
+            # Replace dashes with a period so we can split words where things infringe on the line
+            final_string += '.'
 
         if char in end_chars:
             write_character = True
 
     # We've done through the line and removed gross characters
-    return final_string.split('.')
+    # Replace all dots with spaces
+    return final_string.replace('.', ' ').strip()
 
 
 def process_line_group(cur_line_group):
-    raise NotImplementedError
+    # look at each line in the group. If the line has a *, it's uncertain. Return the first certain line
+
+    for line in cur_line_group:
+        if '*' not in line:
+            return line + ' '
+
+    return ''
 
 
 def process_file(file_path):
@@ -72,6 +82,7 @@ def process_file(file_path):
             else:
                 # We have a comment, take the last few lines and process them together
                 processed_file += process_line_group(cur_line_group)
+                cur_line_group = list()
 
     return processed_file
 
