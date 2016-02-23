@@ -8,9 +8,6 @@ import logging
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 
-from concatenate import concatenate_files
-from download import download_files
-
 download = False
 concatenate = True
 train = False
@@ -21,9 +18,11 @@ logging.basicConfig(filename='all.log', level=logging.DEBUG)
 if __name__ == '__main__':
     # Download all the files
     if download:
+        from download import download_files
         download_files()
 
     if concatenate:
+        from concatenate import concatenate_files
         concatenate_files()
 
     if train:
