@@ -10,7 +10,7 @@ logging.basicConfig(filename='all.log', level=logging.DEBUG)
 def download_single_folio(quire, folio, code):
     try:
         base_url = "http://www.voynich.nu/"
-        corpa_dir = "../corpa/voynich/"
+        corpa_dir = "../../../corpa/voynich/"
         filename_base = "q{quire:02d}/f{folio:03d}{code}_tr.txt"
 
         filename_formatted = filename_base.format(quire=quire, folio=folio, code=code)
