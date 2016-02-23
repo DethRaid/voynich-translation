@@ -2,9 +2,7 @@
 """
 
 import logging
-from urllib.error import HTTPError
-from urllib.request import urlopen
-
+from urllib2 import urlopen, HTTPError
 
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
 

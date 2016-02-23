@@ -11,7 +11,6 @@ I'll see what gives the prettiest results I guess.
 
 import logging
 from os import listdir
-from os.path import isfile, join
 
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
 
@@ -105,5 +104,7 @@ def concatenate_files():
     manuscript_string = ''
 
     for file_path in files:
-        manuscript_string += process_file(file_path)
+        manuscript_string += process_file(file_path) + '\n'
 
+    with open('../../../corpa/voynich/manuscript.evt') as f:
+        f.write(manuscript_string)
