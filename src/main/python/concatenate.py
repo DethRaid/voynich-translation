@@ -38,9 +38,12 @@ def process_line(line):
 
         if write_character and char not in chars_to_ignore:
             final_string += char
-        elif char == '-' or char == '=':
+        elif char == '-': 
             # Replace dashes with a period so we can split words where things infringe on the line
             final_string += '.'
+        elif char == '=':
+            # Emit a newline so the corpus gets split into paragraphs, and a peroid so my hacky tokenizer won't break
+            final_string += '.=.'
 
         if char in end_chars:
             write_character = True
@@ -56,7 +59,7 @@ def process_line_group(cur_line_group):
     for line in cur_line_group:
         if '*' not in line:
             if '=' in line:
-                return line + '\n'
+                return line.replace('=', '\n')
             else:
                 return line + ' '
 
@@ -83,14 +86,12 @@ def process_file(file_path):
                 cur_line_group.append(process_line(line))
             else:
                 # We have a comment, take the last few lines and process them together
-                processed_file += process_line_group(cur_line_group)
+                processed_line = process_line_group(cur_line_group) 
+                processed_file += processed_line
                 cur_line_group = list()
 
-    print 'processed file', file_path
-
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    return ' '.join(processed_file.split())
-
+    return processed_file # ' '.join(processed_file.split())
 
 def concatenate_files():
     """Take all the files downloaded in the download_files step and process them
