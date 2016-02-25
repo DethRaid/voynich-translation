@@ -86,7 +86,10 @@ def process_file(file_path):
                 processed_file += process_line_group(cur_line_group)
                 cur_line_group = list()
 
-    return processed_file
+    print 'processed file', file_path
+
+    # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
+    return ' '.join(processed_file.split())
 
 
 def concatenate_files():
@@ -107,7 +110,10 @@ def concatenate_files():
     manuscript_string = ''
 
     for file_path in files:
-        manuscript_string += process_file(file_path) + '\n'
+        try:
+            manuscript_string += process_file('../../../corpa/voynich/' + file_path) + '\n'
+        except:
+            print 'Failed to open file', file_path
 
-    with open('../../../corpa/voynich/manuscript.evt') as f:
+    with open('../../../corpa/voynich/manuscript.evt', 'w') as f:
         f.write(manuscript_string)
