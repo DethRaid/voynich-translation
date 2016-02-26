@@ -32,7 +32,7 @@ if __name__ == '__main__':
         # No need for us to re-parse the manuscript, it should already exist from the Korlin stuff
 
         # Load in the kinda useless sentences
-        voynich_model = Word2Vec(LineSentence('../../../corpa/voynich/manuscript.evt'), min_count=2)
+        voynich_model = Word2Vec(LineSentence('../../../corpa/voynich/manuscript.evt'), min_count=1)
         logging.info('Loaded voynich model')
 
         # english_model = Word2Vec(LineSentence('../../../corpa/english/raw_sentences.txt'))
@@ -40,4 +40,6 @@ if __name__ == '__main__':
 
         # logging.info('Words most similar to day: ' + english_model.most_similar('day'))
         print 'words most similar to octhey:', voynich_model.most_similar('octhey')
+        print 'Similarity between octhey and ocphy:', voynich_model.similarity('octhey', 'ocphy')
+        print 'Similarity between octhey and qoekaiin:', voynich_model.similarity('octhey', 'qoekaiin')
 

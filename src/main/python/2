@@ -88,19 +88,21 @@ def process_file(file_path):
                 processed_file += processed_line
                 cur_line_group = list()
             else:
-                if line[-2] in ['-', '=']:
-                    # If the line ends with a - or =, it's the end of the current line of text 
+                if line[-1] in ['-', '=']:
+                    # If the line ends with a - or =, it's the end of the current line of text
+                    print 'Getting ready to process the line'
                     cur_line += line
                     cur_line_group.append(process_line(cur_line))
                     cur_line = ''
                 else:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
+                    print 'line ends with"', line[-1], '"'
                     cur_line += line
                 
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    return '\n'.join(processed_file.split('='))
+    return processed_file # ' '.join(processed_file.split())
 
 def concatenate_files():
     """Take all the files downloaded in the download_files step and process them
@@ -119,17 +121,11 @@ def concatenate_files():
     # The full string of the manuscript
     manuscript_string = ''
 
-    folio_num = 1
-    increment = False
     for file_path in files:
-        # manuscript_string += file_path
         try:
             manuscript_string += process_file('../../../corpa/voynich/' + file_path) + '\n'
         except:
             print 'Failed to open file', file_path
-
-    # Get rid of the stupid = signs
-    manuscript_string = manuscript_string.replace('=', ' ')
 
     with open('../../../corpa/voynich/manuscript.evt', 'w') as f:
         f.write(manuscript_string)
