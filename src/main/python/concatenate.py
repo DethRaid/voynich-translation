@@ -60,7 +60,7 @@ def process_line_group(cur_line_group):
 
     for line in cur_line_group:
         if '*' not in line:
-            return line + ' '
+            return line + '\n'
 
     return ''
 

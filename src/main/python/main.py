@@ -35,11 +35,25 @@ if __name__ == '__main__':
         voynich_model = Word2Vec(LineSentence('../../../corpa/voynich/manuscript.evt'), min_count=1)
         logging.info('Loaded voynich model')
 
-        # english_model = Word2Vec(LineSentence('../../../corpa/english/raw_sentences.txt'))
-        # logging.info('Loaded english model')
+        english_model = Word2Vec(LineSentence('../../../corpa/english/raw_sentences.txt'))
+        logging.info('Loaded english model')
 
         # logging.info('Words most similar to day: ' + english_model.most_similar('day'))
         print 'words most similar to octhey:', voynich_model.most_similar('octhey')
         print 'Similarity between octhey and ocphy:', voynich_model.similarity('octhey', 'ocphy')
         print 'Similarity between octhey and qoekaiin:', voynich_model.similarity('octhey', 'qoekaiin')
+
+        print 'Similarities between maybe translated words:'
+
+        words = ['keerodal', 'kydainy', 'koaiin', 'kooiin', 'keedey']
+        for word1 in words:
+            for word2 in words:
+                print 'Similarity between', word1, 'and', word2, ':', voynich_model.similarity(word1, word2)
+
+        words_english = ['corriander', 'centaurea', 'hellebore', 'cumin', 'cotton']
+
+        print 'Checking English words...'
+        for word1 in words_english:
+            for word2 in words_english:
+                print 'Similarity between', word1, 'and', word2, ':', voynich_model.similarity(word1, word2)
 
