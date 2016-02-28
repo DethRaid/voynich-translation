@@ -5,6 +5,8 @@ Relies on gensim and python2
 """
 
 import logging
+import os.path
+import sys
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 
@@ -16,6 +18,9 @@ train = True
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
 
 if __name__ == '__main__':
+    program = os.path.basename(sys.argv[0])
+    logger = logging.getLogger(program)
+
     # Download all the files
     if download:
         from download import download_files
@@ -29,12 +34,10 @@ if __name__ == '__main__':
 
     if train:
         # Load in the voynich manuscript file and train word2vec on it
-        # No need for us to re-parse the manuscript, it should already exist from the Korlin stuff
-
-        # Load in the kinda useless sentences
         voynich_model = Word2Vec(LineSentence('../../../corpa/voynich/manuscript.evt'), min_count=1)
         logging.info('Loaded voynich model')
 
+        # Load in an English Word2vec model to ensure that our methodology is sound
         english_model = Word2Vec(LineSentence('../../../corpa/english/raw_sentences.txt'))
         logging.info('Loaded english model')
 
