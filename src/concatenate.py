@@ -21,7 +21,7 @@ def process_line(line):
     :param line: A single line of text from an EVA file
     :return: The line of text as an array of words
     """
-    chars_to_ignore = ['!', '-', '=', ' ']
+    chars_to_ignore = ['!', ' ']
     start_chars = ['{', '<']
     end_chars = ['}', '>']
     write_character = True
@@ -38,9 +38,6 @@ def process_line(line):
 
         if write_character and char not in chars_to_ignore:
             final_string += char
-        elif char == '-': 
-            # Replace dashes with a period so we can split words where things infringe on the line
-            final_string += '.'
         elif char == '=':
             # Emit a newline so the corpus gets split into paragraphs, and a peroid so my hacky 
             # tokenizer won't break
@@ -102,6 +99,7 @@ def process_file(file_path):
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
     return '\n'.join(processed_file.split('='))
 
+
 def concatenate_files():
     """Take all the files downloaded in the download_files step and process them
 
@@ -114,7 +112,7 @@ def concatenate_files():
     # Look at each group of lines
     # Return a list of good words
     # Concatenate the lines using the line concatenator
-    files = [f for f in listdir('../../../corpa/voynich')]
+    files = [f for f in listdir('../corpa/voynich')]
 
     # The full string of the manuscript
     manuscript_string = ''
@@ -124,12 +122,12 @@ def concatenate_files():
     for file_path in files:
         # manuscript_string += file_path
         try:
-            manuscript_string += process_file('../../../corpa/voynich/' + file_path) + '\n'
+            manuscript_string += process_file('../corpa/voynich/' + file_path) + '\n'
         except:
             print 'Failed to open file', file_path
 
     # Get rid of the stupid = signs
     manuscript_string = manuscript_string.replace('=', ' ')
 
-    with open('../../../corpa/voynich/manuscript.evt', 'w') as f:
+    with open('../corpa/voynich/manuscript.evt', 'w') as f:
         f.write(manuscript_string)

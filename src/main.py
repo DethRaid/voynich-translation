@@ -11,7 +11,7 @@ from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 
 download = False
-concatenate = True 
+concatenate = True
 train = True
 
 # configure logging
@@ -34,12 +34,12 @@ if __name__ == '__main__':
 
     if train:
         # Load in the voynich manuscript file and train word2vec on it
-        voynich_model = Word2Vec(LineSentence('../../../corpa/voynich/manuscript.evt'), min_count=1)
+        voynich_model = Word2Vec(LineSentence('../corpa/voynich/manuscript.evt'), min_count=1)
         logging.info('Loaded voynich model')
 
         # Load in an English Word2vec model to ensure that our methodology is sound
-        english_model = Word2Vec(LineSentence('../../../corpa/english/raw_sentences.txt'))
-        logging.info('Loaded english model')
+        # english_model = Word2Vec(LineSentence('../corpa/english/raw_sentences.txt'))
+        # logging.info('Loaded english model')
 
         # logging.info('Words most similar to day: ' + english_model.most_similar('day'))
         print 'words most similar to octhey:', voynich_model.most_similar('octhey')
@@ -55,8 +55,11 @@ if __name__ == '__main__':
 
         words_english = ['corriander', 'centaurea', 'hellebore', 'cumin', 'cotton']
 
-        print 'Checking English words...'
-        for word1 in words_english:
-            for word2 in words_english:
-                print 'Similarity between', word1, 'and', word2, ':', voynich_model.similarity(word1, word2)
+        # print 'Checking English words...'
+        # for word1 in words_english:
+        #     for word2 in words_english:
+        #         try:
+        #             print 'Similarity between', word1, 'and', word2, ':', voynich_model.similarity(word1, word2)
+        #         except:
+        #             print 'Could not determine similarity'
 
