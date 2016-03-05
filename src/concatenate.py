@@ -10,6 +10,7 @@ I'll see what gives the prettiest results I guess.
 """
 
 import logging
+import re
 from os import listdir
 
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
@@ -21,7 +22,7 @@ def process_line(line):
     :param line: A single line of text from an EVA file
     :return: The line of text as an array of words
     """
-    chars_to_ignore = ['!', ' ']
+    chars_to_ignore = ['!', '-', ' ', ',']
     start_chars = ['{', '<']
     end_chars = ['}', '>']
     write_character = True
@@ -31,17 +32,13 @@ def process_line(line):
     # Do one pass through the line to remove comments and null characters
     # Do another pass to break the line into words
 
-    for char in line:
+    for char in line: 
 
-        if char in start_chars:
+        if char in start_chars: 
             write_character = False
 
-        if write_character and char not in chars_to_ignore:
+        if write_character and char not in chars_to_ignore: 
             final_string += char
-        elif char == '=':
-            # Emit a newline so the corpus gets split into paragraphs, and a peroid so my hacky 
-            # tokenizer won't break
-            final_string += '.=.'
 
         if char in end_chars:
             write_character = True
@@ -56,7 +53,9 @@ def process_line_group(cur_line_group):
     # line
 
     for line in cur_line_group:
+        print 'Looking at line', line
         if '*' not in line:
+            print 'Emitting line', line
             return line + '\n'
 
     return ''
@@ -84,12 +83,14 @@ def process_file(file_path):
                 processed_line = process_line_group(cur_line_group) 
                 processed_file += processed_line
                 cur_line_group = list()
-            else:
-                if line[-2] in ['-', '=']:
-                    # If the line ends with a - or =, it's the end of the current line of text 
-                    cur_line += line
-                    cur_line_group.append(process_line(cur_line))
+            else: 
+                if line[0] == '<': 
+                    # If the line starts with a <. we should cut off the last line
+                    line_san = re.sub('[\s+]', ' ', cur_line) 
+
+                    cur_line_group.append(process_line(' '.join(line_san)))
                     cur_line = ''
+                    cur_line += line
                 else:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
@@ -97,7 +98,7 @@ def process_file(file_path):
                 
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    return '\n'.join(processed_file.split('='))
+    return file_path + '\n' + '\n'.join(processed_file.split('='))
 
 
 def concatenate_files():
