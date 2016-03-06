@@ -48,12 +48,12 @@ if __name__ == '__main__':
 
         print 'Similarities between maybe translated words:'
 
-        words = ['keerodal', 'kydainy', 'koaiin', 'kooiin', 'keedey']
+        words = ['keerodal', 'kydainy', 'koaiin', 'kooiin', 'keedey', 'oror']
         for word1 in words:
             for word2 in words:
                 print 'Similarity between', word1, 'and', word2, ':', voynich_model.similarity(word1, word2)
 
-        words_english = ['corriander', 'centaurea', 'hellebore', 'cumin', 'cotton']
+        words_english = ['corriander', 'centaurea', 'hellebore', 'cumin', 'cotton', 'juniper']
 
         # print 'Checking English words...'
         # for word1 in words_english:

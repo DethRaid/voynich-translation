@@ -167,3 +167,5 @@ all.log
 corpa/spanish
 corpa/english
 python/voynich
+*.txt
+*.evt

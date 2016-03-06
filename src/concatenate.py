@@ -53,9 +53,7 @@ def process_line_group(cur_line_group):
     # line
 
     for line in cur_line_group:
-        print 'Looking at line', line
-        if '*' not in line:
-            print 'Emitting line', line
+        if '*' not in line and len(line) > 0:
             return line + '\n'
 
     return ''
@@ -74,31 +72,44 @@ def process_file(file_path):
     """
     processed_file = ''
     with open(file_path) as f:
+        print 'Beginning', file_path
+
         content = f.readlines()
         cur_line_group = list()
         cur_line = ''
         for line in content:
             if line[0] == '#':
                 # We have a comment, take the last few lines and process them together
+                cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
+                cur_line_group.append(cur_line_san)
+                print 'Found a comment, processing group', cur_line_group
                 processed_line = process_line_group(cur_line_group) 
                 processed_file += processed_line
                 cur_line_group = list()
-            else: 
+                cur_line = ''
+            else:
                 if line[0] == '<': 
                     # If the line starts with a <. we should cut off the last line
-                    line_san = re.sub('[\s+]', ' ', cur_line) 
+                    cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line)) 
+                    print 'Found a new line, adding "', cur_line_san, '" to the current line group'
 
-                    cur_line_group.append(process_line(' '.join(line_san)))
+                    cur_line_group.append(cur_line_san)
                     cur_line = ''
                     cur_line += line
+                    print 'Appended "', line, '" to the new current line'
                 else:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
-                    cur_line += line
-                
+                    cur_line += line 
+
+        # We've done all the lines, but we still need to process the last line
+        cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
+        cur_line_group.append(cur_line_san)
+        print 'appended', cur_line_san
+        processed_file += process_line_group(cur_line_group)
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    return file_path + '\n' + '\n'.join(processed_file.split('='))
+    return '\n'.join(processed_file.split('='))
 
 
 def concatenate_files():
@@ -121,11 +132,14 @@ def concatenate_files():
     folio_num = 1
     increment = False
     for file_path in files:
-        # manuscript_string += file_path
+        if not file_path[-3:] == 'txt':
+            print 'Skipping non-text file', file_path
+            continue
         try:
             manuscript_string += process_file('../corpa/voynich/' + file_path) + '\n'
-        except:
+        except Exception, e:
             print 'Failed to open file', file_path
+            print 'reason:', e
 
     # Get rid of the stupid = signs
     manuscript_string = manuscript_string.replace('=', ' ')
