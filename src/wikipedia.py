@@ -23,7 +23,7 @@ if __name__ == '__main__':
         print globals()['__doc__'] % locals()
         sys.exit(1)
     inp, outp = sys.argv[1:3]
-    space = " "
+    space = "\n"
     i = 0
 
     output = open(outp, 'w')

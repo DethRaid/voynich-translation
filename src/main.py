@@ -34,7 +34,8 @@ if __name__ == '__main__':
 
     if train:
         # Load in the voynich manuscript file and train word2vec on it
-        voynich_model = Word2Vec(LineSentence('../corpa/voynich/manuscript.evt'), min_count=1)
+        voynich_model = Word2Vec(LineSentence('../corpa/voynich/manuscript.evt'), min_count=1, size=300)
+        voynich_model.save('../corpa/voynich/model.w2v')
         logging.info('Loaded voynich model')
 
         # Load in an English Word2vec model to ensure that our methodology is sound
