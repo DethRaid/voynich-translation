@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 
 """
-Select 30,000 random Spanish words from the Spanish corpa, then selects nine at random to use as anchor points. The anchor point words are printed to a
+Select 5000 random Spanish words from the Spanish corpa, then selects nine at random to use as anchor points. The anchor point words are printed to a
 file so that human can generate their translations
 """
 
@@ -23,10 +23,10 @@ if __name__ == '__main__':
     logger.info('Spanish file read in')
 
     random.shuffle(lines)
-    spanish_vocab = lines[:30000]
-    logger.info('Shuffled Spanish words and got the first 30K')
+    spanish_vocab = lines[:5000]
+    logger.info('Shuffled Spanish words and got the first 5K')
 
-    with open('../../corpa/spanish/model-ascii-30k.w2v', 'w') as f:
+    with open('../../corpa/spanish/model-ascii-5k.w2v', 'w') as f:
         file_data = '\n'.join(spanish_vocab)
         f.write(file_data)
 

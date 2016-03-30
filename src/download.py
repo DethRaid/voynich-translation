@@ -4,18 +4,18 @@
 import logging
 from urllib2 import urlopen, HTTPError
 
-logging.basicConfig(filename='all.log', level=logging.DEBUG)
+log = logging.getLogger('download')
 
 
 def download_single_folio(quire, folio, code):
     try:
         base_url = "http://www.voynich.nu/"
-        corpa_dir = "../../../corpa/voynich/"
+        corpa_dir = "../corpa/voynich/"
         filename_base = "q{quire:02d}/f{folio:03d}{code}_tr.txt"
 
         filename_formatted = filename_base.format(quire=quire, folio=folio, code=code)
 
-        logging.debug('Downloading folio from ' + base_url + filename_formatted)
+        log.debug('Downloading folio from ' + base_url + filename_formatted)
 
         response = urlopen(base_url + filename_formatted)
         folio_text = response.read()
@@ -23,10 +23,10 @@ def download_single_folio(quire, folio, code):
         target = open(corpa_dir + filename_formatted.replace('/', '_'), 'w')
         target.write(folio_text)
 
-        logging.info('Downloaded folio ' + filename_formatted)
+        log.info('Downloaded folio ' + filename_formatted)
     except HTTPError:
         # Just log that downloading failed
-        logging.error('Download failed')
+        log.error('Download failed')
 
 
 def download_full_folio(quire, folio):

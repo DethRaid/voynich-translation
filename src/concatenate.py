@@ -13,7 +13,7 @@ import logging
 import re
 from os import listdir
 
-logging.basicConfig(filename='all.log', level=logging.DEBUG)
+log = logging.getLogger('concatenate')
 
 
 def process_line(line):
@@ -72,7 +72,7 @@ def process_file(file_path):
     """
     processed_file = ''
     with open(file_path) as f:
-        print 'Beginning', file_path
+        log.debug('Beginning %s' % file_path)
 
         content = f.readlines()
         cur_line_group = list()
@@ -82,7 +82,7 @@ def process_file(file_path):
                 # We have a comment, take the last few lines and process them together
                 cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
                 cur_line_group.append(cur_line_san)
-                print 'Found a comment, processing group', cur_line_group
+                log.debug('Found a comment, processing group %s' % cur_line_group)
                 processed_line = process_line_group(cur_line_group) 
                 processed_file += processed_line
                 cur_line_group = list()
@@ -91,12 +91,12 @@ def process_file(file_path):
                 if line[0] == '<': 
                     # If the line starts with a <. we should cut off the last line
                     cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line)) 
-                    print 'Found a new line, adding "', cur_line_san, '" to the current line group'
+                    log.debug('Found a new line, adding "%s" to the current line group' % cur_line_san)
 
                     cur_line_group.append(cur_line_san)
                     cur_line = ''
                     cur_line += line
-                    print 'Appended "', line, '" to the new current line'
+                    log.debug('Appended "%s" to the new current line' % line)
                 else:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
@@ -105,20 +105,22 @@ def process_file(file_path):
         # We've done all the lines, but we still need to process the last line
         cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
         cur_line_group.append(cur_line_san)
-        print 'appended', cur_line_san
+        log.debug('appended %s' % cur_line_san)
         processed_file += process_line_group(cur_line_group)
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
     return '\n'.join(processed_file.split('='))
 
 
-def concatenate_files():
+def concatenate_files(manuscript_file_name):
     """Take all the files downloaded in the download_files step and process them
 
     After this funciton finishes, there should be a new file, manuscript.evt,
     with the full text of the Voynich manuscript arranged with one line of
     Voynich per line in the file, with only certain words and with spaces
     instead of periods
+
+    :param manuscript_file_name: The name of the file to write the manuscript to
     """
     # Go through each file in the folder
     # Look at each group of lines
@@ -133,16 +135,16 @@ def concatenate_files():
     increment = False
     for file_path in files:
         if not file_path[-3:] == 'txt':
-            print 'Skipping non-text file', file_path
+            log.info('Skipping non-text file %s' % file_path)
             continue
         try:
             manuscript_string += process_file('../corpa/voynich/' + file_path) + '\n'
         except Exception, e:
-            print 'Failed to open file', file_path
-            print 'reason:', e
+            log.error('Failed to open file &s' % file_path)
+            log.exception(e)
 
     # Get rid of the stupid = signs
     manuscript_string = manuscript_string.replace('=', ' ')
 
-    with open('../corpa/voynich/manuscript.evt', 'w') as f:
+    with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
