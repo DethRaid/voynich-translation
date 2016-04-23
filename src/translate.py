@@ -6,8 +6,8 @@ import logging
 import collections
 
 import numpy as np
-from space import Space
-from utils import apply_tm
+from transmat.space import Space
+from transmat.utils import apply_tm
 
 log = logging.getLogger('translate')
 
@@ -43,16 +43,21 @@ def translate_language(source_file, target_file, translation_matrix_file, output
     mapped_source_sp = apply_tm(source_sp, tm)
 
     gold = collections.defaultdict(set)
+    count = 0
 
     # Go through all the words in the space's index, getting their closest x equivalents from the target space
-    for word, idx in mapped_source_sp.row2id:
+    for word, idx in mapped_source_sp.row2id.iteritems():
         log.debug('Translating word %s' % word)
         word_embedding = mapped_source_sp.mat[idx]
-        log.debug('Embedding for word: %s' % word_embedding)
-
+        
         closest_words = target_sp.get_closest_words(word_embedding, num_translations)
         
         gold[word] = closest_words
+        log.debug('Possible translations: %s' % closest_words)
+
+        count += 1
+        if count % 500 == 0:
+            log.debug('Translated %d words' % count)
 
     log.info('Translated all words into the target language')
 

@@ -41,8 +41,6 @@ class Space(object):
             ncols = len(f.readline().split())
 
         with open(fname) as f: 
-            logger.debug('Loading words from %s' % fname)
-            logger.debug('Using %d columns' % (ncols - 1))
             m = np.matrix(np.loadtxt(filter_lines(f), comments=None, usecols=range(1,ncols)))
 
         return Space(m, id2row)
@@ -66,13 +64,15 @@ class Space(object):
         cosine distance from that word to the source word
         """
 
+        word_matrix = word.transpose()
+
         similarities = dict()
-        for idx, embedding in enumerate(self.mat):
-            similarities[idx] = np.dot(embedding, word)
+        for idx, embedding in enumerate(self.mat): 
+            similarities[idx] = np.dot(embedding, word_matrix)
 
         sorted_words = sorted(similarities.items(), key=operator.itemgetter(1))
 
-        top_words = sorted_words[:num]
+        top_words = sorted_words[-num:]
 
         return map(lambda x: (self.id2row[x[0]], x[1]), top_words)
 

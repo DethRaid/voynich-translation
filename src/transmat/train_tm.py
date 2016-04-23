@@ -35,6 +35,9 @@ def train_translation_matrix(source_file, target_file, dict_file, out_file):
     target_sp = Space.build(target_file, set(target_words))
     target_sp.normalize()
 
+    log.debug('Words in the source space: %s' % source_sp.row2id)
+    log.debug('Words in the target space: %s' % target_sp.row2id)
+
     log.info("Learning the translation matrix")
     log.info("Training data: %s" % str(train_data))
     tm = train_tm(source_sp, target_sp, train_data)

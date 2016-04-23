@@ -1,7 +1,10 @@
 import numpy as np
 import collections
+import logging
 from space import Space
 
+
+log = logging.getLogger('utils')
 
 def prec_at(ranks, cut):
     return len([r for r in ranks if r <= cut])/float(len(ranks))
@@ -23,13 +26,30 @@ def apply_tm(sp, tm):
     return Space(sp.mat*tm, sp.id2row)
     
 def get_valid_data(sp1, sp2, data):
-    return [(el1, el2) for el1,el2 in data if 
-            el1 in sp1.row2id and el2 in sp2.row2id]
+    good_data = list()
+    for el1, el2 in data:
+        good = True
+        if el1 not in sp1.row2id:
+            log.error('word %s not in space 1' % el1)
+            good = False
+
+        if el2 not in sp2.row2id:
+            log.error('Word %s not in space 2' % el2)
+            good = False
+
+        if good:
+            good_data.append((el1, el2))
+        
+
+    # return [(el1, el2) for el1,el2 in data if 
+    #         el1 in sp1.row2id and el2 in sp2.row2id]
+
+    return good_data
 
 def train_tm(sp1, sp2, data):
 
     data = get_valid_data(sp1, sp2, data)
-    print "Training using: %d word pairs" % len(data)
+    log.debug("Training using: %d word pairs" % len(data))
     
     els1, els2 = zip(*data)
     m1 = sp1.mat[[sp1.row2id[el] for el in els1],:]
