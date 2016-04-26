@@ -24,21 +24,45 @@ class Space(object):
 
 
     @classmethod
-    def build(cls, fname, lexicon=None):
+    def build(cls, fname, lexicon=None, total_count=1000000000, only_lower=False):
 
         #if lexicon is provided, only data occurring in the lexicon is loaded
         id2row = []
         def filter_lines(f): 
+            count = 0
             for i,line in enumerate(f): 
                 word = line.split()[0]
                 if i != 0 and (lexicon is None or word in lexicon) and len(line.split()) > 2:
+                    if only_lower and not word[0].islower():
+                        continue
+                    if count > total_count:
+                        return
+
+                    if word == 'By_Jon_Nones' or word == 'Fouled_Out_None':
+                        # This causes my code to fail and I don't know why.
+                        # Jon Nones, why'd you have to write things?
+                        continue
+                
+                    line_len = len(line.split())
+                    if line_len != ncols:
+                        logger.error('Line \n%s\n has %d columns when it should have %d' % (line, line_len, ncols))
+
+                    # if count > 259000:
+                    #     logger.info(line)
+
+                    count += 1
                     id2row.append(word)
+                    if count % 1000 == 0:
+                        logger.info('Read in %d words' % count)
+
                     yield line
 
         #get the number of columns
         with open(fname) as f:
             f.readline()
             ncols = len(f.readline().split())
+
+        logger.debug('Working with %d columns' % ncols)
 
         with open(fname) as f: 
             m = np.matrix(np.loadtxt(filter_lines(f), comments=None, usecols=range(1,ncols)))
