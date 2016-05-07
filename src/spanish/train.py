@@ -12,6 +12,11 @@ import logging
 import os
 import random
 import multiprocessing
+import collections
+from math import ceil
+from random import shuffle
+import time
+
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 import nltk
@@ -100,6 +105,18 @@ def __train_model(filename):
     spanish_model.save_word2vec_format(filename)
 
 
+def __translate_with_google(service, words):
+    """Sends a bunch of words to Google and returns their translations
+
+    :param service: The Google Services API object thing
+    :param words: the words to translate
+    """ 
+    translations_response = service.translations().list(source='es', target='en', q=words).execute() 
+    translations = translations_response['translations']                                                                      
+
+    return translations
+
+
 def __get_anchor_words(spanish_vocab, english_vocab, num_words):
     """Randomly selects num_words words from the Spanish vocabulary and translates them with Google Translate,
     verifying that the translations are in the English vocabulary.
@@ -118,17 +135,30 @@ def __get_anchor_words(spanish_vocab, english_vocab, num_words):
     # Get the translation service
     service = build('translate', 'v2', developerKey=key)
 
-    anchor_words = list()
-    counter = 0
-    for word in spanish_vocab:
-        translation = service.translations().list(source='es', target='en', q=[word]).execute()['translations'][0]['translatedText'] 
-        log.debug('%s translated as %s' % (word, translation))
-        
-        if translation in english_vocab:
-            anchor_words.append((word, translation))
+    anchor_words = list() 
+    spanish_vocab = [x.decode('utf-8') for x in spanish_vocab]
+    words_to_translate = spanish_vocab[:num_words]
+     
+    # Split the words into sets of no more than 50 words
+    words_sent = 0
+    while words_sent < num_words:
+        top_num = min(words_sent + 50, num_words - 1) 
+        words_in_batch = words_to_translate[words_sent:top_num]
+        try:
+            translations = __translate_with_google(service, words_in_batch) 
+         
+            for word, trans in zip(words_in_batch, translations):
+                anchor_words.append((word.encode('utf-8'), trans['translatedText']))
 
-        if len(anchor_words) >= num_words:
-            return anchor_words
+            # Sleep 100 ms so we don't overload Google
+            # Is overloading Google even a problem? I have no idea. I keep getting 500s, though, so it can't hurt to be safe
+            time.sleep(0.1) 
+        except HttpError, e:
+            log.error('Count not translate words %d to %d because %s' % (words_sent, num_words, e))
+
+        words_sent += 50
+
+    return anchor_words
 
 
 def __evaluate_translation(translations, english_model):
@@ -150,28 +180,31 @@ def __evaluate_translation(translations, english_model):
 
     service = build('translate', 'v2', developerKey=key)
 
-    results = list()
-    for word, possibilities in translations:
+    results = collections.defaultdict(list)
+    for word, possibilities in translations.iteritems():
         # Sent the word to Google Translate. See if any of the translations Google returns are similar to and of the
-        # translations that my system has generated. The smallest distance is the wuality of my system's translation
-        for possibility in possibilities:
-            log.debug('Possiblity: %s' % possibility)
-            if possibility not in english_model:
-                log.error('%s is not a known English word, for some weird reason' % possibility)
-                continue
+        # translations that my system has generated. The smallest distance is the quality of my system's translation
 
-            translation = services.translations().list(source='es', target='en', q=[word]).execute()['translations']
+        try:
+            translation = service.translations().list(source='es', target='en', q=[word.decode('utf-8')]).execute()['translations']
+    
+            for possibility, score in possibilities:
+                if possibility not in english_model:
+                    log.error('%s is not a known English word, for some weird reason' % str(possibility))
+                    continue
 
-            smallest_dist = 1000
-            smallest_word = ''
-            for gtrans in translation:
-                if gtrans['translatedText'] in english_model:
-                    distance = english_model.similarity(gtrans['translatedText'], possibility)
-                    if ditance < smallest_dst:
-                        smallest_dst = distance
-                        smallest_word = possibility 
+                smallest_dst = 1000
+                smallest_word = ''
+                for gtrans in translation:
+                    if gtrans['translatedText'] in english_model:
+                        distance = english_model.similarity(gtrans['translatedText'], possibility)
+                        if distance < smallest_dst:
+                            smallest_dst = distance
+                            smallest_word = possibility 
 
-            results.append((word, smallest_word, smallest_dst))
+                results[word].append((smallest_word, smallest_dst))
+        except HttpError, e:
+            log.error('Could not retrieve translation for word %s because %s' % (word, e))
 
     return results
 

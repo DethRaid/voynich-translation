@@ -38,21 +38,25 @@ class Space(object):
                     if count > total_count:
                         return
 
-                    if word == 'By_Jon_Nones' or word == 'Fouled_Out_None':
+                    if 'None' in word or '_' in word or word[0].isupper():
                         # This causes my code to fail and I don't know why.
                         # Jon Nones, why'd you have to write things?
+                        # Excludes multi-word proper nouns (most proper nouns) because they use RAM and proper nouns
+                        # aren't useful for translation
+                        # Also does the thing of removing words that start with an uppercase letter
+                        # This includes proper nouns AND words at the beginning of sentences. Whoops. However, the program runs now, so all well
                         continue
                 
                     line_len = len(line.split())
                     if line_len != ncols:
                         logger.error('Line \n%s\n has %d columns when it should have %d' % (line, line_len, ncols))
 
-                    # if count > 259000:
-                    #     logger.info(line)
+                    # if count > 193000:
+                    #    logger.info(line)
 
                     count += 1
                     id2row.append(word)
-                    if count % 1000 == 0:
+                    if count % 7000 == 0:
                         logger.info('Read in %d words' % count)
 
                     yield line
