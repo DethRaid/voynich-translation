@@ -47,17 +47,28 @@ def process_line(line):
     # Replace all dots with spaces
     return final_string.replace('.', ' ').strip()
 
-
 def process_line_group(cur_line_group):
-    # look at each line in the group. If the line has a *, it's uncertain. Return the first certain 
-    # line
+    # Examine the lines in parallel. For each positino in the line, look for the most common character amoung the 
+    # various transcriptions. If there's a tie, randomly chose one of the characters
+    # If an unknown letter persists in the final line, we can try to figure out what the word is based on in some
+    # downstream step
 
-    for line in cur_line_group:
-        if '*' not in line and len(line) > 0:
-            return line + '\n'
+    final_line = ""
 
-    return ''
+    # assume that all the lines are the smae length. Pretty sure this is true
+    for index in range(0, len(cur_line_group[0])):
+        characters = defaultdict(int)
+        for line in cur_line_group:
+            characters[line[index]] += 1
 
+        common_char = 'o'
+        for key, value in characters.iteritems():
+            if value > characters[common_char]:
+                common_char = key
+
+        final_line += str(common_char)
+
+    return line
 
 def process_file(file_path):
     """Opens a single file and processes it
@@ -109,7 +120,11 @@ def process_file(file_path):
         processed_file += process_line_group(cur_line_group)
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    return '\n'.join(processed_file.split('='))
+    line_with_spaces = '\n'.join(processed_file.split('='))
+
+    # Now we just need to resolve unknown letters
+    # The code for that will be hard, so let's first just print out the number of unknown letters to see if we need to 
+    # do anything about tit
 
 
 def concatenate_files(manuscript_file_name):
