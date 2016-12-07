@@ -11,7 +11,9 @@ I'll see what gives the prettiest results I guess.
 
 import logging
 import re
+import sys
 from os import listdir
+from collections import defaultdict
 
 log = logging.getLogger('concatenate')
 
@@ -21,10 +23,9 @@ def process_line(line):
 
     :param line: A single line of text from an EVA file
     :return: The line of text as an array of words
-    """
-    chars_to_ignore = ['!', '-', ' ', ',']
-    start_chars = ['{', '<']
-    end_chars = ['}', '>']
+    """ 
+    start_chars = ['<']
+    end_chars = ['>']
     write_character = True
 
     final_string = ''
@@ -37,15 +38,13 @@ def process_line(line):
         if char in start_chars: 
             write_character = False
 
-        if write_character and char not in chars_to_ignore: 
+        if write_character:
             final_string += char
 
         if char in end_chars:
             write_character = True
 
-    # We've done through the line and removed gross characters
-    # Replace all dots with spaces
-    return final_string.replace('.', ' ').strip()
+    return final_string
 
 def process_line_group(cur_line_group):
     # Examine the lines in parallel. For each positino in the line, look for the most common character amoung the 
@@ -53,22 +52,27 @@ def process_line_group(cur_line_group):
     # If an unknown letter persists in the final line, we can try to figure out what the word is based on in some
     # downstream step
 
+    # Remove any lines with a length of 0
+    line_group = [line.strip() for line in cur_line_group if len(line) > 0]
+    if len(line_group) == 0:
+        return ''
+
     final_line = ""
 
     # assume that all the lines are the smae length. Pretty sure this is true
-    for index in range(0, len(cur_line_group[0])):
-        characters = defaultdict(int)
-        for line in cur_line_group:
+    for index in range(0, len(line_group[0])):
+        characters = defaultdict(int) 
+        for line in line_group:
             characters[line[index]] += 1
 
-        common_char = 'o'
+        common_char = characters.keys()[0]
         for key, value in characters.iteritems():
             if value > characters[common_char]:
                 common_char = key
 
         final_line += str(common_char)
 
-    return line
+    return final_line
 
 def process_file(file_path):
     """Opens a single file and processes it
@@ -82,16 +86,21 @@ def process_file(file_path):
     :return: A single string representing the whole processed file
     """
     processed_file = ''
+    skipped_first = False
     with open(file_path) as f:
-        log.debug('Beginning %s' % file_path)
+        print 'Beginning %s' % file_path
 
         content = f.readlines()
         cur_line_group = list()
         cur_line = ''
         for line in content:
+            if not skipped_first:
+                skipped_first = True
+                continue
+
             if line[0] == '#':
                 # We have a comment, take the last few lines and process them together
-                cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
+                cur_line_san = process_line(cur_line)
                 cur_line_group.append(cur_line_san)
                 log.debug('Found a comment, processing group %s' % cur_line_group)
                 processed_line = process_line_group(cur_line_group) 
@@ -101,7 +110,7 @@ def process_file(file_path):
             else:
                 if line[0] == '<': 
                     # If the line starts with a <. we should cut off the last line
-                    cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line)) 
+                    cur_line_san = process_line(cur_line) 
                     log.debug('Found a new line, adding "%s" to the current line group' % cur_line_san)
 
                     cur_line_group.append(cur_line_san)
@@ -114,18 +123,20 @@ def process_file(file_path):
                     cur_line += line 
 
         # We've done all the lines, but we still need to process the last line
-        cur_line_san = process_line(re.sub('[\s+]', ' ', cur_line))
+        cur_line_san = process_line(cur_line)
         cur_line_group.append(cur_line_san)
         log.debug('appended %s' % cur_line_san)
         processed_file += process_line_group(cur_line_group)
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
-    line_with_spaces = '\n'.join(processed_file.split('='))
+    line_with_spaces = re.sub('[\.\-]', ' ', processed_file) 
+    line_with_spaces = re.sub('=', '\n', line_with_spaces)
 
     # Now we just need to resolve unknown letters
     # The code for that will be hard, so let's first just print out the number of unknown letters to see if we need to 
-    # do anything about tit
+    # do anything about it
 
+    return line_with_spaces
 
 def concatenate_files(manuscript_file_name):
     """Take all the files downloaded in the download_files step and process them
@@ -163,3 +174,10 @@ def concatenate_files(manuscript_file_name):
 
     with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
+
+if __name__ == "__main__":
+    # Read in a file from the filename given on the commandline
+    filename = sys.argv[1]
+    print process_file(filename)
+    concatenate_files('manuscript.evt')
+    print 'Input files concatenated'
