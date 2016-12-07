@@ -59,6 +59,10 @@ def process_line_group(cur_line_group):
 
     final_line = ""
 
+    # print 'Procesisng lines'
+    # for line in line_group:
+    #     print line + ' with length ' + str(len(line))
+
     # assume that all the lines are the smae length. Pretty sure this is true
     for index in range(0, len(line_group[0])):
         characters = defaultdict(int) 
@@ -176,9 +180,16 @@ def concatenate_files(manuscript_file_name):
     with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
 
+def print_help():
+    print """This script concatenates all the txt files for the Voynich Manuscript into
+    a single model, trying to resolve as many unknown characters as possible
+
+Try calling it with no arguments to see it work!"""
+
 if __name__ == "__main__":
-    # Read in a file from the filename given on the commandline
-    filename = sys.argv[1]
-    print process_file(filename)
+    if len(sys.argv) > 1:
+        print_help()
+        sys.exit()
+
     concatenate_files('manuscript.evt')
     print 'Input files concatenated'

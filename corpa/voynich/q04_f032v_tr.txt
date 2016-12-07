@@ -70,14 +70,9 @@
 <f32v.P.7;F>       ksho.cphor.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
 <f32v.P.7;U>       ksho.cphor.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
 #
-<f32v.P.9;H>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-
-{plant}shar-
-<f32v.P.9;C>       
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
-<f32v.P.9;F>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-
-{plant}shar-
-<f32v.P.9;U>       otchol.daiin.daiin.ctho,daiin.qotaiin-{plant}otchy.d-
-{plant}shar-
+<f32v.P.9;H>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-{plant}shar-
+<f32v.P.9;F>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-{plant}shar-
+<f32v.P.9;U>       otchol.daiin.daiin.ctho,daiin.qotaiin-{plant}otchy.d-{plant}shar-
 #
 <f32v.P.9a;H>      qotchy.cfhy.s!key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
 <f32v.P.9a;C>      qotd!y.cfhy.s!key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
