@@ -166,7 +166,8 @@ def concatenate_files(manuscript_file_name):
         try:
             manuscript_string += process_file('../corpa/voynich/' + file_path) + '\n'
         except Exception, e:
-            log.error('Failed to open file &s' % file_path)
+            print 'Failed to process file ' + file_path
+            log.error('Failed to process file %s' % file_path)
             log.exception(e)
 
     # Get rid of the stupid = signs
