@@ -145,7 +145,7 @@ def process_file(file_path):
 def concatenate_files(manuscript_file_name):
     """Take all the files downloaded in the download_files step and process them
 
-    After this funciton finishes, there should be a new file, manuscript.evt,
+    After this funciton finishes, there should be a new file, manuscript.txt,
     with the full text of the Voynich manuscript arranged with one line of
     Voynich per line in the file, with only certain words and with spaces
     instead of periods
@@ -191,5 +191,5 @@ if __name__ == "__main__":
         print_help()
         sys.exit()
 
-    concatenate_files('manuscript.evt')
+    concatenate_files('manuscript.txt')
     print 'Input files concatenated'

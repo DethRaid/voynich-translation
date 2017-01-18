@@ -9,6 +9,7 @@ import logging
 import re
 import nltk
 import nltk.data
+import time
 from gensim.models import Word2Vec
 
 
@@ -59,6 +60,7 @@ def __handle_markdown_corpus(corpus_file):
             f.write('\n'.join(line_split))
 
     log.info('Wrote sentences to the corpus file')
+    return lines
 
 
 def __handle_wikipedia_corpus(corpus_file):
@@ -87,10 +89,13 @@ def __handle_nice_corpus(corpus_file):
     log.debug('Encoding of file is %s' % encoding)
 
     lines = []
-    with io.open(corpus_file, 'r', encoding='utf-8-sig') as f:
-        for line in f: 
-            line = filter(lambda x: x != '_', line)
-            line_split = tokenizer.tokenize(line)   # The lines just got punk't!
+    with io.open(corpus_file, 'r', encoding=encoding) as f:
+        for line in f:
+            line_no_understores = str()
+            for char in line:
+                if char != '_':
+                    line_no_understores += char
+            line_split = tokenizer.tokenize(line_no_understores)   # The lines just got punk't!
             lines += line_split
 
     return lines
@@ -124,16 +129,21 @@ def prepare_english_corpus(corpus_file, corpus_type, vector_size):
     :param corpus_file: The file to read the corpus from
     :param corpus_type: The tyoe of the corpus. Valid values are 'wiki' for a Wikipedia corpus and 'md' for a corpus
     that should be treated like markdown
+
+    :return: The Word2Vec model of the English corpus
     """
+
+    log.setLevel(logging.INFO)
+    log.info("Starting corpus processing at " + str(time.time()))
 
     if corpus_type == 'md':
         lines = __handle_markdown_corpus(corpus_file)
 
     elif corpus_type == 'wiki':
-        lines =  __handle_wikipedia_corpus(corpus_file)
+        lines = __handle_wikipedia_corpus(corpus_file)
 
     elif corpus_type == 'none':
-       lines =  __handle_nice_corpus(corpus_file)
+       lines = __handle_nice_corpus(corpus_file)
 
     else:
         log.error('Incorrect corpus format given')
@@ -142,7 +152,7 @@ def prepare_english_corpus(corpus_file, corpus_type, vector_size):
     log.info('Split file into sentences')
 
     tagged_lines = __tag_parts_of_speech(lines)
-    with open('../corpa/english/en_corpus.txt', 'w') as f:
+    with open('corpa/english/en_corpus.txt', 'w') as f:
         f.write('\n'.join(tagged_lines))
 
     log.info('tagged parts of speech')
@@ -153,7 +163,9 @@ def prepare_english_corpus(corpus_file, corpus_type, vector_size):
         split_lines.append(split_line)
 
     english_model = Word2Vec(split_lines, size=vector_size, min_count=2)
-    english_model.save_word2vec_format('../corpa/english/model.w2v')
+    english_model.save_word2vec_format('corpa/english/model.w2v')
 
     log.info('Generated word2vec model')
+    log.info('Corpus processing done at ' + str(time.time()))
+    return english_model
 

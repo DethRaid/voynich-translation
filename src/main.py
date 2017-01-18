@@ -18,12 +18,12 @@ def useage():
     """Prints the useage of this program
     """
 
-    print """tvm - a utility to translate the Voynich manuscript into English
+    print("""tvm - a utility to translate the Voynich manuscript into English
 
     Useage: $ python tvm.py -[dcgat] [params]
     
-    This program has a number of steps, all of which can be controlled with a number of switches. If none of the switches
-    are given, the program performs all the steps.
+    This program has a number of steps, all of which can be controlled with a number of switches. If none of the
+    switches are given, the program performs all the steps.
     
         -p      Prepare. Prepares an English corpus for use as an English language model
         -d      Download. Downloads the Voynich Manuscript
@@ -60,7 +60,7 @@ def useage():
                                     Defulat is 100.
         -n, --num-possible      Specifies the number of potential translations to generate for each Voynich word when
                                     Translating. Default is 5.
-    """
+    """)
 
 
 if __name__ == '__main__':
@@ -70,7 +70,7 @@ if __name__ == '__main__':
     try:
         opts, argv = getopt.getopt(sys.argv[1:], 'hpdcgatos:n:', ['en-text=', 'corpus-type=', 'manuscript=', 'voy-model-file=', 'align-file=', 'align-matrix=', 'voy-en-dict=', 'vector-size=', 'num-possible=', 'source-file=', 'output_file='])
 
-    except getopt.GetoptError, e:
+    except getopt.GetoptError as e:
         log.exception(e)
         useage()
         sys.exit(1)
@@ -85,17 +85,17 @@ if __name__ == '__main__':
     output = False
     do_all = True
 
-    working_dir = '..'
+    working_dir = ''    # MUST end in a /
 
     english_corpus = ''
     english_corpus_type = 'none'
-    manuscript_file = working_dir + '/corpa/voynich/manuscript.txt'
-    voynich_model_file = working_dir + '/corpa/voynich/model.w2v'
-    align_file = working_dir + '/en-voy-align.txt'
-    align_matrix_file = working_dir + '/voy-en-matrix.txt'
-    voynich_to_englich_dict = working_dir + '/voy-en-dict.txt'
-    source_file = working_dir + '/corpa/voynich/manuscript.txt' 
-    output_file = working_dir + '/output/manuscript_en.txt'
+    manuscript_file = working_dir + 'corpa/voynich/manuscript.txt'
+    voynich_model_file = working_dir + 'corpa/voynich/model.w2v'
+    align_file = working_dir + 'en-voy-align.txt'
+    align_matrix_file = working_dir + 'voy-en-matrix.txt'
+    voynich_to_englich_dict = working_dir + 'voy-en-dict.txt'
+    source_file = working_dir + 'corpa/voynich/manuscript.txt'
+    output_file = working_dir + 'output/manuscript_en.txt'
     vector_size = 100
     num_possible_translations = 5
 
