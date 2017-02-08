@@ -44,5 +44,10 @@ def jrmpc(V, X):
 
     t = np.vectorize(lambda v: np.mean(X, axis=1) - np.mean(v, axis=1), otypes=[np.float])(V)
 
-    TV = np.vectorize(lambda v, r, t: (r * v) + t, otypes=[np.float])(V, R, t)
+    # Transfroms sets based on initial R and t (\phi(V) in the paper)
+    TV = R * V + t
+
+    minXyZ = np.amin([TV, X], axis=2)
+    maxXyZ = np.amax([TV, X], axis=2)
+
 
