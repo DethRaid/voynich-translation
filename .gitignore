@@ -179,3 +179,11 @@ tags
 # End of https://www.gitignore.io/api/python,virtualenv,pycharm,vim
 
 jrmps-reference
+morfessor
+*.png
+./translation-env/lib/python3.5/site-packages/scipy/sparse/_sparsetools.cpython-35m-x86_64-linux-gnu.so
+./translation-env/lib/python3.5/site-packages/scipy/.libs/libopenblasp-r0-39a31c03.2.18.so
+./translation-env/lib/python3.5/site-packages/numpy/.libs/libopenblasp-r0-39a31c03.2.18.so
+./corpa/italian/paisa.raw.utf8
+./.git/objects/pack/pack-6cba1fe369890b94fb24be4f4339284a078ce58a.pack
+./.git/objects/pack/tmp_pack_zHlQXq
