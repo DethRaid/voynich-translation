@@ -1,0 +1,3 @@
+[submodule "morfessor"]
+	path = morfessor
+	url = git@github.com:aalto-speech/morfessor.git

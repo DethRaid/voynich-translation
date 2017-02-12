@@ -6,7 +6,34 @@ import functools
 import numpy as np
 from matplotlib import pyplot as plt
 
+__outdir = ''
 __language = ''
+
+
+def __calc_manuscript_stats(morphemed_corpus_name):
+    """Calculates some per-corpus stats, such as morpheme frequencies
+
+    :param morphemed_corpus_name: The name of the corpus to analyze. This corpus should be already split into morphemes
+    """
+    corpus = open(morphemed_corpus_name, 'r')
+
+    morpheme_frequencies = defaultdict(int)
+    for line in corpus:
+        for morpheme in line.split():
+            morpheme_frequencies[morpheme] += 1
+
+    morpheme_counts = list(morpheme_frequencies.values())
+    bins = np.arange(0, 200, 1)  # fixed bin size of 1
+
+    plt.xlim([min(morpheme_counts) - 5, max(morpheme_counts) + 5])
+    print('Maximum morpheme frequency: ' + str(max(morpheme_counts)))
+
+    plt.hist(morpheme_counts, bins=bins, alpha=0.5)
+    plt.title('Morpheme Frequencies - ' + __language)
+    plt.xlabel('Morphemes')
+    plt.ylabel('Count')
+
+    plt.savefig(__outdir + 'Morpheme frequencies - ' + __language + '.png', bbox_inches='tight')
 
 
 def get_morpho_stats(corpus_filename, language):
@@ -31,6 +58,9 @@ def get_morpho_stats(corpus_filename, language):
     :param language: The name of the language you're processing
     '''
 
+    global __language
+    __language = language
+
     io = morfessor.MorfessorIO()
     words = io.read_corpus_file(corpus_filename)
 
@@ -38,22 +68,36 @@ def get_morpho_stats(corpus_filename, language):
     model.train_online(words)
 
     manuscript = open(corpus_filename, 'r')
+    slash_pos = corpus_filename.rfind('/');
+    global __outdir
+    __outdir = corpus_file[0:slash_pos + 1]
+    morphemed_corpus_name = __outdir + 'morpheme manuscript.txt'
+    morphemed_manuscript = open(morphemed_corpus_name, 'w')
 
-    words = list()
+    lines = list()
 
     for line in manuscript:
-        words += line.split()
+        lines.append(line.split())
 
     morphemes_by_word = dict()
     morphemes_per_word = dict()
     all_words = str()
 
-    for word in words:
-        all_words += word
-        morphemes_by_word[word] = model.viterbi_segment(word)
-        morphemes_per_word[word] = len(morphemes_by_word[word][0])
+    for line in lines:
+        for word in line:
+            all_words += word
+            morphemes_by_word[word] = model.viterbi_segment(word)
+            morphemes_per_word[word] = len(morphemes_by_word[word][0])
 
-    __calc_word_stats(morphemes_per_word, language)
+            for morpheme in morphemes_by_word[word][0]:
+                morphemed_manuscript.write(morpheme)
+                morphemed_manuscript.write(' ')
+
+        morphemed_manuscript.write('\n')
+
+    __calc_manuscript_stats(morphemed_corpus_name)
+
+    __calc_word_stats(morphemes_per_word)
 
     all_morphs = set()
     for segmentation in model.get_segmentations():
@@ -61,7 +105,7 @@ def get_morpho_stats(corpus_filename, language):
         for seg in segs:
             all_morphs.add(seg)
 
-    __calc_morpheme_stats(all_morphs, language)
+    __calc_morpheme_stats(all_morphs)
     __calculate_ngram_frequencies(all_words, 1)
     __calculate_ngram_frequencies(all_words, 2)
 
@@ -80,13 +124,16 @@ def __calculate_ngram_frequencies(text, n):
 
     sorted_frequencies = OrderedDict(sorted(frequencies.items(), key=lambda t: t[1]))
 
-    plt.bar(range(len(sorted_frequencies)), sorted_frequencies.values(), align='center')
-    plt.xticks(range(len(sorted_frequencies)), sorted_frequencies.keys())
+    left = range(len(sorted_frequencies))
+    height = list(sorted_frequencies.values())
+    plt.bar(left, height, width=1.0, align='center', tick_label=list(sorted_frequencies.keys()), linewidth=1)
+    #    plt.xticks(range(len(sorted_frequencies)), sorted_frequencies.keys())
 
-    plt.savefig(str(n) + '-gram frequencies - ' + __language)
+    plt.savefig(__outdir + str(n) + '-gram frequencies - ' + __language)
+    plt.clf()
 
 
-def __calc_word_stats(morphemes_per_word, language):
+def __calc_word_stats(morphemes_per_word):
     '''Calculates word-level statistics, and shows the appropriate histograms
 
     Word-level statistics include things like the average number of morphemes per word
@@ -95,8 +142,6 @@ def __calc_word_stats(morphemes_per_word, language):
 
     :param morphemes_per_word: A map from word to all the morphemes in that word
     '''
-
-    __language = language
 
     morphemes_per_word = list(morphemes_per_word.values())
     average_morphemes_per_word = __average(morphemes_per_word)
@@ -107,11 +152,12 @@ def __calc_word_stats(morphemes_per_word, language):
     plt.xlim([min(morphemes_per_word) - 5, max(morphemes_per_word) + 5])
 
     plt.hist(morphemes_per_word, bins=bins, alpha=0.5)
-    plt.title('Morphemes per word - ' + language)
+    plt.title('Morphemes per word - ' + __language)
     plt.xlabel('Morphemes')
     plt.ylabel('Count')
 
-    plt.savefig('Morphemes per word - ' + language + '.png', bbox_inches='tight')
+    plt.savefig(__outdir + 'Morphemes per word - ' + __language + '.png', bbox_inches='tight')
+    plt.clf()
 
 
 def __average(l):
@@ -123,7 +169,7 @@ def __average(l):
     return functools.reduce(lambda x, y: x + y, l) / len(l)
 
 
-def __calc_morpheme_stats(all_morphs, language):
+def __calc_morpheme_stats(all_morphs):
     '''Calculates morpheme-level statistics, such as the average length of morphemes, and shows the
     morpheme length histogram
 
@@ -144,9 +190,17 @@ def __calc_morpheme_stats(all_morphs, language):
     plt.xlim([min(morpheme_length) - 5, max(morpheme_length) + 5])
 
     plt.hist(morpheme_length, bins=bins, alpha=0.5)
-    plt.title('Morpheme length - ' + language)
+    plt.title('Morpheme length - ' + __language)
     plt.xlabel('Length')
     plt.ylabel('Count')
 
-    plt.savefig('Morpheme length - ' + language + '.png', bbox_inches='tight')
+    plt.savefig('Morpheme length - ' + __language + '.png', bbox_inches='tight')
+    plt.clf()
 
+
+if __name__ == '__main__':
+    import sys
+    corpus_file = sys.argv[1]
+    language = sys.argv[2]
+
+    get_morpho_stats(corpus_file, language)
