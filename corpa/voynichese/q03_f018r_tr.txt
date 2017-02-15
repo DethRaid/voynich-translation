@@ -1,0 +1,92 @@
+<f18r>         {$I=H $Q=C $P=C $L=A $H=1}
+# Last edited on 1998-10-10 03:10:17 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f18r = CC (Rene) = p033 (Stolfi)
+#   Folio: f18
+#   Panels: f18r
+#   Bifolio: bC2 = f18+f23
+#   Quire: C (Rene) = III (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b,red (Reeds)
+#   Plant: 32 (Petersen)
+#
+# Description:
+#
+#   Has two paragraphs of text. The first one is followed by
+#   a title.  The second may be followed too, but what do we know...
+#   Line numbers increase continuously and match Landini's file.
+#
+## <f18r.P> {}
+# text
+# Last edited on 1998-12-06 21:01:00 by stolfi
+#
+<f18r.P.1;H>       pdrairdy.darods!f.yoar.ykchol.dar.o.m.chckhy-
+{plant}ockhor.dal-
+<f18r.P.1;C>       pdrairdy.darod*!.!yoar.ykchol.dor.o!m.chckhy-
+{plant}o*!!or.dyl-
+<f18r.P.1;F>       pdrairdy.darode.f!yoar.ykchol.dar!a!m.chckhy-
+{plant}ockhor.dal-
+#
+<f18r.P.2;H>       otshol.qokchol.chykchy.okchal.daiin.dy-{plant}chol.diiin-
+<f18r.P.2;C>       otshol.qokchol.chykchy.okchal.daiin.dy-{plant}chol.dai!n-
+<f18r.P.2;F>       otshol.qokchol.chykchy.okchal.daiin.dy-{plant}chol.diiin-
+#
+<f18r.P.3;H>       qokchor.chor.chckhy.or!chey.qokchol.dy-{plant}ytchar.g-
+<f18r.P.3;C>       qokchor.chor.chckhy.or.chey.qokchol.dy-{plant}ytchar!g-
+<f18r.P.3;F>       qokchor.chor.chckhy.or.chey.qokchol.dy-{plant}ytchar!m-
+#
+<f18r.P.4;H>       chor.cthor.okeor.ykchol.okain=
+<f18r.P.4;C>       chor.cthor.okeor.ykchol.okain=
+<f18r.P.4;F>       chor.cthor.okeor.ykchol.okain=
+#
+<f18r.P.5;H>       tchor.shor.cthaiin.cthol.chlol.chom-{plant}
+<f18r.P.5;C>       tchor.shor.cthaiin.cthol.chlol.chom-{plant}
+<f18r.P.5;F>       tchor.shor.cthaiin.cthol.chlol.chom-{plant}
+#
+<f18r.P.6;H>       ychy.kchor.dair.ytol.chcthy.dar.dar.dal-{plant}
+<f18r.P.6;C>       ychy!kchor.dair.ytol.chcthy.dar.dar.dal-{plant}
+<f18r.P.6;F>       ychy.kchor.dain.ytol.chcthy.dar.dar.dal-{plant}
+#
+<f18r.P.7;H>       oshor.shaiin.cthy.sholdy.doldy.doldaiin-{plant}
+<f18r.P.7;C>       oshor.shaiin.cthy.sholdy.doldy.dol!aiin-{plant}
+<f18r.P.7;F>       oshor.shaiin.cthy.sholdy.doldy.doldaiin-{plant}
+#
+<f18r.P.8;H>       qokchor.ckhol.olody.okal!dy-{plant}dary-{plant}
+<f18r.P.8;C>       qokchor.ckhol.olody.okal.dy-{plant}dary-{plant}
+<f18r.P.8;F>       qokchor.ckhol.olody.okal!dy-{plant}dary-{plant}
+#
+<f18r.P.9;H>       chol.chcthal.okshal.chykald-{plant}
+<f18r.P.9;C>       chol.chcthal.okshal.chykald-{plant}
+<f18r.P.9;F>       chol.chcthal.okshal.chykald-{plant}
+#
+<f18r.P.10;H>      dar.shor.qokchol.ol.ydaiin-{plant}
+<f18r.P.10;C>      dar.shor.qokchol.ol.ydaiin-{plant}
+<f18r.P.10;F>      dar.shor.qokchol.ol!ydaiin-{plant}
+#
+<f18r.P.11;H>      sotchaiin.chokchy.chekhol.chor.g-{plant}
+<f18r.P.11;C>      sotchaiin.chokchy.chckhol.chor.g-{plant}
+<f18r.P.11;F>      sotchaiin.chokchy.chckhol.chor!m-{plant}
+#
+<f18r.P.12;H>      ychair.cthol.daiin.qokchy.cthy-{plant}
+<f18r.P.12;C>      ychair.cthol.daiin.qokchy.cthy-{plant}
+<f18r.P.12;F>      ychair.cthol.daiin.qokchy.cthy-{plant}
+#
+<f18r.P.13;H>      or.shaiin.cthar.cthal.okal.dar=
+<f18r.P.13;C>      or.shaiin.cthor.cthal.okal.dar=
+<f18r.P.13;F>      or.shaiin.cthor.cthal.okal.dar=
+#
+## <f18r.T> {}
+# title
+<f18r.T.14;H>      ychekchy.kchaiin=
+<f18r.T.14;C>      ychekchy.kchaiin=
+<f18r.T.14;F>      ychekchy.kchaiin=
+#

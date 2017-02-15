@@ -1,0 +1,106 @@
+<f2v>          {$I=H $Q=A $P=D $L=A $H=1}
+# Last edited on 1998-10-09 00:49:47 by stolfi
+#
+# Identification:
+#
+#   Title: "Water lily"
+#   Page: f2v = AD (Rene) = p004 (Stolfi)
+#   Folio: f2
+#   Panels: f2v
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Plant: 3 (Petersen)
+#   Colors: green (Reeds)
+#
+# Description:
+#
+#   One plant centered on page. 
+#
+#     Root: long straight rhizome, covered with scales or round stalk scars.
+#     Stem: single, vertical, slightly bent, shooting out from middle 
+#       of rhizome; dark painted. 
+#     Branches: there is the stub of a lost branch at mid-stalk.
+#     Leaves: a single large leaf, horizontal, shaped like a very fat C,
+#       with smooth rim. Painted solid dark.
+#       Stalk: short.
+#     Flowers: one white flower, pointing almost straight up.
+#       Stalk: long, light colored, with a darker vein; part of it
+#       obscured by leaf which should be behind it.  Chalyx: well-drawn,
+#       with thick tongue-shaped sepals, light colored.  Petals:
+#       well-drawn, flaring, lily shaped, serrated edges, white
+#       underpaint.  Core: not visible.  Stamen: long, with a few short
+#       hairs.
+#
+#   Two paragraphs (with lines, respectively), left- and
+#   right-justified: one at the top, interrupted by the single flower,
+#   and one just below mid-page, interrupted by the main stem.
+#
+# Comments:
+#
+#   The plant looks quite natural and well-drawn.
+#
+#   Presumably, the flower stem was in front of the leaf in the
+#   original drawing; but the dark overpaint covered it. The original
+#   outline of the leaf may have been obscured, too.
+#
+#   The leaf shape suggests it is a water plant. With that assumption,
+#   the choices are quite few. Rene suggested
+#
+#     Nymphaea candida (a.k.a. Nymphaea alba; water lily, seerose)
+#     http://www.lysator.liu.se/runeberg/nordflor/pics/181.jpg
+#
+#
+## <f2v.P> {}
+# text
+# Last edited on 1998-12-06 13:00:34 by stolfi
+#
+<f2v.P.1;H>        kooiin.cheo.pchor.otaiin.o.dain.chor-{plant}dair.shty-
+<f2v.P.1;C>        kooiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;D>        kaoiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;F>        kooiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;U>        kaoiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+#
+<f2v.P.2;H>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;C>        kcho!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;D>        kcha!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;F>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;U>        kch*.kchy.sho.shol.qotsho.loeees.qoty-{plant}chor.daiin-
+#
+<f2v.P.3;H>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;C>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;F>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;U>        otchy.chor.lshy.chol.chody.shodain-{plant}chcthy.daiin-
+#
+<f2v.P.4;H>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;C>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;F>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;U>        sho.cholo.cheor.chodaiin=
+#
+<f2v.P.5;H>        kchor.shy.daiiin.chckhoy-{plant}s.shey.dor.chol.daiin-
+<f2v.P.5;C>        kchor.shy.daiiin.chckh!y-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;F>        kchor.shy.daiiin.chckhoy-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;U>        kchor.shy.daiiin.chck!om-{plant}s!shey.dor.chol.daiin-
+#
+<f2v.P.6;H>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;C>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;F>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;U>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+#
+<f2v.P.7;H>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;C>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;D>        daiin.chotchey.qoteeiy.chokios-{plant}chees.chr.cheaiin-
+<f2v.P.7;F>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;U>        daiin.chotchey.qotchey.chokeos-{plant}chees.chr.cheaiin-
+#
+<f2v.P.8;H>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;C>        chokoishe.chor.chiol.chol.dolody={plant}
+<f2v.P.8;F>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;U>        chokolshe.chor.cheol.chol.dolody={plant}
+#

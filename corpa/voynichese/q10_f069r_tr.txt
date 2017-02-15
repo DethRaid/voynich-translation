@@ -1,0 +1,374 @@
+<f69r>           {$I=C $Q=J $P=A}
+# Last edited on 1998-10-20 03:49:20 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f69r = JA (Rene) = p129 (Stolfi)
+#   Folio: f69
+#   Panels: f69r
+#   Bifolio: bJ1 = f69+f70
+#   Quire: J (Rene) = X (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: C (Rene), cos (Stolfi)
+#   Subject: cosmological
+#   Colors: green-blue(pipes),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   The page contains a circular diagram, under a single paragraph 
+#   (unit "P") with 3.9 lines.
+#
+#   The diagram is bounded by a faint mechanically drawn circle. Just
+#   inside it is a circular band of text (unit "C"), reading clockwise.
+#   This text is divided into 16 sectors; see below for details.
+#
+#   Most of the area inside the diagram is occupied by a flower-like
+#   figure. The core of the flower is a thin mechanically drawn
+#   circle, containing a star with six narrow, pointed arms. Each arm
+#   has three coloured bands near the point.
+#
+#   The rays of the star divide the interior of the circle into six
+#   unequal sectors, each labeled with a Voynichese letter (unit "W").
+#   There is no obvious starting place.
+#
+#   Surrounding the central disk is a band of text (unit "S"), with a
+#   discernible gap at 10:00. Surrounding the text is another thin
+#   mechanically drawn circle, slightly eccentric.
+#
+#   Sprouting from the second circle are 45 thin radial lines ("flower
+#   stalks"), extending almost all the way to the outer text band, each
+#   of them terminating in an object that looks like a shallow conical
+#   cup (perhaps a stylized flower, resembling a California poppy).
+#   The "flowers" touch each other, forming a continuous ring. 
+#
+#   The 45 sectors defined by the flower stalks are alternatingly
+#   "empty" and filled with 22 radial lines of text (unit "R"),
+#   reading outwards. This leaves two adjacent empty sectors at 02:00.
+#   The first of these two empty sectors (going clockwise) is cut by
+#   an extra radial line that passes between the two flower cups and
+#   extends all the way to the outer circle. The clockwise half of
+#   this sector is is decorated with abstract patterns.
+#
+#   Some of the "empty" sectors have a stripe of dark paint, displaced
+#   to one side. There are 12 dark stripes, starting with the 3rd
+#   sector after the decorated "marker", and then spaced
+#
+#     2,4,4,2,4,6,2,4,6,2,4
+#
+#   sectors apart (always clockwise).
+#
+#   The space between the "ring of flowers" and the outer circle is
+#   divided into sixteen sectors by another set of radial lines, thin
+#   and wavy. These lines divide the outer band of text into sixteen
+#   phrases, each containing a few whole words. One of these lines is
+#   the extra radial line at 02:00, that defined the decorated band.
+#   The other fifteen lines start at the flower ring, either between
+#   two adjacent flowers (13 cases) or at the middle of a flower (2
+#   cases). These lines thus divide the "flower ring" too into
+#   sections, which, clockwise from the "start marker" line contain
+#
+#     2, 2, 2.5, 3.5, 2, 3, 3, 3, 3, 3, 3.5, 3.5, 3, 3, 2, 3
+#
+#   flower cups.
+#
+# Comments:
+#
+#   The dark stripes in some sectors may have been the result of the
+#   hypothetical "Dark Painter" mistaking the spaces between the
+#   radial lines by solid cylinders, and tried to shade them
+#   accordingly. Unfortunately that "obvious" interpretation is
+#   excluded when one looks closely at how the radial lines connect to
+#   the "cups".  Of course the "shadows" have made the error easier to
+#   make.
+#
+#   There is no obvious place to start reading the letters between 
+#   the star arms; but if one starts at 11:00 (the smallest sector)
+#   the letters spell out "dolsedy"; which may be an unexpected
+#   splitting of "dolshdy", a rather common word.
+#
+#   The radial lines and the outer text probably start at the
+#   decorated band at 02:00. On the other hand, the decorated band may
+#   be just a filler addded to patch up a mistake (the attempt to fit
+#   an alternating pattern into an odd number of sectors).
+#
+## <f69r.P> {}
+# Text paragraph above diagram.
+# Last edited on 1998-12-09 17:32:28 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# 
+# Weirdos:
+#
+#  &ct = long <c> with a <t> attached to the tip of the ligature,
+#        well above the baseline.
+#
+<f69r.P.1;H>       tcheeos.shey.opaiin.chey.shey.qokeea!shdy.ol.ot.otal.sar-
+<f69r.P.1;F>       tcheeos.shey.opaiin.chey.shey.qokeey.shdy.ol.ot.otal.sar-
+<f69r.P.1;U>       tcheeos.shey.opaiin.chey.shey.qokeey,shdy.ol.ot.otal.sar-
+#
+<f69r.P.2;H>       daiin.shey.okaiin.shkechy.sheey.tey.chy.cthy.otol.cham-
+<f69r.P.2;F>       daiin.shey.okaiin.shk!chy.sheey.tey.chy.cthy.otol.cham-
+<f69r.P.2;U>       daiin.shey.okaiin.shkechy.sheey.tey,chy.cthy.otol.cham-
+#
+<f69r.P.3;H>       sheos!aiin.ct!!!!ar.choetey.okal.chy.ykar.ytchey.cheotam-
+<f69r.P.3;F>       sheos!aiin.ct!!!har.che!tey.okal.chy.ykar.ytchey.cheotam-
+<f69r.P.3;U>       sheos,aiin.*{&ct}ar.choetey.okal.chy.ykar.ytchey.cheotam-
+#
+<f69r.P.4;H>       y!cheo.r!aiin.ychey.otaiin.okchor.yty.chkal.shol=
+<f69r.P.4;F>       y!cheo.r!aiin.ychey!otaiin.okchor.yty.chkal.shol=
+<f69r.P.4;U>       y,cheo!s,aiin.ychey.otaiin.okchor.yty.chkal.shol=
+#
+## <f69r.C> {}
+# Outer ring of text
+# Last edited on 1998-12-08 23:56:37 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove
+#
+# Transcribed clockwise from decorated wedge at 02:00
+# Breaks "-" are the wriggly sector-dividing lines.
+#
+#
+<f69r.C.1;H>       shy.cht!air!y-
+<f69r.C.1;U>       shy.chtches,y-
+<f69r.C.1;V>       shy.chtches!y-{Grove's S5}
+#
+<f69r.C.2;H>       yt!oetear-
+<f69r.C.2;U>       yt,oeteor-
+<f69r.C.2;V>       yt.oeteor-{Grove's S6}
+#
+<f69r.C.3;H>       ytey.cholam-
+<f69r.C.3;U>       ytey.cholam-
+<f69r.C.3;V>       ytey.cholam-{Grove's S7}
+#
+<f69r.C.4;H>       dair.ar.yteey.chdy-
+<f69r.C.4;U>       dair.ar.yteey.chdy-
+<f69r.C.4;V>       dair.ar.yteey.chdy-{Grove's S8}
+#
+<f69r.C.5;H>       okair.os.air-
+<f69r.C.5;U>       okair.os,air-
+<f69r.C.5;V>       okair.os.air-{Grove's S9}
+#
+<f69r.C.6;H>       chy.to.s.aly-
+<f69r.C.6;U>       chy,to,s,aly-
+<f69r.C.6;V>       chy.to.s.aly-{Grove's S10}
+#
+<f69r.C.7;H>       chetar.ar.aly-
+<f69r.C.7;U>       chetar.ar,aly-
+<f69r.C.7;V>       chetar.ar!aly-{Grove's S11}
+#
+<f69r.C.8;H>       dalr.al.ody-
+<f69r.C.8;U>       dair.al,ody-
+<f69r.C.8;V>       dair.al!ody-{Grove's S12}
+#
+<f69r.C.9;H>       dal.daiin.otolam-
+<f69r.C.9;U>       dal.daiin.otolam-
+<f69r.C.9;V>       dal.daiin.otolam-{Grove's S13}
+#
+<f69r.C.10;H>      ytcheody!tor-
+<f69r.C.10;U>      ytcheody,tor-
+<f69r.C.10;V>      ytcheody,tor-{Grove's S14}
+#
+<f69r.C.11;H>      oteos.cho!p.ota!ky-
+<f69r.C.11;U>      oteos.choep.otacky-
+<f69r.C.11;V>      oteos.cho!p.otaik*-{Grove's S15}
+#
+<f69r.C.12;H>      ar.odain.chtaly-
+<f69r.C.12;U>      ar.odair.chtaly-
+<f69r.C.12;V>      ar.odair.chtaly-{Grove's S16}
+#
+<f69r.C.13;H>      oto.dar.archol-
+<f69r.C.13;U>      oto,dar.arshol-
+<f69r.C.13;V>      oto.dai.archol-{Grove's S1}
+#
+<f69r.C.14;H>      okeeo.chey.dy-
+<f69r.C.14;U>      oteey.chey,dy-
+<f69r.C.14;V>      okeeo.chey.dy-{Grove's S2}
+#
+<f69r.C.15;H>      dcho!char.ar-
+<f69r.C.15;U>      dcho!char,ar-
+<f69r.C.15;V>      dcho.char.ar-{Grove's S19}
+#
+<f69r.C.16;H>      ytal.air.al-
+<f69r.C.16;U>      ytal,air,al-
+<f69r.C.16;V>      ytal!ain.al-{Grove's S20}
+#
+#
+## <f69r.R> {}
+# Radial lines between "flower stalks"
+# Last edited on 1998-12-27 23:51:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove
+#
+# Transcribed clockwise from decorated wedge at 02:00.
+#
+# Here is the approximate correspondence between radial lines ("R")
+# and sectors in the outer text ring ("C"). However many radial lines
+# are aligned with sector boundary.
+# 
+#   R1  C2 
+#   R2  C3 
+#   R3  C3 
+#   R4  C4 
+#   R5  C5 
+#   R6  C6 
+#   R7  C6 
+#   R8  C7 
+#   R9  C8 
+#   R10 C9 
+#   R11 C9 
+#   R12 C10
+#   R13 C10
+#   R14 C11
+#   R15 C11
+#   R16 C12
+#   R17 C13
+#   R18 C13
+#   R19 C14
+#   R20 C15
+#   R21 C15
+#   R22 C16
+#
+<f69r.R.1;H>       okch!octhy.okar.ar=
+<f69r.R.1;U>       ok**,octhy.otar.ar=
+<f69r.R.1;V>       okee!octhy.okar.ar=
+#
+<f69r.R.2;H>       cheg.ar.itho!r.ary=
+<f69r.R.2;U>       chey.ar.ctho!r,ary=
+<f69r.R.2;V>       chey.ar.ctho.r.ary=
+#
+<f69r.R.3;H>       sair.chekey.dairam=
+<f69r.R.3;U>       *air.chekey.sairam=
+<f69r.R.3;V>       !air.chekey.sairam=
+#
+<f69r.R.4;H>       okcho.dal.oka!r.a!r=
+<f69r.R.4;U>       okeeo.dal.oka!r.a!r= 
+<f69r.R.4;V>       okcho.dal.okchr.chs=
+#
+<f69r.R.5;H>       sol.aiir.okey!tam=
+<f69r.R.5;U>       sol.aiir.okey,tam=
+<f69r.R.5;V>       sol.aiir.okey.tam=
+#
+<f69r.R.6;H>       okeos.ar.alg=
+<f69r.R.6;U>       okeos.ar,old=
+<f69r.R.6;V>       okeos.ar.ald=
+#
+<f69r.R.7;H>       docheeo.kody.sar=
+<f69r.R.7;U>       docheeo.kody.sar=
+<f69r.R.7;V>       docheey.kody.sar=
+#
+<f69r.R.8;H>       dchokey.shkchody.al=
+<f69r.R.8;U>       dchokey.shkchody,al=
+<f69r.R.8;V>       dchokey.shkchody.al=
+#
+<f69r.R.9;H>       chor.al.ylcho.ral=
+<f69r.R.9;U>       chor.al.ylchy.ral=
+<f69r.R.9;V>       chor.al.alchy.ral=
+#
+<f69r.R.10;H>      soir.al.okody.otedy=
+<f69r.R.10;U>      sain.al.okody.otedy=
+<f69r.R.10;V>      sair.al.okody.otedy=
+#
+<f69r.R.11;H>      okody.cheody.sar=
+<f69r.R.11;U>      okody.cheody.sar=
+<f69r.R.11;V>      okody.cheody.sar=
+#
+<f69r.R.12;H>      chokeod.okeea=
+<f69r.R.12;U>      chokeod.okeey=
+<f69r.R.12;V>      chokeod.okeey=
+#
+<f69r.R.13;H>      dkochy.cthody.dy=
+<f69r.R.13;U>      dkochy.cthody.dy=
+<f69r.R.13;V>      okochy.cthody.dy=
+#
+<f69r.R.14;H>      chodchy.chotal=
+<f69r.R.14;U>      chodchy.chotal=
+<f69r.R.14;V>      chodchy.chotal=
+#
+<f69r.R.15;H>      okeo.sho.qotam=
+<f69r.R.15;U>      okeo,sho,qotam=
+<f69r.R.15;V>      okeo.sho.qotam=
+#
+<f69r.R.16;H>      okeodar.oteody=
+<f69r.R.16;U>      okeodar.oteody=
+<f69r.R.16;V>      okeodar.oteody=
+#
+<f69r.R.17;H>      ykeeos.al.dair.dar=
+<f69r.R.17;U>      ykeeos.al,dair,dar=
+<f69r.R.17;V>      ykeeos.al.dair.dar=
+#
+<f69r.R.18;H>      ykeey.dal.oky=
+<f69r.R.18;U>      ykeey.dal.oky=
+<f69r.R.18;V>      okeey.dal.oky=
+#
+<f69r.R.19;H>      doly.dal.dar.chyky=
+<f69r.R.19;U>      doly.dal.dar.chyky=
+<f69r.R.19;V>      doly.dal.dar.chyky=
+#
+<f69r.R.20;H>      okchol.qokol.dalo=
+<f69r.R.20;U>      oke!ol.qokol.daly=
+<f69r.R.20;V>      okchol.qokol.dalo=
+#
+<f69r.R.21;H>      ykechody.otar=
+<f69r.R.21;U>      okecho**.otar=
+<f69r.R.21;V>      ykechody.otar=
+#
+<f69r.R.22;H>      dar!y.dar.aloly=
+<f69r.R.22;U>      dar,y.dar.aloly=
+<f69r.R.22;V>      dar!y.dar.aloly=
+#
+## <f69r.S> {}
+# Inner ring of text
+# Last edited on 1998-12-09 17:33:47 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove
+#
+# Transcribed clockwise from wider gap at 10:00
+#
+<f69r.S.1;H>       
+oko!eese.dain!key.ochs.cheor.yteey.o!kcheo.dar.cho.okchos.al.aiin=
+<f69r.S.1;U>       
+okcheesy.dain,key.oees.cheor.yteey.o,kee!o,dar.cho.okeeor.al.aiin=
+<f69r.S.1;V>       
+okcheese.daii!key.oees.chear.yteey.o!keeeo!dar.cho.okchos.al.aiin=
+#
+## <f69r.W> {}
+# Letter labels on central disk sectors (between star arms).
+# Last edited on 1998-12-24 21:20:13 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove
+#
+# Transcribed clockwise from smallest wedge at 11:00
+#
+<f69r.W.1;H>       d-
+<f69r.W.1;U>       d-
+<f69r.W.1;V>       d-
+#
+<f69r.W.2;H>       o-
+<f69r.W.2;U>       o-
+<f69r.W.2;V>       o-
+#
+<f69r.W.3;H>       l-
+<f69r.W.3;U>       l-
+<f69r.W.3;V>       l-
+#
+<f69r.W.4;H>       s-
+<f69r.W.4;U>       s-
+<f69r.W.4;V>       s-
+#
+<f69r.W.5;H>       em!!!!!!!!!!!!-
+<f69r.W.5;U>       ed!!!!!!!!!!!!-
+<f69r.W.5;V>       ed{not quite?}-
+#
+<f69r.W.6;H>       y-
+<f69r.W.6;U>       y-
+<f69r.W.6;V>       y-
+#

@@ -9,8 +9,8 @@ log = logging.getLogger('download')
 
 def download_single_folio(quire, folio, code):
     try:
-        base_url = "http://www.voynich.nu/"
-        corpa_dir = "../corpa/voynich/"
+        base_url = "http://www.voynichese.nu/"
+        corpa_dir = "../corpa/voynichese/"
         filename_base = "q{quire:02d}/f{folio:03d}{code}_tr.txt"
 
         filename_formatted = filename_base.format(quire=quire, folio=folio, code=code)

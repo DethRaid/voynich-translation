@@ -4,7 +4,7 @@
 import logging
 
 
-def chack_synonyms(translation_file_name):
+def check_synonyms(translation_file_name):
     """Checks the translations in the translation file to find all the words whose most likely translation is the same
     
     :param translation_file_name: The name of the translation file

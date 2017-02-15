@@ -1,0 +1,215 @@
+<f73r>           {$I=Z $Q=L $P=A}
+# Last edited on 1998-10-09 03:27:32 by stolfi
+#
+# Identification:
+#
+#   Title: "Scorpio"
+#   Page: f73r = LA (Rene) = p143 (Stolfi)
+#   Folio: f73
+#   Panels: f73r
+#   Bifolio: bL1 = f73+f74
+#   Quire: L (Rene) = XII (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: green(center),yellow(stars),red(lips,some_mouths) (Reeds)
+#
+# Description:
+#
+#   [To be checked and completed]
+#
+#   Six faint, mostly concentric, mechanically drawn circles delimit
+#   three rings of text. There seem to be no distinguished break
+#   in the text.
+#
+#   Inside the inner circle is a squat animal. A dark smudge
+#   obliterates most of the animal's body, leaving visible only the
+#   head (roundish, with a wide mouth and two very short and broad
+#   horns) and the tail (that curves up, forward, down, then up
+#   again). Above the animal is a seven-pointed star with a tail that
+#   ends in the animal's mouth. 
+#
+#   Below the animal is an illegible word.
+#
+#   Between the rings of text, there are two bands of naked figures
+#   ("nymphs"), 10 in the inner one and 16 in the outer one. Four
+#   additional nymphs are standing on top of the outer ring of text.
+#   Most of them are female (with breasts and shoulder-long hair).
+#
+#   Each nymph is holding or pointing to a star.
+#
+#   There is a label just clockwise of each nymph.
+#
+# Comments:
+#
+#
+## <f73r.S0> {}
+# Labels on stars, Scorpio, outside the diagram
+# Last edited on DATE TIME by USER
+#
+# Numbers by John Grove
+# Transcribed left to right
+#
+<f73r.S0.1;H>      otoly=
+<f73r.S0.1;V>      otaly={Grove's #1}
+#
+<f73r.S0.2;H>      chockhy=
+<f73r.S0.2;V>      chockhy={Grove's #2}
+#
+<f73r.S0.3;H>      okedy=
+<f73r.S0.3;V>      otedy={Grove's #3}
+#
+<f73r.S0.4;H>      yteeody=
+<f73r.S0.4;V>      yteeody={Grove's #4}
+#
+## <f73r.R1> {}
+# outer text ring
+# Last edited on 1998-12-10 01:04:00 by stolfi
+#
+# No obviosu starting place
+# Transcribed clockwise from discontinuity in bounding circles at 10:45
+#
+<f73r.R1.1;H>      
+ypolcheey.salchedal.chepchey.daraly.oteos.air.ar.oteosdal.chotchy.soteees.alshey
+.ches.al.chees.cheoly.leiir*.choteey.cheteey.cheteeeos!aiin.chetchody.chedar.ar.
+cheteey.oteor.ar.air.alor.shetch.ytchy.cheody.ykeydom.oteos.alar.alcheky.
+<f73r.R1.1;U>      
+ypolcheey.salchedal.chepchey.daraly.oteos,air,ar.oteosdal.chote!y.sot**ar.**sh*y
+.****.**!ch**s.ch*!*y.l*****!chot*!m.cheteey.cheteeeor,aiin.chetchody.chedar,ar.
+cheteey.oteor,ar.air!alor.shetol.yteey.cheody.ykeydam.oteos,alar.alcheky.
+#
+## <f73r.S1> {}
+# Labels on stars, Scorpio, outer ring
+# Last edited on 1998-12-10 01:05:52 by stolfi
+#
+# No obviosu starting place.
+# Transcribed clockwise from 10:30
+# Numbers by John Grove
+#
+<f73r.S1.1;H>      otey=
+<f73r.S1.1;V>      otey={Grove's #1}
+#
+<f73r.S1.2;H>      otaly=
+<f73r.S1.2;V>      otaly={Grove's #2}
+#
+<f73r.S1.3;H>      okeody=
+<f73r.S1.3;V>      okeedy={Grove's #3}
+#
+<f73r.S1.4;H>      oteedyl=
+<f73r.S1.4;V>      oteedal={Grove's #4, star with tail}
+#
+<f73r.S1.5;H>      okesdy=
+<f73r.S1.5;V>      cthedy={Grove's #5}
+#
+<f73r.S1.6;H>      okery=
+<f73r.S1.6;V>      okeey={Grove's #6, star with tail}
+#
+<f73r.S1.7;H>      oksedy=
+<f73r.S1.7;V>      okeedy={Grove's #7}
+#
+<f73r.S1.8;H>      ykeeory=
+<f73r.S1.8;V>      ykeeary={Grove's #8}
+#
+<f73r.S1.9;H>      oteeosy=
+<f73r.S1.9;V>      oteeory={Grove's #9}
+#
+<f73r.S1.10;H>     shekal=
+<f73r.S1.10;V>     shekal={Grove's #10}
+#
+<f73r.S1.11;H>     oteedyg!=
+<f73r.S1.11;V>     oteedyg*={Grove's #11}
+#
+<f73r.S1.12;H>     okedal=
+<f73r.S1.12;V>     okedal={Grove's #12}
+#
+<f73r.S1.13;H>     chdy=
+<f73r.S1.13;V>     chdy={Grove's #13}
+#
+<f73r.S1.14;H>     dalshey=
+<f73r.S1.14;V>     dalshey={Grove's #14}
+#
+<f73r.S1.15;H>     opaiin=
+<f73r.S1.15;V>     ofaiin={Grove's #15}
+#
+<f73r.S1.16;H>     okeos=
+<f73r.S1.16;V>     ykeou={Grove's #16}
+#
+## <f73r.R2> {}
+# middle ring of text
+# Last edited on 1998-12-10 01:04:48 by stolfi
+# 
+# Transcribed clockwise from wider gap at 10:30
+#
+<f73r.R2.1;H>      
+oteey.dar.al.opaiin.olalaiin.sair.ar.chopchedy.chdar.orom.otor!eees.olteey.okees
+.otar.chey.oteas.oho!r.op!ar.chey.daiin.qoiheey.s!cheey.dal.cheesy.
+<f73r.R2.1;U>      
+otchy.dar.yl.opaiin.olalaiin.r,aisam.chopchedy.chdar.oram.otar,eees.alteey.okchs
+.otar!chey.oteas,cho,r.opees,chey.daiin.qoche!y.s,cheey.dal,cha!ry.
+#
+## <f73r.S2> {}
+# Labels on stars, Scorpio, inner band
+# Last edited on 1998-12-10 01:06:21 by stolfi
+#
+# No obvious starting place, but nymphs seem to get
+# progressively more crowded as we get closer to 10:30
+# Transcribed clockwise from wider gap at 10:30
+#
+<f73r.S2.1;H>      okeos=
+<f73r.S2.1;V>      okeou={Grove's #1}
+<f73r.S2.1;U>      okeos=
+#                  
+<f73r.S2.2;H>      okary=
+<f73r.S2.2;V>      otary={Grove's #2}
+<f73r.S2.2;U>      otary=
+#                  
+# star with tail
+<f73r.S2.3;H>      ot*!ad!=
+<f73r.S2.3;V>      okchody={Grove's #3}
+<f73r.S2.3;U>      okeeody=
+#                  
+<f73r.S2.4;H>      oota!dy=
+<f73r.S2.4;V>      oyteedy={Grove's #4}
+<f73r.S2.4;U>      oyteedy=
+#                  
+<f73r.S2.5;H>      oky=
+<f73r.S2.5;V>      oky={Grove's #5}
+<f73r.S2.5;U>      oky=
+#                  
+<f73r.S2.6;H>      chefy=
+<f73r.S2.6;V>      chefy={Grove's #6}
+<f73r.S2.6;U>      chefy=
+#                  
+<f73r.S2.7;H>      otal=
+<f73r.S2.7;V>      otal={Grove's #7}
+<f73r.S2.7;U>      otal=
+#                  
+# star with tail 
+<f73r.S2.8;H>      shek=
+<f73r.S2.8;V>      shek={Grove's #8}
+<f73r.S2.8;U>      shek=
+#                  
+# star with tail
+<f73r.S2.9;H>      ar=
+<f73r.S2.9;V>      ar={Grove's #9}
+<f73r.S2.9;U>      ar=
+#                  
+<f73r.S2.10;H>     kar=
+<f73r.S2.10;V>     kar={Grove's #10}
+<f73r.S2.10;U>     kar=
+#
+## <f73r.R3> {}
+# inner ring of text
+# Last edited on 1998-12-10 01:05:15 by stolfi
+#
+# Transcribed clockwise from wide gap at 09:00
+#
+<f73r.R3.1;H>      osaiin.chedain.oteey.chedaly.okechs.chepchees.aly.oteodal-
+{gap}
+<f73r.R3.1;U>      osaiin.chedain.oteey.chodaly.!!***s.chepche!d!aly.oteadal-
+{gap}
+#

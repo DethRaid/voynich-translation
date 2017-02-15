@@ -20,6 +20,10 @@ def generate_word2vec_model(corpus_filename, vector_size, output_filename):
     :param output_filename: The file to write the word2vec model to
     """
 
-    voynich_model = Word2Vec(LineSentence(corpus_filename), min_count=1, size=vector_size)
+    # Split the manuscript into morphemes
+    import morpho_stats
+    #morpho_stats.get_morpho_stats('voynichese')
+
+    voynich_model = Word2Vec(LineSentence('corpa/voynichese/corpus - morphemes.txt'), min_count=1, size=vector_size)
     voynich_model.save_word2vec_format(output_filename)
 

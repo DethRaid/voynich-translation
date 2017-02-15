@@ -30,7 +30,7 @@ def useage():
         -c      Concatenate. Parses the manuscript files to extract the raw text, without comments
         -g      Generate. Generates a word2Vec model for the text
         -a      Align. Generates an alignment matrix from the set of words in the alignment file
-        -t      Translate. Translates all words in the Voynich Manuscript into English
+        -t      Translate. Translates all morphemes in the source text into English
         -o      Output. Read in all the files matching a certain pattern and replace their words with the words in the
                 generated translation file
     
@@ -41,24 +41,24 @@ def useage():
                                     Preparing. Valid values are 'none', wiki' or 'md'. Default value is 'wiki'
         --manuscript            Specifies the file to write the concatenated Voynich Manuscript to when Concatenating,
                                     or the file to read the concatenated Voynich Manuscript from when Generating.
-                                    Default is /corpa/voynich/manuscript.txt
+                                    Default is /corpa/voynichese/corpus.txt
         --voy-model-file        Specifies the file to write the Voynich word2vec model to when Generating, or the file
                                     to read the Voynich word2vec model from when Aligning. Defualt is
-                                    /corpa/voynich/model.w2v
+                                    /corpa/voynichese/model.w2v
         --align-file            Specifies the name of the file to read the alignment anchor points from. Default is
                                     /en-voy-align.txt
-        --ailgn-matrix          Specifies the file to write the alignment matrix to when Aligning, or the file to read
+        --align-matrix          Specifies the file to write the alignment matrix to when Aligning, or the file to read
                                     the alignment file from when Translating. Default is /voy-en-matrix.txt
         --voy-en-dict           Specifies the file to write the dictionary of translates Voynich words to. Default is
                                     /voy-en-dict.txt
-        --source-file           Specifies the file to translate. Default is /corpa/voynich/manuscript.txt
+        --source-file           Specifies the file to translate. Default is /corpa/voynichese/corpus.txt
                                     manuscript website
         --output-file           Specifies the file to output the translated file to when Outputting. Default is
                                     /output/manuscript_en.txt
 
-        -s, --vector-size       Specifies the dimensionality of the Voynich word2vec model to generate when Generating.
-                                    Defulat is 100.
-        -n, --num-possible      Specifies the number of potential translations to generate for each Voynich word when
+        -s, --vector-size       Specifies the dimensionality of the word2vec models to generate when Generating.
+                                    Default is 100.
+        -n, --num-possible      Specifies the number of potential translations to generate for each word when
                                     Translating. Default is 5.
     """)
 
@@ -89,12 +89,12 @@ if __name__ == '__main__':
 
     english_corpus = ''
     english_corpus_type = 'none'
-    manuscript_file = working_dir + 'corpa/voynich/manuscript.txt'
-    voynich_model_file = working_dir + 'corpa/voynich/model.w2v'
+    manuscript_file = working_dir + 'corpa/voynichese/corpus.txt'
+    voynich_model_file = working_dir + 'corpa/voynichese/model.w2v'
     align_file = working_dir + 'en-voy-align.txt'
     align_matrix_file = working_dir + 'voy-en-matrix.txt'
     voynich_to_englich_dict = working_dir + 'voy-en-dict.txt'
-    source_file = working_dir + 'corpa/voynich/manuscript.txt'
+    source_file = working_dir + 'corpa/voynichese/corpus.txt'
     output_file = working_dir + 'output/manuscript_en.txt'
     vector_size = 100
     num_possible_translations = 5

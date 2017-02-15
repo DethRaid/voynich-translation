@@ -145,7 +145,7 @@ def process_file(file_path):
 def concatenate_files(manuscript_file_name):
     """Take all the files downloaded in the download_files step and process them
 
-    After this funciton finishes, there should be a new file, manuscript.txt,
+    After this funciton finishes, there should be a new file, corpus.txt,
     with the full text of the Voynich manuscript arranged with one line of
     Voynich per line in the file, with only certain words and with spaces
     instead of periods
@@ -156,7 +156,7 @@ def concatenate_files(manuscript_file_name):
     # Look at each group of lines
     # Return a list of good words
     # Concatenate the lines using the line concatenator
-    files = [f for f in listdir('../corpa/voynich')]
+    files = [f for f in listdir('../corpa/voynichese')]
 
     # The full string of the manuscript
     manuscript_string = ''
@@ -168,7 +168,7 @@ def concatenate_files(manuscript_file_name):
             log.info('Skipping non-text file %s' % file_path)
             continue
         try:
-            manuscript_string += process_file('../corpa/voynich/' + file_path) + '\n'
+            manuscript_string += process_file('../corpa/voynichese/' + file_path) + '\n'
         except Exception, e:
             print 'Failed to process file ' + file_path
             log.error('Failed to process file %s' % file_path)
@@ -191,5 +191,5 @@ if __name__ == "__main__":
         print_help()
         sys.exit()
 
-    concatenate_files('manuscript.txt')
+    concatenate_files('corpus.txt')
     print 'Input files concatenated'

@@ -1,0 +1,157 @@
+<f8r>          {$I=H $Q=A $P=O $L=A $H=1}
+# Last edited on 1998-10-09 01:25:22 by stolfi
+#
+# Identification:
+#
+#   Title: "The Bat-Plant"
+#   Page: f8r = AO (Rene) = p015 (Stolfi)
+#   Folio: f8
+#   Panels: f8r
+#   Bifolio: bA1 = f1+f8
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green (Reeds)
+#   Plant: 14 (Petersen)
+#
+# Description:
+#
+#   One plant with a single, big, odd-shaped leaf and a "collar"
+#   around its stem, horizontally centered and spanning the page 
+#   vertically from edge to edge.
+#
+#   Three paragraphs (with 6.5, 3.6, 6.6 lines), left- and
+#   right-justified and interrupted by the plant's stem, fill up the
+#   bottom 3/4 of the page. Each paragraph is followed by a
+#   right-justified two-word title.
+#
+# Comments:
+#
+#   The plant is very strange, bot for the leaf shape and for the 
+#   "collar" around the stem.  Perhaps it is a mushroom (e.g. Amanita),
+#   which the artist mistook for a plant and tried to draw as such?
+#
+#   The text format too is quite unusual, both in its length and in 
+#   the presence of titles.
+#
+## <f8r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-06 13:38:36 by stolfi
+#
+<f8r.P1.1;H>       pshol.chor.otshal.chopy!-
+{plant}cphol.chody!.shy.cfhodar.shor-
+<f8r.P1.1;C>       pshol.chor.otshol.chopin-
+{plant}cphol.chodin.shy.cfhodar.shor-
+<f8r.P1.1;F>       pshol.chor.otshal.chopy!-
+{plant}cphol.chody!.shy.cfhodar.shor-
+#
+<f8r.P1.2;H>       tchty.sh.kcheals.sho-{plant}okche.do.dchy.dain.al-
+<f8r.P1.2;C>       tchty.sh.kcheals.sho-{plant}okche.do.dchy.dain.al-
+<f8r.P1.2;F>       tchty.sh!kcheals.sho-{plant}okche.do.dchy.dain.al-
+#
+<f8r.P1.3;H>       chodar.shy.ry-{plant}chodaiin.shokchy.chor.dy-
+<f8r.P1.3;C>       chodar.shy.sy-{plant}chodaiin.shokchy.chor.dy-
+<f8r.P1.3;F>       chodar.shy.ry-{plant}chodaiin.shokchy.chor.dy-
+#
+<f8r.P1.4;H>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof!chy.dam-
+<f8r.P1.4;C>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof.chy.dam-
+<f8r.P1.4;F>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof!chy.dam-
+#
+<f8r.P1.5;H>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.ckooaiin.chy.taiin-
+<f8r.P1.5;C>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.!*ooaiin.cha!taiin-
+<f8r.P1.5;F>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.ekooaiin.chy.taiin-
+#
+<f8r.P1.6;H>       tosh.ckcheey.kol!toldy-{plant}shy.chocty.cheeody.sol-
+<f8r.P1.6;C>       tosh.!*cheey.kol.toldy-{plant}shy.choety.cheeody.sol-
+<f8r.P1.6;F>       tosh.ekcheey.kol.toldy-{plant}shy.choety.cheeody.sol-
+#
+<f8r.P1.7;H>       choto.kchoa!n.choor.dain={plant}
+<f8r.P1.7;C>       choto.kchoiin.choor.dain={plant}
+<f8r.P1.7;F>       choto.kchoa!n.choor.dain={plant}
+#
+## <f8r.T1> {}
+# title 1
+# Last edited on 1998-12-06 13:36:07 by stolfi
+#
+<f8r.T1.8;H>       ocho.daiin=
+<f8r.T1.8;C>       ocho.dai!n=
+<f8r.T1.8;F>       dcho.daiin=
+#
+## <f8r.P2> {}
+# text - parag 2
+# Last edited on 1998-12-06 13:37:08 by stolfi
+#
+<f8r.P2.9;H>       tchoep.sho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+<f8r.P2.9;C>       tchoep.sho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+<f8r.P2.9;F>       tchoep.cho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+#
+<f8r.P2.10;H>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.daird-
+<f8r.P2.10;C>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.dairg-
+<f8r.P2.10;F>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.dairm-
+#
+<f8r.P2.11;H>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+<f8r.P2.11;C>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+<f8r.P2.11;F>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+#
+<f8r.P2.12;H>      qochodaiin.shotokody-{plant}chotol=
+<f8r.P2.12;C>      qochodaiin.shotokody-{plant}chotol=
+<f8r.P2.12;F>      qochodaiin.shotokody-{plant}chotol=
+#
+## <f8r.T2> {}
+# title 2
+# Last edited on 1998-12-06 13:32:19 by stolfi
+#
+<f8r.T2.13;H>      okokchodm=
+<f8r.T2.13;C>      okokchodg=
+<f8r.T2.13;F>      okokchodm=
+#
+## <f8r.P3> {}
+# text - parag 3
+# Last edited on 1998-12-12 13:52:37 by stolfi
+#
+<f8r.P3.14;H>      ctho.cthey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+<f8r.P3.14;C>      !!*o.!!*ey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+<f8r.P3.14;F>      ctho.cthey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+#
+<f8r.P3.15;H>      dchey.ckhol.chol.chey.kchs-
+{plant}chy.etodaiin.dol.daiiirchy.ckhy-
+<f8r.P3.15;C>      dchey.ckhol.chol.chey.kchs-
+{plant}chy.!!*daiin.dol.daiiinchy.ckhy-
+<f8r.P3.15;F>      dchey.ckhol.chol.chey.kshs-
+{plant}chy.cthdaiin.dol.daiinrchy.ckhy-
+#
+<f8r.P3.16;H>      ychey.kchokchy.chsey.kchy-
+{plant}s!cheaiin.cthaichar.cthy.dar-
+<f8r.P3.16;C>      ychey.kchokchy.chsey.kchy-
+{plant}s.cheaiin.cthaichar.cthy.dar-
+<f8r.P3.16;F>      ychey.kchokchy.chsey.kchy-
+{plant}s!cheaiin.cthaichar.cthy.dar-
+#
+<f8r.P3.17;H>      chol.dchy.qokar.chl-{plant}aiin.chean.cky.char.chaiin-
+<f8r.P3.17;C>      chol.de!y.qokar.chl-{plant}aiin.chean.!*y.char.chaiin-
+#
+<f8r.P3.18;H>      okar.cphaiin.chaiin.el-{plant}daiin.chor.cha.rcheal!cham-
+<f8r.P3.18;C>      okar.cphaiin.chaiin.*l-{plant}daiin.chor.cha.rcheal.cham-
+<f8r.P3.18;F>      okar.cfhaiin.chaiin.el-{plant}daiin.chor.cha.rcheal.cham-
+#
+<f8r.P3.19;H>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.kaiin.dai!kam-
+<f8r.P3.19;C>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.!!!!!!dai!kam-
+<f8r.P3.19;F>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.kaiin.dai.kam-
+#
+<f8r.P3.20;H>      or.chokesey.shey.okal-{plant}chal=
+<f8r.P3.20;C>      or.chokesey.shey.okal-{plant}chal=
+<f8r.P3.20;F>      or.chokesey.shey.okal-{plant}chal=
+#
+## <f8r.T3> {}
+# title 3
+# Last edited on 1998-12-06 13:33:59 by stolfi
+#
+<f8r.T3.21;H>      schol.sair=
+<f8r.T3.21;C>      schol.saim=
+<f8r.T3.21;F>      schol.saim=
+#

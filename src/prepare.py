@@ -17,7 +17,7 @@ log = logging.getLogger('prepare')
 
 
 def __handle_markdown_corpus(corpus_file):
-    """Reads in a corpus as markdown, saving it to /corpa/english/en_corpus.txt
+    """Reads in a corpus as markdown, saving it to /corpa/english/corpus.txt
 
     :param corpus_file: The name of the file to get the corpus from
     """
@@ -54,7 +54,7 @@ def __handle_markdown_corpus(corpus_file):
     # sentences
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-    with open('../corpa/english/en_corpus.txt', 'w') as f:
+    with open('../corpa/english/corpus.txt', 'w') as f:
         for line in lines:
             line_split = tokenizer.tokenize(line)
             f.write('\n'.join(line_split))
@@ -64,7 +64,7 @@ def __handle_markdown_corpus(corpus_file):
 
 
 def __handle_wikipedia_corpus(corpus_file):
-    """Reads in a corpus as a Wikipedia data dump, saving the corpus to /corpa/english/en_corpus.txt
+    """Reads in a corpus as a Wikipedia data dump, saving the corpus to /corpa/english/corpus.txt
 
     :param corpus_file: The name of the file to get the corpus from
     """
@@ -122,7 +122,7 @@ def __tag_parts_of_speech(sentences):
 def prepare_english_corpus(corpus_file, corpus_type, vector_size):
     """Prepares the English corpus for use as a word2vec model
     
-    This function does a couple things. First, it takes the English corpus and puts it into a new file, en_corpus.txt,
+    This function does a couple things. First, it takes the English corpus and puts it into a new file, corpus.txt,
     with one sentence per line. Then, it trains a word2vec model on that corpus, outputting the model (In C format!) to
     /corpa/english/model.v2w.
     
@@ -152,7 +152,7 @@ def prepare_english_corpus(corpus_file, corpus_type, vector_size):
     log.info('Split file into sentences')
 
     tagged_lines = __tag_parts_of_speech(lines)
-    with open('corpa/english/en_corpus.txt', 'w') as f:
+    with open('corpa/english/corpus.txt', 'w') as f:
         f.write('\n'.join(tagged_lines))
 
     log.info('tagged parts of speech')

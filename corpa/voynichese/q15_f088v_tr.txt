@@ -1,0 +1,216 @@
+<f88v>           {$I=P $Q=O $P=D $L=A $H=4}
+# Last edited on 1998-10-09 04:26:14 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f88v = OD (Rene) = p180 (Stolfi)
+#   Folio: f88
+#   Panels: f88v
+#   Bifolio: bO2 = f88+f89
+#   Quire: O (Rene) = XV (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 4 (Currier)
+#   Subsets: P (Rene), pha (Stolfi)
+#   Subject: pharmaceutical
+#   Colors: red,green,brown (Reeds)
+#
+# Description:
+#
+#   Three rows of recipes with two paras between them
+#
+## <f88v.t> {}
+# top labels
+# Last edited on 1998-12-11 13:12:05 by stolfi
+#
+# There are 5 labels alternating with 4 plants.
+#
+# container
+#
+<f88v.t.1;H>       okolyd=
+<f88v.t.1;V>       okalyd=
+<f88v.t.1;L>       okolyd=
+<f88v.t.1;K>       okalyd={was <f88v.13A;K>}
+#
+# plant [1,1] - 2 dark roots, dark leaves
+#
+<f88v.t.2;H>       cheocthy=
+<f88v.t.2;V>       cheocthy=
+<f88v.t.2;L>       cheocthy=
+<f88v.t.2;K>       cheocthy={was <f88v.13B;K>}
+#
+# plant [1,2] - dark roots, dark leaves
+#
+<f88v.t.3;H>       cpheor=
+<f88v.t.3;V>       cpheor=
+<f88v.t.3;L>       cpheor=
+<f88v.t.3;K>       cpheor={was <f88v.14A;K>}
+#
+# plant [1,3] - dark roots, dark flower, grasses? at top of root
+#
+<f88v.t.4;H>       otar.a!rody=
+<f88v.t.4;V>       otar.a!rody=
+<f88v.t.4;L>       otar.iirody=
+<f88v.t.4;K>       otar.a!rody={was <f88v.15A;K>}
+#
+# plant [1,4] - 2 dark roots, dark leaves
+#
+<f88v.t.5;H>       otokol=
+<f88v.t.5;V>       otokol=
+<f88v.t.5;L>       otokol=
+<f88v.t.5;K>       otokol={was <f88v.16A;K>}
+#
+## <f88v.P1> {}
+# panel f88v, top block of text
+# Last edited on 1998-12-10 06:32:26 by stolfi
+#
+<f88v.P1.1;H>      teodal.lkeo.cheor.soshckhy.sor!shy-
+{plant}aiin.cheokal.sal!daiin-
+<f88v.P1.1;F>      teodal.lkeo.cheor.soshckhy.sor.shy-
+{plant}aiin.cheokal.sal.daiin-
+<f88v.P1.1;L>      teodal.lkeo!cheor.roshckhy.ror!shy-
+{plant}aiin.cheokal.sal!daiin-
+#
+<f88v.P1.2;H>      dshor.shor.qokeody.qokeo.lchey.chkeor.qokeey.daiin.qokeom-
+<f88v.P1.2;F>      dshor.shor.qokeody.qokeo.lchey.chkeor.qokeey.daiin.qokeom-
+<f88v.P1.2;L>      dchor.shor.qokeody.qokeo!lchey.chkeor.qokeey.daiin.qokeoj-
+#
+<f88v.P1.3;H>      qoaiin.cheoy.olcheody.qoekeol.cho.chckhy.qoeey.key.cheokam-
+<f88v.P1.3;F>      qoaiin.cheoy.olcheody.qoekeol.cho.chckhy.qoeey.key.cheokam-
+<f88v.P1.3;L>      qoaiin.cheoy.olcheody.qockhol.cho.chckhy.qoeey.key.cheokaj-
+#
+<f88v.P1.4;H>      choeey.keeody.s.aiin.chody.okear!cheol.archeey.rai!nal-
+<f88v.P1.4;F>      choeey.keeody.s!aiin.chody.okear.cheol.archeey.rai!ral-
+<f88v.P1.4;L>      choeey.keeody.s.aiin.chody.okear!cheod.archeey.raiiral-
+#
+<f88v.P1.5;H>      dar.cheorol.che!kol.daraly={plant}
+<f88v.P1.5;F>      dar.cheorol.checkhl.daraly={plant}
+<f88v.P1.5;L>      dar.cheorol.che!kol.daraly={plant}
+#
+## <f88v.m> {}
+# panel f88v, middle labels
+# Last edited on 1998-12-11 13:12:24 by stolfi
+#
+# There are 4 labels alternating with 3 plants
+#
+# container
+#
+<f88v.m.1;H>       otoram=
+<f88v.m.1;V>       otoram=
+<f88v.m.1;L>       otorad=
+<f88v.m.1;K>       otoram={was <f88v.17A;K>}
+#
+# plant [2,1] - multiple dark roots, dark flower
+#
+<f88v.m.2;H>       otory=
+<f88v.m.2;V>       otory=
+<f88v.m.2;L>       ot!ra=
+<f88v.m.2;K>       otora={was <f88v.17B;K>}
+#
+# plant [2,2] - alternating light, dark roots, dark flower
+#
+<f88v.m.3;H>       cheosdy=
+<f88v.m.3;V>       cheosdy=
+<f88v.m.3;L>       cheosdy=
+<f88v.m.3;K>       cheosdy={was <f88v.18A;K>}
+#
+# plant [2,3] - multiple light roots, large dark leaves
+#
+<f88v.m.4;H>       okaiin=
+<f88v.m.4;V>       okaiin=
+<f88v.m.4;L>       okaiin=
+<f88v.m.4;K>       okaiin={was <f88v.19A;K>}
+#
+## <f88v.P2> {}
+# panel f88v, bottom text (2 paragraphs)
+# Last edited on 1998-12-10 06:33:36 by stolfi
+#
+<f88v.P2.6;H>      kosholda.qotody.opykey.ol.daiin.qoteody.yfolaiin.oraiin-
+{plant}
+<f88v.P2.6;F>      kosholdy.qotody.opykey.ol!daiin.qoteody.yfalaiin.oraiin-
+{plant}
+<f88v.P2.6;L>      kosholdy.qotody.opykea.ol!daiin.qoteody.yfolaiin.oraiin-
+{plant}
+#
+<f88v.P2.7;H>      ysheod.sheo.sheody.qokeody.qoky.chees.cheody.qokeody.dal-
+<f88v.P2.7;F>      ysheod.sheo.sheody.qokeody.qoky.chees.cheody.qokeody.dal-
+<f88v.P2.7;L>      ysheod.sheo.sheody.qokeody.qoky.chees.cheody.qokeody.dal-
+#
+<f88v.P2.8;H>      qokeey.qokeoda.chor.oteody.qockhol.okol.cheedy.qokody-
+<f88v.P2.8;F>      qokeey.qokeody.chor.oteody.qockhol.okol.cheedy.qokody-
+<f88v.P2.8;L>      qokeey.qokeody.chor.oteody.qockhol.okol.cheedy.qotody-
+#
+<f88v.P2.9;H>      ykeeor.chockhy.otol.cheeol.cheody.qotody.soteol.chotam-
+<f88v.P2.9;F>      ykeeor.chockhy.otol.cheeol.cheody.qotody.soteol.chotam-
+<f88v.P2.9;L>      ykeeor.chockhy.otol.cheeol.cheody.qotody.sot!ol.chetoj-
+#
+<f88v.P2.10;H>     odoiin.sheo.ol.qokeey.olaiin.cheody.chocthe!y.oteody.dy-
+<f88v.P2.10;F>     odaiin.sheo.ol.qokeey.olaiin.cheody.choctheey.oteody.dy-
+<f88v.P2.10;L>     odoiin.sheo.ol.qokeey.olaiin.cheody.chocthe!y.oteody.dy-
+#
+<f88v.P2.11;H>     sqokeo.daiin.cheody.oteol.cheockhy.chody=
+<f88v.P2.11;F>     !qokeo.daiin.cheody.oteol.cheockhy.chody=
+<f88v.P2.11;L>     sqokeo.daiin.cheody.oteol.cheockhy.chody=
+#
+<f88v.P2.12;H>     toairshy.oteeody.cpheody.ykchey.dam.cheor.chaly.korai!n-
+<f88v.P2.12;F>     toairshy.oteeody.cpheody.ykchey.dam.cheor.chaly.koraiin-
+<f88v.P2.12;L>     toairchy.oteeody.cpheody.ykchey.daj.cheor.chaly!korai!n-
+#
+<f88v.P2.13;H>     dairo.dai!n.ykeodai!n.dai!n.shedy.qoteo.lchdy.qokeor.ai!n-
+<f88v.P2.13;F>     dairo.daiin.ykeodaiin.daiin.shedy.qoteo.lchdy.qokeor.aiin-
+<f88v.P2.13;L>     dairo!dai!n.ykeodai!n.dai!n.shedy.qoteo!lchdy.qoteor!ai!n-
+#
+<f88v.P2.14;H>     tol.keeodaiin.qoky.sheol.daiin.chees.aiin.chokar.daimd-
+<f88v.P2.14;F>     tol.keeodaiin.qoky.sheol.daiin.chees.aiin.chokar.daimd-
+<f88v.P2.14;L>     tol!keeodaiin.qoky.cheol.daiin.chees.aiin.chokar.daimd-
+#
+<f88v.P2.15;H>     daiin.sheor.sheedy.daiin.shoikhy.qokeody.doikhy.dair-
+<f88v.P2.15;F>     daiin.sheor.sheedy.daiin.shockhy.qokeody.dockhy.dair-
+<f88v.P2.15;L>     daiin.sheor.sheedy.daiin.shockhy.qokeody.dockhy.dair-
+#
+<f88v.P2.16;H>     ykeey.sheor.tos.checkhy.dai!n.cheos.cheockhy.raldy-{plant}
+<f88v.P2.16;F>     ykeey.sheor.tos.checkhy.daiin.cheos.cheockhy.saldy-{plant}
+<f88v.P2.16;L>     ykeey.sheor.tos.checkhy.dai!n.cheos.cheockhy.raldy-{plant}
+#
+<f88v.P2.17;H>     saiin.choky.cheor.shy=
+<f88v.P2.17;F>     saiin.choky.cheor.shy=
+<f88v.P2.17;L>     saiin.choky.cheor.shy=
+#
+## <f88v.b> {}
+# bottom labels
+# Last edited on 1998-12-19 22:47:45 by stolfi
+#
+# There are 4 labels alternating with 3 plants.
+# The first label is under the container.
+#
+# container
+#
+<f88v.b.0;H>       daramdal=
+<f88v.b.0;V>       daramdal=
+<f88v.b.0;L>       %%%%%%%%=
+<f88v.b.0;K>       daramgal={was <f88v.20A;K>}
+#
+# plant [3,1] - large light coloured root, dark leaves
+#
+<f88v.b.1;H>       otydary=
+<f88v.b.1;V>       otydary=
+<f88v.b.1;L>       otydary=
+<f88v.b.1;K>       otydary={was <f88v.20B;K>}
+#
+# plant [3,2] - large light coloured root, dark leaves
+#
+<f88v.b.2;H>       otdordy=
+<f88v.b.2;V>       otdardy=
+<f88v.b.2;L>       otd!rdy=
+<f88v.b.2;K>       otdorgy={was <f88v.21A;K>}
+#
+# plant [3,3] - multiple roots mostly light coloured, dark leaves
+#
+<f88v.b.3;H>       dararda!!!=
+<f88v.b.3;V>       dararda!!r=
+<f88v.b.3;L>       darar!aiin=
+<f88v.b.3;K>       dararg!i!!={was <f88v.22A;K>}
+#

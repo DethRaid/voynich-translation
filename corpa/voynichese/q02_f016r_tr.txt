@@ -1,0 +1,103 @@
+<f16r>         {$I=H $Q=B $P=M $L=A $H=1}
+# Last edited on 1998-10-09 01:58:42 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f16r = BM (Rene) = p029 (Stolfi)
+#   Folio: f16
+#   Panels: f16r
+#   Bifolio: bB1 = f9+f16
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green,tan (Reeds)
+#   Plant: 28 (Petersen)
+#
+# Description:
+#
+#   One plant, spanning from bottom edge to top margin,
+#   flush against the right margin.
+#
+#   Three paragraphs (with 2.9, 4.2, and 3.7 lines) at the top,
+#   left-justified.  The first two lines of paragraph 1
+#   are right-justified and interrupted by the plant's flower.
+#
+#   Paragraph 1 is followed by a short title, which may be just a
+#   part of the paragrraph.
+#
+# Comments:
+#
+#
+## <f16r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-07 12:13:52 by stolfi
+#
+<f16r.P1.1;H>      pocheody.qopchey.sykaiin.opchy.dor.ychy.daiin.dy-
+{plant}chor.orom-
+<f16r.P1.1;C>      pocheody.qopchey.sykaiin.opchy!dor.ychy.daiin.dy-
+{plant}chor.orom-
+<f16r.P1.1;F>      pocheody.qopchey.sykaiin.opchy.dor.ychy.daiin.dy-
+{plant}chor.orom-
+#
+<f16r.P1.2;H>      ychykchy.otly.kol.shor.ody.otody.qoy-{plant}oeesordy-
+<f16r.P1.2;C>      ychykchy.otly.kol.shor.ody.otody.qoy-{plant}oeesordy-
+<f16r.P1.2;F>      ychykchy.otqy.kol.shor.ody.otody.qoy-{plant}oeesordy-
+#
+<f16r.P1.3;H>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+<f16r.P1.3;C>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+<f16r.P1.3;F>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+#
+## <f16r.T1> {}
+# title 1
+# Last edited on 1998-12-06 20:26:33 by stolfi
+#
+<f16r.T1.4;H>      dainod.ychealod=
+<f16r.T1.4;C>      dainod.ychealod=
+<f16r.T1.4;F>      dainod.ychealod=
+#
+## <f16r.P2> {}
+# text
+# Last edited on 1998-12-11 12:31:32 by stolfi
+#
+<f16r.P2.5;H>      tchor.chor.chs.ykch.shocthy.opchy.ty.ky-{plant}
+<f16r.P2.5;C>      tchor.chor.chl.ykch.chocthy.opchy.ty.ty-{plant}
+<f16r.P2.5;F>      tchor.chor.chs.ykch.shocthy.opchy.ty!ky-{plant}
+#
+<f16r.P2.6;H>      oshaiin.dyky.oeees.deeeod.aiin.d!toaiin-{plant}
+<f16r.P2.6;C>      oshaiin.dyky.oeees.deeeod.aiin.d.toaiin-{plant}
+<f16r.P2.6;F>      oshaiin.dyky.oeees.deeeo.daiin.d!toaiin-{plant}
+#
+<f16r.P2.7;H>      daiin.dalchy.dy!ky.s!chy.s!aiin.doal.qoky-{plant}
+<f16r.P2.7;C>      daiin.dalchy.dy.ky.s.chy.s.aiin.doal.qoky-{plant}
+<f16r.P2.7;F>      daiin.dalchy.dy!ky.s!chy.s!aiin.doal.qoky-{plant}
+#
+<f16r.P2.8;H>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+<f16r.P2.8;C>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+<f16r.P2.8;F>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+#
+<f16r.P2.9;H>      saiin.ytaiin=
+<f16r.P2.9;C>      saiin.ytaiin=
+<f16r.P2.9;F>      saiin.ytaiin=
+#
+<f16r.P2.10;H>     toror.daly!dal.opchy.fchol.ypchocf{&F}y.okal-{plant}
+<f16r.P2.10;C>     toror.daly.dal.opchy.fchol.ypcho*!!!!!!.okal-{plant}
+<f16r.P2.10;F>     toror.daly!dal.opchy.fchol.ypchocfh!!!y.okal-{plant}
+#
+<f16r.P2.11;H>     sokchy.qokol.choty!okchy.cthy.chy.kchy-{plant}
+<f16r.P2.11;C>     sokchy.qokol.choty.okchy.cthy.chy.kchy-{plant}
+<f16r.P2.11;F>     sokchy.qokol.choty.okchy.cthy.chy.kchy-{plant}
+#
+<f16r.P2.12;H>     dy!cho!kchy.shcthy.shtshy.sho.tchokyd-{plant}
+<f16r.P2.12;C>     dy.cho!kchy.shcthy.shtshy.sho.tchokyd-{plant}
+<f16r.P2.12;F>     dy!cho.kchy.shcthy.shtshy.sho.tchokyd-{plant}
+#
+<f16r.P2.13;H>     qokchor.dl.dy.shey=
+<f16r.P2.13;C>     qok*!or.dl.dy.shey=
+<f16r.P2.13;F>     qokchor.dl.dy.shey=
+#
