@@ -92,7 +92,7 @@ def process_file(file_path):
     processed_file = ''
     skipped_first = False
     with open(file_path) as f:
-        print 'Beginning %s' % file_path
+        print('Beginning %s' % file_path)
 
         content = f.readlines()
         cur_line_group = list()
@@ -169,8 +169,8 @@ def concatenate_files(manuscript_file_name):
             continue
         try:
             manuscript_string += process_file('../corpa/voynichese/' + file_path) + '\n'
-        except Exception, e:
-            print 'Failed to process file ' + file_path
+        except Exception as e:
+            print('Failed to process file ' + file_path)
             log.error('Failed to process file %s' % file_path)
             log.exception(e)
 
@@ -181,10 +181,10 @@ def concatenate_files(manuscript_file_name):
         f.write(manuscript_string)
 
 def print_help():
-    print """This script concatenates all the txt files for the Voynich Manuscript into
+    print("""This script concatenates all the txt files for the Voynich Manuscript into
     a single model, trying to resolve as many unknown characters as possible
 
-Try calling it with no arguments to see it work!"""
+Try calling it with no arguments to see it work!""")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
@@ -192,4 +192,4 @@ if __name__ == "__main__":
         sys.exit()
 
     concatenate_files('corpus.txt')
-    print 'Input files concatenated'
+    print('Input files concatenated')

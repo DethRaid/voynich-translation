@@ -10,6 +10,10 @@ __outdir = ''
 __language = ''
 
 
+# TODO: Build language model to examine character, word, and morpheme entropies
+# TODO: Get Arabic of Hebrew corpra (with and without vowels)
+# TODO: Actually get the Romani corpus
+
 class LanguageStats:
     """Generates statistics on the provided language
 
@@ -88,12 +92,7 @@ class LanguageStats:
         plt.savefig(self.__language_dir + str(n) + '-gram frequencies - ' + self.__language)
         plt.clf()
 
-    def calc_corpus_stats(self):
-        """Calculates statistics over the whole corpus
-
-        The statistics calculated include:
-            - morpheme frequency (# of occurrences / # of total morphemes)
-        """
+    def calc_morpheme_frequency(self):
         morpheme_frequencies = defaultdict(int)
         corpus_morphemed = open(self.__language_dir + 'corpus_morphemes.txt', 'r')
         total_morphemes = 0
@@ -104,20 +103,77 @@ class LanguageStats:
                 morpheme_frequencies[morpheme] += 1
                 total_morphemes += 1
 
+        corpus_morphemed.close()
+
         # Normalize the counts
-        for morpheme, frequency in morpheme_frequencies.items():
-            morpheme_frequencies[morpheme] = frequency / total_morphemes
+        morpheme_frequencies_norm = {morph: freq / total_morphemes for (morph, freq) in morpheme_frequencies.items()}
 
-        bins = np.arange(0, 1, 1.0 / len(morpheme_frequencies))
-        plt.xlim([min(morpheme_frequencies.values()) - 0.1, max(morpheme_frequencies.values()) + 0.1])
+        bins = np.arange(0, 1, 1.0 / len(morpheme_frequencies_norm))
 
-        plt.hist(list(morpheme_frequencies.values()), bins=bins, alpha=0.5)
+        plt.xlim([min(morpheme_frequencies_norm.values()) - 0.1, max(morpheme_frequencies_norm.values()) + 0.1])
+        plt.hist(list(morpheme_frequencies_norm.values()), bins=bins, alpha=0.5)
         plt.title('Morpheme Frequencies - ' + self.__language)
         plt.xlabel('Bins')
         plt.ylabel('Count')
-
         plt.savefig(self.__language_dir + 'Morpheme Frequencies - ' + self.__language + '.png', bbox_inches='tight')
+
         plt.clf()
+
+        # Plot the graph again, but without things that appear once
+        frequent_morphemes = {morph: freq / total_morphemes for (morph, freq) in morpheme_frequencies.items() if freq > 1}
+
+        bins = np.arange(0, 1, 1.0 / len(frequent_morphemes))
+
+        plt.xlim([min(frequent_morphemes.values()) - 0.1, max(frequent_morphemes.values()) + 0.1])
+        plt.hist(list(frequent_morphemes.values()), bins=bins, alpha=0.5)
+        plt.title('Morpheme Frequencies > 1 - ' + self.__language)
+        plt.xlabel('Bins')
+        plt.ylabel('Count')
+        plt.savefig(self.__language_dir + 'Morpheme Frequencies > 1 - ' + self.__language + '.png', bbox_inches='tight')
+
+        plt.clf()
+
+
+    def calc_word_frequency(self):
+        """Calculates the frequencies of the words in the corpus"""
+        word_frequencies = defaultdict(int)
+        corpus = open(self.__corpus_filename, 'r')
+        total_words = 0
+
+        for line in corpus:
+            for word in line.split():
+                word_frequencies[word] += 1
+                total_words += 1
+
+        corpus.close()
+
+        word_frequencies_normalized = {word: freq / total_words for (word, freq) in word_frequencies.items()}
+
+        bins = np.arange(0, 1, 1.0 / len(word_frequencies_normalized))
+
+        plt.xlim([min(word_frequencies_normalized.values()) - 0.1, max(word_frequencies_normalized.values()) + 0.1])
+        plt.hist(list(word_frequencies_normalized.values()), bins=bins, alpha=0.5)
+        plt.title('Word Frequencies - ' + self.__language)
+        plt.xlabel('Bins')
+        plt.ylabel('Count')
+        plt.savefig(self.__language_dir + 'Word Frequencies - ' + self.__language + '.png', bbox_inches='tight')
+
+        plt.clf()
+
+        # Plot the graph again, but without things that appear once
+        frequent_words = {word: freq / total_words for (word, freq) in word_frequencies.items() if freq > 1}
+
+        bins = np.arange(0, 1, 1.0 / len(frequent_words))
+
+        plt.xlim([min(frequent_words.values()) - 0.1, max(frequent_words.values()) + 0.1])
+        plt.hist(list(frequent_words.values()), bins=bins, alpha=0.5)
+        plt.title('Word Frequencies > 1 - ' + self.__language)
+        plt.xlabel('Bins')
+        plt.ylabel('Count')
+        plt.savefig(self.__language_dir + 'Word Frequencies > 1 - ' + self.__language + '.png', bbox_inches='tight')
+
+        plt.clf()
+
 
     def calc_word_stats(self):
         '''Calculates word-level statistics, and shows the appropriate histograms
@@ -180,7 +236,8 @@ class LanguageStats:
         """Calculates all the stats for the language given in the constructor
         """
         self.generate_morphed_corpus()
-        self.calc_corpus_stats()
+        self.calc_morpheme_frequency()
+        self.calc_word_frequency()
         self.calc_morpheme_stats()
         self.calc_word_stats()
         self.calculate_ngram_freqiencies(1)
