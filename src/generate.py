@@ -5,8 +5,9 @@ import logging
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 
+from src.stats.morpho_stats import LanguageStats
 
-log = logging.getLogger('genertate')
+log = logging.getLogger('generate')
 
 
 def generate_word2vec_model(language, vector_size, output_filename):
@@ -21,7 +22,6 @@ def generate_word2vec_model(language, vector_size, output_filename):
     """
 
     # Split the manuscript into morphemes
-    from morpho_stats import LanguageStats
     morpho_model = LanguageStats(language)
 
     voynich_model = Word2Vec(LineSentence('corpa/' + language + '/corpus_morphemes.txt'), min_count=1, size=vector_size)

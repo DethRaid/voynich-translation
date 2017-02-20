@@ -275,7 +275,7 @@ ycheoto l sheo aiin chcthy okain chdal chdam char am
 tsho ar oee y qokain shy pchedy op ched qopchedy otaiin chep ar aiin o cthy dair ry 
 daiin shody kchedy sheody olkaiin sh kar chody tal shdy qokain kar ar o 
 so y sheol shody chain shol kain sh okaiin qotaiin cho dar ail dal dar lor or 
-or aiin cheo rol aiin otaiin 
+oraiin cheo rol aiin otaiin 
 
 tsho daiin shol kair orain kar aiin sh tchy qopchdy qopchy lol kair she as am 
 y sheody cheol oteey qodaiin y tain y chdy ol ty dy 
@@ -296,7 +296,7 @@ pol chs lk aiir sho kar cho efy shor qokor sheeo kol shes ok char aiin
 ycheo lkaiin cheol ch daiin o saiin okal sheedy qokchedy 
 
 tshod qokchy qokaiin okshy qokar shedy shey qop shedy shdy kair y l am 
-olkal ol shor chor okal chdy chol chedy qotaiin or aiin okeedy qokain 
+olkal ol shor chor okal chdy chol chedy qotaiin oraiin okeedy qokain 
 sar aiin sol shedy qokchdy qokol ch daiin chdal air odl char ain ok aifhy 
 sar sheol chol shar chol okar ol 
 
@@ -401,7 +401,7 @@ sho ykeey chey daiin chcthy
 yto ain 
 
 
-ko oiin cheo pchor otaiin o dain chor dair sh ty 
+ko oiin cheo pchor otaiin o dain chor dair shty 
 kcho kchy sho shol qotcho lo eees qoty chor daiin 
 otchy chor l shy chol chody cho dain chcthy daiin 
 sho chol o cheor chodaiin 
@@ -457,7 +457,7 @@ dain she am yte am
 
 ko dal chy chp ady sheol ol sheey qotey doiin chor yto y 
 dchor chol shol cthol sh tchy chaiin s chor aiin chom 
-otchol chol chy chaiin qotaiin daiin sh ain 
+otchol chol chy chaiin qotaiin daiin shain 
 qot chol chy yty daiin okaiin cthy 
 
 py daiin qotchy dy ty dy 
@@ -530,7 +530,7 @@ dair c she cho dam dam okor oty dol dom
 t chody sho cthol cho cthey s 
 y chos y chol daiin cthol dol 
 y chor chor okchey qok om 
-oeeo dal chor cthom s 
+oee o dal chor cthom s 
 qokcho d y chear kchdy 
 lor char otam cthom dy 
 yt chos shy qokam cthy 
@@ -589,7 +589,7 @@ ctho d so octh sol shol otol chol op che aiin opy daiin saiin
 sh cthal sar chor she aiin shor chy kchy otaiin cty 
 qody cheal sy chor y chear shol chaiin shaiin dol ar 
 d shol shol dol che an cthar sheal y daiin char y 
-chol chol dar ot char et aiin cthol dar 
+chol chol dar ot char e taiin cthol dar 
 daiin cth an ytchy chey kaiin dain ar 
 sho kchol dar shey cthar ch otain ry 
 okchol k sh chol chol chol cthaiin dain 
@@ -616,7 +616,7 @@ or chol chy tchy tchol ytor qotol chy ky cho dar aiin
 qotcho qokchy cthey kor aiin okain d dal sol sho cthy 
 o cho cthy cho cto y chody kchy saiin dchy daiin 
 
-ytch as or aiin chkar 
+ytch as oraiin chkar 
 
 
 fo chor op or ody opy shor daiin qopchy pcho qof ol shol cfhol daiin 
@@ -794,8 +794,6 @@ daiin yky otor chody
 s okar o a or ar 
 
 
-erased} 
-
 f shody dar am y dar chom opy dy yp od cho p otchy d ody ol d ckhy 
 y dair shoky okshy qo dar ckho dy dor otchol qod cthy od s 
 chol or chy qo dam okor chor ok chom 
@@ -926,13 +924,13 @@ sho or aiin shol daiin
 t shol fol chol otor shol sho s f sho dchy otchy chcphy dy 
 d oiiin chockhy dar cheockhy sho s cheos char cthaiin 
 sho cthy sho cthy daiin sheo y tey s so aiin 
-sh ain chor aly sho ar chy daiin d s 
+shain chor aly sho ar chy daiin d s 
 ykchy keody cho cthy chol shd qoty d s 
 sh okaiin chocthy chol daiin chy chor ety 
 ok oiin chey cphol chor y 
 
 
-pchor oeeo ckhy of y chey y pchey qop cheody otaiin chan 
+pchor oee ockhy of y chey y pchey qop cheody otaiin chan 
 saiin chcphy oky she aiin qot chol oteos sheey cthy daiin 
 qotol shy ol cheor chy qokchey chey keey dy 
 
@@ -960,7 +958,7 @@ cho l kcho chaiin
 
 pol ol shy f chol y shol d pchy oty okol y daiin opchy s o cphy 
 ol oiin shol o kor qokchol daiin otaiin cthor dain ckhy dom 
-qokol dy kaiin okchy daiin cthol cthol o dar sh ain 
+qokol dy kaiin okchy daiin cthol cthol o dar shain 
 
 pch aiin of chy daiin cfhy dor oiin yp chol sy s chor daiin 
 ol daiin qokchy dar daiin chor ol dor oky y chol dchy 
@@ -968,7 +966,7 @@ y chok sh chy cth een
 
 kchol shol d sheor ska ch dol y ytaiin ol otchy cph al 
 dchor oty daiin cthol y qoky ch otaiin chocthy d oiiin dchor 
-odaiin dain cthy cthe or or aiin o 
+odaiin dain cthy cthe or oraiin o 
 
 kchol chor daiin cth oiin dchor chey qokol dy op chol ol dam 
 doiin y ckho dy qokchy oky otol dy yty dol or da chy daiin 
@@ -1291,7 +1289,7 @@ ot cheo chty ykch scheg
 okeo d of sheod y cho opy op ch dal dor sh efy y tody dal de am 
 teo dal tchedy d shey ok shedy okeedy d cheeky dal dy qotal sy 
 yto s s ar sheeky oke chdy okchd al dar otal chody cheky 
-sh oke shy daiin cheos shky dol shckhy dal ko dal chekal dal 
+sho ke shy daiin cheos shky dol shckhy dal ko dal chekal dal 
 shdy shed e f am qokedy ch okal dal 
 
 tcho d sheody shckhh d chos chor sheo keody chep ar sh s op am 
@@ -1332,7 +1330,7 @@ tcho dar cho cfh h g op om shod chcphy op shody o cphor aiin ok okom
 y dal s ckhor shy cho d char otol ot aiir otcho s ok chom okcho 
 o cthol od chees oese ar ees okam chcth 
 y dal sh okol okaiin odaiin dl os 
-oe or or aiin tchar or o 
+oe or oraiin tchar or o 
 
 to chol chor cfarasr 
 y cheol dai d dar ol om 
@@ -1384,9 +1382,9 @@ pchedar qo dar y daiiin pche ety sair shedy y pchedy y pchdy qop y shdy
 sar aiir che kedy qokedy otedy sar y e tedy qokedy or ar ee aly s chedy 
 
 pch dar opar dar cheeol of chdy otedy ckhdy odar chedy ytedy okchdy g 
-y ckheody qokedy deey sal dy oke dor or eee os or aiin okeo che kaiin 
+y ckheody qokedy deey sal dy oke dor or eee os oraiin okeo che kaiin 
 
-dee ol eee ody qoteedy qokody qotedy qotedy opchedy of chy chs ar 
+dee ol eeeody qoteedy qokody qotedy qotedy opchedy of chy chs ar 
 t oeedy keody shedy dar chedy s ches or cheeky dar chey cheky y tchdy 
 
 pchedy dar cheo et chy sair chees o daiiin ch keeey ykey sheey 
@@ -1394,7 +1392,7 @@ t eeedy okeeos cheeos y saiin ok cheey keody saiin cheeos qoke s or y
 y sheey oke shy shody p shey tody dy 
 
 
-k sor shey sh oteo ch f or aiin shy shod char y 
+k sor shey sh oteo ch f oraiin shy shod char y 
 dy c oain shol dain dar shoky d d chol cthey d s 
 chol shy keol chol shy shol chy daiin chey dam 
 qokey chor char chy dchy keey chos cthody 
@@ -1519,7 +1517,7 @@ ol tee dam ches chol kee ol checkhy okeol okal oky che okar okor ar y
 yk aiin chee k sheey ychek eeor cheor or checthy oke chok ed lchey okam 
 yte cheol sheo eky okeo s aiin a cthedy chkaiin che tchey ctheey oke ar 
 dar s eo ar al kar oee eos cheos aiin o e keey okeo kor oteol ain 
-saiin ar ckheos chedy okeey qoe ar or aiin cheom 
+saiin ar ckheos chedy okeey qoe ar oraiin cheom 
 
 
 f choiin shy keody daii ody dain sho tchy oty qop y 
@@ -1768,7 +1766,7 @@ qokar okar okedy dar yk chey kaiin okos chedy okar ar al os
 shy qokal chdy chckh d otor aiis oky okol chy qokar okam 
 or aiin che kody das qokol okaiin okar oky okol dy ol 
 l okar qokar okar okol ol chedy qokchd ar ar or dam 
-tor or ar sho kor om ol shedy qokam chdy kar or aiin 
+tor or ar sho kor om ol shedy qokam chdy kar oraiin 
 y aiin che kaiin oky ycheey 
 
 ksheo keeey dar aim kcheo cfh dy orain chef al daiin d m 
@@ -1786,7 +1784,7 @@ qoee d aiin ol eeedy daiin
 shody qokol chedy s ar 
 chodaiin chkal ykedy okal 
 tchy p chody pchdy kor ol 
-t chkaiin tchedy qokaiin or aiin 
+t chkaiin tchedy qokaiin oraiin 
 s chedy qokol chedy dal or aithy 
 y chee keey daiin okaiin 
 
@@ -2205,7 +2203,7 @@ to daiin y tody qokol sho dol qockhy ykol otaiin dar y
 okor ctheody qo cphy qokol qotaiin oty kol chol daiin 
 qotol chodaiin qok cheody cho r chody cthol s ol che ety 
 ol keeody qokal qodaiin yk hor yf al 
-daiin ckhol sh ain tchol ol 
+daiin ckhol shain tchol ol 
 ykeol sheo qokody fol d 
 y cheoky sheey ykeey chey 
 o chockhy daiin cho ckhey 
@@ -2265,7 +2263,7 @@ ycheey kchy oky kody o dam
 y ctho daiin otol dy 
 
 
-po daiin sho dal qop chol cfh eody op cheol cho cphy 
+po daiin sho dal qop chol cfh e ody op cheol cho cphy 
 yto daiin otchey otchey qo ckho dal so ckho dy sar 
 daiir cthody otol ek chody ol s or y y tchey dam 
 tor o ckhol shokchy kol chom s chey cthe otol 
@@ -2651,7 +2649,7 @@ yf aiin y
 
 of chees y 
 
-or aiin y 
+oraiin y 
 
 ykeeody 
 
@@ -2694,16 +2692,14 @@ o
 
 r 
 
-"K") 
 pchedar opchedy qokedy opchedy qop dy dain chet as ch cphhy qotam 
 sor sheky qokain okal dal ol chedy daiin chckhy lkar chckhy r om 
 dl shckhy kain ol chey qokain daly rddl shedy qoteedy cthedy lol y 
 qokchdy qokal dal ol chety lchdy csedy ched otedy qotedy otar 
-line 
-sequence"(unitf75v K) 
+
 qokedy r shey qol chey ol chey kee d sol key dy kedy qokol dar ol y 
 o che ain cheedy qokal dain sheeky qoky s shedy tedy otedy tedy tar al 
-qol sheckhy qokedy qokedy qokal y sor chedy qoky ol sh ty qoky dy 
+qol sheckhy qokedy qokedy qokal y sor chedy qoky ol shty qoky dy 
 ral ol ol oin ol key ol shed qokal y qokar chedy qokain ty l shdy qo 
 od chedy qol shdy shok shdy qokain or shedy qol ol keedy qokal om 
 sal shedy kain qokain sheckhy l d saiin ckhy lshedy 
@@ -2812,10 +2808,10 @@ sol shedy qo ol qctheed shdy qo ol keey dain saiin sar shedy qokeor okeedy
 qokeedy checthy chckhey okol okaiin she ckhey okeedy otey dal ykal chedy sar 
 chor shedy qoked okees al ar aiin ar ain chckh ee d lchedy shedy qol air chedy 
 qote s chedy shckhy qokeey okeey kain checkhy qokeedy qotey qotain che ke ar 
-chey chckh shey qe eey chol lkain shedy qokeedy okain chedy okee d qokal or o 
+chey chckh shey qeeey chol lkain shedy qokeedy okain chedy okee d qokal or o 
 d cheedy qol chey qokeey qokeey chedy qokar shedy shedy lshedy qol chedy otedy l 
 dshedy qo chedy lchedy qokey qol chey qotain chckhy shckhy l char okar al chdy 
-qok chs dy okeey lchedy qo ol ain ot shedy qotal y dar sain shedy ol eee d 
+qok chs dy okeey lchedy qo ol ain ot shedy qotal y dar sain shedy olee ed 
 sheedy qokedy chedy chedy qokain chckhy ol chy l ain shedy ol ain chedy qokey 
 dal shedy qol sheedy qokal dy chep y dain al ol or ol ain chedy shecthy qokeey lor 
 qaloin chey qokeey lchedy chckhy chey ky chey qol al lkl chey lchedy chey llaiiry 
@@ -2839,7 +2835,7 @@ sor shey qokey qokar sheeol dy chol ol y chal y lol chdy
 pol eedaran shckhy qoty ykar al ol lkaiin ol shedy otain okar opar kol py 
 y sheedy qo or okain shey qokaiin okeedy qo chy ar ain sheey chckhy 
 d oin shear okedy otedy okedy lchedy chedy okar chedy otar ain 
-dain chckhy or aiin sheey qockhey ol chdar sheey otedy ol ain oky 
+dain chckhy oraiin sheey qockhey ol chdar sheey otedy ol ain oky 
 saiin shckhy lkeedy qoky okain y tain oteedy oke dor shedy qokal 
 saiin ol aiin oky shol sain oky lkar chedy lkar al lor al 
 fchedy ch sal dol shdy olkedy qokaiin otal ror y 
@@ -3129,7 +3125,7 @@ qokchy qotchey l daiin shedy qotaiin sal
 p shor ol shckhy qot shdy qokal dy opchedy qotar or aiin ol 
 sar al qokain checkhy qotal qol cheey chey dain chedy qol 
 qokl shey qokal chedy okol dy ty saiin ol sheol lchey 
-sh ain shckhy qol y k shedy otal sheey qokain shey qokam 
+shain shckhy qol y k shedy otal sheey qokain shey qokam 
 qokaiin shy l sheey l s air or ar or otaiin ches ol ol ol 
 sol or ol shey qokaiin chey qokain otain otain otal ol dam 
 sol cheey chol sain or al shey qokain shey ky shoky ol y 
@@ -3252,7 +3248,7 @@ y shey l shey kaiin lor aiiin shcthy e pchey ty ol keedy tar oky l as
 lol chey r chy r ol dain oty qoty otal or sheckhy olkeey ral chedy or 
 dar sheal cheeky okain sol lshedy dol checthy or ol eees al ol o teol or y 
 l chol dar shecthy otedy qol ol cheedy op cheeky qotchy qokaiin otair olky 
-lol shar otaiin olkaiin ol olkain or aiin ol or checthy ol or 
+lol shar otaiin olkaiin ol olkain oraiin ol or checthy ol or 
 
 pcheol kal dal kor chy qotey qoty r chedy qokal ol kol shedy chty 
 okchey qoky chedy qokain shedy qol cs eey qokal dar ar y 
@@ -3509,7 +3505,7 @@ pol ol or chey qokain shedy qokain ol ches y ol r ain dar
 qokeey rain chey qol kain oky otaly qokal sh ol shal sy 
 sar ol lor aiin chey qokain or oiiin 
 
-qody shar aithy qokchey kchey olkain opchedy q fol sh ty or al 
+qody shar aithy qokchey kchey olkain opchedy q fol shty or al 
 y ckhey qokain cheky otaiin ol or okain qol keey qotar olkain 
 cthor chey q sain qokeey qokain otain otal okeedy qokal dy m 
 saiin shey qokeedy qokar shee cthey qokaiin dal tedy r cheol d 
@@ -3654,10 +3650,7 @@ shol tchdy tedy y kain shey cheol ytedy al kedy oke dar olkee d ol ar y
 d shey teey sor ol shedy dar aldy ote daiin shckh chy chckhy daiin ar y l y 
 qokal daiin dain otey cheor air shckhy or air or o 
 
-chan n e l 
-line sar e 
-the 
-thepondbelow Hmm 
+
 qoteedy qokol otedy shedy qokeedy dol ol dam 
 sor ol chdy lshedy qokchy dol otedy ytchor olky 
 dshedy sheedy qokedy chedy teedy qokeedy 
@@ -3841,7 +3834,7 @@ cheos dy
 
 okaiin 
 
-kosholda qotody op ykey ol daiin qoteody yf ol aiin or aiin 
+kosholda qotody op ykey ol daiin qoteody yf ol aiin oraiin 
 y sheod sheo sheody qokeody qoky chees cheody qokeody dal 
 qokeey qokeo da chor oteody qo ckhol okol cheedy qokody 
 y keeor chockhy otol cheeol cheody qotody s oteol ch otam 
@@ -3924,7 +3917,7 @@ psheoas shee or qoe p sheody odar ocpheo opar ysarasod
 yte ar yte or ol cheey dteodoiinsaro qo ches y cheom 
 d che oteos cph eos sor ch ctho sy cthy tchey daiin 
 d sheos sheey teo cthy cthe od ody 
-to ckhy cthey ckhe eody ar chey key 
+to ckhy cthey ckh eeo dy ar chey key 
 yteeody teo dar al chey sy 
 sheo dal chor or y cto l 
 ycheey ckheol daiin s 
@@ -3964,7 +3957,7 @@ otol dy
 
 p cheody oteody daiin cph eey t shol dal cfh e ol ol aiin rar 
 rar o shy shor s shor sheol kol sheol qoe ol shol kol ckhol ckhor y 
-d cheor chs al y ckhy okeol ckhor or aiin chor qokeeor chor y 
+d cheor chs al y ckhy okeol ckhor oraiin chor qokeeor chor y 
 qokeor chol ykol cheey chody ckhol daiin okeol y daiin ckhy 
 
 opar al 
@@ -4021,7 +4014,7 @@ tol keey ctheey
 ykeol okeol o ckhe o chol cheo dal okeo r ol chee m or ar 
 okeeey keey keeor okeey daiin okeol s aiin ol aiir o ol sal 
 qokeeo okeey qokeey oke sy qokeeo sar shes eky or al 
-y sh ain ykhey o cthey dy daiin okor okeey sh cty sh 
+y shain ykhey o cthey dy daiin okor okeey sh cty sh 
 y chor ol s or am air om 
 
 
@@ -4183,7 +4176,7 @@ qoke ch chy sh okeey qo chey qokeey chal chedy
 
 pchol kchdy sheckhy qokey okaiin shedy ch pchy opchedy oteey kshy chdal y 
 soiin eeol kaiin chal okaiin shckhy qokal sh dar sh chdy okaiin chty 
-okeey shedy qokedy qokal shety otedy shcthy or aiin 
+okeey shedy qokedy qokal shety otedy shcthy oraiin 
 
 qokeey che chy qokey shckhy chol dy qokal y shedy yteedy qot ail s eedy 
 sheod o shey chee dal aiin 
@@ -4204,7 +4197,7 @@ od eeey qokeey shey sheal ot shedy
 
 qokeedy qokeedy shol she dar chedy qoteedy oteedy ol keol l tar y 
 chol keey qokeey cheol chor ol shedy qokeey qokeey ol l aiin che dan 
-s sheey okeeol lchey qokal y l cheedy ol or aiin 
+s sheey okeeol lchey qokal y l cheedy ol oraiin 
 
 pol ar ar lshedy qotol aiin qokeey qokeey sh kchy op cheal ol kchy s am 
 okeey lr ain l ol shee d qokeey sheol qokeedy shedy qoky l eees ain am 
@@ -4273,7 +4266,7 @@ y shey shey kain chey rar ar ol chs aly
 orain chckhey qokaiin shckhy sh tal opchy lkeedy chdy lchedy 
 q kain shey ar ar oky rain chckhy shedy qokeor y l teedy ro 
 okey ol cheey l cheey lkain shckhy sheckhy orain otar ol y 
-tain shol qokain chckhy ror ol chdy ral y or aiin char y 
+tain shol qokain chckhy ror ol chdy ral y oraiin char y 
 
 
 pch dar chedy char qopchedy o cphedy qopchedy she daiin oteeo chey qopchedy sain 
@@ -4313,7 +4306,7 @@ pchedar qokaiin qotaiin dl ral cheo dl cph aiin daiin ar qe keeey qop ar aiin
 ol chee ar chedar or ar or sheey olkee chy or char cheeol sor or aiin otam 
 y sheo daiin shody yteedy chee dar or air cheol tar ar odl y 
 
-okeeo l keeo dain lkeo daiin qokeeo lke chey okeody ote chdy op cheo c f qop aiin 
+okeeo lkeeo dain lkeo daiin qokeeo lke chey okeody ote chdy op cheo c f qop aiin 
 qokeeo aiin ok sheey okol chey l cheeey oteey lke chedy qokaiin chedar chol cham 
 y shee ody qoe te ok shey ote ch shy cheol kaiin sho da lkaiin cheo dain qokar al chd 
 ok che chy qok cheedy okchd al qokal char ol keeey ol cheo lkaiin chey rol y 
@@ -4322,7 +4315,7 @@ pchol k sheody qoke shedy qokal chedy qokaiin otaiin cheody qokal taiin chol x y
 y sh oiin qo cheeol chedaiin qo dal chey chol cheol ol aly 
 
 p sheody qotar ch opar qotal y qot sheod qote chy kaiin okar qop char op am 
-okaiin cheo dal qoaiin okar or aiin okar oteody qokaiin okal qot ir 
+okaiin cheo dal qoaiin okar oraiin okar oteody qokaiin okal qot ir 
 okaiin or cheol qokchol k cheody qotchdy 
 
 pchol or ar aiin al kchdy qotal chol qo ar aiin qop cheedy qot air of aiin o 
@@ -4339,7 +4332,7 @@ pch doiin op cheedy or ar ol t cheey opchedy ol ear aiir aly cheo daiin chee kai
 y chedaiin qoteed chockhy otaiin y daiin qokam dy otar ar al ched otair or am 
 shod chedy qotaiin odaiin okeol o ckhhy chol qokeedy qot air oee daiin ol dl 
 qoteedy chedaiin cho kar qotol qot ched chol chey qol chedy qo eeey qokeedy 
-d cheol ch deey oeeo dain sair ol chedal 
+d cheol ch deey oee odain sair ol chedal 
 
 sol chd shol sheol qokchy qoko l chedy shedy qokain cheedy cph eo opchedy qotody 
 o s cheo l chody cheey qo cky cheo ain o chedy cheedy chedy sol cheo dal ol 
@@ -4397,7 +4390,7 @@ p aiin dar chcphy qokeey qop aiin yp cheeey sar ais l in cheedy kaiin ar ody
 d shees y ey cheey raiin otchdy qod os ches or cheey okees odar cheody qody 
 ol shey qo dan o deey k cheody cheeo ar yteey ytchy otedy qokeedy qokeey rol 
 ykaiin olkeedy odaiin okar eee odaiin yteey o chedy qokeeey o y teedy qotam 
-doiin yteedy ytee eody y l cheo d or aiis ockhy otchdy otey 
+doiin yteedy yt eeeody y l cheo d or aiis ockhy otchdy otey 
 
 por ar ody shed eeey qopchedy qody qoteody aiin y teody qokor ol p shedy 
 y shee ody ykeeo s or aiiin shey qo daiiin qokeed qokeey raiin aiir ody 
@@ -4460,7 +4453,7 @@ y sheedy aiin okeol yke dor ar ar al kair oto s otaiin otal tair am
 saiin opchedy qokchdy otar al kair okees lkeed al 
 
 pche daiin chckhdy qok aiir ol pchedy ol or d aiiin k ail odar kar d ch tchy 
-ycheey kar ykeey otaiin otal dar chd os kal chedy opchdy daiin or aiin r 
+ycheey kar ykeey otaiin otal dar chd os kal chedy opchdy daiin oraiin r 
 daiin cheey dal chl okair aiin cpheor aiin okal chodaiin otaiin op aiim 
 ol r aiin chey l raiin lkl dl lkl or daii i olkaiin 
 
@@ -4483,7 +4476,7 @@ t dol tor o al dar aiir ot okeedy kar ody qoeedy sho qopchedy daiin op air am
 d chedy cheey qokor otaiin otair otair okeedy taiin aiin s aiin sy 
 y cht aiis aii chy dol aiin otaiin aii dy okchd otor daiin 
 
-po ar keeo daiin qo air ar aiphhey qoee d eody qokaiin qote dai s a por air a py 
+po ar keeo daiin qo air ar aiphhey qoee de ody qokaiin qote dai s a por air a py 
 l sheody tair oteey oteeo ol otaiin okeey qokaiin ar aiir al dal 
 sheeo daiin chs d qokeeey dair okaiin otaiin chedaiin olkal lkl dain 
 d oee ok cheeo lkaiin ot cheedy chor aiin odaiin chedy otaiin al k ai shd 
@@ -4512,7 +4505,7 @@ pcheol she okaiin otey qokeeor sheo aiin otchey p cheo ror aiin daiin opal
 y chol okaiin ol cheey dol chedy ot ais otal chedy okeor 
 
 po dar oar oteeol chor shol tchedy ch otar opchedy op ches aiin okchd am 
-sain oin okain aiin ar ol o cheedy l kee eody daiin chedar okol otar chdam 
+sain oin okain aiin ar ol o cheedy lk eeeody daiin chedar okol otar chdam 
 y o chor lshedy qockhey qoke dain or aiin cho dar 
 
 k shed d sheol qokeedy otol okeedy lkeed ar she opchy qopchy qotol chy qoty chdy 
@@ -4529,14 +4522,14 @@ ycheeo lkeey
 
 tcheo ko lk shedy qokaiin lky raiin chy r ody chl ar cheeor f or cheol y 
 okaiin ol l cho r cheo raiin qokaiin chey ch okaiin chear ar ol rar ol chl 
-%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%% 
+
 ycheeo lkaiin cho ror sheol kain shor sar aiir y sheo al kair am 
-y shar chkar aii iky ral cheol or aiin 
+y shar chkar aii iky ral cheol oraiin 
 
 por al sho keeody qokain chckhy ol t eeedy qop ches al kar chy qote dar y 
 y cheol ch okaiin sheody chody qokaiin ar a kair aiir okaly 
 
-t cheor sho lk shey l p cheo ro l pchey op or aiin ch pchy qop cheody qotar ain 
+t cheor sho lk shey l p cheo ro l pchey op oraiin ch pchy qop cheody qotar ain 
 okaiin choky lkar chdy lchedy 
 
 p sheo dal o dar sheo dal qotedy qote s aiin okal al shdy otaiin shedy 
@@ -4556,7 +4549,7 @@ ycheo ar okain qokain char oky cheo kam
 
 
 pch dl ar sheol or ykee ol qokchy otor okees odar tar air oteey otaiin ytar 
-d chey qoteo s aiin shedy oteed qor aiin cheockhy olkeey qotain chey qe eey lor 
+d chey qoteo s aiin shedy oteed qor aiin cheockhy olkeey qotain chey qeeey lor 
 ol cheey sheos qokeeey y cheedy qotain y kain okeey raiin 
 
 tee ody chedain qoteey qokar d eeo l tedy otar ain cha dy ot okcho qoked okchedy 
@@ -4591,7 +4584,7 @@ ol cheor shey cheey ol cheol kaiin otair okal cheody
 
 po dar aiis od qok iir ot iir of chedy qofchedy qof chol chkaiin chp aiin or ol 
 kar aiin chl chol or sh eees aiin cheey otchy lkaiin ykaiin ykal kal 
-ol keeo l keeo ar shol 
+ol keeo lkeeo ar shol 
 
 pair aii ikhe dy shal kaiin kair y okar al qokaiin op ai chy opal rar y ky 
 daiin sheol chdy okaiin shey kal shy k l al kal chdy raiin chain y ol s 
@@ -4654,7 +4647,7 @@ p al char ar akaiiky char r ai kchy of chain opal kar otal ota s al ky
 dain ol aiin chol olkain lkaiin 
 
 ka ol kar kol kar okeol qokeor al tody opchey oty al ky pchey ram 
-or aiin sheor qokain cheody qokain otal okaiin ol keeor ar al ol dy 
+oraiin sheor qokain cheody qokain otal okaiin ol keeor ar al ol dy 
 dal okain okchey qokshy okol lk shedy tar aiin sho qokar cheey qokam 
 y cheor cheol l cheedy rar aiin 
 
@@ -4688,7 +4681,7 @@ ycheo saiin oe key chey qokeey ycheey dy qo y
 
 
 teo dee ar qop chety okeeol y okchd pchy todashx op as y ol pair ody otedy kedy dy 
-qokeedy chok ody cho ckhe d qokeor shedy otal otaiin otedy qokechy of chdy qody 
+qokeedy chok ody cho ckhed qokeor shedy otal otaiin otedy qokechy of chdy qody 
 cheo dchy qote ar okedy ote al lke dal okedy otedy oke dal chckhedy chok ed al 
 y chedaiin shky chdy oteeody ched or sheeky 
 
@@ -4698,7 +4691,7 @@ okchey okedy qokchedy chedy qokedy okar chdy okar char chkaiin chs y
 
 po chedy shy sho kee dar al ke dal chokchy qokar ch okeey q aiin okeedy qe tam 
 cthey chedain chedy okedy lkedy rar aiin qotar otal kedy ar air o ckhedy 
-taiin sh keedy qoteey oteey yte ol ykeedy che kar qokeeo daiin okey ty ody 
+taiin sh keedy qoteey oteey yte ol ykeedy che kar qokeeo daiin oke yty ody 
 
 teo deey ar aiin okeey qe tchdy oteeody okaiin ykeeo dain otal aiin ol y 
 t shey okchey dain al oiin o cheey qokaiin chl am okaiin okal kain al am 
@@ -4735,7 +4728,7 @@ py chor y opchey lkeol chdar shedy qof chdy opal al cheedy qokal chdy opchdy
 oke chy okeol okeedy chee dar okedy qotal chdy chedal chedy 
 
 tchedy qokey okeey lkeey chedy che okeey qokeey ched l al l kair al keedy ram 
-d cheeody cheedy qokeedy otedy qe eey chey 
+d cheeody cheedy qokeedy otedy qeeey chey 
 
 por ol te do l ch dain qokar otedy otar ar yty sho qotedy oteedy okedy 
 okar aiin okeedy qokeedy okee om chey kee ed chol qe keey or aiin chckh om 
@@ -4787,11 +4780,11 @@ sheeol okeey kaiin okaiin ol lchey cthe or aiin cheey qokeey qokee aiin al
 sair oke aiin cheol shedy qokeeey do aiin ar or lkar char aiin okal ldy r l s 
 sal l cheal lkeeey okar ar ain ol ch eees ol cheal okaiin ykar al okal am 
 
-por or aiin shedy qokey qol eees aiin l al lkeeedy otain sheey chol kan al 
+por oraiin shedy qokey qol eees aiin l al lkeeedy otain sheey chol kan al 
 dar chey o cheol che deey qokeedy che am 
 
 pol she daiin qokeo y keol ch okeol qotedy qoteedy dar raiin shedy qotain oteedy 
-ol cheol shed qokedy qoke dain che ckhe d qoteedy otedy qokedy okee or l kam 
+ol cheol shed qokedy qoke dain che ckhed qoteedy otedy qokedy okee or l kam 
 dain she dain qoke dar o lkeeedy qokeedy shedy chedar chedy oteedy qokam 
 sain ain chey l chs shed qokeedy oteey qokedy qokeedy cheedy qokeed ar ol dy 
 
@@ -4828,7 +4821,7 @@ dain shedy qoky chedy qok shed ol chedy qokeedy teedy chdy keedy qotchedy dar y
 s shedy qokeey che cthey oteedy lchedy chol sheeol qokeody raiin otedy otar aiin om 
 daiin o chedain daiin cheedy qokeey qokedy chckhhy ot shedy lkeeol lkeey qotchdy 
 ycheeo dain okeeo ol chedy lchedy qokeey okeeedy okain chedy chedy teey dal l am 
-ykee daiin she kain shedy qoke ar o chey r eeey qokeey ol aiiin chedy l keeody or aiin oty 
+ykee daiin she kain shedy qoke ar o chey r eeey qokeey ol aiiin chedy l keeody oraiin oty 
 d shey lkeedy lkeedy cheedy otee dain sheedy ar a ikhy sh kaiin chey daiin dar am 
 d sheeo qokeedy ot che dey lshey lkeedy oteey qokeedy oteol air ar she dam che am 
 qo sheo lchdy lshedy o lkeeedy lr al chr or dain shey orain chey teey cheo daiin 
@@ -4865,7 +4858,7 @@ qokeol qokee l qokee ol cho lkedy lchedy chedy chedy te okain chedy l kam am
 okeedy lkeedy lke dar okeedy chedy 
 
 pchedar oteeol lkeed ain oke am sheo teol ke dain shal keey l tee al cheal oty 
-o ain ain keeey tee d che ckhe d iir okeey lkeeey okeeo lkeey lkeey lkeedy qoky 
+o ain ain keeey tee d che ckhed iir okeey lkeeey okeeo lkeey lkeey lkeedy qoky 
 y cheeo lkeey oteed lkeedy ok eees ey chey lkar al ol chal or aiin cheom 
 sheedy qokeey sheey qoteedy qee ar al chedy okeey chedy 
 
@@ -4898,7 +4891,7 @@ qokain sheol qokain chckhey lchedy okar al qotal shedy otain f ar aiin am
 s olkain shey okaiin sheey qokain chkal chckhy saiin ar l chal she otain 
 tair shedy qo ch daiin okain sheey kaiin shey otain al kain o l r ol dain 
 qokaiin cheal tain qokain shey qokain char sh cthey qoky chy qokaiin 
-sh ain qokal shar qote al qotain chedy qotain shcthy qok shedy qotain ar 
+shain qokal shar qote al qotain chedy qotain shcthy qok shedy qotain ar 
 sair air ain qol rar ain cheey lkeey lkain che okain sheo qo qokain chear al am 
 saiin y chear ol sheey che tain chedy qokain okain al chan okal chey lkeeey 
 qokaiin sheckhy qokar chal kain chckhedy l cheol okaiin qokain cheol daiin l om 
@@ -4917,14 +4910,14 @@ y sheal qo air ain okan she ain y qokan chan am an cheal char
 
 pol ar okar teody qokain tal ol tar ol opchedy qotar otar cht al s am 
 oain okaiin chcthy lkain lchey l she kain qotal shedy chkeey lkeeed lkain y 
-sh ain okaiin chey qokar ar ar ain ol r ar ol or 
+shain okaiin chey qokar ar ar ain ol r ar ol or 
 
 pol chey lkar shar okain qokain shal k l dy tor chey keedy l teedy ral dl 
 ycheey oaiin checkhey otain qot l chear chedy qokeey okeedy lkeey 
 d sheey qokal chedy chcthy qokain chedy lkeey shey qokain chedy lchdy 
 y keeey lkain chckhy ch okain chckh al she ckhedy qokeey qokeedy l chs l 
 oteey lchedy t eeedy lkeey oteedy okedy chedy qokeey checthy qotal 
-cheeo l keeo chear qoke ain okee or cheedy okain chedy chedy teedy l che am 
+cheeo lkeeo chear qoke ain okee or cheedy okain chedy chedy teedy l che am 
 ycheo daiin sheeky ch okeal shee kar okaiin otain chear al o l aiin ch otam 
 dain tee odain chee al ol aiin or 
 
@@ -4970,7 +4963,7 @@ chee teey qot eeey lkeey okeedy key lkedy qokedy otedy otedy lo
 te dain shedy o chor okchd ykedy kedy chor aiin che ety chcthy okey 
 to ckhy chedy che dam 
 
-pcho lkeedy okcho iiin a ky opchedy kol f chdy opchedy lky sh ty 
+pcho lkeedy okcho iiin a ky opchedy kol f chdy opchedy lky shty 
 y sheedy she okeedy qokeedy qokain oteedy chckhy ytchedy shar am 
 sar aiin ol shedy ch okeey sal okaiin oteey qokeey ol or al cheal y 
 tar ar che okey okeody chol ol chedy qokedy cheom 
@@ -4993,12 +4986,10 @@ ytee o raiin okar op or aiin y cheedy qee dar yt eeey sheor otee g
 sar ain qok aekeeey yk oka ee chey okeeedy al air ok cheey ar ar ody 
 y ar aiin okeeey teey sh kar ot eeedy qokeey okeey okar y yky 
 
-
-1996 
 keeo al cho ol opal otal air y f cheol oteey qor eees am 
-oar os al okee shy qokeey okain qokal okeol oty or aiin 
+oar os al okee shy qokeey okain qokal okeol oty oraiin 
 qokeeor ar sheey or ar aiiin okeey l keeody sheedy qotam 
-shody qo oee eody oteey qokeedy okeey qokeedy qoky am 
+shody qo o eeeody oteey qokeedy okeey qokeedy qoky am 
 sain aiiin okey daiin otal chear okedy okaiin cheeol dy 
 saiin ol oaiin okeeedy che a ikhy 
 
@@ -5029,7 +5020,7 @@ pch daiin shedy otaiin cheedy qokeeey lkeeedy cheey lor eeedy qokeey
 y chedal checkhey checkhy cheeol qokeedy qoteo s am chos 
 
 pcho dain aiin t eeedy qoeey okeedy qokee ar al oke dal olkeedy qotedy 
-shey kee dal aiin cheol kee eody q oiin ykeey qokeeey ykeey qoeey qok aim 
+shey kee dal aiin cheol k eeeody q oiin ykeey qokeeey ykeey qoeey qok aim 
 sheey qoee kain ol kain al or ched ol sheody 
 
 pol or sheedy okee dey sal aiin shee dar okedy qopchedy dal kedy opchdy 
@@ -5048,7 +5039,7 @@ teo dar ody op chee d okaiin chaiin otam oteedy qoteey qotain chcth d
 y cheol lchedy chckhy cheol chal sh chy daiin cheol or okain chedy daiin 
 ykee dain checkhey oain chol 
 
-pol y kee dain she kchdy chot she ote chy qokchdy otar ay sh ain qokedy 
+pol y kee dain she kchdy chot she ote chy qokchdy otar ay shain qokedy 
 o oee or oee al ol keol ol chol chl al chedy ykeedy cht al kar opchy f am om 
 qok chal qokey q aiin otol teol okal otedar opal chdy al pchdy 
 ycheey ch okeey okar al tchedy oteol chcthy al aiin char al kam dam 
@@ -5070,7 +5061,7 @@ d chos aiin oteey qokaiin cho okaiin cheo daiin chky l e chody ch otaiin
 
 p cheody qokeody cheo ar chy k cheeor ety sheody sheo daiin qoteo or ot om otchedy qoty 
 daiin chol chey oke cheey ch okeol sheo qoaiin sho o ke eeol keody chor chor kal lii ram 
-y sho ain qoeey qoaiin shol l keeo ar chodaiin otam cho saiin 
+y sho ain qoeey qoaiin shol lkeeo ar chodaiin otam cho saiin 
 
 fol chor cheody qotedy lke ches lkeeol lk cheol lkchedy k otchy l pchedy qopchedy ro 
 ycheo l kcheo l chol oiiin qok sheo y qok cheody l cheo l kchedy chokchy okchd ar al 
@@ -5078,7 +5069,7 @@ chol chr s aiin ch aiiin
 
 p cheo or olkeedy qokeedy shdy qofchedy ch cfh or chedy qokee ol por aiin chep char 
 dor shar shol qokeey qokchol chedaiin qoky ch okain ch otar cho kar char al om 
-ycheo d cheo aiin chal olkaiin chkaiin cheeey l keeo aiiin okeedy qok cheey r chedy 
+ycheo d cheo aiin chal olkaiin chkaiin cheeey lkeeo aiiin okeedy qok cheey r chedy 
 y h al cheeo r l aiin chckhey cheol 
 
 ksho raiin qokeeo ar sh oteol lkl cheol qokar ch dain cph oithy chor aiin ckhy dy 
@@ -5101,7 +5092,7 @@ sho daiin sh kaiin chcth al ok shedy otal okaiin cpho al otain okaiin chedy qota
 y keeor chear okain chear chockhy 
 
 p al sh sar l sh daiin ot sh saiin sho cfhy qop chear sh kair qopchdy qoteedy r chedy ldy 
-y sh s sheeo lke eos aiin qok eees okchedy qotaiin otar okar ockhy r chedy qo sain 
+y sh s sheeo lkeeo s aiin qok eees okchedy qotaiin otar okar ockhy r chedy qo sain 
 d cheey sheody she dain 
 
 t shedy qokaiin she dar sheo cphy okchdy p cheody op chear opchedy l fchedy otal 
@@ -5128,7 +5119,7 @@ fol or ar om otchey qotar air otair opchedy qokeed ody chey keeo y rol lkar chs 
 teo ar ain qotar ycheey ot aiir otaiin okchy l kchdy oteol ar al ar aiin okal chey or 
 sar aiin ch otar okeeo dar qokain ol ol ol am 
 
-f cho ctheody keeo dar oteedy r chedy qokechy ot ches op or aiin oteody otaiin ot l ar o shy 
+f cho ctheody keeo dar oteedy r chedy qokechy ot ches op oraiin oteody otaiin ot l ar o shy 
 d cheos otaiin otedy oto daiin qokeey r ch chy qe eee ar oteedy qokeedy otedar ar t otee sal 
 t cheol chy l cheol chockhy cheo doii daiin 
 
@@ -5143,7 +5134,7 @@ sol chedy ot sheody ar l ol chey or or
 por aiin otar ar okol shedy qokchedy otchdy qotor qoteed ar ror al f chee l lor 
 dar al sheey qotaiin chor cthol oke sho s ol chedy qokaiin okal okaiin ol o 
 daiin chl lkeey lkaiin ch dain qokain sheor okal chedy qokar ol kam ar 
-sar aiin shedy l cheey ol kar okaiin cthor or aiin yte eeor 
+sar aiin shedy l cheey ol kar okaiin cthor oraiin yte eeor 
 
 py chdar chckhedy ot shedy t chee pchey lky lk ches qokody lke shdy f cho cthar op am 
 daiin qokeeody qokar okaiin qokaiin okar checthy okal ched l chal q ckh am 
@@ -5173,14 +5164,14 @@ qol aiin ol aiin oteeey lchedy qokair y daiin
 
 pchol ky otar air ol okeedy chok or sheedy oteey tee ar otor sheey qote al 
 o sheol cheol ar al oiiin oteeey otain che key qokain chcthy qotam lr 
-or aiin cheor al kain oteey ar aiin otaiin okeey lkeeedy qoee eey aiin 
+oraiin cheor al kain oteey ar aiin otaiin okeey lkeeedy qoee eey aiin 
 dair aiin okain ar aiin cheody 
 
-pol keeo dy qo eees aiin or aiin oteol fchedy oteeey dar ota keol ol 
+pol keeo dy qo eees aiin oraiin oteol fchedy oteeey dar ota keol ol 
 y cheol keey lk eees or aiin otaiin chkain ol ar ol chedy qok aiin os 
 daiin cheal otain okar otaiin ol oiin 
 
-pol aiin ar ol shear okee eody l sar lkeey opchedy qokchdy ota ar am 
+pol aiin ar ol shear ok eeeody l sar lkeey opchedy qokchdy ota ar am 
 olkaiin cheey l ain al cheey 
 
 pol aiin k sheeol lkaiin tair shey qotain ar a kal shey qopchedy ldy 
@@ -5255,7 +5246,7 @@ chedy qokeedy okaly chee dain shedy
 te d cheo cheo cthedy qotchedy qotaiin opchedy shedy qepoepy chedar dair y 
 yte dshedy otaiin chee dar cheey s aiin ched ky che daiiin shod chok chedy 
 pche d chdy qoteedy qoke dain ch daiin qokedy chedain qoeedy qotey qotaiin 
-so es oeeo s aiin olkeey keol qot cheedy qo ckhe d s kaiin sheedy qotal chedy 
+so es oee os aiin olkeey keol qot cheedy qo ckhed s kaiin sheedy qotal chedy 
 olkee s chedaiin qotaiin ol chedaiin chedain dain chcthdy 
 
 tchedy qotaiin chdy qotedy te daiin chep ched otol she dain pol otam 
@@ -5296,7 +5287,7 @@ d cheey ol cheo daiiin qokar otaiin otal okaiin chey tar ar ody
 oteeo oke daiin otaiin qotchey qoteeo dy otaiin okal dal r 
 qol ee chedy o ke che okeo oteo daiin okaiin choty odaiin otam 
 eeo cheo y oteey qotaiin cheol oteeey daiin oteey t eeedy d m 
-y aiin oeeo y okeey cheody qokaiin otain al kain choty 
+y aiin oee o y okeey cheody qokaiin otain al kain choty 
 
 
 f sh dar qop chol qo chedain otedy cheo pol t eeedy or o iir oe chedy oteedy qotchedy 
@@ -5449,7 +5440,7 @@ chol sheky shedy qokeey qokeedy shckhy qokain otal ches ain ain al om
 y tchey qokaiin chckh ol she chol qotey ol cheedy otain okeedy qotam 
 daiin chey qokey lshedy orain chckhy lkain chy p shedy lshedy qoky r om 
 cheol lchey lkeey sheal l shal shy qotal shy cthedy lky chedy oteedy lched 
-cth an cheey lke eal lshey chl l lkain chear aiin chl l keedy rar aiin or y 
+cth an cheey l kee al lshey chl l lkain chear aiin chl l keedy rar aiin or y 
 sar aiin shey qokain chcthy okar air ol l ain okaly 
 
 pch al l ar ar al ckh al rain al ol fchy r pchey sh f y ches ar op che kan dl r 

@@ -794,8 +794,6 @@ daiin yky otor chody
 sokar oaorar
 
 
-erased}
-
 fshody daram ydarchom opydy ypod chop otchy dody oldckhy
 ydair shoky okshy qodar ckhody dor otchol qodcthy ods
 chol or chy qodam okor chor okchom
@@ -2694,13 +2692,11 @@ o
 
 r
 
-"K")
 pchedar opchedy qokedy opchedy qopdydain chetas chcphhy qotam
 sor sheky qokain okal dal olchedydaiin chckhy lkar chckhy rom
 dl shckhy kain olchey qokain daly rddl shedy qoteedy cthedy loly
 qokchdy qokal dal ol chety lchdycsedy ched otedy qotedy otar
-line
-sequence"(unitf75v K)
+
 qokedy rshey qol chey ol chey keedsol key dykedy qokol dar oly
 ocheain cheedy qokal dain sheeky qokysshedy tedy otedy tedy taral
 qol sheckhy qokedy qokedy qokalysor chedy qoky olshty qokydy
@@ -3654,10 +3650,7 @@ shol tchdy tedy ykain shey cheol ytedy alkedy okedar olkeed ol ary
 dshey teey sor ol shedy dar aldy otedaiin shckhchy chckhy daiin aryly
 qokal daiin dain otey cheor air shckhy orair oro
 
-channel
-linesare
-the
-thepondbelow Hmm
+
 qoteedy qokol otedy shedy qokeedy dol ol dam
 sor olchdy lshedy qokchy dol otedy ytchor olky
 dshedy sheedy qokedy chedy teedy qokeedy
@@ -4529,7 +4522,7 @@ ycheeo lkeey
 
 tcheoko lkshedy qokaiin lky raiin chy rody chlar cheeorfor cheoly
 okaiin ol lcho rcheo raiin qokaiin chey chokaiin chear ar ol rarolchl
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ycheeo lkaiin cho ror sheol kain shor sar aiiry sheo al kairam
 yshar chkar aiiiky ral cheol oraiin
 
@@ -4993,8 +4986,6 @@ yteeo raiin okar opor aiin ycheedy qeedar yteeey sheor oteeg
 sar ain qokaekeeey yk okaeechey okeeedy alair okcheey ar arody
 yar aiin okeeeyteey shkar oteeedy qokeey okeey okary yky
 
-
-1996
 keeoal chool opal otalair y fcheol oteey qor eees am
 oar osal okeeshy qokeey okain qokal okeol oty oraiin
 qokeeor ar sheey or ar aiiin okeey lkeeody sheedy qotam
