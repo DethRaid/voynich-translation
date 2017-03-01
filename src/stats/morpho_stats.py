@@ -1,6 +1,7 @@
 import functools
 import json
 import logging
+import os
 from collections import defaultdict
 
 import numpy as np
@@ -9,10 +10,21 @@ from matplotlib import pyplot as plt
 import morfessor
 from src.stats.markov_chain import calc_entropy
 
+from nltk import word_tokenize
 
-# TODO: Build language model to examine character, word, and morpheme entropies
-# TODO: Get Arabic of Hebrew corpra (with and without vowels)
+
 # TODO: Actually get the Romani corpus
+# TODO: Get Mandarin with word boundaries (or another isolating language like Vietnamese)
+# TODO: Get Russian corpus
+# TODO: Count words in corpa, try to get same number of words for each language
+# TODO: use NLTK to tokenize the corpa
+# TODO: Normalize Arabic characters
+# TODO: Average word to morpheme ratio
+
+# TODO: Maybe submit to LaTaCH-CLfi
+
+#
+
 
 class LanguageStats:
     """Generates statistics on the provided language
@@ -33,9 +45,12 @@ class LanguageStats:
         self.__language = language
         self.__language_dir = 'corpa/' + language + '/'
         self.__corpus_filename = self.__language_dir + 'corpus.txt'
+        self.__tokenized_corpus_name = self.__language_dir + 'corpus_tokenized.txt'
+
+        self.tokenize_corpus()
 
         io = morfessor.MorfessorIO()
-        words = io.read_corpus_file(self.__corpus_filename)
+        words = io.read_corpus_file(self.__corpus_filename, 30287)   # Number of words in Voynich Manuscript
 
         self.__model = morfessor.BaselineModel()
         self.__model.train_online(words)
@@ -44,7 +59,6 @@ class LanguageStats:
 
         for segmentation in self.__model.get_segmentations():
             self.__all_morphs.append(segmentation[2])
-
 
         try:
             with open('all_data.json', 'r') as jsonfile:
@@ -58,9 +72,11 @@ class LanguageStats:
         """
         corpus = open(self.__corpus_filename, 'r')
         morpheme_corpus = open(self.__language_dir + 'corpus_morphemes.txt', 'w')
+        wordcount = 0
         for line in corpus:
             words = line.split()
             for word in words:
+                wordcount += 1
                 morphemes = self.__model.viterbi_segment(word)[0]
                 for morpheme in morphemes:
                     morpheme_corpus.write(morpheme + ' ')
@@ -311,6 +327,18 @@ class LanguageStats:
         with open('all_data.json', 'w') as jsonfile:
             json.dump(self.__all_data, jsonfile)
 
+    def tokenize_corpus(self):
+        """Tokenized the corpus for the current language and writes the tokenized corpus to the file
+        'corpus_tokenized.txt'"""
+
+        words = list()
+        with open(self.__corpus_filename, 'r') as corpus_file:
+            for line in corpus_file:
+                for word in line:
+                    words.append(word)
+
+        tokens = word_tokenize(words, language=self.__language)
+
 
 def ngram_graph(language_data, n):
     """
@@ -407,6 +435,7 @@ def word_frequency_graph(language_data):
     plt.title('Word Frequencies > 1')
     plt.xlabel('Normalized Frequency')
     plt.ylabel('Count')
+    plt.legend(prop={'size': 10})
     plt.savefig('Word Frequencies > 1', bbox_inches='tight')
 
     plt.clf()
@@ -450,6 +479,9 @@ def morpheme_length_graph(language_data):
 
     plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
 
+    # plt.xlim(xmax=0.02)
+    # TODO: only show data up to 0.02
+
     plt.hist(x, 10, normed=1, histtype='bar', label=np.array(labels))
     plt.title('Morpheme Length')
     plt.xlabel('Frequency')
@@ -490,7 +522,7 @@ if __name__ == '__main__':
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
     if language == 'all':
-        languages = ['voynichese', 'english', 'finnish', 'arapaho', 'arabic', 'hebrew']
+        languages = [x[0][x[0].find('/') + 1:] for x in os.walk('corpa') if '/' in x[0]]
         for language in languages:
             stats = LanguageStats(language)
             stats.calculate_all_stats()
