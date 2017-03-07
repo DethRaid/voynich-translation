@@ -6,11 +6,11 @@ from collections import defaultdict
 
 import numpy as np
 from matplotlib import pyplot as plt
+from nltk import sent_tokenize
 
 import morfessor
+from src.stats.aggregate_stats import aggregate_stats
 from src.stats.markov_chain import calc_entropy
-
-from nltk import word_tokenize
 
 
 # TODO: Actually get the Romani corpus
@@ -47,10 +47,17 @@ class LanguageStats:
         self.__corpus_filename = self.__language_dir + 'corpus.txt'
         self.__tokenized_corpus_name = self.__language_dir + 'corpus_tokenized.txt'
 
-        self.tokenize_corpus()
+        if not os.path.isfile(self.__corpus_filename):
+            self.__logger.error('Could not find corpus for language %s' % self.__language)
+            return
+
+        try:
+            self.tokenize_corpus()
+        except LookupError:
+            self.__logger.warning('Could not tokenize %s corpus' % self.__language)
 
         io = morfessor.MorfessorIO()
-        words = io.read_corpus_file(self.__corpus_filename, 30287)   # Number of words in Voynich Manuscript
+        words = io.read_corpus_file(self.__tokenized_corpus_name, 30287)   # Number of words in Voynich Manuscript
 
         self.__model = morfessor.BaselineModel()
         self.__model.train_online(words)
@@ -70,21 +77,18 @@ class LanguageStats:
         """Splits the words of the corpus into their morphemes, then writes those morphemes to a new file called
         'corpus_morphemes.txt'
         """
-        corpus = open(self.__corpus_filename, 'r')
-        morpheme_corpus = open(self.__language_dir + 'corpus_morphemes.txt', 'w')
-        wordcount = 0
-        for line in corpus:
-            words = line.split()
-            for word in words:
-                wordcount += 1
-                morphemes = self.__model.viterbi_segment(word)[0]
-                for morpheme in morphemes:
-                    morpheme_corpus.write(morpheme + ' ')
+        with open(self.__tokenized_corpus_name, 'r') as corpus:
+            with open(self.__language_dir + 'corpus_morphemes.txt', 'w') as morpheme_corpus:
+                wordcount = 0
+                for line in corpus:
+                    words = line.split()
+                    for word in words:
+                        wordcount += 1
+                        morphemes = self.__model.viterbi_segment(word)[0]
+                        for morpheme in morphemes:
+                            morpheme_corpus.write(morpheme + ' ')
 
-            morpheme_corpus.write('\n')
-
-        corpus.close()
-        morpheme_corpus.close()
+                    morpheme_corpus.write('\n')
 
         self.__created_morphed_corpus = True
         self.__logger.info('Split corpus into morphemes')
@@ -95,7 +99,7 @@ class LanguageStats:
 
         :param n: The length of the n-grams to look at
         """
-        corpus = open(self.__corpus_filename)
+        corpus = open(self.__tokenized_corpus_name)
         text = corpus.read().replace(' ', '').replace('\n', '')
         frequencies = defaultdict(int)
         total_ngrams = 0
@@ -156,7 +160,7 @@ class LanguageStats:
     def calc_word_frequency(self):
         """Calculates the frequencies of the words in the corpus"""
         word_frequencies = defaultdict(int)
-        corpus = open(self.__corpus_filename, 'r')
+        corpus = open(self.__tokenized_corpus_name, 'r')
         total_words = 0
 
         for line in corpus:
@@ -273,7 +277,7 @@ class LanguageStats:
 
     def __word_iterator(self):
         """Provides an iterator over all the words in the corpus"""
-        corpus = open(self.__corpus_filename)
+        corpus = open(self.__tokenized_corpus_name)
         for line in corpus:
             for word in line.split():
                 yield word
@@ -282,7 +286,7 @@ class LanguageStats:
     
     def __character_iterator(self):
         """Provides an iterator over all the letters in the corpus"""
-        corpus = open(self.__corpus_filename)
+        corpus = open(self.__tokenized_corpus_name)
         for line in corpus:
             for word in line.split():
                 for letter in word:
@@ -331,189 +335,32 @@ class LanguageStats:
         """Tokenized the corpus for the current language and writes the tokenized corpus to the file
         'corpus_tokenized.txt'"""
 
+        import time
+
         words = list()
         with open(self.__corpus_filename, 'r') as corpus_file:
             for line in corpus_file:
-                for word in line:
-                    words.append(word)
+                words += line.split()
 
-        tokens = word_tokenize(words, language=self.__language)
+        start_time = time.clock()
 
+        from nltk import wordpunct_tokenize
+        sentences = sent_tokenize(' '.join(words))
 
-def ngram_graph(language_data, n):
-    """
+        with open(self.__tokenized_corpus_name, 'w') as tokenized_corpus:
+            for sentence in sentences:
+                tokens = wordpunct_tokenize(sentence)
+                line = ' '.join(tokens)
+                line_alpha = [x for x in line if x.isalpha() or x == ' ']
 
-    :param language_data: A dict from language to n-gram frequencies for that language
-    :param n: The length of the grams. Used only for setting the plot's title and whatnot
-    """
-    x = list()
-    labels = list()
+                # I'm only interested in the alphabetic characters of each language. Numbers and punctuation are fun. I
+                # suppose, but I don't want them.
 
-    for language, data in language_data.items():
-        x.append(list(data.values()))
-        labels.append(language)
+                tokenized_corpus.write(''.join(line_alpha) + '\n')
 
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
+        end_time = time.clock()
 
-    plt.hist(x, 30, normed=1, histtype='bar', label=np.array(labels))
-    plt.title('%s-gram Frequencies' % n)
-    plt.xlabel('Frequency')
-    plt.ylabel('Count')
-    plt.legend(prop={'size': 10})
-
-    plt.savefig('%s-gram frequencies' % n)
-    plt.clf()
-
-
-def one_gram_graph(language_data):
-    """Creates a graph for 1-gram frequencies
-
-    :param language_data: A dict from language to 1-gram frequencies for that language
-    """
-    ngram_graph(language_data, 1)
-
-
-def two_gram_graph(language_data):
-    """Creates a graph for 2-gram frequencies
-
-    :param language_data: A dict from language to 2-gram frequencies for that language
-    """
-    ngram_graph(language_data, 2)
-
-
-def three_gram_graph(language_data):
-    """Creates a graph for 3-gram frequencies
-
-    :param language_data: A dict from language to 3-gram frequencies for that language
-    """
-    ngram_graph(language_data, 3)
-
-
-def morpheme_frequency_graph(language_data):
-    """Graphs out the morpheme frequencies
-
-    :param language_data: A dist from language to morpheme frequency
-    """
-
-    x = list()
-    labels = list()
-    for language, data in language_data.items():
-        total_frequencies = sum(list(data.values()))
-        normalized_frequencies = [x / total_frequencies for (_, x) in data.items() if x > 1]
-        x.append(normalized_frequencies)
-
-        labels.append(language)
-
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
-
-    plt.hist(x, 30, alpha=0.5, label=labels)
-    plt.title('Morpheme Frequencies > 1')
-    plt.xlabel('Normalized Frequency')
-    plt.ylabel('Count')
-    plt.legend(prop={'size': 10})
-
-    plt.savefig('Morpheme Frequencies > 1', bbox_inches='tight')
-
-    plt.clf()
-
-
-def word_frequency_graph(language_data):
-    """Graphs information on word frequencies
-
-    :param language_data: A dict from language to word frequency information
-    """
-    x = list()
-    labels = list()
-    for language, data in language_data.items():
-        total_frequencies = sum(list(data.values()))
-        normalized_frequencies = [x / total_frequencies for (_, x) in data.items() if x > 1]
-        x.append(normalized_frequencies)
-
-        labels.append(language)
-
-    plt.hist(x, 30, alpha=0.5, label=labels)
-    plt.title('Word Frequencies > 1')
-    plt.xlabel('Normalized Frequency')
-    plt.ylabel('Count')
-    plt.legend(prop={'size': 10})
-    plt.savefig('Word Frequencies > 1', bbox_inches='tight')
-
-    plt.clf()
-
-
-def morphemes_per_word_graph(language_data):
-    """Graphis information about the morphemes per word
-
-    :param language_data: A dict from language to morpheme per word information
-    """
-    x = list()
-    labels = list()
-
-    for language, data in language_data.items():
-        x.append(data)
-        labels.append(language)
-
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
-
-    plt.hist(x, 10, normed=1, histtype='bar', label=np.array(labels))
-    plt.title('Morphemes Per Word')
-    plt.xlabel('Frequency')
-    plt.ylabel('Count')
-    plt.legend(prop={'size': 10})
-
-    plt.savefig('Morphemes per Word')
-    plt.clf()
-
-
-def morpheme_length_graph(language_data):
-    """Graphs morpheme length information
-
-    :param language_data: A dict from language to morpheme lengths
-    """
-    x = list()
-    labels = list()
-
-    for language, data in language_data.items():
-        x.append(data)
-        labels.append(language)
-
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
-
-    # plt.xlim(xmax=0.02)
-    # TODO: only show data up to 0.02
-
-    plt.hist(x, 10, normed=1, histtype='bar', label=np.array(labels))
-    plt.title('Morpheme Length')
-    plt.xlabel('Frequency')
-    plt.ylabel('Count')
-    plt.legend(prop={'size': 10})
-
-    plt.savefig('Morpheme Length')
-    plt.clf()
-
-
-def nothing(language_data):
-    pass
-
-
-def aggregate_stats():
-    """Reads in the stats in the saved json file, then prints all the stats for each language onto the same graph for
-    easy comparison"""
-
-    with open('all_data.json', 'r') as jsonfile:
-        all_data = json.load(jsonfile)
-
-        for series_type, language_data in all_data.items():
-            {
-                '1-gramFrequencies': one_gram_graph,
-                '2-gramFrequencies': two_gram_graph,
-                '3-gramFrequencies': three_gram_graph,
-                'morphemeFrequency': morpheme_frequency_graph,
-                'wordFrequency': word_frequency_graph,
-                'morphemesPerWord': morphemes_per_word_graph,
-                'morphemeLength': morpheme_length_graph,
-
-            }.get(series_type, nothing)(language_data)
+        self.__logger.info('Tokenized corpus in %s seconds' % (end_time - start_time))
 
 
 if __name__ == '__main__':
@@ -524,8 +371,12 @@ if __name__ == '__main__':
     if language == 'all':
         languages = [x[0][x[0].find('/') + 1:] for x in os.walk('corpa') if '/' in x[0]]
         for language in languages:
-            stats = LanguageStats(language)
-            stats.calculate_all_stats()
+            try:
+                stats = LanguageStats(language)
+                stats.calculate_all_stats()
+            except FileNotFoundError as e:
+                print('Could not process corpus for language %s' % language)
+                print(e)
 
         aggregate_stats()
 

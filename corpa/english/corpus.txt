@@ -4,15 +4,6 @@
                          MY BROTHER
 
 
-
-
-    "The Lely is an herbe wyth a whyte floure. And though the
-    levys of the floure be whyte: yet wythin shyneth the
-    lykenesse of golde."--BARTHOLOMÆUS ANGLICUS (_circ._ 1260).
-
-
-
-
 PREFACE
 
 
@@ -56,13 +47,9 @@ Herball_ mentioned by authorities such as Ames, Hazlitt, etc., of
 which no copies can now be found in the chief British libraries (see
 p. 204 _et seq._). If any copies of these editions are in private
 libraries I should be grateful to hear of them. The rarest printed
-herbal is "_Arbolayre contenāt la qualitey et vertus proprietiez
-des herbes gōmes et simēces extraite de plusiers tratiers de
-medicine com̄ent davicene de rasis de constatin de ysaac et
-plateaire selon le con̄u usaige bien correct_." (Supposed to have
+herbal is (Supposed to have
 been printed by M. Husz at Lyons.) It is believed that there are only
-two copies of this book now extant. One is in the Bibliothèque
-Nationale, Paris; the other was sold in London, March 23, 1898, but I
+two copies of this book now extant. One is in the , Paris; the other was sold in London, March 23, 1898, but I
 have been unable to discover who is the present owner. For this or any
 other information I should be most grateful.
 
@@ -71,7 +58,7 @@ other information I should be most grateful.
 FOOTNOTE:
 
 [1] It is a remarkable fact that even the eleventh edition of the
-omniscient _Encyclopædia Britannica_ has no article on Herbals.
+omniscient _Encyclopedia Britannica_ has no article on Herbals.
 
 
 
@@ -91,8 +78,8 @@ CONTENTS
     important manuscripts--_Leech Book of Bald_--Authorship and
     origin--Oldest Leech Book written in the vernacular in
     Europe--Saxon translation of the _Herbarium Apuleii
-    Platonici_--Illustrations--Saxon translation of the Περὶ
-    Διδαξέων--The _Lacnunga_--Importance of these manuscripts
+    Platonici_--Illustrations--Saxon translation of the 
+    --The _Lacnunga_--Importance of these manuscripts
     to the student of folk lore--Folk lore of the origin of
     disease--Doctrine of the "elf-shot"--"Flying
     venom"--Doctrine of the worm as the ultimate source of
@@ -113,16 +100,16 @@ CONTENTS
 
     Later manuscript herbals--Copies of Macer's herbal--Treatise
     on the virtues of rosemary sent by the Countess of Hainault
-    to Queen Philippa of England--Bartholomæus Anglicus, _De
+    to Queen Philippa of England--Bartholomeus Anglicus, _De
     Proprietatibus rerum_--Popularity of his
     writings--Characteristics of _De herbis_--Trevisa's
-    translation--Bartholomæus on the rose, the violet,
-    etc.--Fleeting pictures of mediæval life in _De
+    translation--Bartholomeus on the rose, the violet,
+    etc.--Fleeting pictures of medieval life in _De
     herbis_--Feeding swine, making bread, building houses,
     making linen, life in the vineyards, woods, etc.--Wynken de
     Worde's poem at the end of his edition of _De Proprietatibus
     rerum_--_Banckes's Herbal_--Possible sources--Later
-    editions--Rose recipes--Mediæval belief in wholesomeness of
+    editions--Rose recipes--Medieval belief in wholesomeness of
     fragrant herbs--Descriptions of herbs in _Banckes's
     Herbal_--"The boke of secretes of Albartus Magnus"--Herb
     lore and magic--The _Grete Herball_--Its origin--Peter
@@ -143,7 +130,7 @@ CONTENTS
     customs--Influence of the foreign herbalists on the later
     English herbals--Leonhard Fuchs--Rembert Dodoens--Charles de
     l'Escluse--Matthias de l'Obel--Lyte's translation of
-    Dodoens' _Cruÿdtboeck_--Illustrations--_Ram's little
+    Dodoens' _Cruydtboeck_--Illustrations--_Ram's little
     Dodoen_.
 
 
@@ -266,7 +253,7 @@ LIST OF ILLUSTRATIONS
     HERBS BEING DUG UP AND MADE INTO MEDICINES UNDER
       THE DIRECTION OF A SAGE                           _Frontispiece_
 
-    ÆSCULAPIUS PLATO AND A CENTAUR FROM THE SAXON
+    ESCULAPIUS PLATO AND A CENTAUR FROM THE SAXON
       TRANSLATION OF THE "HERBARIUM OF APULEIUS"                    10
 
     MANDRAKE FROM A SAXON HERBAL                                    22
@@ -339,7 +326,7 @@ manuscripts none have survived, the oldest we possess being of the
 tenth century, and for our knowledge of Anglo-Saxon plant lore we look
 chiefly to those four important manuscripts--the _Leech Book of Bald_,
 the _Lacnunga_ and the Saxon translations of the _Herbarium of
-Apuleius_ and the so-called Περὶ Διδαξέων.
+Apuleius_ and the so-called  .
 
 Apart from their intrinsic fascination, there are certain
 considerations which give these manuscripts a peculiar importance.
@@ -351,7 +338,7 @@ curiously similar charms. The herb lore recorded in these manuscripts
 is the herb lore, not of the century in which they were written, but
 of the dim past ages pictured in the oldest parts of _Widsith_ and
 _Beowulf_. To the student of English plant lore, the _Herbarium of
-Apuleius_ and the Περὶ Διδαξέων are less interesting because they
+Apuleius_ and the   are less interesting because they
 are translations, but the more one studies the original Saxon writings
 on herbs and their uses, the more one realises that, just as in
 _Beowulf_ there are suggestions and traces of an age far older than
@@ -562,7 +549,7 @@ has been computed that the Anglo-Saxons had names for, and used, at
 least 500 plants.[6] One feels instinctively that the love of flowers
 and gardens was as deep-rooted in our ancestors as it is in our nation
 to-day, and though we do not know exactly what they grew in their
-gardens--which they called wyrtȝerd (literally, herb-yard)--we do
+gardens--which they called wyrtyerd (literally, herb-yard)--we do
 know that the marigolds, sunflowers, peonies, violets and
 gilly-flowers which make the cottage gardens of England so gay and
 full of colour to-day were also the commonest plants in the Saxon
@@ -587,9 +574,9 @@ The name Apuleius Platonicus is possibly fictitious and nothing is
 known of the writer, who was, of course, distinct from Apuleius
 Madaurensis, the author of the _Golden Ass_. The Saxon translation of
 this herbal (now in the British Museum) is supposed to date from A.D.
-1000-1050, and belongs to the school of Ælfric of Canterbury. The
+1000-1050, and belongs to the school of Elfric of Canterbury. The
 frontispiece is a coloured picture in which Plato is represented
-holding a large volume which is being given him by Æsculapius and the
+holding a large volume which is being given him by Esculapius and the
 Centaur, and on the other side of the page is a blue circle spotted
 with white and red, within which is the name of the book: "Herbarium
 Apuleii Platonici quod accepit ab Escolapio et Chirone centauro
@@ -620,12 +607,12 @@ with those in the Vienna manuscript. To some extent at least the
 drawings in this herbal must necessarily have been copies, for many of
 the plants are species unknown in this country.
 
-    [Illustration: ÆSCULAPIUS PLATO AND A CENTAUR
+    [Illustration: ESCULAPIUS PLATO AND A CENTAUR
       From the Saxon translation of the _Herbarium of Apuleius_
       (Cott. Vit., C. 3, folio 19_a_)]
 
-The Saxon translation of the Περὶ Διδαξέων (Harl. 6258) is a thin
-volume badly mutilated in parts. Herr Max Löwenbeck[10] has shown that
+The Saxon translation of the  (Harl. 6258) is a thin
+volume badly mutilated in parts. Herr Max Lowenbeck[10] has shown that
 this is in part translated from a treatise by an eleventh-century
 writer, Petrocellus or Petronius, of the School of Salerno--the
 original treatise being entitled _Practica Petrocelli Salernitani_.[11]
@@ -635,7 +622,7 @@ superstitious medicine. Consequently there are striking differences
 between this and the other Saxon manuscripts. The large majority of the
 herbs mentioned are those of Southern Europe, and the pharmacy is very
 simple compared with the number of herbs in prescriptions of native
-origin. As Dr. J. F. Payne[12] has pointed out, Herr Löwenbeck's
+origin. As Dr. J. F. Payne[12] has pointed out, Herr Lowenbeck's
 important discovery does not account for the whole of the English book.
 The order of the chapters differs from that of the Salernitan writer;
 there are passages not to be found in the _Practica_, and in some
@@ -707,8 +694,8 @@ elf-disease." We know from their literature that to our Saxon
 ancestors waste places of moor and forest and marshes were the resort
 of a host of supernatural creatures at enmity with mankind. In the
 _Leech Book of Bald_ disease is largely ascribed to these elves, whose
-shafts produced illness in their victims. We read of beorg-ælfen,
-dun-ælfen, muntælfen. But our modern word "elf" feebly represents
+shafts produced illness in their victims. We read of beorg-elfen,
+dun-elfen, muntelfen. But our modern word "elf" feebly represents
 these creatures, who were more akin to the "mark-stalkers," to the
 creatures of darkness with loathsome eyes, rather than to the fairies
 with whom we now associate the name. For the most part these elves of
@@ -729,7 +716,7 @@ fens, "where the elk-sedge waxed in the water." If some were akin to
 the Formori of the baleful fogs in Irish mythic history and the
 Mallt-y-nos, those she-demons of marshy lands immortalised by the
 Welsh bards, creatures huge and uncouth "with grey and glaring eyes,"
-there were others who exceeded in beauty anything human. When Cædmon
+there were others who exceeded in beauty anything human. When Cedmon
 wrote of the beauty of Sarah, he described her as "sheen as an elf."
 With the passing of the centuries we have well-nigh forgotten the
 black elves, though they are still realities to the Highlander and too
@@ -1267,7 +1254,7 @@ that time.
 
 From what hoary antiquity the charms and incantations which we find in
 these manuscripts have come down to us we cannot say. Their atmosphere
-is that of palæolithic cave-drawings, for they are redolent of the
+is that of paleolithic cave-drawings, for they are redolent of the
 craft of sorcerers and they suggest those strange cave markings which
 no one can decipher. Who can say what lost languages are embedded in
 these unintelligible words and single letters, or what is their
@@ -1595,14 +1582,14 @@ so beautiful that I close this chapter with it:--
 
 FOOTNOTES:
 
-[2] Nec non et si quos sæcularis scientiæ libros nobis ignotos
+[2] Nec non et si quos secularis scientie libros nobis ignotos
 adepturi sitis, ut sunt de medicinalibus, quorum copia est aliqua apud
-nos, sed tamen segmenta ultra marina quæ in eis scripta comperimus,
+nos, sed tamen segmenta ultra marina que in eis scripta comperimus,
 ignota nobis sunt et difficilia ad adipiscendum.--Bonifac.,
-_Epistolæ_, p. 102.
+_Epistole_, p. 102.
 
 [3] A catalogue of the books of that foundation cited by Wanley
-(Hickes, _Thesaur._ Vol. II. Præf. ad Catalogum) contains the entry
+(Hickes, _Thesaur._ Vol. II. Pref. ad Catalogum) contains the entry
 "Medicinale Anglicum," and the MS. described above has on a fly-leaf
 the now almost illegible inscription "Medicinale Anglicum." There is
 unfortunately no record as to the books which, on the dissolution of
@@ -1659,8 +1646,8 @@ Collection of Latin medical writers, 1547 (Venice).
 [9] Cratevas is said to have lived in the first century B.C. Pliny,
 Dioscorides and Galen all quote him.
 
-[10] Erlanger, _Beiträge zur englischen Philologie_, No. XII. (περὶ
-διδαξέων), eine Sammlung von Rezepten in englischer Sprache.
+[10] Erlanger, _Beitrage zur englischen Philologie_, No. XII. (
+), eine Sammlung von Rezepten in englischer Sprache.
 
 [11] Printed by De Renzi in _Collectio Salernitana_, Vol. IV. (Naples,
 1856).
@@ -1681,7 +1668,7 @@ seventeenth-century handwriting--
 
 It is at least probable that Wanley, who at this period was collecting
 Anglo-Saxon manuscripts for George Hickes, secured this MS. from
-"barbara crokker." Her naïve avowal of her inability to read the MS.
+"barbara crokker." Her naive avowal of her inability to read the MS.
 suggests that she probably had no idea of the value of the book, and
 when one remembers Wanley's reputation for driving shrewd bargains one
 cannot help wondering what he paid for this treasure. Those must have
@@ -1801,7 +1788,7 @@ Babylonians.
     Be thou removed from before me, By Heaven be thou exorcised
     By Earth be thou exorcised."
 
-Trans. of Utukke Limnûte Tablet "B." R. C. Thompson, _Devils and Evil
+Trans. of Utukke Limnute Tablet "B." R. C. Thompson, _Devils and Evil
 Spirits of Babylonia_.
 
 [28] Sonny (_Arch. f. Rel._, 1906, p. 525), in his article "Rote Farbe
@@ -1849,7 +1836,7 @@ none of the impious customs of the pagans, neither sorcerers, nor
 diviners, nor soothsayers, nor enchanters, nor must you presume for
 any cause to enquire of them.... Let none regulate the beginning of
 any piece of work by the day or by the moon. Let none trust in nor
-presume to invoke the names of dæmons, neither Neptune, nor Orcus, nor
+presume to invoke the names of demons, neither Neptune, nor Orcus, nor
 Diana, nor Minerva, nor Geniscus nor any other such follies.... Let no
 Christian place lights at the temples or the stones, or at fountains,
 or at trees, or at places where three ways meet.... Let none presume
@@ -1890,7 +1877,7 @@ LATER MANUSCRIPT HERBALS AND THE EARLY PRINTED HERBALS
     bring forth flowers, heven shyneth, the see resteth and is
     quyete, foules synge and make theyr nestes, and al thynge
     that semed deed in wynter and widdered, ben renewed, in
-    Spryngyng time."--BARTHOLOMÆUS ANGLICUS, _circ._ 1260.
+    Spryngyng time."--BARTHOLOMEUS ANGLICUS, _circ._ 1260.
 
 
 Between the Anglo-Saxon herbals and the early printed herbals there is
@@ -1906,7 +1893,7 @@ Saxon herb lore is to be found in the leech books of the Middle Ages,
 but, with one notable exception, no important original treatise on
 herbs by an English writer has come down to us from that period. The
 vast majority of the herbal MSS. are merely transcriptions of Macer's
-herbal, a mediæval Latin poem on the virtues of seventy-seven plants,
+herbal, a medieval Latin poem on the virtues of seventy-seven plants,
 which is believed to have been written in the tenth century. The
 popularity of this poem is shown by the number of MSS. still extant.
 It was translated into English as early as the twelfth century with
@@ -1935,7 +1922,7 @@ marigolds will draw evil humours out of the head and strengthen the
 eyesight.
 
     "Golde [marigold] is bitter in savour
-    Fayr and ȝelw [yellow] is his flowur
+    Fayr and yelw [yellow] is his flowur
     Ye golde flour is good to sene
     It makyth ye syth bryth and clene
     Wyscely to lokyn on his flowris
@@ -1987,8 +1974,8 @@ unknown in England until the Countess of Hainault sent some to her
 daughter.
 
 The only original treatise on herbs written by an Englishman during
-the Middle Ages was that by Bartholomæus Anglicus, and on the
-plant-lover there are probably few of the mediæval writers who
+the Middle Ages was that by Bartholomeus Anglicus, and on the
+plant-lover there are probably few of the medieval writers who
 exercise so potent a spell. Even in the thirteenth century, that age
 of great men, Bartholomew the Englishman ranked with thinkers such as
 Roger Bacon, Thomas Aquinas and Albertus Magnus. He was accounted one
@@ -2003,7 +1990,7 @@ on Natural History throughout the Middle Ages, and was one of the
 books hired out at a regulated price by the scholars of Paris, we know
 very little of the writer. He spent the greater part of his life in
 France and Saxony, but he was English born and was always known as
-Bartholomæus Anglicus.[39] We know that he studied in Paris and
+Bartholomeus Anglicus.[39] We know that he studied in Paris and
 entered the French province of the Minorite Order, and later he became
 one of the most renowned professors of theology in Paris. In 1230 a
 letter was received from the general of the Friars Minor in the new
@@ -2030,11 +2017,11 @@ writes thus:--
     the yere of our Lorde MCCCLXXXXVIII the yere of y{e} reyne
     of Kynge Rycharde the seconde after the Conqueste of
     Englonde XXII. The yere of my lordes aege, syre Thomas,
-    Lorde of Berkeleye that made me to make this Translacōn
+    Lorde of Berkeleye that made me to make this Translacon
     XLVII."
 
 Salimbene shows that the book was known in Italy in 1283, and there
-are two MS. copies in the Bibliothèque Nationale of Paris, of which
+are two MS. copies in the Bibliotheque Nationale of Paris, of which
 the earliest is dated 1297. Before Trevisa made his English
 translation, it had been translated into French by Jehan Corbichon, in
 1372, for Charles V. of France.
@@ -2044,7 +2031,7 @@ which it was held may be judged from the fact that it went through at
 least fourteen editions before 1500, and besides the English and
 French translations it was also translated into Spanish and Dutch. The
 English translation was first printed by Caxton's famous apprentice,
-Wynken de Worde.[41] The translator in a naïve little introductory
+Wynken de Worde.[41] The translator in a naive little introductory
 poem says that, just as he had looked as a child to God to help him in
 his games, so now he prays Him to help him in this book.
 
@@ -2066,7 +2053,7 @@ his games, so now he prays Him to help him in this book.
     Also I shall spare .
     Wodes, medes and feldes .
     Place that I have played inne .
-    And in his name that all thīg weldes .
+    And in his name that all thig weldes .
     This game j shall begynne. .
     And praye helpe conseyle and rede .
     To me that he wolde sende .
@@ -2074,7 +2061,7 @@ his games, so now he prays Him to help him in this book.
     And brynge it to a good ende. ."
 
 And in the preface Trevisa addresses his readers thus: "Merveyle not,
-ye witty and eloquent reders, that I thȳne of wytte and voyde of
+ye witty and eloquent reders, that I thyne of wytte and voyde of
 cunning have translatid this boke from latin to our vulgayre language
 as a thynge profitable to me and peradventure to many other, whych
 understonde not latyn nor have not the knowledge of the proprytees of
@@ -2098,28 +2085,28 @@ lily, but also the atmosphere of the lily, in a word-picture of
 inimitable simplicity and beauty. One feels instinctively that only a
 child or a great man could have written those lines. And is there not
 something unforgettable in these few words on the unfolding of a
-rose--"And whāne they [the petals] ben full growen they sprede
+rose--"And whane they [the petals] ben full growen they sprede
 theymselues ayenst the sonne rysynge"?
 
 The chapter on the rose is longer than most, and is so delightful that
 I quote a considerable part of it. "The rose of gardens is planted and
 sette and tylthed as a vyne. And if it is forgendred and not shred and
-pared and not clensed of superfluyte: thēne it gooth out of kynde
+pared and not clensed of superfluyte: thene it gooth out of kynde
 and chaungeth in to a wylde rose. And by oft chaunging and tylthing
-the wylde rose torneth and chaūgith into a very rose. And the rose
+the wylde rose torneth and chaugith into a very rose. And the rose
 of ye garden and the wylde rose ben dyuers in multitude of floures:
 smelle and colour: and also in vertue. For the leves of the wylde rose
 ben fewe and brode and whytyssh: meddlyd wyth lytyll rednesse: and
 smellyth not so wel as the tame rose, nother is so vertuous in
 medicyn. The tame rose hath many leuys sette nye togyder: and ben all
 red, other almost white: w{t} wonder good smell.... And the more they
-ben brused and broken: the vertuoūser they ben and the better
+ben brused and broken: the vertuouser they ben and the better
 smellynge. And springeth out of a thorne that is harde and rough:
 netheles the Rose folowyth not the kynde of the thorne: But she
 arayeth her thorn wyth fayr colour and good smell. Whan ye rose
 begynneth to sprynge it is closed in a knoppe wyth grenes: and that
 knoppe is grene. And whan̄e it swellyth thenne spryngeth out harde
-leuys and sharpe.... And whāne they ben full growen they sprede
+leuys and sharpe.... And whane they ben full growen they sprede
 theymselues ayenst the sonne rysynge. And for they ben tendre and
 feble to holde togyder in the begynnynge; theyfore about those smale
 grene leuys ben nyghe the red and tendre leuys ... and ben sette all
@@ -2146,7 +2133,7 @@ defyeth gleymy humours."
 Of the violet we read: "Violet is a lytyll herbe in substaunce and is
 better fresshe and newe than whan it is olde. And the floure thereof
 smellyth moost.... And the more vertuous the floure thereof is, ye
-more it bendyth the heed thereof doūwarde. Also floures of
+more it bendyth the heed thereof douwarde. Also floures of
 spryngynge tyme spryngeth fyrste and sheweth somer. The lytylnes
 thereof in substaunce is nobly rewarded in gretnesse of sauour and of
 vertue."
@@ -2166,7 +2153,7 @@ soure and some ryght swete, with a good savoure and mery." The
 descriptions of celandine and broom are also characteristic.
 "Celidonia is an herbe w{t} yelowe floures, the frute smorcheth them
 that it towchyth. And hyghte Celidonia for it spryngeth, other
-blomyth, in the comynge of swalowes.... It hyȝt celidonia for it
+blomyth, in the comynge of swalowes.... It hyyt celidonia for it
 helpith swallowes birdes yf their eyen be hurte other (or) blynde."
 "Genesta hath that name of bytterness for it is full of bytter to
 mannes taste. And is a shrubbe that growyth in a place that is
@@ -2176,7 +2163,7 @@ braunches knotty and hard. Grene in wynter and yelowe floures in somer
 thyche [the which] wrapped with heuy smell and bitter sauour. And ben
 netheles moost of vertue." Bartholomew gives the old mandrake legend
 in full, though he adds, "it is so feynd of churles others of
-wytches," and he also writes of its use as an anæsthetic.[42] Further,
+wytches," and he also writes of its use as an anesthetic.[42] Further,
 he records two other beliefs about the mandrake which I have never
 found in any other English herbal--namely, that while uprooting it one
 must beware of contrary winds, and that one must go on digging for it
@@ -2185,7 +2172,7 @@ contrary wyndes whyle they digge. And maken circles abowte with a
 swerder and abyde with the dyggynge unto the sonne goynge downe."
 
 But apart from herbs and their uses, the book _De herbis_ is full of
-fleeting yet vigorous pictures of the homely everyday side of mediæval
+fleeting yet vigorous pictures of the homely everyday side of medieval
 life. Bartholomew, being one of the greatest men of his century,
 writes of matters in which the simplest of us are interested. He
 tells us of the feeding of swine with acorns. Of the making and baking
@@ -2253,7 +2240,7 @@ removing them. The picture is so perfect that I give it in full:--
     wyth fruyte, fewe out taken as Oke and Beche. In thyse wodes
     ben ofte wylde beestes and foulis. Therein growyth herbes,
     grasse, lees and pasture, and namely medycynall herbes in
-    wodes foūde. In somer wodes ben bewtyed [beautied] wyth
+    wodes foude. In somer wodes ben bewtyed [beautied] wyth
     bowes and braunches, w{t} herbes and grasse. In wode is
     place of disceyte [deceit] and of huntynge. For therin wylde
     beest ben hunted: and watches and disceytes [deceits] ben
@@ -2279,7 +2266,7 @@ removing them. The picture is so perfect that I give it in full:--
     shadowe. And in hete of the sonne wery wayfarynge and
     trauelynge men haue lykynge to have reste and to hele
     themself in the shadow. Many wodes ben betwyne dyuers
-    coūtrees and londes: and departyth theym asondre. And by
+    coutrees and londes: and departyth theym asondre. And by
     weuynge and castyng togyder of trees often men kepeth and
     defendyth themself from enymies."[43]
 
@@ -2295,7 +2282,7 @@ states that Caxton had a share in the first printing of this book at
 Cologne:--
 
     "And also of your charyte call to remembraunce
-      The soule of William Caxton first prȳter of this boke.
+      The soule of William Caxton first pryter of this boke.
     In laten tonge at Coleyn hyself to auauce
       That every well disposed man may therein loke."
 
@@ -2312,7 +2299,7 @@ De Worde also refers to the maker of the paper[44]:--
 There is charm as well as pathos in the verses on the reproduction of
 manuscripts in book form, showing us vividly what the recent discovery
 of the art of printing meant to the scholars of that day. The simile
-of Phœbus "repairing" the moon is very apt.
+of Phebus "repairing" the moon is very apt.
 
     "For yf one thyng myght laste a M yere
       Full sone comyth aege that frettyth all away;
@@ -2347,11 +2334,11 @@ Herbal is--
     priuilegio | a rege indulto |
 
     "(_Colophon_) ¶ Imprynted by me Rycharde Banckes / dwellynge
-    in | Lōdō / a lytel fro ye Stockes in ye Pultry / ye
+    in | Lodo / a lytel fro ye Stockes in ye Pultry / ye
     XXV day of | Marche. The yere of our Lorde MCCCCC. & XXV."
 
 We do not know who the author of this book was, and it has been
-suggested that it is based on some mediæval English manuscript now
+suggested that it is based on some medieval English manuscript now
 lost. Certainly when one reads this anonymous work known as _Banckes's
 Herbal_ one is struck not only by its superiority to the later and
 more famous _Grete Herball_, but also by its greater charm. It gives
@@ -2436,11 +2423,11 @@ title and differing only in the woodcuts and the colophon. The title
 is "A boke of the | propreties of Herbes called an her- | ball,
 whereunto is added the tyme y{e} | herbes, floures and Sedes shold |
 be gathered to be kept the whole, ye- | re, with the vertue of ye
-Herbes whē | they are stylled. Al- | so a generall rule of all
+Herbes whe | they are stylled. Al- | so a generall rule of all
 ma- | ner of Herbes drawen | out of an auncyent | booke of Phisyck |
 by W. C." The woodcut in the first edition is three "Tudor" roses in a
 double circle with a crown over one of the roses and across the riband
-"Kȳge of floures." In the second edition the woodcut is a quaint
+"Kyge of floures." In the second edition the woodcut is a quaint
 little representation of a lady seated in a garden. One man standing
 behind her is holding her and another is walking towards her. The
 three figures are near a wall, on the other side of which several men
@@ -2512,8 +2499,8 @@ Herbal. Under "rose," for instance, we have recipes for "melroset,"
 "sugar roset," "syrope of Rooses," "oyle of roses" and "rose water."
 
     "Melrosette is made thus. Take faire purified honye and new
-    read rooses, the whyte endes of them clypped awaye, thā
-    chop theym smal and put thē into the Hony and boyl thē
+    read rooses, the whyte endes of them clypped awaye, tha
+    chop theym smal and put the into the Hony and boyl the
     menely together; to know whan it is boyled ynoughe, ye shal
     know it by the swete odour and the colour read. Fyve yeares
     he may be kept in his vertue; by the Roses he hath vertue of
@@ -2528,35 +2515,35 @@ Herbal. Under "rose," for instance, we have recipes for "melroset,"
     putting to it suger, thei do make sirope, and some doe put
     more of Roses in the forsaid vessel and more of hote water,
     and let it stande as is beforesaide, and so they make a read
-    water and make the rose syrope. And some do stāpe new
+    water and make the rose syrope. And some do stape new
     Roses and then strayne out the joyce of it and suger
     therwyth, they make sirope: and this is the best making of
     sirope. In Wynter and in Somer it maye be geuen competently
-    to feble sicke melācoly and colorike people.
+    to feble sicke melacoly and colorike people.
 
     "Sugar Roset is made thus--Take newe gathered roses and
-    stāpe them righte smal with sugar, thā put in a glasse
+    stape them righte smal with sugar, tha put in a glasse
     XXX. dayes, let it stande in ye sunne and stirre it wel, and
     medle it well together so it may be kept three yeares in his
-    vertue. The quātitie of sugar and roses should be thus.
+    vertue. The quatitie of sugar and roses should be thus.
     In IIII. pound of sugar a pounde of roses.
 
     "Oyle of roses is made thus. Some boyle roses in oyle and
     kepe it, some do fyll a glasse with roses and oyle and they
     boyle it in a caudron full of water and this oyle is good.
     Some stampe fresh roses with oyle and they put it in a
-    vessel of glasse and set it in the sūne IIII. dais and
+    vessel of glasse and set it in the sune IIII. dais and
     this oyle is good.
 
     "Rose water. Some do put rose water in a glass and they put
     roses with their dew therto and they make it to boile in
-    water thā thei set it in the sune tyll it be readde and
+    water tha thei set it in the sune tyll it be readde and
     this water is beste."
 
 Under the same flower we find this fragrant example of the widespread
-mediæval belief in the efficacy of good smells:--
+medieval belief in the efficacy of good smells:--
 
-    "Also drye roses put to ye nose to smell do cōforte the
+    "Also drye roses put to ye nose to smell do coforte the
     braine and the harte and quencheth sprite."
 
 The herbalists were never weary of teaching the value of sweet
@@ -2564,20 +2551,20 @@ scents.[51] "If odours may worke satisfaction," wrote Gerard in his
 _Herball_, "they are so soveraigne in plants and so comfortable that
 no confection of the apothecaries can equall their excellent vertue."
 One of the most delicious "scent" prescriptions in Askham is to be
-found under Violet--"For thē that may not slepe for sickness seeth
+found under Violet--"For the that may not slepe for sickness seeth
 this herb in water and at euen let him soke well hys feete in the
-water to the ancles, whā he goeth to bed, bind of this herbe to his
+water to the ancles, wha he goeth to bed, bind of this herbe to his
 temples and he shall slepe wel by the grace of God."
 
 The most curious recipe is that under "woodbinde." "Go to the roote of
 woodbinde and make a hole in the middes of the roote, than cover it
 well againe y{t} no ayre go out nor that no rayne go in, no water,
 nor earth nor the sune come not to much to it, let it stande so a
-night and a day, thā after that go to it and thou shalt fynde
+night and a day, tha after that go to it and thou shalt fynde
 therein a certayne lycoure. Take out that lycoure with a spone and put
 it into a clean glas and do so every day as long as thou fyndest ought
 in the hole, and this must be done in the moneth of April or Maye,
-than anoynt the sore therwith against the fyre, thā wete a lynnen
+than anoynt the sore therwith against the fyre, tha wete a lynnen
 clothe in the same lycoure and lappe it about the sore and it shal be
 hole in shorte space on warrantyse by the Grace of God."
 
@@ -2585,9 +2572,9 @@ Unlike the later _Grete Herball_, Askham gives some descriptions of
 the herbs themselves, notably in the case of alleluia (wood-sorrel),
 water crowfoot, and asterion.
 
-    "This herbe alleluia mē call it Wodsour or Stubwort, this
-    herbe hath thre leaves ye which be roūd a litel departed
-    aboue and it hath a whyte flour, but it hath no lōge
+    "This herbe alleluia me call it Wodsour or Stubwort, this
+    herbe hath thre leaves ye which be roud a litel departed
+    aboue and it hath a whyte flour, but it hath no loge
     stalkes and it is Woodsoure and it is like thre leued
     grasse. The vertue of this herbe is thus, if it be rosted in
     the ashes in red docke leaves or in red wort leaves it
@@ -2616,7 +2603,7 @@ water crowfoot, and asterion.
     and where that it groweth there groweth great quantitie.
 
     "The vertue of this herbe is thus--thei that eat of the
-    beris or of the herbe in waning of the moone, whā he is
+    beris or of the herbe in waning of the moone, wha he is
     in signo virginis if he have the falling euell he shal be
     hole thereof or if he beare thys about his neck he shal be
     holpen without doute. And it hath many more vertues than I
@@ -2648,19 +2635,19 @@ overcome all his enemies.... And if the before named hearbe be put
 upon the headde of a sycke man if he should dye he shal syng anone
 with a loud voyce, if not he shall weep."
 
-"Perwynke when it is beatē unto pouder with wormes of ye earth
+"Perwynke when it is beate unto pouder with wormes of ye earth
 wrapped aboute it and with an herbe called houslyke it induceth love
 between man and wyfe if it bee used in their meales ... if the sayde
 confection be put in the fyre it shall be turned anone unto blue
 coloure."
 
 Of the herb which, he tells us, "the men of Chaldea called roybra," he
-says: "He that holdeth this herbe in hys hāde with an herbe called
+says: "He that holdeth this herbe in hys hade with an herbe called
 Mylfoyle or yarowe or noseblede is sure from all feare and fantasye or
 vysion. And yf it be put with the juyce of houselyke and the bearers
 hands be anoynted with it and the residue be put in water if he entre
 in ye water where fyshes be they wil gather together to hys handes ...
-and if hys hande be drawē forth they will leape agayne to theyre
+and if hys hande be drawe forth they will leape agayne to theyre
 owne places where they were before."
 
 Of hound's tongue: "If ye shall have the aforenamed herbe under thy
@@ -2759,10 +2746,10 @@ the Latin work commonly known from the opening words as _Circa
 Instans_, and the other a French translation of the same manuscript.
 It was always supposed by medical historians that the _Circa Instans_
 was written by Matthaeus Platearius of Salerno in the twelfth century,
-but in Professor Camus's memoir, _L'Opéra Saleritana "Circa Instans"
+but in Professor Camus's memoir, _L'Opera Saleritana "Circa Instans"
 ed il testo primitivo del "Grand Herbier in Francoys" secundo duo
 codici del secolo XV conservati nella Regia Biblioteca Estense_, there
-are reproduced the French verses in which occurs the line, "Il a esté
+are reproduced the French verses in which occurs the line, "Il a este
 escript Millccc cinquante et huit," and Mr. H. M. Barlow[54] supports
 the deduction that _Circa Instans_ was not written by a Salernitan
 physician, but by a writer described in the verses as "Bartholomaeus
@@ -2934,7 +2921,7 @@ interesting ray of light on the Peter Treveris who issued the two
 first editions of this Herball.[56] The woodcut represents two
 wodows[57] (savages), a man and a woman, on either side of a tree,
 from which is suspended a shield with Peter Treveris's initials. Ames
-supposes that Treveris was a native of Trèves and took his name from
+supposes that Treveris was a native of Treves and took his name from
 that city, but it is more likely that he was a member of the Cornish
 family of Treffry, which is sometimes spelt Treveris. A Sir John
 Treffry, who fought at Poitiers, took as supporters to his arms a wild
@@ -3017,7 +3004,7 @@ following:--
     confermeth and conserueth the mynde as many wyse maysters
     sayth."
 
-    "To make folke mery. Take the water that buglos hath bē
+    "To make folke mery. Take the water that buglos hath be
     soden in and sprynkle it about the hous or chambre and all
     that be therein shall be mery."
 
@@ -3028,7 +3015,7 @@ following:--
 
     "Musk. Agaynst weyknesse of the brayne smel to musk."
 
-    "Struciūn. Against lytargye blowe the powdre of the sede
+    "Struciun. Against lytargye blowe the powdre of the sede
     in to the nose or elles sethe the sede thereof and juice of
     rue in stronge vyneygre and rubbe the hynder parte of ye
     head therwith."
@@ -3048,7 +3035,7 @@ following:--
 There are two delicious violet recipes for "Syrope of Vyolettes" and
 "oyle of vyolettes."
 
-    "Syrope of vyolettes ī made in this maner--Sethe
+    "Syrope of vyolettes i made in this maner--Sethe
     vyolettes in water and lete it lye all nyght in ye same
     water. Than poure and streyne out the water, and in the same
     put sugre and make your syrope.
@@ -3064,15 +3051,15 @@ supposed powers of the mandrake.
     than the male but we use of bothe. Some say that the male
     hath figure of shape of a man. And the female of a woman but
     that is fals. For Nature never gaue forme or shape of
-    mākynde to an herbe. But it is of troughe that some hath
+    makynde to an herbe. But it is of troughe that some hath
     shaped suche fygures by craft as we have fortyme herde say
     of labourers in the feldes."
 
 The _Grete Herball_ ends thus--
 
     "O ye worthy reders or practicyens to whome this noble
-    volume is presēt. I beseche you take intellygence and
-    beholde ye workes and operacyōs of almighty god which
+    volume is preset. I beseche you take intellygence and
+    beholde ye workes and operacyos of almighty god which
     hath endewed his symple creature mankynde with the graces of
     ye holy goost to have parfyte knowlege and understandynge of
     the vertue of all manner of herbes and trees in this booke
@@ -3114,16 +3101,16 @@ FOOTNOTES:
 [39] He is sometimes erroneously called Bartholomew de Glanville.
 Leland, without citing any authority, called him de Glanville. Bale
 copied Leland in 1557 and added a list of writings wrongly attributed
-to Bartholomew. Quétif and Echard give detailed reasons in pointing
+to Bartholomew. Quetif and Echard give detailed reasons in pointing
 out Leland's error. The Parmese chronicler, Salimbene, writing in
-1283, refers to him as Bartholomæus Anglicus, and John de Trittenheim,
+1283, refers to him as Bartholomeus Anglicus, and John de Trittenheim,
 Abbot of Sparheim (end of fifteenth century), speaks of him as
 "Bartholomeus natione Anglicus." M. Leopold Delisle endeavoured to
 claim him as a Frenchman, but although he spent the greater part of
-his life abroad, he was always distinguished as "Bartholomæus
+his life abroad, he was always distinguished as "Bartholomeus
 Anglicus." That he was a Minorite "de provincia Francia" is no proof
 that he was a Frenchman. Batman (1582), on the authority of Bale,
-describes Bartholomæus as being "of the noble familie of the Earles of
+describes Bartholomeus as being "of the noble familie of the Earles of
 Suffolk."
 
 [40] John de Trevisa, a Cornishman, was a Fellow of Exeter College,
@@ -3260,7 +3247,7 @@ staunch Protestant and at Cambridge he used to attend the preachings
 of Hugh Latimer. We do not know how long Turner held his fellowship,
 possibly till his marriage with Jane, daughter of George Ander,
 Alderman of Cambridge. He left Cambridge in 1540 and travelled about,
-preaching in various places. In Wood's _Athenæ Oxonienses_ we read,
+preaching in various places. In Wood's _Athene Oxonienses_ we read,
 "In his rambles he settled for a time in Oxon among several of his
 countrymen that he found there, purposely for the conversation of men
 and books.... At the same time and after, following his old trade of
@@ -3294,12 +3281,12 @@ Somerset, and it is generally believed that he sat in the House of
 Commons.[63] He was promised the prebend of Botevant in York, and in a
 letter written to thank Cecil for the promise we find the remark, "My
 chylder have bene fed so long with hope that they are very leane, i
-wold fayne have thē fatter if it were possible."
+wold fayne have the fatter if it were possible."
 
 Turner held this appointment for little more than two years, and after
 failing to obtain either the provostship of Oriel College, Oxford, or
 the presidency of Magdalen, he seems to have become despondent. He
-wanted a house "where i may studie in and have sū place to lay my
+wanted a house "where i may studie in and have su place to lay my
 bookes in," and in another letter he complains of "being pened up in a
 chamber with all my ho[use] holde seruantes and children as shepe in a
 pyndfolde.... i can not go to my booke for ye crying of childer and
@@ -3326,8 +3313,8 @@ found him troublesome, for in 1559 the Bishop of Bath and Wells wrote:
     w{th} all matters.... I have advertised him by wrytynges and
     have admonished secretly by his owne frendes:
     notwithstanding he persisteth still in his follie: he
-    conten̄eth all Bishopps and calleth thē white coats,
-    typpett gentlemē, with other wordes of reproche [mu]che
+    conten̄eth all Bishopps and calleth the white coats,
+    typpett gentleme, with other wordes of reproche [mu]che
     more unsemlie and asketh 'who gave them autoritie more ouer
     me then I ouer them'?
 
@@ -3381,7 +3368,7 @@ diuinitie bookes, & yf he practise Phisicke all my physicke bookes,"
 had some knowledge of plants, for in a copy of Turner's Herbal in the
 Linnean Society's Library there is a long list of errata for which
 Peter Turner apologised in an Address to the Reader. There is
-something very naïve and charming about Peter's admiration for his
+something very naive and charming about Peter's admiration for his
 father's "fame and estimation." He tells us that he has diligently
 compared the printed book with his father's "owne hande copie," and
 refrains from having the whole book printed again because "I should
@@ -3447,11 +3434,11 @@ One of the most attractive features of this Herbal is the number of
 beautiful woodcuts with which it is illustrated. A few were specially
 drawn and cut for the author, but the great majority are reproductions
 of the exquisite drawings in Fuchs's herbals (_De historia Stirpium_,
-1545; and _Neue Kreüterbuch_, 1543). Nearly all the illustrations in
+1545; and _Neue Kreuterbuch_, 1543). Nearly all the illustrations in
 the famous sixteenth-century Flemish, English and Swiss herbals were
 printed from the actual wood-blocks or copied from the illustrations
-in Fuchs's works. Notably in Hieronymus Bock's _Kreüter Buch_ (1546),
-Rembert Dodoens's _Cruÿdtboeck_ (1554), Henry Lyte's _Niewe Herball_
+in Fuchs's works. Notably in Hieronymus Bock's _Kreuter Buch_ (1546),
+Rembert Dodoens's _Cruydtboeck_ (1554), Henry Lyte's _Niewe Herball_
 (1578), and Jean Bauhin's _Historia plantarum universalis_ (1651). It
 is a remarkable fact that so far as wood-engraving is concerned this
 country has contributed nothing to the art of plant illustration. In
@@ -3482,7 +3469,7 @@ preface is delightful and I quote a part of it:--
     no man douteth but that almyghty God, the author of all
     goodness, hath gyuen unto us by the hands of the Hethen, as
     necessary unto the use of Mankynd: yet is there none among
-    them all, whych is so openly cōmended by the verdit of
+    them all, whych is so openly comended by the verdit of
     any holy writer in the Bible, as is ye knowledge of plantes,
     herbes, and trees and of Phisick. I do not remembre that I
     have red anye expressed commendations of Grammer, Logick,
@@ -3528,13 +3515,13 @@ many surgianes and apothecaries are there in England which can
 understand Plini in Latin or Galen and Dioscorides?" The English
 physicians, he says, rely on the apothecaries, and they in turn on the
 old wives who gather the herbs. Moreover, since the physicians are not
-present when their prescriptions are made up, "many a good mā by
+present when their prescriptions are made up, "many a good ma by
 ignorance is put in jeopardy of his life, or good medecine is marred
 to the great dishonesty both of the Phisician and of Goddes worthy
 creatures." All this can be avoided by having a herbal written in
 English. Dioscorides and Galen, he points out, wrote in their native
 tongue, Greek. "Dyd Dioscorides and Galen give occasion for every old
-wyfe to take in hād the practise of Phisick? Did they giue any iust
+wyfe to take in had the practise of Phisick? Did they giue any iust
 occasion of murther? If they gaue no occasyon unto every old wyfe to
 practise physike then give I none. If they gave no occasion of murther
 then gyue I none ... then am I no hynderer wryting unto the English my
@@ -3632,9 +3619,9 @@ quote the following:--
 Unlike modern authorities, Turner contends that our English hyssop is
 the same plant as that mentioned in the Bible, and he also describes a
 species which does not now exist. "We have in Sumershire beside ye
-cōmē Hysop that groweth in all other places of Englande a kinde
+come Hysop that groweth in all other places of Englande a kinde
 of Hysop that is al roughe and hory and it is greater muche and
-stronger then the cōmen Hysop is, som call it rough Hysop." Another
+stronger then the comen Hysop is, som call it rough Hysop." Another
 plant which seems to have disappeared and which, he states, no other
 writer describes, is "the wonderful great cole with leaves thrise as
 thike as ever I saw any other cole have. It hath whyte floures and
@@ -3644,7 +3631,7 @@ Douer." Incidentally he mentions samphire also as growing at Dover.
 
 It is interesting to find that Turner identifies the _Herba
 Britannica_ of Dioscorides and Pliny (famed for having cured the
-soldiers of Julius Cæsar of scurvy in the Rhine country) with
+soldiers of Julius Cesar of scurvy in the Rhine country) with
 _Polygonum bistorta_, which he observed plentifully in Friesland, the
 scene of Pliny's observations. This herb is held by more modern
 authorities to be _Rumex aquations_ (great water dock).
@@ -3655,7 +3642,7 @@ Throughout the Herbal there are recollections of the north of England,
 where the author spent his boyhood. Of heath, for instance, he tells
 us: "The hyest hethe that ever I saw groweth in Northumberland,
 which is so hyghe that a man may hyde himself in." Of the wild
-hyacinth he writes: "The boyes in Northūberland scrape the roote of
+hyacinth he writes: "The boyes in Northuberland scrape the roote of
 the herbe and glew theyr arrowes and bokes wyth that slyme that they
 scrape of." Of sea-wrake (seaweed) he tells us: "In the Bishopriche of
 Durham the housbandmen of the countie that dwel by the sea syde use to
@@ -3700,7 +3687,7 @@ their faces w{t} that water to drive wrinkles away and to make them
 fayre in the eyes of the worlde rather then in the eyes of God, whom
 they are not afrayd to offend." And of marygold we learn that "Summe
 use to make theyr here yelow with the floure of this herbe, not beyng
-contēt with the naturall colour which God hath geven thē."
+contet with the naturall colour which God hath geven the."
 
 There is curiously little folk lore in this herbal, and most of it is
 guarded by "some do say" or "some hold." Nevertheless, with this
@@ -3735,7 +3722,7 @@ belief he quotes from Pliny.
 Turner, again, is the only old herbalist who refers to the old and
 widespread belief that larch was fire-proof. It was largely used, he
 tells us, for laying under the tiles of newly-built houses, as "a sure
-defence against burning," and he narrates at length how Julius Cæsar
+defence against burning," and he narrates at length how Julius Cesar
 was unable to burn a tower built with larch. On the old mandrake
 legend he is scathing. "The rootes which are counterfited and made
 like litle puppettes and mammettes which come to be sold in England in
@@ -3743,12 +3730,12 @@ boxes with heir [hair] and such forme as man hath, are nothyng elles
 but folishe fened trifles and not naturall. For they are so trymmed of
 crafty theves to mocke the poore people withall and to rob them both
 of theyr wit and theyr money. I have in my tyme at diverse tymes
-takē up the rootes of mandrake out of the grounde but I never saw
+take up the rootes of mandrake out of the grounde but I never saw
 any such thyng upon or in them as are in and upon the pedlers rootes
 that are comenly to be solde in boxes. It groweth not under galloses
 [gallows] as a certayn doting doctor of Colon in his physick lecture
 dyd teach hys auditors." But he accepts without question the belief in
-its efficacy as an anæsthetic: "It is given to those who must be
+its efficacy as an anesthetic: "It is given to those who must be
 burned or cut in some place that they should not fele the burning or
 cuttyng." Of wine made of it, he says: "If they drynk thys drynke they
 shall fele no payne, but they shall fall into a forgetfull and
@@ -3768,7 +3755,7 @@ syght and it troubleth the slepe wyth contrary thynges which are sene
 in the dreme." Of nigella he writes: "Take hede that ye take not to
 muche of this herbe, for if ye go beyonde the mesure it bryngeth
 deth." "Hemp seed," he says, "if it be taken out of measure taketh
-men's wyttes from thē as coriander doth." "If any person use
+men's wyttes from the as coriander doth." "If any person use
 saffron measurably it maketh in them a good colour, but if thei use it
 out of mesure it maketh hym loke pale, and maketh the hede ache and
 hurteth the appetite." For those who have taken an overdose of opium
@@ -3813,7 +3800,7 @@ the works of those three notable friends, Rembert Dodoens, Charles de
 l'Escluse and Matthias de l'Obel, particularly on the English
 herbalists. The most famous English herbal--Gerard's--is virtually a
 translation of the _Pemptades_ of Dodoens. Lyte's translation of the
-_Cruÿdtboeck_ was the standard work on herbs during the latter part of
+_Cruydtboeck_ was the standard work on herbs during the latter part of
 the century, and Parkinson incorporated a large part of de l'Obel's
 unfinished book in his _Theatrum Botanicum_.
 
@@ -3836,23 +3823,23 @@ historia_, and to this he appended the first part of the _Adversaria_,
 keeping Purfoot's original colophon.
 
 Although Dodoens neither lived in England nor had any of his works
-printed here, his _Cruÿdtboeck_ became one of the standard works in
+printed here, his _Cruydtboeck_ became one of the standard works in
 this country through Lyte's translation. Dodoens was born at Malines
 about 1517 and, after studying at Louvain, visited the universities
 and medical schools of France, Italy and Germany, graduated M.D., and
 was appointed physician to Maximilian II. and Rudolf II. successively.
 In the latter part of his life he was Professor of Medicine at Leyden,
 where he died in 1585. Plantin published Dodoens's most important
-work, _Stirpium historiæ pemptades sex sive libri triginta_, in which
+work, _Stirpium historie pemptades sex sive libri triginta_, in which
 some of the figures are copied from the fifth-century manuscript[73]
-copy of Dioscorides. Dodoens's first book, the _Cruÿdtboeck_, was
+copy of Dioscorides. Dodoens's first book, the _Cruydtboeck_, was
 translated into French by his friend Charles de l'Escluse[74] and
 afterwards into English by Henry Lyte.
 
 Lyte, who was an Oxford man, travelled extensively in his youth and
 made a collection of rare plants. He contributed nothing original to
 the literature on herbs, but his translation of the French version of
-the _Cruÿdtboeck_ was an inestimable service. His own copy of the
+the _Cruydtboeck_ was an inestimable service. His own copy of the
 French version, which is now in the British Museum, has on the
 title-page the quaint inscription "Henry Lyte taught me to speake
 Englishe." The book is full of MS. notes and references to Turner.
@@ -3868,7 +3855,7 @@ foorth in the Doutche or Almaigne tongue by that learned D. Rembert
 Dodoens, Physition to the Emperour: And nowe first translated out of
 French into English by Henry Lyte Esquyer."
 
-(_Colophon._) "Imprinted at Antwerpe by Me Henry Loë Booke printer and
+(_Colophon._) "Imprinted at Antwerpe by Me Henry Loe Booke printer and
 are to be solde at London in Paul's churchyarde by Gerard Dewes."[75]
 
 The beautiful illustrations in Lyte's _Dodoens_ are to a large extent
@@ -3883,7 +3870,7 @@ publication of the English translation of his book.
     For to augment Lyte's travell past before."
 
 The original wood-blocks never came to England, and three years later
-van der Loë's widow sold them to Christophe Plantin for 420 florins.
+van der Loe's widow sold them to Christophe Plantin for 420 florins.
 
 All the commendatory verses at the beginning of Lyte's herbal are in
 Latin, except some lines in which William Clowes speaks of writing
@@ -3928,7 +3915,7 @@ hath byn of long tyme to knowe or thinke how and upon whome to bestow
 the dedication of this my small labour. And in the penning of this my
 letter my Affections are satisfied with the dedication thereof to
 these my poore and loving countrymen whosoever and to whose hands
-soever it may come. For whose sake I have desired publicatiō of the
+soever it may come. For whose sake I have desired publicatio of the
 same, beseeching Almighty God to blesse us all."
 
 The book is curiously arranged, for on one page we have "the practice
@@ -4036,14 +4023,14 @@ commentary on Dioscorides was published in 1553.
 
 [69] Queen Elizabeth's love of gardening and her botanical knowledge
 were celebrated in a long Latin poem by an Italian who visited England
-in 1586 and wrote under the name of Melissus (see _Archæologia_, VII.
+in 1586 and wrote under the name of Melissus (see _Archeologia_, VII.
 120).
 
 [70] Parkinson in his _Theatrum Botanicum_ also mentions this use of
 bearfoot.
 
 [71] He studied medicine at Montpelier under Guillaume Rondelet, who
-bequeathed him his botanical manuscripts. D'Aléchamps, Pena and Jean
+bequeathed him his botanical manuscripts. D'Alechamps, Pena and Jean
 Bauhin, all famous herbalists, were also pupils of Rondelet.
 
 [72] For full title see Bibliography of Herbals, p. 210.

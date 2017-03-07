@@ -103,7 +103,6 @@ ENV/
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
 pyvenv.cfg
 .venv
 pip-selfcheck.json
@@ -187,3 +186,7 @@ jrmps-reference
 ./.git/objects/pack/pack-6cba1fe369890b94fb24be4f4339284a078ce58a.pack
 ./.git/objects/pack/tmp_pack_zHlQXq
 **.json
+
+**.directory
+
+**tmp**

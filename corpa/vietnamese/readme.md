@@ -11,4 +11,4 @@ URLs:
 * https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_c%E1%BB%99ng_s%E1%BA%A3n
 * https://vi.wikipedia.org/wiki/Karl_Marx
 
-I also removed names like 'Marx' and 'Lenin' for fear of those names giving me bad data
+I also removed things that looked like English strings, such as 'Marx' or 'Churchill'

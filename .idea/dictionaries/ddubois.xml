@@ -2,6 +2,7 @@
   <dictionary name="ddubois">
     <words>
       <w>ngram</w>
+      <w>tokenized</w>
       <w>voynichese</w>
     </words>
   </dictionary>
