@@ -10,7 +10,9 @@ __logger = logging.getLogger('aggregate')
 
 
 def ngram_graph(language_data, n):
-    """
+    """Graphs some data about the frequency of various n-grams.
+
+    This code will always produce a histogram. This seems like the most useful to me.
 
     :param language_data: A dict from language to n-gram frequencies for that language
     :param n: The length of the grams. Used only for setting the plot's title and whatnot
@@ -75,7 +77,7 @@ def morpheme_frequency_graph(language_data):
 
     plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
 
-    plt.hist(x, 30, alpha=0.5, label=labels)
+    plt.hist(x, 30, label=labels)
     plt.title('Morpheme Frequencies > 1')
     plt.xlabel('Normalized Frequency')
     plt.ylabel('Count')
@@ -100,7 +102,7 @@ def word_frequency_graph(language_data):
 
         labels.append(language)
 
-    plt.hist(x, 30, alpha=0.5, label=labels)
+    plt.hist(x, 30, label=labels)
     plt.title('Word Frequencies > 1')
     plt.xlabel('Normalized Frequency')
     plt.ylabel('Count')
@@ -159,10 +161,6 @@ def morpheme_length_graph(language_data):
 
     plt.savefig('Morpheme Length')
     plt.clf()
-
-
-def nothing(language_data):
-    pass
 
 
 def aggregate_stats():

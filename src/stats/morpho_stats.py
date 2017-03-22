@@ -14,16 +14,10 @@ from src.stats.markov_chain import calc_entropy
 
 
 # TODO: Actually get the Romani corpus
-# TODO: Get Mandarin with word boundaries (or another isolating language like Vietnamese)
 # TODO: Get Russian corpus
-# TODO: Count words in corpa, try to get same number of words for each language
-# TODO: use NLTK to tokenize the corpa
-# TODO: Normalize Arabic characters
 # TODO: Average word to morpheme ratio
 
-# TODO: Maybe submit to LaTaCH-CLfi
-
-#
+# TODO: Maybe submit to LaTaCH-CLfi (and get actual name of this thing)
 
 
 class LanguageStats:

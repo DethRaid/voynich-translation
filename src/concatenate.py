@@ -46,6 +46,7 @@ def process_line(line):
 
     return final_string
 
+
 def process_line_group(cur_line_group):
     # Examine the lines in parallel. For each positino in the line, look for the most common character amoung the 
     # various transcriptions. If there's a tie, randomly chose one of the characters
@@ -59,7 +60,7 @@ def process_line_group(cur_line_group):
 
     final_line = ""
 
-    # print 'Procesisng lines'
+    # print 'Processing lines'
     # for line in line_group:
     #     print line + ' with length ' + str(len(line))
 
@@ -69,6 +70,7 @@ def process_line_group(cur_line_group):
         for line in line_group:
             characters[line[index]] += 1
 
+        # TODO: Convert this code to Python 3
         common_char = characters.keys()[0]
         for key, value in characters.iteritems():
             if value > characters[common_char]:
@@ -77,6 +79,7 @@ def process_line_group(cur_line_group):
         final_line += str(common_char)
 
     return final_line
+
 
 def process_file(file_path):
     """Opens a single file and processes it
@@ -142,10 +145,11 @@ def process_file(file_path):
 
     return line_with_spaces
 
+
 def concatenate_files(manuscript_file_name):
     """Take all the files downloaded in the download_files step and process them
 
-    After this funciton finishes, there should be a new file, corpus.txt,
+    After this function finishes, there should be a new file, corpus.txt,
     with the full text of the Voynich manuscript arranged with one line of
     Voynich per line in the file, with only certain words and with spaces
     instead of periods
@@ -163,9 +167,11 @@ def concatenate_files(manuscript_file_name):
 
     folio_num = 1
     increment = False
-    for file_path in files:
+    for file_path in sorted(files):
         if not file_path[-3:] == 'txt':
             log.info('Skipping non-text file %s' % file_path)
+            continue
+        if file_path == 'corpus.txt':
             continue
         try:
             manuscript_string += process_file('../corpa/voynichese/' + file_path) + '\n'
@@ -179,6 +185,7 @@ def concatenate_files(manuscript_file_name):
 
     with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
+
 
 def print_help():
     print("""This script concatenates all the txt files for the Voynich Manuscript into
