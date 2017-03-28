@@ -76,7 +76,7 @@
 #
 #   [1] Carl Axel Magnus Lindman
 #   Bilder ur Nordens Flora
-#   227. A. Styvmorsviol, Viola tricolor L.; B. èkerviol, Viola arvensis Murr.
+#   227. A. Styvmorsviol, Viola tricolor L.; B. ¬èkerviol, Viola arvensis Murr.
 #   http://www.lysator.liu.se/runeberg/nordflor/
 #   http://www.lysator.liu.se/runeberg/nordflor/227.html 
 #

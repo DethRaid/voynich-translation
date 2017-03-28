@@ -89,7 +89,7 @@ half}{figure}!!!!!!!!!!!!!!!!!!!ytaiin.chedy.qokar.chy.lol.chedy.qoky-
 <f75r.P.9;C>       qokchdy.chetey.lo-
 {figure}!!!!!!!!!!!!!qokedy.qokan.cheekey.qokap.ol!chedy.sal-
 <f75r.P.9;F>       
-qokchdy.chcthy.lo!{figure}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-
+qokchdy.chcthy.lo!{figure}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-
 <f75r.P.9;V>       qokchdy.chcthy.lo-
 {figure}{label:ychty}qokedy.qokan.sheckh!.qokar.ol.chedy.sar-
 #                  
@@ -98,7 +98,7 @@ qokchdy.chcthy.lo!{figure}!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-
 <f75r.P.10;C>      dshor.qotar.chdy-
 {figure}!!!!!!!!!!!!!shey.qokain.e*ckhy!dy.atey.tedy.l!chedy-
 <f75r.P.10;F>      
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
 <f75r.P.10;V>      dshor.qotar.chdy-
 {figure}{label:saino}shey.qokain.chckhy.dy.otey.tedy.l.chedy-
 #                  

@@ -363,6 +363,7 @@ if __name__ == '__main__':
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
     if language == 'all':
+        os.remove('all_data.json')  # We want clean data!
         languages = [x[0][x[0].find('/') + 1:] for x in os.walk('corpa') if '/' in x[0]]
         for language in languages:
             try:

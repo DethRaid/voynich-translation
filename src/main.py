@@ -11,7 +11,7 @@ import getopt
 
 
 # configure logging
-logging.basicConfig(filename='all.log', level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
 
 def useage():
@@ -91,6 +91,7 @@ if __name__ == '__main__':
     english_corpus_type = 'none'
     manuscript_file = working_dir + 'corpa/voynichese/corpus.txt'
     voynich_model_file = working_dir + 'corpa/voynichese/model.w2v'
+    voynich_dir = working_dir + 'corpa/voynichese/'
     align_file = working_dir + 'en-voy-align.txt'
     align_matrix_file = working_dir + 'voy-en-matrix.txt'
     voynich_to_englich_dict = working_dir + 'voy-en-dict.txt'
@@ -180,25 +181,25 @@ if __name__ == '__main__':
 
     if prepare:
         log.info('Preparing English corpus...')
-        from prepare import prepare_english_corpus
+        from src.prepare import prepare_english_corpus
         prepare_english_corpus(working_dir + english_corpus, english_corpus_type, vector_size)
         log.info('Prepared corpus')
     
     if download:
         log.info('Beginning manuscript download...')
-        from download import download_files
-        download_files()
+        from src.download import download_files
+        download_files(voynich_dir)
         log.info('Downloaded files')
 
     if concatenate:
         log.info('Beginning manuscript concatenation...')
-        from concatenate import concatenate_files
-        concatenate_files(manuscript_file)
+        from src.concatenate import concatenate_files
+        concatenate_files(manuscript_file, voynich_dir)
         log.info('Concatenated manuscript')
 
     if generate:
         log.info("Generating word2vec model...")
-        from generate import generate_word2vec_model
+        from src.generate import generate_word2vec_model
         generate_word2vec_model(manuscript_file, vector_size, voynich_model_file)
         log.info('Word2Vec model generated')
 
@@ -209,9 +210,9 @@ if __name__ == '__main__':
         log.info('Translation matrix generated')
 
     if translate:
-        from translate import translate_language
+        from src.translate import translate_language
         translate_language(voynich_model_file, working_dir + '/corpa/english/model.w2v', align_matrix_file, voynich_to_englich_dict, num_possible_translations)
 
     if output:
-        from output import output_files
+        from src.output import output_files
         output_files(voynich_to_englich_dict, source_file, output_file)

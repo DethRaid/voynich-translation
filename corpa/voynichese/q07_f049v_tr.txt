@@ -249,7 +249,7 @@
 <f49v.P.14;U>      {label *-}fcho!chor.shol.tchol.opcheodal.dchsy-
 {plant}chotchy-
 #
-<f49v.P.15;H>      {label ž-}dcho.d.chol.chokchodaiin.chokchy.tchol-
+<f49v.P.15;H>      {label Âž-}dcho.d.chol.chokchodaiin.chokchy.tchol-
 {plant}okcho!kol-
 <f49v.P.15;C>      !!!!!!!!!!dcho.d!chol.chokchodaiin.chokchy.tchol-
 {plant}okcho!kol-
@@ -276,7 +276,7 @@
 <f49v.P.17;F>      {label o-}shocho!!.oaiin.sheo.choty=
 <f49v.P.17;U>      {label o-}shocho!!.oaiin.sheo.choty=
 #
-<f49v.P.18;H>      {label ¿-}qotcho.cheol.chol.s.cho.chcthey.dcheol-
+<f49v.P.18;H>      {label Å¼-}qotcho.cheol.chol.s.cho.chcthey.dcheol-
 {plant}chotchody-
 <f49v.P.18;C>      !!!!!!!!!!qotcho.cheol.chol!s.cho.chcthey.dcheol-
 {plant}chotchody-

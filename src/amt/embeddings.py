@@ -11,14 +11,18 @@
 import logging
 
 import morfessor
-import nltk
 
 _logger = logging.getLogger('embeddings')
 
 _corpus_file_tempalte = 'corpa/%s/corpus.txt'
 
 def learn_embeddings(languages):
-    pass
+    models = dict()
+
+    for language in languages:
+        models[language] = learn_embeddings_for_language(language)
+
+    return models
 
 
 def _tokenize_corpus(corpus_file_location, language):
@@ -27,9 +31,9 @@ def _tokenize_corpus(corpus_file_location, language):
     If the corpus cannot be tokenized because nltk does not support its language then the tokenized corpus is exactly
     the same as the untokenized one
 
-    :param corpus_file_location: The location of the corpus to tokenize
+    :param corpus_file_location: The location of the corpus to tokenize. This file should have one sentence per line
     :param language: The language of the corpus that you've tokenized
-    :return: A list of lists. The inner lists are all the
+    :return: A list of lists.
     """
     lines = list()
     with open(corpus_file_location, 'r') as corpus_file:
@@ -86,4 +90,4 @@ def learn_embeddings_for_language(language):
                 for morph in word_morphs:
                     morphs.append(morph)
 
-    # Generate embeddings from
+    # Learn embeddings from the morphed corpus

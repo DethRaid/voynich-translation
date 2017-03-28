@@ -15,11 +15,15 @@ system will use. However, before word embeddings are learned, the words are segm
 would be more accurate to call the vectors 'morph vectors'. The morph vectors are learned with the
 `fastText <https://github.com/facebookresearch/fastText>` algorithm.
 2. **Align languages:** After morph vectors are learned, the vector spaces must be aligned with each other. Automatic
-Machine Translation uses a modified version of the `Joint Registration of Multiple Point Sets <https://team.inria.fr/perception/research/jrmpc/>`
-algorithm (modified to allow vector spaces with more than three dimensions) in order to achieve this.
+Machine Translation uses a modified version of the `Joint Registration of Multiple Point Sets
+<https://team.inria.fr/perception/research/jrmpc/>` algorithm (modified to allow vector spaces with more than three
+dimensions) in order to achieve this.
 3. **Learn Phrases:** Automatic Machine Translation is a phrase-based translation system. Thus, it needs to learn
 phrases. Learning phrases takes much inspiration from Alexandre Klementiev, Ann Irvine, Chris Callison-Burch, and David
-Yarowsky (2012), along with those who have followed in their footsteps
+Yarowsky (2012), along with those who have followed in their footsteps. Since translating into analytic languages is
+easier, the system uses the language with the fewest morphs per word as an internal interlingua. Thus, each language
+that the AMT system recognizes needs to be translated to/from a single language, rather than every other langauge,
+greatly reducing the number of languages pairs used
 """
 
 import logging

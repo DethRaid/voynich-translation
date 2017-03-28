@@ -194,10 +194,10 @@
 #
 #   8    similar to RGA "d" (mainline variant), but the upper loop is smaller
 #          than the lower loop, and almost straight above it.
-#   …    An "a" with a faint dot over it (probably noise).
-#   ‡    A "c" with a vertical serif at the top end.
+#   Â…    An "a" with a faint dot over it (probably noise).
+#   Â‡    A "c" with a vertical serif at the top end.
 #   h    very much like RGA "h", but with open bottom
-#   ¡    A straight, short, thick descending stroke with a
+#   Ä„    A straight, short, thick descending stroke with a
 #          straight, long, thin "acute accent"; like
 #          an EVA "r" but with straight plume
 #   j    a partially obscured glyph; what can be seen looks
@@ -209,7 +209,7 @@
 #          first stroke turned inwards, the last slightly outwards.
 #   m    with inclined strokes, like "\/\/\".
 #   n    with inclined strokes, like "\/\".
-#   ò    like an "o" with a circumflex *under* it; or an EVA "l"
+#   Åˆ    like an "o" with a circumflex *under* it; or an EVA "l"
 #          with very short "legs".
 #   )    like a small close parenthesis, extending slightly below
 #          the baseline; very much like the variant RGA "o" 
@@ -217,7 +217,7 @@
 #   p    has an exaggerated "barb" on the left side of the 
 #          stem.
 #   r    like a Greek lowercase "nu".
-#   –    an "u" or "n" with a macron or overline (which may be noise).
+#   Â–    an "u" or "n" with a macron or overline (which may be noise).
 #   X    Like RGA "x", but with the two strokes ligated on the right.
 #   y    similar to RGA "y", but more like a Greek "eta".
 #   +    like a math "+", raised so as to stand on the baseline.
@@ -227,13 +227,13 @@
 # In the "digits" line, "a" trough "d" mean "10" through "13", 
 # each numeral being squeezed into single letter slot.
 #
-# Line 0 Roman:    p**labo*.pinŠn.pati*er= 
+# Line 0 Roman:    p**labo*.pinÂŠn.pati*er= 
 #
-# Line 1 Roman:    nuchiton.ola6…ba8.+.m–Lcò8.+.te.+,tar.cev‡,+.porta8.+M++-
+# Line 1 Roman:    nuchiton.ola6Â…ba8.+.mÂ–LcÅˆ8.+.te.+,tar.cevÂ‡,+.porta8.+M++-
 # Line 1.5 Digits: .1234567.489a9bc*.*4**854d*.!**..,***.5545-
 #
-# Line 2 Roman:    siX+*j–ariX+moriX+,v¡X+abta+ma+ria+-
-# The "j–" is an "m" rather out of shape.
+# Line 2 Roman:    siX+*jÂ–ariX+moriX+,vÄ„X+abta+ma+ria+-
+# The "jÂ–" is an "m" rather out of shape.
 # The "+" in "ma+ria" is raised and takes no space between the "a" and "r".
 #
 <f116v.P.3;U>      oror.sheey!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!=

@@ -9,6 +9,25 @@ import logging
 __logger = logging.getLogger('aggregate')
 
 
+def get_distribution_similarities(language_data):
+    """Checks how similar the data for each language is to the data for Voynichese
+    
+    :param language_data: A map from language to the data for the language
+    :return: A map from language to how similar that language is to the Voynichese
+    """
+
+    from scipy.stats import ks_2samp
+
+    voynichese_data = language_data['voynichese']
+    similarities = dict()
+
+    for language, data in language_data.items():
+        if language is not 'Voynichese':
+            similarities[language] = ks_2samp(data, voynichese_data)
+
+    return similarities
+
+
 def ngram_graph(language_data, n):
     """Graphs some data about the frequency of various n-grams.
 
@@ -24,9 +43,9 @@ def ngram_graph(language_data, n):
         x.append(list(data.values()))
         labels.append(language)
 
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
+    plt.figure(figsize=(8, 8), dpi=80, facecolor='w', edgecolor='k')
 
-    plt.hist(x, 30, normed=1, histtype='bar', label=np.array(labels))
+    plt.hist(x, 10, normed=1, histtype='bar', label=np.array(labels))
     plt.title('%s-gram Frequencies' % n)
     plt.xlabel('Frequency')
     plt.ylabel('Count')
@@ -75,9 +94,9 @@ def morpheme_frequency_graph(language_data):
 
         labels.append(language)
 
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
+    plt.figure(figsize=(8, 8), dpi=80, facecolor='w', edgecolor='k')
 
-    plt.hist(x, 30, label=labels)
+    plt.hist(x, 10, label=labels)
     plt.title('Morpheme Frequencies > 1')
     plt.xlabel('Normalized Frequency')
     plt.ylabel('Count')
@@ -102,7 +121,7 @@ def word_frequency_graph(language_data):
 
         labels.append(language)
 
-    plt.hist(x, 30, label=labels)
+    plt.hist(x, 10, label=labels)
     plt.title('Word Frequencies > 1')
     plt.xlabel('Normalized Frequency')
     plt.ylabel('Count')
@@ -113,7 +132,7 @@ def word_frequency_graph(language_data):
 
 
 def morphemes_per_word_graph(language_data):
-    """Graphis information about the morphemes per word
+    """Graphs information about the morphemes per word
 
     :param language_data: A dict from language to morpheme per word information
     """
@@ -124,7 +143,7 @@ def morphemes_per_word_graph(language_data):
         x.append(data)
         labels.append(language)
 
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
+    plt.figure(figsize=(8, 8), dpi=80, facecolor='w', edgecolor='k')
 
     plt.hist(x, 10, normed=1, histtype='bar', label=np.array(labels))
     plt.title('Morphemes Per Word')
@@ -148,7 +167,7 @@ def morpheme_length_graph(language_data):
         x.append(data)
         labels.append(language)
 
-    plt.figure(figsize=(20, 20), dpi=80, facecolor='w', edgecolor='k')
+    plt.figure(figsize=(8, 8), dpi=80, facecolor='w', edgecolor='k')
 
     # plt.xlim(xmax=0.02)
     # TODO: only show data up to 0.02
@@ -170,6 +189,8 @@ def aggregate_stats():
     with open('all_data.json', 'r') as jsonfile:
         all_data = json.load(jsonfile)
 
+        similarities_for_stats = dict()
+
         for series_type, language_data in all_data.items():
             __logger.info('Calculating stats for series type %s' % series_type)
             {
@@ -182,3 +203,8 @@ def aggregate_stats():
                 'morphemeLength': morpheme_length_graph,
 
             }.get(series_type)(language_data)
+
+            similarities_for_stats[series_type] = get_distribution_similarities(language_data)
+
+        with open('similarities.json', 'w') as similaritiesfile:
+            json.dump(similarities_for_stats, similaritiesfile)

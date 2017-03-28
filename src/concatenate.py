@@ -15,7 +15,7 @@ import sys
 from os import listdir
 from collections import defaultdict
 
-log = logging.getLogger('concatenate')
+_log = logging.getLogger('concatenate')
 
 
 def process_line(line):
@@ -64,21 +64,59 @@ def process_line_group(cur_line_group):
     # for line in line_group:
     #     print line + ' with length ' + str(len(line))
 
-    # assume that all the lines are the smae length. Pretty sure this is true
+    # assume that all the lines are the same length. Pretty sure this is true
     for index in range(0, len(line_group[0])):
         characters = defaultdict(int) 
         for line in line_group:
             characters[line[index]] += 1
 
-        # TODO: Convert this code to Python 3
-        common_char = characters.keys()[0]
-        for key, value in characters.iteritems():
+        common_char = next(iter(characters))[0]
+        for key, value in characters.items():
             if value > characters[common_char]:
                 common_char = key
 
         final_line += str(common_char)
 
     return final_line
+
+
+def remove_fancy_chars(string):
+    """Removes characters surrounded by {} from the manuscript by assuming that the characters are just regular
+    Voynichese characters that have some embellishment
+    
+    Is this hypothesis wrong? Maybe. Maybe not.
+    
+    :param string: The string to remove fancy characters from
+    :return: The input string, but with the fancy characters replaced by somewhat regular characters
+    """
+
+    string = re.sub("\{&o'\}", 'o', string)
+    string = re.sub("\{&252\}", '', string)
+    string = re.sub("\{&c'\}", 'c', string)
+    string = re.sub("\{&253\}", '', string)
+
+    return string
+
+
+def remove_text_objects(string):
+    """Removes Voynichese text object, such as {plant}, from the text, replacing them with spaces
+    
+    It's possible that the text didn't flow horizontally across the object, but instead the object separated columns.
+    I sure hope that isn't the case, because my data doesn't think that's the case
+    
+    :param string: The data to operate on
+    :return: The input data, with {plant} and {gap} replaced with spaces
+    """
+
+    string = re.sub('\{plant\}', ' ', string)
+    string = re.sub('\{gap\}', ' ', string)
+
+    # I am reasonably certain that these patterns indicate a column break. However, processing that is hard and I don't
+    # feel like writing it right now so I won't. Replacing them with spaces will be mostly good for what I want, I think
+    string = re.sub('\{\\\}', ' ', string)
+    string = re.sub('\{||\}', ' ', string)
+
+    return string
 
 
 def process_file(file_path):
@@ -94,8 +132,9 @@ def process_file(file_path):
     """
     processed_file = ''
     skipped_first = False
+
     with open(file_path) as f:
-        print('Beginning %s' % file_path)
+        _log.info('Beginning %s' % file_path)
 
         content = f.readlines()
         cur_line_group = list()
@@ -109,7 +148,7 @@ def process_file(file_path):
                 # We have a comment, take the last few lines and process them together
                 cur_line_san = process_line(cur_line)
                 cur_line_group.append(cur_line_san)
-                log.debug('Found a comment, processing group %s' % cur_line_group)
+                _log.debug('Found a comment, processing group %s' % cur_line_group)
                 processed_line = process_line_group(cur_line_group) 
                 processed_file += processed_line
                 cur_line_group = list()
@@ -118,12 +157,12 @@ def process_file(file_path):
                 if line[0] == '<': 
                     # If the line starts with a <. we should cut off the last line
                     cur_line_san = process_line(cur_line) 
-                    log.debug('Found a new line, adding "%s" to the current line group' % cur_line_san)
+                    _log.debug('Found a new line, adding "%s" to the current line group' % cur_line_san)
 
                     cur_line_group.append(cur_line_san)
                     cur_line = ''
                     cur_line += line
-                    log.debug('Appended "%s" to the new current line' % line)
+                    _log.debug('Appended "%s" to the new current line' % line)
                 else:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
@@ -132,7 +171,7 @@ def process_file(file_path):
         # We've done all the lines, but we still need to process the last line
         cur_line_san = process_line(cur_line)
         cur_line_group.append(cur_line_san)
-        log.debug('appended %s' % cur_line_san)
+        _log.debug('appended %s' % cur_line_san)
         processed_file += process_line_group(cur_line_group)
 
     # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
@@ -143,10 +182,13 @@ def process_file(file_path):
     # The code for that will be hard, so let's first just print out the number of unknown letters to see if we need to 
     # do anything about it
 
+    line_with_spaces = remove_fancy_chars(line_with_spaces)
+    line_with_spaces = remove_text_objects(line_with_spaces)
+
     return line_with_spaces
 
 
-def concatenate_files(manuscript_file_name):
+def concatenate_files(manuscript_file_name, manuscript_directory):
     """Take all the files downloaded in the download_files step and process them
 
     After this function finishes, there should be a new file, corpus.txt,
@@ -155,12 +197,13 @@ def concatenate_files(manuscript_file_name):
     instead of periods
 
     :param manuscript_file_name: The name of the file to write the manuscript to
+    :param manuscript_directory: the directory where all the files from the manuscript are
     """
     # Go through each file in the folder
     # Look at each group of lines
     # Return a list of good words
     # Concatenate the lines using the line concatenator
-    files = [f for f in listdir('../corpa/voynichese')]
+    files = [f for f in listdir(manuscript_directory)]
 
     # The full string of the manuscript
     manuscript_string = ''
@@ -169,16 +212,15 @@ def concatenate_files(manuscript_file_name):
     increment = False
     for file_path in sorted(files):
         if not file_path[-3:] == 'txt':
-            log.info('Skipping non-text file %s' % file_path)
+            _log.info('Skipping non-text file %s' % file_path)
             continue
         if file_path == 'corpus.txt':
             continue
         try:
-            manuscript_string += process_file('../corpa/voynichese/' + file_path) + '\n'
+            manuscript_string += process_file(manuscript_directory + file_path) + '\n'
         except Exception as e:
-            print('Failed to process file ' + file_path)
-            log.error('Failed to process file %s' % file_path)
-            log.exception(e)
+            _log.error('Failed to process file %s' % file_path)
+            _log.exception(e)
 
     # Get rid of the stupid = signs
     manuscript_string = manuscript_string.replace('=', ' ')
@@ -193,10 +235,10 @@ def print_help():
 
 Try calling it with no arguments to see it work!""")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     if len(sys.argv) > 1:
         print_help()
         sys.exit()
 
-    concatenate_files('corpus.txt')
-    print('Input files concatenated')
+    concatenate_files('corpus.txt', 'corpa/voynichese')
+    _log.info('Input files concatenated')
