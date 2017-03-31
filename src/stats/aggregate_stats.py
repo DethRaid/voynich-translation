@@ -6,7 +6,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import logging
 
-__logger = logging.getLogger('aggregate')
+from collections import defaultdict
+
+_log = logging.getLogger('aggregate')
 
 
 def get_distribution_similarities(language_data):
@@ -22,7 +24,7 @@ def get_distribution_similarities(language_data):
     similarities = dict()
 
     for language, data in language_data.items():
-        if language is not 'Voynichese':
+        if language != 'voynichese':
             similarities[language] = ks_2samp(data, voynichese_data)
 
     return similarities
@@ -182,6 +184,22 @@ def morpheme_length_graph(language_data):
     plt.clf()
 
 
+def convert_dicts_to_lists(distributions):
+    """Converts the dictionaries in distributions into lists that can be easily processed by the KS-test
+    
+    :param distributions: A map from language name to data. The data is expected to be a dictionary from some token to
+    a number
+    :return: A map from language name to data, where data is simply numbers 
+    """
+    result = defaultdict(list)
+
+    for language, token_data in distributions.items():
+        for _, data in token_data.items():
+            result[language].append(data)
+
+    return result
+
+
 def aggregate_stats():
     """Reads in the stats in the saved json file, then prints all the stats for each language onto the same graph for
     easy comparison"""
@@ -192,7 +210,7 @@ def aggregate_stats():
         similarities_for_stats = dict()
 
         for series_type, language_data in all_data.items():
-            __logger.info('Calculating stats for series type %s' % series_type)
+            _log.info('Calculating stats for series type %s' % series_type)
             {
                 '1-gramFrequencies': one_gram_graph,
                 '2-gramFrequencies': two_gram_graph,
@@ -204,7 +222,18 @@ def aggregate_stats():
 
             }.get(series_type)(language_data)
 
-            similarities_for_stats[series_type] = get_distribution_similarities(language_data)
+            try:
+                dist_to_list_series = ['1-gramFrequencies', '2-gramFrequencies', '3-gramFrequencies',
+                                                  'morphemeFrequency', 'wordFrequency']
+
+                distributions = language_data
+                if series_type in dist_to_list_series:
+                    distributions = convert_dicts_to_lists(distributions)
+
+                similarities_for_stats[series_type] = get_distribution_similarities(distributions)
+            except Exception as e:
+                _log.error('Could not compare languages for statistic %s' % series_type)
+                _log.exception(e)
 
         with open('similarities.json', 'w') as similaritiesfile:
             json.dump(similarities_for_stats, similaritiesfile)

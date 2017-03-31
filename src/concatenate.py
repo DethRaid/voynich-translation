@@ -163,6 +163,149 @@ def process_file(file_path):
     return line_with_spaces
 
 
+def word_similarity(good_word, bad_word):
+    """Checks how similar good_word is to bad_word
+    
+    Anytime bad_word has a *, any letter from good_word is accepted. Anytime good_word has a * its letter is not 
+    accepted
+    
+    > has_same_letters('okthy', 'o*thy')
+    > 1.0
+    
+    > has_same_letters('okt*y', 'o*thy')
+    > 0.8
+    
+    > has_same_letters('okthy', 'dar')
+    > 0.0
+    
+    :param good_word: The word to check for similarity to our word
+    :param bad_word: The word we want to generate hypotheses for
+    :return: A number saying how similar the words are
+    """
+    if len(good_word) != len(bad_word):
+        return 0
+
+    num_same_chars = 0
+
+    for idx in range(len(bad_word)):
+        if good_word[idx] != '*' and (good_word[idx] == bad_word[idx] or bad_word[idx] == '*'):
+            num_same_chars += 1
+
+    return num_same_chars / len(good_word)
+
+
+def resolve_unkonwn_characters(manuscript_string):
+    """Tries to resolve words with unknown characters by comparing the words to other words in the manuscript
+    
+    There's a number of tricks here:
+    - If the word in question is missing letters, and there's only one word with the same letters save for the missing 
+    ones), we use that word.
+    - If the word in question is missing letters, and there's words available which miss letters in other places, we 
+    take known letters from whatever word has them
+    - If there's multiple hypothesis for what the word with missing letters could be, we examine the words before and 
+    after current word and all its hypothesis to try to match the context of the word in question with the context of
+    a single hypothesis
+    - The code here should rely on word context more as the word in question is missing more and more letters
+    
+    :param manuscript_string: The full text of the manuscript
+    :return: The full text of the manuscript, with as many unknown letters resolved as possible
+    """
+    word_frequencies = defaultdict(int)
+
+    # a map from word to the previous two words. The number 2 was chosen because Statistical Machine Translations often
+    # use a 3-gram language model when evaluating if a sentence if valid in the target language. If 3-grams are good
+    # enough for them, they're good enough for me
+    contexts = defaultdict(list)
+
+    words_needing_resoling = []
+
+    for line in manuscript_string.split('\n'):
+        words = line.split()
+        for idx, word in enumerate(words):
+            if idx == 0:
+                previous_word = 'BEG'
+            else:
+                previous_word = words[idx - 1]
+
+            if idx < 2:
+                previous_previous_word = 'BEG'
+            else:
+                previous_previous_word = words[idx - 2]
+
+            contexts[word].append((previous_previous_word, previous_word))
+
+    for word, _ in contexts.items():
+        word_frequencies[word] += 1
+        if '*' in word:
+            words_needing_resoling.append(word)
+
+    # Map from word with unknown letters to its hypothesis. Hypotheses are a tuple of (word, frequency, fitness)
+    substitution_hypotheses = defaultdict(list)
+    for bad_word in words_needing_resoling:
+        for good_word, count in word_frequencies:
+            word_fitness = word_similarity(good_word, bad_word)
+            substitution_hypotheses[bad_word].append((good_word, count, word_fitness))
+
+    for bad_word, hypotheses in substitution_hypotheses.items():
+        # Find the most fit hypothesis. Hopefully there's only one with a fitness of 1.0 and we can party
+        # If there's more than one with a fitness of 1.0, find the one with the highest count
+        highest_fitness = 0
+        for hypothesis in hypotheses:
+            if hypothesis[2] > highest_fitness:
+                highest_fitness = hypothesis[2]
+
+        hypotheses_with_max_fitness = []
+        for hypothesis in hypotheses:
+            if hypothesis[2] > highest_fitness - 0.01:  # Floating-point comparison, so we don't want to test equality
+                hypotheses_with_max_fitness.append(hypothesis)
+
+        if len(hypotheses_with_max_fitness) == 1:
+            # This is awesome. We know exactly what the word should be
+            # Now we just need to cross-reference to resolve unknown characters
+            final_word = build_final_word([bad_word, hypotheses_with_max_fitness[0]])
+
+        else:
+            # This is the tricky bit. We have multiple hypothesis with the same fitness, so we need to figure out which
+            # one has the most similar context
+            # Someone observed that Voynichese seems to have a link between morphology and semantics, such that words
+            # which look similar are similar. Imma use a bag-of-letters for word similarity. It probably won't be
+            # great, but it should work?
+            context_similarities = {}
+            bad_context = contexts[bad_word]
+
+            for hypothesis in hypotheses_with_max_fitness:
+                maybe_good_word = hypothesis[0]
+                context = contexts[maybe_good_word]
+
+
+def build_final_word(words):
+    """Builds the final word out of all the words that might be the one we want
+    
+    :param words: A list of all the words that might substitute for the words in question, plus the word in question
+    :return: The word we want (probably)
+    """
+    final_letters = []
+    for idx in range(len(words[0])):
+        char_counts = defaultdict(int)
+        for word in words:
+            if word[idx] != '*':
+                char_counts[word[idx]] += 1
+
+        if len(char_counts) == 1 and '*' in char_counts:
+            # The only character we could find is a star, so let's just append that
+            final_letters.append('*')
+
+        else:
+            most_common_char = 'f'  # Doesn't matter what this is. defaultdict gives us 0 for unknowns
+            for char, count in char_counts:
+                if count < char_counts[most_common_char]:
+                    most_common_char = char
+
+            final_letters.append(most_common_char)
+
+    return ''.join(final_letters)
+
+
 def concatenate_files(manuscript_file_name, manuscript_directory):
     """Take all the files downloaded in the download_files step and process them
 
@@ -183,8 +326,6 @@ def concatenate_files(manuscript_file_name, manuscript_directory):
     # The full string of the manuscript
     manuscript_string = ''
 
-    folio_num = 1
-    increment = False
     for file_path in sorted(files):
         if not file_path[-3:] == 'txt':
             _log.info('Skipping non-text file %s' % file_path)
@@ -199,6 +340,8 @@ def concatenate_files(manuscript_file_name, manuscript_directory):
 
     # Get rid of the stupid = signs
     manuscript_string = manuscript_string.replace('=', '\n')
+
+    resolve_unkonwn_characters(manuscript_string)
 
     with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
