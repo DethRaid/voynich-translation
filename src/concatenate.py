@@ -1,12 +1,12 @@
 """Concatenates all the Voynich transcription files into a single pretty file
 
-The files has spaces between words, rather than periods. It also has all the
-comments and metadata removed, so there's only the actual words
+The files has spaces between words, rather than periods. It also has all the comments and metadata removed, so there's 
+only the actual words. This code also tries to resolve unknown letters by searching for similar words in the text 
+that don't have the same uncertain characters
 
-I'm unsure what to do about sentances or whatever. There's no clear sentance
-boundaries in the transcription. I'l start out with lines being lines, and
-maybe try folios being lines or maybe make the whole thing a line. Not sure,
-I'll see what gives the prettiest results I guess.
+I'm unsure what to do about sentences or whatever. There's no clear sentence boundaries in the transcription. I'll 
+start out with lines being lines, and maybe try folios being lines or maybe make the whole thing a line. Not sure, I'll 
+see what gives the prettiest results I guess.
 """
 
 import logging
@@ -58,65 +58,40 @@ def process_line_group(cur_line_group):
     if len(line_group) == 0:
         return ''
 
-    final_line = ""
+    final_line = ''
 
-    # print 'Processing lines'
-    # for line in line_group:
-    #     print line + ' with length ' + str(len(line))
+    reading_line = []
+    for _ in line_group:
+        reading_line.append(True)
+
+    start_chars = ['{']
+    end_chars = ['}']
 
     # assume that all the lines are the same length. Pretty sure this is true
     for index in range(0, len(line_group[0])):
         characters = defaultdict(int) 
-        for line in line_group:
-            characters[line[index]] += 1
+        for idx, line in enumerate(line_group):
+            if line[index] in start_chars:
+                reading_line[idx] = False
 
-        common_char = next(iter(characters))[0]
-        for key, value in characters.items():
-            if value > characters[common_char]:
-                common_char = key
+            if reading_line[idx]:
+                characters[line[index]] += 1
 
-        final_line += str(common_char)
+            if line[index] in end_chars:
+                reading_line[idx] = True
+
+        common_char = ''
+        if len(characters) > 0:
+            common_char = next(iter(characters))[0]
+            for key, value in characters.items():
+                if value >= characters[common_char]:
+                    common_char = key
+
+        final_line += common_char
+
+    _log.info('Derived line\n%s\nfrom line group\n%s' % (final_line, line_group))
 
     return final_line
-
-
-def remove_fancy_chars(string):
-    """Removes characters surrounded by {} from the manuscript by assuming that the characters are just regular
-    Voynichese characters that have some embellishment
-    
-    Is this hypothesis wrong? Maybe. Maybe not.
-    
-    :param string: The string to remove fancy characters from
-    :return: The input string, but with the fancy characters replaced by somewhat regular characters
-    """
-
-    string = re.sub("\{&o'\}", 'o', string)
-    string = re.sub("\{&252\}", '', string)
-    string = re.sub("\{&c'\}", 'c', string)
-    string = re.sub("\{&253\}", '', string)
-
-    return string
-
-
-def remove_text_objects(string):
-    """Removes Voynichese text object, such as {plant}, from the text, replacing them with spaces
-    
-    It's possible that the text didn't flow horizontally across the object, but instead the object separated columns.
-    I sure hope that isn't the case, because my data doesn't think that's the case
-    
-    :param string: The data to operate on
-    :return: The input data, with {plant} and {gap} replaced with spaces
-    """
-
-    string = re.sub('\{plant\}', ' ', string)
-    string = re.sub('\{gap\}', ' ', string)
-
-    # I am reasonably certain that these patterns indicate a column break. However, processing that is hard and I don't
-    # feel like writing it right now so I won't. Replacing them with spaces will be mostly good for what I want, I think
-    string = re.sub('\{\\\}', ' ', string)
-    string = re.sub('\{||\}', ' ', string)
-
-    return string
 
 
 def process_file(file_path):
@@ -139,6 +114,7 @@ def process_file(file_path):
         content = f.readlines()
         cur_line_group = list()
         cur_line = ''
+        can_append = True
         for line in content:
             if not skipped_first:
                 skipped_first = True
@@ -149,13 +125,15 @@ def process_file(file_path):
                 cur_line_san = process_line(cur_line)
                 cur_line_group.append(cur_line_san)
                 _log.debug('Found a comment, processing group %s' % cur_line_group)
-                processed_line = process_line_group(cur_line_group) 
-                processed_file += processed_line
+                processed_file += process_line_group(cur_line_group)
                 cur_line_group = list()
                 cur_line = ''
+                # We've most recently seen a comment. The next line is probably a continuation of the comment that got
+                # shoved to the next line, so we don't want to save it
+                can_append = False
             else:
                 if line[0] == '<': 
-                    # If the line starts with a <. we should cut off the last line
+                    # If the line starts with a <, we should cut off the last line
                     cur_line_san = process_line(cur_line) 
                     _log.debug('Found a new line, adding "%s" to the current line group' % cur_line_san)
 
@@ -163,7 +141,10 @@ def process_file(file_path):
                     cur_line = ''
                     cur_line += line
                     _log.debug('Appended "%s" to the new current line' % line)
-                else:
+                    # We've most recently seen a Real Line. The next line is probably a continuation of the Real Line
+                    # that got shoved to the next line, so we want to save it
+                    can_append = True
+                elif can_append:
                     # There's no '-' or '=' at the end of the line, so it's an incomplete line and we
                     # can append it to the current line accumulator
                     cur_line += line 
@@ -174,16 +155,10 @@ def process_file(file_path):
         _log.debug('appended %s' % cur_line_san)
         processed_file += process_line_group(cur_line_group)
 
-    # Splits the stirng on spaces, then joins with a space. Should remove duplicate spaces
     line_with_spaces = re.sub('[\.\-]', ' ', processed_file) 
     line_with_spaces = re.sub('=', '\n', line_with_spaces)
 
-    # Now we just need to resolve unknown letters
-    # The code for that will be hard, so let's first just print out the number of unknown letters to see if we need to 
-    # do anything about it
-
-    line_with_spaces = remove_fancy_chars(line_with_spaces)
-    line_with_spaces = remove_text_objects(line_with_spaces)
+    line_with_spaces = re.sub('!', '', line_with_spaces)
 
     return line_with_spaces
 
@@ -223,7 +198,7 @@ def concatenate_files(manuscript_file_name, manuscript_directory):
             _log.exception(e)
 
     # Get rid of the stupid = signs
-    manuscript_string = manuscript_string.replace('=', ' ')
+    manuscript_string = manuscript_string.replace('=', '\n')
 
     with open(manuscript_file_name, 'w') as f:
         f.write(manuscript_string)
