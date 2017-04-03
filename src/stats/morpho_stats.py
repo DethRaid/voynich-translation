@@ -33,22 +33,26 @@ class LanguageStats:
         :param language: The name of the language to use
         """
 
-        self.__logger = logging.getLogger('stats')
-        self.__logger.info('Beginning stats for language %s' % language)
+        self._log = logging.getLogger('stats')
+        self._log.info('Beginning stats for language %s' % language)
 
         self.__language = language
         self.__language_dir = 'corpa/' + language + '/'
+        self.__wiki_filename = self.__language_dir + 'wiki_text.tar.lzma'
         self.__corpus_filename = self.__language_dir + 'corpus.txt'
-        self.__tokenized_corpus_name = self.__language_dir + 'corpus_tokenized.txt'
 
-        if not os.path.isfile(self.__corpus_filename):
-            self.__logger.error('Could not find corpus for language %s' % self.__language)
-            return
+        if not os.path.isfile(self.__wiki_filename):
+            self._log.error('Wikipedia data not available for language %s. Falling back to hand-created corpus file'
+                            % self.__language)
+            self.load_corpus_file()
+        else:
+            self._log.info('Reading Wikipedia data for language %s' % self.__language)
+            self.load_compressed_wikipedia()
 
         try:
             self.tokenize_corpus()
         except LookupError:
-            self.__logger.warning('Could not tokenize %s corpus' % self.__language)
+            self._log.warning('Could not tokenize %s corpus' % self.__language)
 
         io = morfessor.MorfessorIO()
         words = io.read_corpus_file(self.__tokenized_corpus_name, 30287)   # Number of words in Voynich Manuscript
@@ -85,7 +89,7 @@ class LanguageStats:
                     morpheme_corpus.write('\n')
 
         self.__created_morphed_corpus = True
-        self.__logger.info('Split corpus into morphemes')
+        self._log.info('Split corpus into morphemes')
 
     def calc_ngram_frequencies(self, n):
         """Examines the n-grams in the corpus and generates a graph of their frequencies. The frequencies are sorted
@@ -119,7 +123,7 @@ class LanguageStats:
 
         self.__save_series(str(n) + '-gramFrequencies', frequencies)
 
-        self.__logger.info('Calculated %s-gram frequency statistics' % n)
+        self._log.info('Calculated %s-gram frequency statistics' % n)
 
     def calc_morpheme_frequency(self):
         morpheme_frequencies = defaultdict(int)
@@ -149,7 +153,7 @@ class LanguageStats:
         plt.clf()
 
         self.__save_series('morphemeFrequency', morpheme_frequencies)
-        self.__logger.info('Calculated morpheme frequency statistics')
+        self._log.info('Calculated morpheme frequency statistics')
 
     def calc_word_frequency(self):
         """Calculates the frequencies of the words in the corpus"""
@@ -179,7 +183,7 @@ class LanguageStats:
         plt.clf()
 
         self.__save_series('wordFrequency', word_frequencies)
-        self.__logger.info('Calculated word frequency statistics')
+        self._log.info('Calculated word frequency statistics')
 
     def calc_word_stats(self):
         '''Calculates word-level statistics, and shows the appropriate histograms
@@ -196,7 +200,7 @@ class LanguageStats:
 
         num_morphemes_per_word = list(num_morphemes_per_word.values())
         average_morphemes_per_word = self.__average(num_morphemes_per_word)
-        self.__logger.info('There are an average of ' + str(average_morphemes_per_word) + ' morphemes per word')
+        self._log.info('There are an average of ' + str(average_morphemes_per_word) + ' morphemes per word')
 
         bins = np.arange(0, 10, 1)  # fixed bin size of 1
 
@@ -212,7 +216,7 @@ class LanguageStats:
 
         self.__save_series('morphemesPerWord', num_morphemes_per_word)
 
-        self.__logger.info('Calculated per-word statistics')
+        self._log.info('Calculated per-word statistics')
 
     def calc_morpheme_stats(self):
         '''Calculates morpheme-level statistics, such as the average length of morphemes, and shows the
@@ -228,7 +232,7 @@ class LanguageStats:
         morpheme_length = [len(x) for x in self.__all_morphs]
 
         average_morpheme_length = self.__average(morpheme_length)
-        self.__logger.info('Morphemes have an average length of ' + str(average_morpheme_length) + ' characters')
+        self._log.info('Morphemes have an average length of ' + str(average_morpheme_length) + ' characters')
 
         bins = np.arange(0, 50, 1)  # fixed bin size of 1
 
@@ -244,7 +248,7 @@ class LanguageStats:
 
         self.__save_series('morphemeLength', morpheme_length)
 
-        self.__logger.info('Calculated per-morpheme statistics')
+        self._log.info('Calculated per-morpheme statistics')
 
     def calculate_all_stats(self):
         """Calculates all the stats for the language given in the constructor
@@ -258,13 +262,13 @@ class LanguageStats:
         self.calc_ngram_frequencies(2)
         self.calc_ngram_frequencies(3)
 
-        self.__logger.info('Getting word entropy')
+        self._log.info('Getting word entropy')
         calc_entropy(self.__word_iterator(), self.__language_dir, 'word')
 
-        self.__logger.info('Getting morpheme entropy')
+        self._log.info('Getting morpheme entropy')
         calc_entropy(self.__morpheme_iterator(), self.__language_dir, 'morpheme')
 
-        self.__logger.info('Getting character entropy')
+        self._log.info('Getting character entropy')
         calc_entropy(self.__character_iterator(), self.__language_dir, 'character')
 
         self.__save_stats_to_disk()
@@ -354,7 +358,56 @@ class LanguageStats:
 
         end_time = time.clock()
 
-        self.__logger.info('Tokenized corpus in %s seconds' % (end_time - start_time))
+        self._log.info('Tokenized corpus in %s seconds' % (end_time - start_time))
+
+    def load_compressed_wikipedia(self):
+        raw_data = self.load_wiki_data()
+
+        self.get_n_words(raw_data, 30278)
+
+    def load_wiki_data(self):
+        """Reads the data from the compressed Wikipedia file into memory
+        
+        In an effort to cut down on runtime, only the first 1200000 bytes are read into memory. This is a high estimate
+        of the amount of data we want. A later step refines this number
+        
+        :return: The raw data from disk
+        """
+        import lzma
+        with lzma.open(self.__language_dir + 'wiki_text.tar.lzma', 'rb') as tarfile:
+            from tarfile import TarFile
+            tarfile_reader = TarFile(fileobj=tarfile)
+            raw_data = ''
+            for member in tarfile_reader.getmembers():
+                member_stream = tarfile_reader.extractfile(member)
+
+                # 30K words * 10 characters per word * 4 bytes per character = 1200000
+                # This is a super high estimate, but all well.
+                raw_data += str(member_stream.read(1200000))
+
+        # We'll want to select X articles such that we have about 30K words, like in VMS
+        import re
+        articles = re.findall(r'\[\[\d+\]\]', raw_data, flags=re.MULTILINE)
+        num_articles = len(articles)
+        self._log.info('There are %d articles in the data' % num_articles)
+        return raw_data
+
+    def get_n_words(self, raw_data, num_words):
+        """Gets N words in raw_data
+        
+        Currently, words are considered to be separated by spaces. This is incorrect for languages like vietnamese but 
+        right now it's the best I have.
+        
+        Non-spoken tokens and tokens in non-native character sets might be included. Not sure yet.
+        
+        This method expects that raw_data is a string of wikipedia data, where each article has [[\d+]] before it. We
+        split the text on that token, then randomly select articles until we have enough tokens
+        
+        :param raw_data: The raw data to get the tokens from
+        :param num_words: The number of words to acquire
+        :return: An array of all the words we want to deal with
+        """
+        pass
 
 
 if __name__ == '__main__':
@@ -363,7 +416,11 @@ if __name__ == '__main__':
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
     if language == 'all':
-        os.remove('all_data.json')  # We want clean data!
+        try:
+            os.remove('all_data.json')  # We want clean data!
+        except:
+            pass
+        open('all_data.json', 'w').close()
         languages = [x[0][x[0].find('/') + 1:] for x in os.walk('corpa') if '/' in x[0]]
         for language in languages:
             try:
