@@ -12,20 +12,21 @@ _log = logging.getLogger('aggregate')
 
 
 def get_distribution_similarities(language_data):
-    """Checks how similar the data for each language is to the data for Voynichese
+    """Checks how similar the data for each language is to each other
     
     :param language_data: A map from language to the data for the language
-    :return: A map from language to how similar that language is to the Voynichese
+    :return: A map from language to how similar that language is to each other
     """
 
     from scipy.stats import ks_2samp
 
     voynichese_data = language_data['voynichese']
-    similarities = dict()
+    similarities = {}
 
-    for language, data in language_data.items():
-        if language != 'voynichese':
-            similarities[language] = ks_2samp(data, voynichese_data)
+    for language1, data1 in language_data.items():
+        similarities[language1] = {}
+        for language2, data2 in language_data.items():
+            similarities[language1][language2] = ks_2samp(data2, data1)
 
     return similarities
 

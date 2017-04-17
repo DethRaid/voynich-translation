@@ -1,3 +1,4 @@
+import codecs
 import functools
 import json
 import logging
@@ -5,6 +6,7 @@ import os
 from collections import defaultdict
 
 import numpy as np
+import unicodedata
 from matplotlib import pyplot as plt
 from nltk import sent_tokenize
 
@@ -13,11 +15,183 @@ from src.stats.aggregate_stats import aggregate_stats
 from src.stats.markov_chain import calc_entropy
 
 
+_log = logging.getLogger('morpho_stats')
+
+
 # TODO: Actually get the Romani corpus
-# TODO: Get Russian corpus
-# TODO: Average word to morpheme ratio
 
 # TODO: Maybe submit to LaTaCH-CLfi (and get actual name of this thing)
+
+# TODO: Word Length
+# TODO: Comparison matrix for all languages
+
+
+def load_compressed_wikipedia(corpus_filename, n):
+    """Loads the first n words from the compressed wikipedia we're dealing with
+    
+    :param corpus_filename: The filename of the wikipedia data 
+    :param n: the number of words to read in
+    :return: An array of all the sentences in our data, where each sentence is an array of words
+    """
+    raw_data = _read_wiki_data(corpus_filename)
+
+    return _get_n_words(raw_data, n)
+
+
+def _read_wiki_data(corpus_filename):
+    """Reads the data from the compressed Wikipedia file into memory
+
+    In an effort to cut down on runtime, only the first 1200000 bytes are read into memory. This is a high estimate
+    of the amount of data we want. A later step refines this number
+    
+    This function also counts the number of occurances of each character. Any character which appears less than 0.05% 
+    of the time is removed from the data
+
+    :return: The raw data from disk
+    """
+    import lzma
+    with lzma.open(corpus_filename, 'rb') as tarfile:
+        from tarfile import TarFile
+        tarfile_reader = TarFile(fileobj=tarfile)
+        raw_data = ''
+        for member in tarfile_reader.getmembers():
+            member_stream = tarfile_reader.extractfile(member)
+
+            count = 0
+            binary_chunks = iter(functools.partial(member_stream.read, 1), "")
+            for unicode_chunk in codecs.iterdecode(binary_chunks, 'utf-8'):
+                raw_data += unicode_chunk
+                count += 1
+                # 32K words * 10 characters per word = 320000 characters total
+                # This is a super high estimate, but all well.
+                if count >= 320000:
+                    break
+
+    character_frequencies = defaultdict(int)
+    character_increment = 1.0 / len(raw_data)
+    for char in raw_data:
+        character_frequencies[char.lower()] += character_increment
+
+    data_filtered = [char.lower() for char in raw_data if character_frequencies[char.lower()] > 0.005]
+
+    return ''.join(data_filtered)
+
+
+def _load_corpus_file(corpus_filename, n):
+    """Reads in the given corpus, splitting it into sentences
+    
+    This function assumes that the corpus has one sentence per line
+    
+    :param corpus_filename: The name of the file with the corpus of text
+    :param n: The number of words to read in
+    :return: A list of sentences, where each sentence is a list of words
+    """
+    raw_data = _read_corpus_file(corpus_filename)
+    return _get_n_words(raw_data, n)
+
+
+def _read_corpus_file(corpus_filename):
+    """Reads in all the data in the file with the name of corpus_filename
+    
+    This function reads in all the data in the corpus. The corresponding function to load in wikipedia data only loads
+    some data. This is potentially a problem but for the purposes of this work it'll be fine, since the corpus files
+    are pretty small
+    
+    :param corpus_filename: The name of the corpus file 
+    :return: All the data in the corpus as a single glorious string. Lines are delineated with \\n
+    """
+    raw_data = ''
+    with open(corpus_filename, 'r') as corpus_file:
+        for line in corpus_filename:
+            raw_data += line
+            raw_data += '\\n'
+
+    return raw_data
+
+
+def _average(l):
+    """Calcualtes the average value of a list of numbers
+
+        :param l: A list of numbers to get the average of
+        :return: The average of the given list
+        """
+    return functools.reduce(lambda x, y: x + y, l) / len(l)
+
+
+def _flatten(l):
+    return [item for sublist in l for item in sublist]
+
+
+def _get_n_words(raw_data, num_words):
+    """Gets N words in raw_data
+
+    Currently, words are considered to be separated by spaces. This is incorrect for languages like vietnamese but 
+    right now it's the best I have.
+
+    Non-spoken tokens and tokens in non-native character sets might be included. Not sure yet.
+
+    This method expects that raw_data is a string of Wikipedia data, where each article has [[\d+]] before it. We
+    split the text on that token, then randomly select articles until we have enough tokens
+
+    :param raw_data: The raw data to get the tokens from
+    :param num_words: The number of words to acquire
+    :return: An array of all the sentences we want to deal with. Each sentence is an array of words
+    """
+    lines = raw_data.split('\\n')
+    usable_data = []
+    cur_num_words = 0
+
+    while cur_num_words < num_words:
+        import random
+        line_num = random.randint(0, len(lines) - 1)
+        line = lines[line_num].split()
+        if len(line) == 0:
+            continue
+        if len(line[0]) == 0:
+            continue
+        if line[0][0] == '[':
+            # The line starts with a [, which means it's probably an article header. We don't want that
+            continue
+        usable_data.append(line)
+        cur_num_words += len(line)
+
+    return usable_data
+
+
+def _morfessor_iterator_from_list(sentences):
+    """Turns the list into the kind of iterator that morfessor likes
+    
+    :param sentences: A list of sentences, where each sentence is a list of words
+    :return: A nice pretty iterator
+    """
+    io = morfessor.MorfessorIO()
+    for sentence in sentences:
+        sentence_string = ' '.join(sentence)
+        for compound in io.compound_sep_re.split(sentence_string):
+            if len(compound) > 0:
+                yield 1, io._split_atoms(compound)
+        yield 0, ()
+
+
+def _tokenize_corpus(corpus_data):
+    """Takes the incoming data and attempts to split it into sentences, and then into words
+    
+    :param corpus_data: A list of sentences, where each sentence is a list of words
+    :return: A list of sentences, where each sentence is a list of words. Hopefully these are better segmented than the
+    input data, though
+    """
+
+    from nltk import wordpunct_tokenize
+    sentences = sent_tokenize(' '.join(corpus_data))
+    lines = []
+    for sentence in sentences:
+        tokens = wordpunct_tokenize(sentence)
+        line = ' '.join(tokens)
+        line_alpha = [x for x in line if x.isalpha() or x == ' ']
+        line = ''.join(line_alpha)
+        lines.append(line.split())
+
+    return lines
 
 
 class LanguageStats:
@@ -36,59 +210,57 @@ class LanguageStats:
         self._log = logging.getLogger('stats')
         self._log.info('Beginning stats for language %s' % language)
 
-        self.__language = language
-        self.__language_dir = 'corpa/' + language + '/'
-        self.__wiki_filename = self.__language_dir + 'wiki_text.tar.lzma'
-        self.__corpus_filename = self.__language_dir + 'corpus.txt'
+        self._language = language
+        self._language_dir = 'corpa/' + language + '/'
+        wiki_filename = self._language_dir + 'wiki_text.tar.lzma'
 
-        if not os.path.isfile(self.__wiki_filename):
+        if not os.path.isfile(wiki_filename):
             self._log.error('Wikipedia data not available for language %s. Falling back to hand-created corpus file'
-                            % self.__language)
-            self.load_corpus_file()
+                            % self._language)
+
+            corpus_filename = self._language_dir + 'corpus.txt'
+            language_data_raw = _load_corpus_file(corpus_filename, 30278)
+            try:
+                self._language_data = _tokenize_corpus(language_data_raw)
+            except:
+                self._log.warning('Could not tokenize %s corpus' % self._language)
+                self._language_data = language_data_raw
         else:
-            self._log.info('Reading Wikipedia data for language %s' % self.__language)
-            self.load_compressed_wikipedia()
+            self._log.info('Reading Wikipedia data for language %s' % self._language)
+            self._language_data = load_compressed_wikipedia(wiki_filename, 30278)
 
-        try:
-            self.tokenize_corpus()
-        except LookupError:
-            self._log.warning('Could not tokenize %s corpus' % self.__language)
+        words = _morfessor_iterator_from_list(self._language_data)
 
-        io = morfessor.MorfessorIO()
-        words = io.read_corpus_file(self.__tokenized_corpus_name, 30287)   # Number of words in Voynich Manuscript
+        self._model = morfessor.BaselineModel()
+        self._model.train_online(words)
+        self._created_morphed_corpus = False
+        self._all_morphs = list()
 
-        self.__model = morfessor.BaselineModel()
-        self.__model.train_online(words)
-        self.__created_morphed_corpus = False
-        self.__all_morphs = list()
-
-        for segmentation in self.__model.get_segmentations():
-            self.__all_morphs.append(segmentation[2])
+        for segmentation in self._model.get_segmentations():
+            self._all_morphs.append(segmentation[2])
 
         try:
             with open('all_data.json', 'r') as jsonfile:
-                self.__all_data = json.load(jsonfile)
-        except FileNotFoundError:
-            self.__all_data = json.loads('{}')
+                self._all_data = json.load(jsonfile)
+        except:
+            self._all_data = json.loads('{}')
 
     def generate_morphed_corpus(self):
         """Splits the words of the corpus into their morphemes, then writes those morphemes to a new file called
         'corpus_morphemes.txt'
         """
-        with open(self.__tokenized_corpus_name, 'r') as corpus:
-            with open(self.__language_dir + 'corpus_morphemes.txt', 'w') as morpheme_corpus:
-                wordcount = 0
-                for line in corpus:
-                    words = line.split()
-                    for word in words:
-                        wordcount += 1
-                        morphemes = self.__model.viterbi_segment(word)[0]
-                        for morpheme in morphemes:
-                            morpheme_corpus.write(morpheme + ' ')
+        with open(self._language_dir + 'corpus_morphemes.txt', 'w') as morpheme_corpus:
+            wordcount = 0
+            for line in self._language_data:
+                for word in line:
+                    wordcount += 1
+                    morphemes = self._model.viterbi_segment(word)[0]
+                    for morpheme in morphemes:
+                        morpheme_corpus.write(morpheme + ' ')
 
-                    morpheme_corpus.write('\n')
+                morpheme_corpus.write('\n')
 
-        self.__created_morphed_corpus = True
+        self._created_morphed_corpus = True
         self._log.info('Split corpus into morphemes')
 
     def calc_ngram_frequencies(self, n):
@@ -97,8 +269,7 @@ class LanguageStats:
 
         :param n: The length of the n-grams to look at
         """
-        corpus = open(self.__tokenized_corpus_name)
-        text = corpus.read().replace(' ', '').replace('\n', '')
+        text = '\n'.join(_flatten(self._language_data))
         frequencies = defaultdict(int)
         total_ngrams = 0
 
@@ -114,11 +285,11 @@ class LanguageStats:
         plt.xlim([min(frequencies.values()) - 0.05, max(frequencies.values()) + 0.1])
 
         plt.hist(list(frequencies.values()), bins=bins, alpha=0.5)
-        plt.title(str(n) + '-gram Frequencies - ' + self.__language)
+        plt.title(str(n) + '-gram Frequencies - ' + self._language)
         plt.xlabel('Frequency')
         plt.ylabel('Number of ' + str(n) + '-grams')
 
-        plt.savefig(self.__language_dir + str(n) + '-gram frequencies - ' + self.__language)
+        plt.savefig(self._language_dir + str(n) + '-gram frequencies - ' + self._language)
         plt.clf()
 
         self.__save_series(str(n) + '-gramFrequencies', frequencies)
@@ -127,7 +298,7 @@ class LanguageStats:
 
     def calc_morpheme_frequency(self):
         morpheme_frequencies = defaultdict(int)
-        corpus_morphemed = open(self.__language_dir + 'corpus_morphemes.txt', 'r')
+        corpus_morphemed = open(self._language_dir + 'corpus_morphemes.txt', 'r')
         total_morphemes = 0
 
         # Collect morpheme counts
@@ -145,10 +316,10 @@ class LanguageStats:
 
         plt.xlim([min(frequent_morphemes.values()) - 0.1, max(frequent_morphemes.values()) + 0.1])
         plt.hist(list(frequent_morphemes.values()), bins=bins, alpha=0.5)
-        plt.title('Morpheme Frequencies > 1 - ' + self.__language)
+        plt.title('Morpheme Frequencies > 1 - ' + self._language)
         plt.xlabel('Bins')
         plt.ylabel('Count')
-        plt.savefig(self.__language_dir + 'Morpheme Frequencies > 1 - ' + self.__language + '.png', bbox_inches='tight')
+        plt.savefig(self._language_dir + 'Morpheme Frequencies > 1 - ' + self._language + '.png', bbox_inches='tight')
 
         plt.clf()
 
@@ -158,15 +329,12 @@ class LanguageStats:
     def calc_word_frequency(self):
         """Calculates the frequencies of the words in the corpus"""
         word_frequencies = defaultdict(int)
-        corpus = open(self.__tokenized_corpus_name, 'r')
         total_words = 0
 
-        for line in corpus:
-            for word in line.split():
+        for line in self._language_data:
+            for word in line:
                 word_frequencies[word] += 1
                 total_words += 1
-
-        corpus.close()
 
         # Plot the graph without things that appear once
         frequent_words = {word: freq / total_words for (word, freq) in word_frequencies.items() if freq > 1}
@@ -175,10 +343,10 @@ class LanguageStats:
 
         plt.xlim([min(frequent_words.values()) - 0.1, max(frequent_words.values()) + 0.1])
         plt.hist(list(frequent_words.values()), bins=bins, alpha=0.5)
-        plt.title('Word Frequencies > 1 - ' + self.__language)
+        plt.title('Word Frequencies > 1 - ' + self._language)
         plt.xlabel('Bins')
         plt.ylabel('Count')
-        plt.savefig(self.__language_dir + 'Word Frequencies > 1 - ' + self.__language + '.png', bbox_inches='tight')
+        plt.savefig(self._language_dir + 'Word Frequencies > 1 - ' + self._language + '.png', bbox_inches='tight')
 
         plt.clf()
 
@@ -195,11 +363,11 @@ class LanguageStats:
     :param morphemes_per_word: A map from word to all the morphemes in that word
     '''
         num_morphemes_per_word = dict()
-        for segments in self.__model.get_segmentations():
+        for segments in self._model.get_segmentations():
             num_morphemes_per_word[segments[1]] = len(segments[2])
 
         num_morphemes_per_word = list(num_morphemes_per_word.values())
-        average_morphemes_per_word = self.__average(num_morphemes_per_word)
+        average_morphemes_per_word = _average(num_morphemes_per_word)
         self._log.info('There are an average of ' + str(average_morphemes_per_word) + ' morphemes per word')
 
         bins = np.arange(0, 10, 1)  # fixed bin size of 1
@@ -207,11 +375,11 @@ class LanguageStats:
         plt.xlim([min(num_morphemes_per_word) - 5, max(num_morphemes_per_word) + 5])
 
         plt.hist(num_morphemes_per_word, bins=bins, alpha=0.5)
-        plt.title('Morphemes per word - ' + self.__language)
+        plt.title('Morphemes per word - ' + self._language)
         plt.xlabel('Morphemes')
         plt.ylabel('Count')
 
-        plt.savefig(self.__language_dir + 'Morphemes per word - ' + self.__language + '.png', bbox_inches='tight')
+        plt.savefig(self._language_dir + 'Morphemes per word - ' + self._language + '.png', bbox_inches='tight')
         plt.clf()
 
         self.__save_series('morphemesPerWord', num_morphemes_per_word)
@@ -229,9 +397,9 @@ class LanguageStats:
 
         :param all_morphs: A list of all the morphemes in the corpus
         '''
-        morpheme_length = [len(x) for x in self.__all_morphs]
+        morpheme_length = [len(x) for x in self._all_morphs]
 
-        average_morpheme_length = self.__average(morpheme_length)
+        average_morpheme_length = _average(morpheme_length)
         self._log.info('Morphemes have an average length of ' + str(average_morpheme_length) + ' characters')
 
         bins = np.arange(0, 50, 1)  # fixed bin size of 1
@@ -239,11 +407,11 @@ class LanguageStats:
         plt.xlim([min(morpheme_length) - 5, max(morpheme_length) + 5])
 
         plt.hist(morpheme_length, bins=bins, alpha=0.5)
-        plt.title('Morpheme length - ' + self.__language)
+        plt.title('Morpheme length - ' + self._language)
         plt.xlabel('Length')
         plt.ylabel('Count')
 
-        plt.savefig(self.__language_dir + 'Morpheme length - ' + self.__language + '.png', bbox_inches='tight')
+        plt.savefig(self._language_dir + 'Morpheme length - ' + self._language + '.png', bbox_inches='tight')
         plt.clf()
 
         self.__save_series('morphemeLength', morpheme_length)
@@ -263,52 +431,35 @@ class LanguageStats:
         self.calc_ngram_frequencies(3)
 
         self._log.info('Getting word entropy')
-        calc_entropy(self.__word_iterator(), self.__language_dir, 'word')
+        calc_entropy(self.__word_iterator(), self._language_dir, 'word')
 
         self._log.info('Getting morpheme entropy')
-        calc_entropy(self.__morpheme_iterator(), self.__language_dir, 'morpheme')
+        calc_entropy(self.__morpheme_iterator(), self._language_dir, 'morpheme')
 
         self._log.info('Getting character entropy')
-        calc_entropy(self.__character_iterator(), self.__language_dir, 'character')
+        calc_entropy(self.__character_iterator(), self._language_dir, 'character')
 
         self.__save_stats_to_disk()
 
     def __word_iterator(self):
         """Provides an iterator over all the words in the corpus"""
-        corpus = open(self.__tokenized_corpus_name)
-        for line in corpus:
-            for word in line.split():
+        for line in self._language_data:
+            for word in line:
                 yield word
-                
-        corpus.close()
     
     def __character_iterator(self):
         """Provides an iterator over all the letters in the corpus"""
-        corpus = open(self.__tokenized_corpus_name)
-        for line in corpus:
-            for word in line.split():
+        for line in self._language_data:
+            for word in line:
                 for letter in word:
                     yield letter
 
-        corpus.close()
-    
     def __morpheme_iterator(self):
         """Provides an iterator over all the morphemes in the corpus"""
-        corpus = open(self.__language_dir + 'corpus_morphemes.txt')
-        for line in corpus:
-            for word in line.split():
-                yield word
-
-        corpus.close()
-
-    @staticmethod
-    def __average(l):
-        """Calcualtes the average value of a list of numbers
-
-        :param l: A list of numbers to get the average of
-        :return: The average of the given list
-        """
-        return functools.reduce(lambda x, y: x + y, l) / len(l)
+        with open(self._language_dir + 'corpus_morphemes.txt') as corpus:
+            for line in corpus:
+                for word in line.split():
+                    yield word
 
     def __save_series(self, series_type, series):
         """Saves the data in a provided series to a json file. The goal here is to aggregate all the data from each of
@@ -317,9 +468,9 @@ class LanguageStats:
         :param series_type: The type of data we have. This is the primary key in the json file
         :param series: The actual data series. I expect this to be a list of data points
         """
-        if series_type not in self.__all_data.keys():
-            self.__all_data[series_type] = dict()
-        self.__all_data[series_type][self.__language] = series
+        if series_type not in self._all_data.keys():
+            self._all_data[series_type] = dict()
+        self._all_data[series_type][self._language] = series
 
     def __save_stats_to_disk(self):
         """Saves all the stats for this language to the json file
@@ -327,87 +478,7 @@ class LanguageStats:
         The idea here is that I'll only save the stats once per language, leading to less writing of a massive file and
         hopefully better performance"""
         with open('all_data.json', 'w') as jsonfile:
-            json.dump(self.__all_data, jsonfile)
-
-    def tokenize_corpus(self):
-        """Tokenized the corpus for the current language and writes the tokenized corpus to the file
-        'corpus_tokenized.txt'"""
-
-        import time
-
-        words = list()
-        with open(self.__corpus_filename, 'r') as corpus_file:
-            for line in corpus_file:
-                words += line.split()
-
-        start_time = time.clock()
-
-        from nltk import wordpunct_tokenize
-        sentences = sent_tokenize(' '.join(words))
-
-        with open(self.__tokenized_corpus_name, 'w') as tokenized_corpus:
-            for sentence in sentences:
-                tokens = wordpunct_tokenize(sentence)
-                line = ' '.join(tokens)
-                line_alpha = [x for x in line if x.isalpha() or x == ' ']
-
-                # I'm only interested in the alphabetic characters of each language. Numbers and punctuation are fun. I
-                # suppose, but I don't want them.
-
-                tokenized_corpus.write(''.join(line_alpha) + '\n')
-
-        end_time = time.clock()
-
-        self._log.info('Tokenized corpus in %s seconds' % (end_time - start_time))
-
-    def load_compressed_wikipedia(self):
-        raw_data = self.load_wiki_data()
-
-        self.get_n_words(raw_data, 30278)
-
-    def load_wiki_data(self):
-        """Reads the data from the compressed Wikipedia file into memory
-        
-        In an effort to cut down on runtime, only the first 1200000 bytes are read into memory. This is a high estimate
-        of the amount of data we want. A later step refines this number
-        
-        :return: The raw data from disk
-        """
-        import lzma
-        with lzma.open(self.__language_dir + 'wiki_text.tar.lzma', 'rb') as tarfile:
-            from tarfile import TarFile
-            tarfile_reader = TarFile(fileobj=tarfile)
-            raw_data = ''
-            for member in tarfile_reader.getmembers():
-                member_stream = tarfile_reader.extractfile(member)
-
-                # 30K words * 10 characters per word * 4 bytes per character = 1200000
-                # This is a super high estimate, but all well.
-                raw_data += str(member_stream.read(1200000))
-
-        # We'll want to select X articles such that we have about 30K words, like in VMS
-        import re
-        articles = re.findall(r'\[\[\d+\]\]', raw_data, flags=re.MULTILINE)
-        num_articles = len(articles)
-        self._log.info('There are %d articles in the data' % num_articles)
-        return raw_data
-
-    def get_n_words(self, raw_data, num_words):
-        """Gets N words in raw_data
-        
-        Currently, words are considered to be separated by spaces. This is incorrect for languages like vietnamese but 
-        right now it's the best I have.
-        
-        Non-spoken tokens and tokens in non-native character sets might be included. Not sure yet.
-        
-        This method expects that raw_data is a string of wikipedia data, where each article has [[\d+]] before it. We
-        split the text on that token, then randomly select articles until we have enough tokens
-        
-        :param raw_data: The raw data to get the tokens from
-        :param num_words: The number of words to acquire
-        :return: An array of all the words we want to deal with
-        """
-        pass
+            json.dump(self._all_data, jsonfile)
 
 
 if __name__ == '__main__':
