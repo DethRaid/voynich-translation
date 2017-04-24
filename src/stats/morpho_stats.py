@@ -22,9 +22,6 @@ _log = logging.getLogger('morpho_stats')
 
 # TODO: Maybe submit to LaTaCH-CLfi (and get actual name of this thing)
 
-# TODO: Word Length
-# TODO: Comparison matrix for all languages
-
 
 def load_compressed_wikipedia(corpus_filename, n):
     """Loads the first n words from the compressed wikipedia we're dealing with
@@ -71,8 +68,10 @@ def _read_wiki_data(corpus_filename):
     character_increment = 1.0 / len(raw_data)
     for char in raw_data:
         character_frequencies[char.lower()] += character_increment
+    _log.info('Counted occurances of each character')
 
     data_filtered = [char.lower() for char in raw_data if character_frequencies[char.lower()] > 0.005]
+    _log.info('Filtered out uncommon characters')
 
     return ''.join(data_filtered)
 

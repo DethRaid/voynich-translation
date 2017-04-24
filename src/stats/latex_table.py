@@ -11,7 +11,7 @@ def make_table(data):
     :return: The table as a string
     """
 
-    table_str = '\\begin{table}[h]\n\\begin{center}\n\\begin{tabular}{|'
+    table_str = '\\begin{table}[h]\n\\begin{center}\n\\begin{tabular}{|l|'
 
     for i in range(len(data)):
         table_str += 'l|'
@@ -33,9 +33,9 @@ def make_table(data):
             # If the p-value is higher than 10%, we cannot reject the null hypothesis with 10% or lower alpha
             # Given alpha a, we cannot reject the null hypothesis if the p-value is higher than a (I think?)
             if data2[1] > 0.1 and data2[1] < 1.0:
-                table_str += ' & \\bf{:1.4f}'.format(data2[1])
+                table_str += ' & \\bf{:1.3f}'.format(data2[1])
             else:
-                table_str += '\t & {:1.4f}'.format(data2[1])
+                table_str += '\t & {:1.3f}'.format(data2[1])
         table_str += ' \\\\\n'
 
     table_str += '\\hline\n\\end{tabular}\n\\end{center}\n\\caption{\label{table:grams-ks} KS-similarity for the different character statistics }\n\\end{table}\n'
