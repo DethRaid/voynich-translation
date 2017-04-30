@@ -1,26 +1,23 @@
 import codecs
 import functools
+import gzip
 import json
 import logging
 import os
 from collections import defaultdict
 
+import morfessor
 import numpy as np
-import unicodedata
 from matplotlib import pyplot as plt
 from nltk import sent_tokenize
 
-import morfessor
 from src.stats.aggregate_stats import aggregate_stats
 from src.stats.markov_chain import calc_entropy
-
 
 _log = logging.getLogger('morpho_stats')
 
 
 # TODO: Actually get the Romani corpus
-
-# TODO: Maybe submit to LaTaCH-CLfi (and get actual name of this thing)
 
 
 def load_compressed_wikipedia(corpus_filename, n):
@@ -46,13 +43,12 @@ def _read_wiki_data(corpus_filename):
 
     :return: The raw data from disk
     """
-    import lzma
-    with lzma.open(corpus_filename, 'rb') as tarfile:
-        from tarfile import TarFile
-        tarfile_reader = TarFile(fileobj=tarfile)
+    import tarfile
+    with tarfile.open(corpus_filename, 'r:xz') as tar_file:
         raw_data = ''
-        for member in tarfile_reader.getmembers():
-            member_stream = tarfile_reader.extractfile(member)
+        for member in tar_file.getmembers():
+            _log.info('Reading from file %s' % member.name)
+            member_stream = tar_file.extractfile(member)
 
             count = 0
             binary_chunks = iter(functools.partial(member_stream.read, 1), "")
@@ -64,16 +60,18 @@ def _read_wiki_data(corpus_filename):
                 if count >= 320000:
                     break
 
-    character_frequencies = defaultdict(int)
-    character_increment = 1.0 / len(raw_data)
-    for char in raw_data:
-        character_frequencies[char.lower()] += character_increment
-    _log.info('Counted occurances of each character')
+    #character_frequencies = defaultdict(int)
+    #character_increment = 1.0 / len(raw_data)
+    #for char in raw_data:
+    #    character_frequencies[char.lower()] += character_increment
+    #_log.info('Counted occurrences of each character')
 
-    data_filtered = [char.lower() for char in raw_data if character_frequencies[char.lower()] > 0.005]
-    _log.info('Filtered out uncommon characters')
+    #data_filtered = [char.lower() for char in raw_data if character_frequencies[char.lower()] > 0.005]
+    #_log.info('Filtered out uncommon characters')
 
-    return ''.join(data_filtered)
+    #return ''.join(data_filtered)
+
+    return raw_data
 
 
 def _load_corpus_file(corpus_filename, n):
@@ -193,6 +191,23 @@ def _tokenize_corpus(corpus_data):
     return lines
 
 
+def _extract_info(line):
+    """Extracts the information from the line
+    
+    The first token in the line is the count of the word. The other tokens can be combined to form a word, but we'll
+    need to remove the tags from them first
+    
+    :param line: The line which has all the morphs
+    :return: The count of the word, and the word
+    """
+    tokens = line.split()
+    count = int(tokens[0])
+
+    tokens_in_word = [x[0:x.index('/')] for x in tokens if x[0].isalpha()]
+
+    return count, ''.join(tokens_in_word)
+
+
 class LanguageStats:
     """Generates statistics on the provided language
 
@@ -214,7 +229,7 @@ class LanguageStats:
         wiki_filename = self._language_dir + 'wiki_text.tar.lzma'
 
         if not os.path.isfile(wiki_filename):
-            self._log.error('Wikipedia data not available for language %s. Falling back to hand-created corpus file'
+            self._log.warning('Wikipedia data not available for language %s. Falling back to hand-created corpus file'
                             % self._language)
 
             corpus_filename = self._language_dir + 'corpus.txt'
@@ -227,6 +242,9 @@ class LanguageStats:
         else:
             self._log.info('Reading Wikipedia data for language %s' % self._language)
             self._language_data = load_compressed_wikipedia(wiki_filename, 30278)
+
+        self.segmentations = {}
+        self.generate_morphed_corpus()
 
         words = _morfessor_iterator_from_list(self._language_data)
 
@@ -248,6 +266,36 @@ class LanguageStats:
         """Splits the words of the corpus into their morphemes, then writes those morphemes to a new file called
         'corpus_morphemes.txt'
         """
+        # Save the language data, use Morfessor CatMAP to morph it, then read in the morphed data
+        # The input format of the data is one word per line, with the word frequency proceeding the word. Let's make
+        # that map
+
+        catmap_input_filename = self._language_dir + 'catmap_input.gz'
+
+        self._prepare_words_for_catmap(catmap_input_filename)
+
+        # The commands for the makefile which runs the CatMAP software
+        commandline = 'make --makefile=morfessor_catmap0.9.2/train/Makefile GZIPPEDINPUTDATA=%s BINDIR=morfessor_catmap0.9.2/bin' % catmap_input_filename
+        import subprocess
+        subprocess.Popen(commandline)
+        self._log.info('Segmented words')
+
+        # Copy the segmentations to a better place, and save them internally
+        with gzip.open('segmentation.final.gz', 'rt') as segmentations_file:
+            with open(self._language_dir + 'morphemes.txt', 'w') as segmentations_output:
+                segments = segmentations_file.read()
+                segmentations_output.write(segments)
+
+                for line in segments.split():
+                    if line[0] == '#':
+                        continue
+
+                    count, word = _extract_info(line)
+
+        subprocess.Popen(['rm', '*.gz'])
+        subprocess.Popen(['rm', 'alphabetprobs'])
+        self._log.info('Cleaned up intermediate data')
+
         with open(self._language_dir + 'corpus_morphemes.txt', 'w') as morpheme_corpus:
             wordcount = 0
             for line in self._language_data:
@@ -261,6 +309,15 @@ class LanguageStats:
 
         self._created_morphed_corpus = True
         self._log.info('Split corpus into morphemes')
+
+    def _prepare_words_for_catmap(self, catmap_input_filename):
+        word_frequencies = defaultdict(int)
+        all_words = _flatten(self._language_data)
+        for word in all_words:
+            word_frequencies[word] += 1
+        with gzip.open(catmap_input_filename, 'wt') as catmap_input:
+            for word, frequency in word_frequencies.items():
+                catmap_input.write('%s %s\n' % (frequency, word))
 
     def calc_ngram_frequencies(self, n):
         """Examines the n-grams in the corpus and generates a graph of their frequencies. The frequencies are sorted
@@ -491,7 +548,29 @@ if __name__ == '__main__':
         except:
             pass
         open('all_data.json', 'w').close()
-        languages = [x[0][x[0].find('/') + 1:] for x in os.walk('corpa') if '/' in x[0]]
+        romance_languages = ['french', 'italian', 'spanish']
+        germanic_languages = ['german', 'english', 'danish', 'dutch']
+        uralic_languages = ['finnish', 'hungarian']
+        semitic_languages = ['arabic', 'hebrew']
+        slavic_languages = ['russian']
+        algonquin_languages = ['arapaho']
+        indo_aryan_languages = ['hindi']
+        iranian_languages = ['farsi']
+        turkic_languages = ['turkish']
+        vietic_languages = ['vietnamese']
+
+        languages = []
+        languages += romance_languages
+        languages += germanic_languages
+        languages += uralic_languages
+        languages += semitic_languages
+        languages += slavic_languages
+        languages += algonquin_languages
+        languages += indo_aryan_languages
+        languages += iranian_languages
+        languages += turkic_languages
+        languages += vietic_languages
+        languages += ['voynichese']
         for language in languages:
             try:
                 stats = LanguageStats(language)
