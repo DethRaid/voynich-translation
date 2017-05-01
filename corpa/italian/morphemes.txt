@@ -1,0 +1,5982 @@
+# expandmorphsegmentations.pl, Sun Apr 30 18:29:28 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+1 Say/STM
+3 1340/STM
+1 Scritto/STM + re/SUF
+2 ventina/STM
+1 Chacabuco/STM
+1 amministra/STM + tive/STM
+2 rientra/STM + no/SUF
+1 assassinato/STM
+2 organi/STM + zza/STM + re/SUF
+2 Fu/STM
+7 forze/STM
+1 Car/STM + re/SUF + y/STM
+1 sarangi/STM
+1 Assieme/STM
+1 bel/STM + li/SUF + che/SUF
+2 1180/STM
+30 se/STM
+3 Ari/STM + stotele/STM
+1 mur/STM + are/SUF
+2 rimaste/STM
+2 esplosivo/STM
+3 radic/STM + a/SUF + le/SUF
+2 Y/STM
+16 Schengen/STM
+1 con/STM + front/STM + ando/STM + li/SUF
+1 peperone/STM
+2 Libri/STM
+1 social/STM + i/SUF + zzante/STM
+1 Anton/STM + i/SUF + o/SUF
+1 An/STM + a/SUF + ti/SUF + ni/STM
+6 appar/STM + ten/STM + enti/STM
+20 loro/STM
+2 bassi/STM
+1 quarantaduesima/STM
+1 erronea/STM + mente/SUF
+1 Cad/STM + o/SUF + no/SUF
+5 sconfi/STM + tta/STM
+2 speci/STM + almente/STM
+2 di/PRE + par/STM + ti/SUF + mento/SUF
+5 fond/STM + a/SUF + ta/SUF
+1 dollaro/STM
+4 ridotto/STM
+1 scolpi/STM + re/SUF
+5 testi/STM
+2 tende/STM
+3 austro/STM
+1 adatt/STM + ò/SUF
+4 fece/STM
+1 alférez/STM
+1 Quindi/STM
+1 combatt/STM + i/SUF + mento/SUF
+1 sub/STM + alpi/STM + no/SUF
+1 mantenne/STM
+3 plur/STM + a/SUF + le/SUF
+3 produt/STM + tivi/STM + tà/STM
+1 raccont/STM + a/SUF + to/SUF
+1 micro/STM + pro/STM + cesso/STM + re/SUF
+1 pallo/STM + re/SUF
+1 acuta/STM
+1 70/STM
+9 regime/STM
+1 Quartier/STM
+3 0/STM
+365 che/STM
+14 di/PRE + verse/STM
+3 esaustivo/STM
+2 Inn/STM
+2 dispor/STM + re/SUF
+1 influ/STM + enza/STM + ta/SUF
+1 Ernesto/STM
+2 1540/STM
+4 stretta/STM + mente/SUF
+8 segui/STM + to/SUF
+1 doppie/STM
+3 29/STM
+4 ucciso/STM
+2 colon/STM + i/SUF + a/SUF + le/SUF
+8 sebbene/STM
+1 técton/STM
+1 visti/STM
+1 Assoluto/STM
+4 squame/STM
+8 elev/STM + a/SUF + ta/SUF
+2 ricercatori/STM
+3 arriv/STM + are/SUF
+1 aperture/STM
+1 pro/STM + duce/STM
+2 mantenere/STM
+1 compl/STM + essi/STM + va/SUF
+1 legger/STM + mente/SUF
+2 Arnold/STM
+1 bisognerà/STM
+2 sovi/STM + e/SUF + tico/STM
+2 Pevsner/STM
+1 evo/STM + luzione/STM
+9 Tra/STM + tta/STM + to/SUF
+1 Istitu/STM + zioni/SUF
+1 governa/STM + va/SUF
+4 Serre/STM
+1 decorativi/STM
+4 note/STM
+8 Dopo/STM
+1 ordina/STM + ti/SUF + ng/STM
+2 commercial/STM + e/SUF
+1 T/STM + izia/STM + no/SUF
+1 sistema/STM + tiche/STM
+1 incass/STM + ando/STM
+1 progressi/STM + vo/STM
+5 prodo/STM + tto/STM
+1 Lodo/STM + li/SUF
+1 serv/STM + o/SUF + no/SUF
+12 senza/STM
+2 esper/STM + i/SUF + mento/SUF
+5 testo/STM
+2 cala/STM
+1 uti/STM + lità/STM
+9 giugno/STM
+4 poche/STM
+1 rag/STM + giunse/STM
+1 andranno/STM
+2 resti/STM
+2 1583/STM
+1 tras/STM + port/STM + o/SUF
+1 ricono/STM + sce/STM + re/SUF
+1 opposta/STM
+1 Ross/STM
+1 fabbri/STM + ca/STM + to/SUF
+4 provoc/STM + ò/SUF
+1 Italia/STM + no/SUF
+5 copie/STM
+1 shopping/STM
+1 wurmiano/STM
+1 Chi/STM + pmunks/STM
+11 deve/STM
+2 fisi/STM + ologia/STM
+2 Ruskin/STM
+5 Disci/STM + pline/STM
+2 Calcola/STM + trici/STM
+2 miglior/STM
+2 Egitto/STM
+1 contribu/STM + endo/STM
+2 docu/STM + ment/STM + o/SUF
+1 conqui/STM + sta/STM + ta/SUF
+1 tri/STM + dimens/STM + i/SUF + on/STM + a/SUF + le/SUF
+141 nel/STM
+1 estese/STM
+1 marine/STM
+1 González/STM
+8 filosofi/STM
+2 apri/STM + re/SUF
+17 dopo/STM
+1 Guam/STM
+14 dai/STM
+1 1946/STM
+3 can/STM + a/SUF + le/SUF
+4 Darién/STM
+2 1030/STM
+4 muo/STM + re/SUF
+2 selvi/STM + coltura/STM + li/SUF
+8 tratta/STM + to/SUF
+2 linguis/STM + tica/STM
+1 r/STM + e/SUF + quisi/STM + ti/SUF
+3 port/STM + a/SUF + te/SUF
+1 Hunter/STM
+1 ἀρχειν/STM
+4 dato/STM
+1 visto/STM
+6 13/STM
+4 1795/STM
+8 bisogni/STM
+1 celeb/STM + re/SUF
+4 utilizz/STM + are/SUF
+1 Poloni/STM + a/SUF
+1 calcola/STM + te/SUF
+5 E/STM
+5 acquis/STM + i/SUF + re/SUF
+2 distin/STM + zione/STM
+1 disciplina/STM + re/SUF
+1 rafforz/STM + ò/SUF
+1 degna/STM + mente/SUF
+1 May/STM + a/SUF
+1 Su/STM + o/SUF
+5 significa/STM + ti/SUF
+2 sotto/STM + valut/STM + are/SUF
+7 lette/STM + re/SUF
+2 1241/STM
+1 acqua/STM + tiche/STM
+3 Bassi/STM
+1 usa/STM + rono/STM
+4 di/PRE + gi/STM + tale/STM
+2 1177/STM
+2 tardi/STM
+2 regioni/STM
+4 cosidde/STM + tto/STM
+1 spieg/STM + azione/SUF
+1 vende/STM
+1 rispet/STM + tivo/STM
+1 sax/STM
+1 esport/STM + are/SUF
+2 singolo/STM
+1 medici/STM
+2 recenti/STM
+2 sradicamenti/STM
+1 6000/STM
+3 imp/STM + e/SUF + ri/STM
+5 di/PRE + stanza/STM
+5 raggiungi/STM + mento/SUF
+4 1960/STM
+1 prob/STM + le/SUF + mi/STM
+2 abi/STM + e/SUF + s/STM
+4 materia/STM
+1 segna/STM + no/SUF
+5 geo/STM + poli/STM + tico/STM
+4 1197/STM
+3 stru/STM + ttura/STM + li/SUF
+3 raccol/STM + ta/SUF
+1 bio/STM + carbur/STM + anti/STM
+1 rili/STM + evo/STM
+1 affian/STM + ca/STM + rono/STM
+1 superfici/STM + a/SUF + le/SUF
+2 somma/STM
+1 sostitu/STM + i/SUF + re/SUF
+2 1444/STM
+1 p/STM
+2 al/STM + to/SUF
+2 prodo/STM + tta/STM
+2 Orien/STM + te/SUF
+8 nomina/STM + to/SUF
+1 Verso/STM
+1 Viollet/STM
+3 Pro/STM + cesso/STM
+12 metri/STM
+1 finora/STM
+1 La/STM + va/SUF + rone/STM
+4 sud/STM + di/PRE + visi/STM
+1 piangevano/STM
+1 chiuse/STM
+3 Guatemala/STM
+1 rallenta/STM + ndo/SUF + ne/STM
+1 istitu/STM + zioni/SUF
+2 1951/STM
+1 autunno/STM
+3 usa/STM + te/SUF
+1 ognuno/STM
+3 cibo/STM
+1 tor/STM + re/SUF + ntizio/STM
+2 esiste/STM + nte/STM
+1 mo/STM + di/PRE + fic/STM + ando/STM
+1 attor/STM + no/SUF
+16 atti/STM + vità/STM
+1 difendersi/STM
+2 1915/STM
+4 1267/STM
+1 gior/STM + nata/STM
+1 Nell/STM
+1 specul/STM + are/SUF
+1 Coldplay/STM
+1 regis/STM
+3 house/STM
+1 T/STM + i/SUF + rolo/STM
+7 par/STM + ti/SUF + to/SUF
+2 decis/STM + ione/STM
+3 religio/STM + se/STM
+1 Assal/STM + to/SUF
+6 parla/STM + ment/STM + are/SUF
+5 Vy/STM
+1 riscuo/STM + te/SUF
+1 assegn/STM + a/SUF + to/SUF
+5 est/STM
+1 continua/STM + to/SUF
+1 stabil/STM + i/SUF + to/SUF
+2 isol/STM + a/SUF + te/SUF
+2 rami/STM
+2 sicura/STM + mente/SUF
+1 rame/STM
+2 nato/STM
+1 diede/STM
+1 campi/STM + o/SUF + nato/STM
+2 ebbero/STM
+1 segue/STM + nte/STM
+2 1035/STM
+1 anti/STM + te/SUF + tica/STM
+1 ri/STM
+2 Greci/STM + a/SUF
+1 Rushmo/STM + re/SUF
+1 Walter/STM
+1 detta/STM + gli/STM
+1 Wedgwood/STM
+1 effettu/STM + a/SUF + ta/SUF
+1 pes/STM + ante/STM + mente/SUF
+3 svilup/STM + pa/STM + ta/SUF
+9 ital/STM + iana/STM
+4 Chicago/STM
+1 evolutivo/STM
+4 britanni/STM + co/STM
+5 artisti/STM + che/SUF
+2 rela/STM + tive/STM
+1 53/STM
+2 scienti/STM + fico/STM
+1 sotto/STM + speci/STM + e/SUF
+2 Del/STM
+2 nettamente/STM
+3 Vul/STM + canica/STM
+4 1194/STM
+2 1009/STM
+1 con/STM + testual/STM + izz/STM + azione/SUF
+2 Com/STM + i/SUF + ta/SUF + to/SUF
+1 s/STM + cor/STM + re/SUF
+2 ottima/STM + li/SUF
+4 1626/STM
+1 Ferme/STM
+4 tedes/STM + chi/STM
+1 ri/STM + durre/STM
+14 rock/STM
+3 penetr/STM + ante/STM
+1 produt/STM + tive/STM
+3 capo/STM
+2 1050/STM
+14 gen/STM + e/SUF + re/SUF
+3 necessi/STM + tà/STM
+2 previste/STM
+2 influ/STM + enzerà/STM
+1 ri/STM + forme/STM
+2 arquitectura/STM
+1 lettera/STM + ri/STM + a/SUF
+3 1970/STM
+2 clima/STM + tiche/STM
+3 pieni/STM
+1 Reagan/STM
+6 Tale/STM
+1 Vibr/STM + azion/STM + i/SUF
+71 Gli/STM
+1 divisa/STM
+1 binaria/STM
+1 Callonettini/STM
+1 accademi/STM + e/SUF
+1 rin/STM + vengono/STM
+2 costru/STM + ttive/STM
+2 inter/STM + o/SUF
+1 age/STM + nzia/STM
+1 Robert/STM
+2 1532/STM
+1 Senza/STM
+2 1684/STM
+2 Lorenz/STM
+2 album/STM
+4 fun/STM + ziona/STM + mento/SUF
+2 riguardo/STM
+1 lontana/STM
+8 con/STM + di/PRE + zioni/STM
+13 sul/STM + le/SUF
+13 fiume/STM
+1 indica/STM + zione/STM
+7 12/STM
+1 Alejandro/STM
+2 1153/STM
+3 decenni/STM
+1 radio/STM + foni/STM + ci/STM
+7 dallo/STM
+1 tras/STM + versa/STM + le/SUF
+1 generi/STM + co/STM
+3 tedes/STM + che/SUF
+1 barriere/STM
+1 Lì/STM
+4 1388/STM
+5 progra/STM + mmi/STM
+2 between/STM
+2 Nuo/STM + va/SUF
+14 sui/STM
+6 tecni/STM + che/SUF
+1 sub/STM + li/SUF + me/STM
+2 apposita/STM + mente/SUF
+2 linea/STM
+2 1816/STM
+24 nell/STM
+7 nuovo/STM
+1 s/STM + favore/STM + voli/STM
+2 cilindri/STM + ca/STM
+9 legge/STM
+3 coinvol/STM + to/SUF
+1 di/PRE + sco/STM + te/SUF + ca/STM
+1 sac/STM + che/SUF
+4 preced/STM + ente/STM
+2 1762/STM
+1 dinamico/STM
+2 marca/STM + ta/SUF
+3 rovesci/STM + a/SUF + to/SUF
+2 in/STM + va/SUF + de/STM
+1 di/PRE + re/STM + zioni/SUF
+3 r/PRE + esiste/STM + nze/STM
+1 visi/STM + tò/STM
+2 tubi/STM
+4 Nella/STM
+2 ottave/STM
+1 rivendic/STM + ò/SUF
+2 sì/STM
+3 noi/STM
+12 simp/STM + a/SUF + ti/SUF + a/SUF
+1 syl/STM + va/SUF + tica/STM
+3 ave/STM + va/SUF
+4 Più/STM
+2 alte/STM
+60 par/STM + te/SUF
+1 propor/STM + zioni/SUF
+1 S/STM
+2 Ci/STM + o/SUF + è/STM
+1 cri/STM + tica/STM
+7 stud/STM + i/SUF + o/SUF
+11 mor/STM + a/SUF + le/SUF
+2 entr/STM + a/SUF + ta/SUF
+3 associ/STM + a/SUF + to/SUF
+2 nebrodensis/STM
+1 Luca/STM
+1 qualcosa/STM
+4 esterna/STM
+8 tedesca/STM
+7 origin/STM + e/SUF
+3 1449/STM
+3 nuo/STM + va/SUF + mente/SUF
+7 poss/STM + ibile/STM
+1 vul/STM + canica/STM
+3 Karl/STM
+1 evolu/STM + ta/SUF
+3 giunse/STM + ro/STM
+1 vuo/STM + to/SUF
+1 milia/STM + rd/STM + i/SUF
+3 termini/STM
+3 re/STM + pubblica/STM
+1 sacerdo/STM + ti/SUF
+1 lavor/STM + a/SUF + ti/SUF + ve/STM
+2 que/STM + i/SUF
+1 an/STM + e/SUF + lli/STM
+1 Morselli/STM
+1 speci/STM + ali/STM + zz/STM + a/SUF + ti/SUF
+2 Inghil/STM + terra/STM
+3 fun/STM + zioni/STM
+1 fon/STM + ta/SUF + ne/STM
+1 Franz/STM
+3 giusto/STM
+1 assente/STM
+1 istru/STM + zione/STM
+5 Politica/STM
+5 caten/STM + e/SUF
+2 Archi/STM + te/SUF + ctura/STM
+6 tecnici/STM
+1 preval/STM + e/SUF + re/SUF
+35 sta/STM + to/SUF
+2 combatt/STM + uta/STM
+1 parla/STM + ta/SUF
+1 concetti/STM
+2 bel/STM + li/SUF + ssime/STM
+1 Tec/STM + no/SUF + logi/STM + a/SUF
+3 Astronomi/STM
+2 oriente/STM
+9 continen/STM + te/SUF
+3 matematico/STM
+3 composta/STM
+2 band/STM + iera/STM
+3 per/STM + derebbero/STM
+1 di/PRE + zione/STM
+2 1597/STM
+2 plas/STM + tiche/STM
+3 tasso/STM
+3 DVD/STM
+2 1437/STM
+2 grafica/STM
+1 Sp/STM + a/SUF + da/STM
+2 bio/STM + logi/STM + a/SUF
+4 abba/STM + stanza/STM
+1 semina/STM
+1 Guzm/STM + án/STM
+2 devasta/STM + nti/STM
+1 sotto/STM + pone/STM + va/SUF
+1 r/STM + e/SUF + cupero/STM
+3 Gran/STM
+1 triangolo/STM
+1 T/STM + alvolta/STM
+1 Miami/STM
+2 Nuove/STM
+5 origin/STM + i/SUF
+1 cosmo/STM + poli/STM + te/SUF
+3 diffuse/STM
+2 Freud/STM
+3 ugu/STM + a/SUF + le/SUF
+4 Sovi/STM + etica/STM
+4 sta/STM + ndard/STM
+1 pendul/STM + i/SUF
+6 marzo/STM
+5 immun/STM + i/SUF + tà/SUF
+1 infrastrut/STM + ture/STM
+4 terra/STM
+1 orn/STM + amenti/STM
+2 ambi/STM + ente/STM
+3 Iniziano/STM
+1 destinata/STM
+1 giudi/STM + ca/STM + to/SUF
+2 altro/STM
+16 qua/STM + ndo/SUF
+1 attra/STM + enti/STM
+1 tremolo/STM
+30 uno/STM
+5 anatra/STM
+1 Gropius/STM
+16 arti/STM
+1 Alegria/STM
+1 vince/STM + ndo/SUF + lo/STM
+1 eserc/STM + enti/STM
+10 considera/STM + to/SUF
+1 Di/STM + par/STM + ti/SUF + mento/SUF
+2 Vene/STM + to/SUF
+3 estende/STM
+2 sup/STM + e/SUF + riore/STM
+14 scambi/STM + o/SUF
+1 ABBA/STM
+2 Johann/STM
+1 quartieri/STM
+5 già/STM
+1 1891/STM
+1 Green/STM + house/STM
+1 Australasia/STM
+1 ancor/STM
+2 si/STM + no/SUF
+3 intensi/STM + va/SUF
+2 1207/STM
+5 occupa/STM
+1 ins/STM + abbia/STM + re/SUF
+3 Jurij/STM
+2 caratteri/STM + zza/STM + ta/SUF
+1 1779/STM
+4 1268/STM
+3 progra/STM + mma/STM + zione/STM
+6 principi/STM + o/SUF
+106 sco/STM + per/STM + te/SUF
+1 1556/STM
+1 Finlandia/STM
+1 indica/STM + to/SUF
+1 Bolza/STM + no/SUF
+2 coinvol/STM + ge/STM
+4 1620/STM
+1 dura/STM + ta/SUF
+8 Abies/STM
+2 costru/STM + ibile/STM
+1 inter/STM + i/SUF
+1 citarne/STM
+172 anni/STM
+2 Alcun/STM + e/SUF
+1 costrette/STM
+1 agio/STM
+13 tutti/STM
+5 rivolu/STM + zione/STM
+2 mugo/STM
+1 Appenni/STM + no/SUF
+1 alpini/STM
+9 vari/STM + e/SUF + tà/STM
+1 Haight/STM
+1 Nacional/STM
+1 astrattismo/STM
+2 economi/STM + ca/STM + mente/SUF
+2 III/STM
+2 popol/STM + amenti/STM
+1 spazi/STM + a/SUF + le/SUF
+2 parola/STM
+2 1060/STM
+1 Yojiro/STM
+7 propri/STM
+2 suona/STM
+1 O/STM + no/SUF
+1 inven/STM + ta/SUF + to/SUF
+2 giunti/STM
+5 gennaio/STM
+1 di/PRE + re/STM + sse/STM
+2 Ba/STM + che/SUF + let/STM
+73 mondo/STM
+4 entr/STM + ò/SUF
+2 posi/STM + zione/STM
+1 migr/STM + atori/STM + a/SUF
+1 vinci/STM + to/SUF + re/SUF
+1 sta/STM + re/SUF
+3 significa/STM + ti/SUF + va/SUF
+1 Galilei/STM
+1 Difesa/STM
+1 indaga/STM + va/SUF
+1 occupa/STM + ti/SUF
+34 altri/STM
+1 imp/STM + re/SUF + se/STM
+1 Bru/STM + ckner/STM
+3 massimo/STM
+1 breve/STM + tti/STM
+1 resta/STM + no/SUF
+1 Market/STM
+1 aero/STM + port/STM + o/SUF
+1 ten/STM + esse/STM
+4 defin/STM + isce/STM
+2 imp/STM + i/SUF + eg/STM + a/SUF + to/SUF
+6 scuola/STM
+9 inglese/STM
+3 domini/STM
+2 onde/STM
+1 artigia/STM + no/SUF
+2 1811/STM
+2 Trenti/STM + no/SUF
+2 ad/STM + di/PRE + rittura/STM
+1 atto/STM + re/SUF
+1 Che/STM
+1 mesti/STM + e/SUF + ri/STM
+3 Mon/STM + te/SUF
+1 ele/STM + zioni/SUF
+2 visive/STM
+31 prim/STM + o/SUF
+2 1685/STM
+1 conven/STM + ziona/STM + li/SUF
+1 quanti/STM + ta/SUF + tive/STM
+2 teatr/STM + i/SUF
+1 l/STM + i/SUF + bere/STM
+1 780/STM
+13 poi/STM
+2 1588/STM
+2 fiori/STM + tura/STM
+1 St/STM + r/PRE + asburg/STM + o/SUF
+2 specifi/STM + che/SUF
+1 etimo/STM + logi/STM + camente/STM
+1 ἀστῆρ/STM
+1 tri/STM + plic/STM + e/SUF
+15 mol/STM + ti/SUF
+2 applica/STM + zione/STM
+2 2003/STM
+1 umi/STM + le/SUF
+1 Nicholas/STM
+32 ment/STM + re/SUF
+2 n/STM
+1 parad/STM + i/SUF + gmati/STM + che/SUF
+1 considera/STM + ndo/SUF
+3 Spesso/STM
+1 ri/STM + produt/STM + tivi/STM
+1 Tarvi/STM + sia/STM + no/SUF
+2 Natale/STM
+1 ricerca/STM + rsi/STM
+1 Josiah/STM
+1 stanno/STM
+6 2007/STM
+1 annual/STM + i/SUF
+1 Rundfunk/STM
+2 1686/STM
+1 otti/STM + e/SUF + ne/STM
+1 off/STM + erto/STM
+1 radio/STM
+6 com/STM + posto/STM
+3 fase/STM
+4 Trento/STM
+1 scul/STM + tori/STM
+1 mini/STM + e/SUF + re/SUF
+4 attu/STM + almente/STM
+5 1974/STM
+1 raggi/STM + o/SUF
+1 contraddetto/STM
+2 Marcus/STM + e/SUF
+1 distin/STM + gue/STM + re/SUF
+3 tecno/STM + logi/STM + a/SUF
+1 Cairinini/STM
+3 aero/STM + port/STM + i/SUF
+2 propone/STM + ndo/SUF
+2 pian/STM + ta/SUF
+2 chiazz/STM + e/SUF
+1 cup/STM + o/SUF
+1 1980/STM
+2 inteso/STM
+3 detto/STM
+2 1557/STM
+3 orma/STM + i/SUF
+2 stesse/STM
+2 svolsero/STM
+3 tardi/STM + va/SUF
+1 eco/STM + sistema/STM
+1 Ovvi/STM + a/SUF + mente/SUF
+1 Ve/STM + no/SUF + ste/STM
+1 long/STM + e/SUF + ve/STM
+1 Popovyč/STM
+1 pot/STM + enti/STM
+3 capace/STM
+6 delimita/STM + ta/SUF
+2 Chemical/STM
+1 frode/STM
+1 oramai/STM
+2 vari/STM + a/SUF + bile/STM
+2 1448/STM
+1 Shrek/STM
+3 migr/STM + atori/STM + o/SUF
+4 San/STM
+1 vice/STM
+3 contribu/STM + to/SUF
+3 tante/STM
+1 resta/STM + ndo/SUF
+1 Violent/STM + i/SUF
+1 poteva/STM + no/SUF
+2 Arte/STM
+4 né/STM
+1 480/STM
+1 Laura/STM
+1 Tutti/STM
+7 leg/STM + a/SUF + to/SUF
+3 Selvi/STM + coltura/STM
+1 Engels/STM
+3 di/PRE + re/STM + zione/STM
+1 teatr/STM + a/SUF + lità/STM
+21 A/STM
+1 ri/STM + stru/STM + ttura/STM + zione/STM
+1 Marocco/STM
+3 Washington/STM
+2 pian/STM + o/SUF + for/STM + te/SUF
+3 1100/STM
+6 quel/STM
+1 Negramaro/STM
+2 psico/STM + analisi/STM
+2 1690/STM
+1 bicamer/STM + a/SUF + le/SUF
+7 serie/STM
+1 co/STM + erenti/STM
+1 periodi/STM
+3 salita/STM
+2 1554/STM
+4 preval/STM + ente/STM + mente/SUF
+1 mon/STM + ti/SUF
+3 Parigi/STM
+1 Lu/STM + i/SUF + gi/STM
+3 ceri/STM + monia/STM
+9 stessi/STM
+2 costante/STM
+5 valori/STM
+7 caratteri/STM + sti/STM + che/SUF
+9 Saint/STM
+1 No/STM + e/SUF + mi/STM
+6 fisica/STM
+4 di/PRE + segno/STM
+1 In/STM + teressante/STM
+1 Ad/STM
+1 am/STM + a/SUF
+2 Brandeis/STM
+4 in/STM + di/PRE + gen/STM + e/SUF
+3 Por/STM + ta/SUF + mento/SUF
+6 1260/STM
+1 1749/STM
+2 1033/STM
+1 teori/STM + co/STM
+1 detti/STM
+2 scambi/STM + sti/STM
+1 cerc/STM + ò/SUF
+1 cima/STM
+2 1432/STM
+2 mon/STM + tagne/STM
+2 gestione/STM
+1 Gondry/STM
+1 strage/STM
+1 gra/STM + ti/SUF + s/STM
+4 Sal/STM + vador/STM
+3 1129/STM
+2 con/STM + ta/SUF + tti/STM
+1 meccani/STM + ci/STM
+1 causa/STM + to/SUF
+4 movi/STM + ment/STM + i/SUF
+1 da/STM + va/SUF + nti/STM
+2 1765/STM
+1 Honduras/STM
+1 Da/STM + ta/SUF
+4 movi/STM + mento/SUF
+2 vari/STM + a/SUF + nze/STM
+2 abusato/STM
+1 otto/STM
+1 And/STM
+1 voga/STM
+1 pro/STM + vano/STM
+4 2/STM
+1 archeo/STM + logi/STM + a/SUF
+1 Jovanotti/STM
+5 agenti/STM
+2 1594/STM
+1 facil/STM + i/SUF + ta/SUF + no/SUF
+1 visivo/STM
+11 usa/STM + re/SUF
+2 Oggi/STM
+10 ovvero/STM
+7 vari/STM + e/SUF
+1 di/PRE + par/STM + ti/SUF + ment/STM + i/SUF
+2 64/STM
+1 gravi/STM
+3 comand/STM + ante/STM
+2 istru/STM + i/SUF + ti/SUF
+3 Laysan/STM
+1 moda/STM + lità/STM
+37 dell/STM
+1 centenario/STM
+3 scop/STM + o/SUF
+6 5/STM
+1 Professor/STM
+1 curioso/STM
+1 capi/STM + re/SUF
+1 di/PRE + viene/STM
+1 fissi/STM
+2 Comun/STM + que/STM
+1 calante/STM
+1 fond/STM + amentali/STM
+1 estab/STM + li/SUF + shment/STM
+2 spediti/STM
+1 incre/STM + di/PRE + bili/STM
+1 va/STM + lli/STM
+3 variega/STM + ta/SUF
+4 1734/STM
+1 estr/STM + e/SUF + ma/STM + mente/SUF
+2 1587/STM
+7 aspectus/STM
+4 umane/STM
+1 Student/STM
+7 fattori/STM
+5 Spagna/STM
+5 Archi/STM + for/STM + o/SUF
+5 port/STM + a/SUF + to/SUF
+2 avvale/STM
+10 fatto/STM
+1 bronzea/STM
+2 1586/STM
+14 tutte/STM
+3 svolta/STM
+1 intenso/STM
+2 1582/STM
+2 carriera/STM
+1 tratta/STM + mento/SUF
+2 elenca/STM + ti/SUF
+5 Belize/STM
+2 onni/STM + prese/STM + nti/STM
+2 aghi/STM
+3 1549/STM
+2 iscrisse/STM
+3 Tauri/STM
+6 accordo/STM
+1 rende/STM
+1 compagni/STM + e/SUF
+1 te/STM + li/SUF + visivi/STM
+1 incontr/STM + ò/SUF
+5 poco/STM
+1 IdrografiaIl/STM
+6 astro/STM + nauti/STM
+2 Giappone/STM
+2 1536/STM
+9 vari/STM + a/SUF + bilità/STM
+1 pallo/STM + ni/STM
+1 immigr/STM + a/SUF + ti/SUF
+2 avvenne/STM
+1 auto/STM + matica/STM + mente/SUF
+2 scambi/STM + a/SUF + ti/SUF
+2 Sport/STM
+1 Cina/STM
+2 Wong/STM
+2 1116/STM
+5 UE/STM
+1 s/STM + per/STM + ò/SUF
+1 rossi/STM
+2 chi/STM
+1 piace/STM + re/SUF
+1 1984/STM
+4 Settentrionale/STM
+1 ana/STM + logici/STM
+4 1527/STM
+1 comport/STM + a/SUF + mento/SUF
+2 ro/STM + te/SUF + are/SUF
+1 stanzia/STM + li/SUF
+2 vari/STM + a/SUF + zioni/STM
+1 dose/STM
+1 omicidi/STM
+1 infanzia/STM
+4 rotazione/STM
+7 significa/STM + to/SUF
+1 libera/STM + trici/STM
+1 inten/STM + zione/STM
+2 loca/STM + li/SUF + tà/STM
+1 Chiattone/STM
+1 Alexia/STM
+3 rapida/STM + mente/SUF
+2 campi/STM
+1 Webern/STM
+7 fuori/STM
+1 Angelo/STM
+2 1244/STM
+2 Anton/STM
+2 Hutcheson/STM
+8 Paese/STM
+1 Crono/STM + logi/STM + a/SUF
+1 Luis/STM
+2 1922/STM
+2 ricco/STM
+1 antico/STM
+3 este/STM + tico/STM
+4 1623/STM
+2 no/STM
+2 presto/STM
+1 etno/STM
+1 risal/STM + to/SUF
+1 conferm/STM + a/SUF + to/SUF
+3 sporofilli/STM
+4 1887/STM
+1 Purpura/STM
+2 Louis/STM + iana/STM
+4 situ/STM + a/SUF + ta/SUF
+1 po/STM
+2 rachide/STM
+19 economi/STM + ca/STM
+1 gotici/STM
+5 Archi/STM + tettura/STM
+5 defin/STM + i/SUF + zione/STM
+6 prese/STM + nti/STM
+1 pilastro/STM
+1 obbiet/STM + tivi/STM
+1 correggere/STM
+2 George/STM
+2 1910/STM
+3 collega/STM + te/SUF
+1 Hai/STM + ti/SUF
+2 luglio/STM
+73 alla/STM
+27 caso/STM
+1 inter/STM + ag/STM + iscono/STM
+5 seco/STM + li/SUF
+1 mut/STM + are/SUF
+1 degna/STM + ta/SUF
+1 disponibili/STM
+1 sardonica/STM
+2 imp/STM + e/SUF + gnative/STM
+2 Com/STM + e/SUF
+1 terrieri/STM
+3 fra/STM + tello/STM
+1 Primo/STM
+2 anno/STM + vera/STM + no/SUF
+2 Schumpeter/STM
+3 ottanta/STM
+1 là/STM
+16 settentrionale/STM
+2 Me/STM + r/PRE + idionale/STM
+1 Le/STM + a/SUF + ry/STM
+1 class/STM + ici/STM
+3 eguali/STM
+2 sospeso/STM
+1 Pirati/STM
+1 di/PRE + str/STM + e/SUF + tti/STM
+2 comand/STM + o/SUF
+1 di/PRE + ffer/STM + e/SUF + nzia/STM + ndosi/STM
+3 benevol/STM + enza/STM
+1 infruttuosi/STM
+2 ecc/STM + o/SUF
+2 inton/STM + a/SUF + ta/SUF
+12 america/STM
+4 1076/STM
+1 danni/STM
+1 ristagno/STM
+1 ar/STM + atori/STM
+1 Jungholz/STM
+5 di/PRE + ffer/STM + enze/STM
+3 identificarsi/STM
+2 territori/STM
+4 contribu/STM + isce/STM
+1 Y/STM + a/SUF + la/STM
+1 pian/STM + i/SUF + fic/STM + azione/SUF
+4 cerca/STM + to/SUF
+2 1428/STM
+5 abe/STM + ti/SUF
+1 bagno/STM
+2 Nixon/STM
+3 1967/STM
+1 Yoko/STM
+1 reper/STM + i/SUF + bilità/STM
+1 networking/STM
+1 sudco/STM + re/SUF + ano/STM
+2 Tele/STM + foni/STM
+2 Al/STM
+16 società/STM
+27 speci/STM + e/SUF
+1 composti/STM
+2 1446/STM
+3 lati/STM + no/SUF
+2 becchi/STM
+3 Bollywood/STM
+2 favore/STM + ndo/SUF
+19 music/STM + a/SUF
+3 campagna/STM
+1 sotto/STM + sta/STM + nti/STM
+6 beni/STM
+3 Doppler/STM
+1 artisti/STM + ca/STM
+3 costru/STM + zioni/STM
+2 assurgerà/STM
+8 progressi/STM + va/STM + mente/SUF
+1 de/STM + stabil/STM + i/SUF + zza/STM + re/SUF
+2 pilastri/STM
+1 Lyon/STM
+1 cerca/STM
+1 pro/STM + te/SUF + zioni/SUF + sta/STM
+4 maggio/STM
+1 c/STM + le/SUF + ro/STM
+1 sci/STM + ssione/STM
+4 rap/STM + port/STM + o/SUF
+1 disturbo/STM
+1 un/STM + i/SUF + to/SUF
+1 frutti/STM
+1 segui/STM + rono/STM
+1 individua/STM
+1 ven/STM + to/SUF
+3 1º/STM
+1 spicca/STM + ta/SUF + mente/SUF
+1 macchina/STM
+2 Retiche/STM
+1 canna/STM
+20 pian/STM + te/SUF
+6 4/STM
+3 pubblico/STM
+4 svilup/STM + pa/STM
+5 comun/STM + i/SUF
+7 forme/STM
+4 1574/STM
+2 cir/STM + costanti/STM
+2 tardo/STM
+1 re/STM + ggi/STM + mento/SUF
+2 accor/STM + gimenti/STM
+2 cosidde/STM + tte/STM
+4 passioni/STM
+1 Bundesl/STM + änder/STM
+5 fare/STM
+4 con/STM + segna/STM
+1 ingegn/STM + e/SUF + ri/STM
+2 atmosf/STM + e/SUF + rica/STM
+1 ettari/STM
+4 1530/STM
+1 uomo/STM
+2 1633/STM
+4 con/STM + front/STM + i/SUF
+8 sport/STM
+2 1425/STM
+1 sta/STM + ti/SUF + stico/STM
+4 1230/STM
+2 1813/STM
+2 anzi/STM
+1 efficienti/STM
+1 e/STM + labor/STM + ò/SUF
+1 isol/STM + ante/STM
+1 televisivo/STM
+1 re/STM + prim/STM + e/SUF + re/SUF
+1 collater/STM + a/SUF + le/SUF
+2 Islanda/STM
+3 arboree/STM
+1 North/STM
+1 pro/STM + li/SUF + f/STM + era/STM + no/SUF
+1 prim/STM + a/SUF + rie/STM
+3 pie/STM + no/SUF
+1 plur/STM + ienna/STM + le/SUF
+1 civil/STM + i/SUF
+1 J/STM
+4 contrari/STM
+1 denomi/STM + nata/STM
+1 difeso/STM
+2 genera/STM + to/SUF
+3 ciascun/STM
+7 stru/STM + ttura/STM
+77 decenni/STM + o/SUF
+1 Kissinger/STM
+1 prese/STM + nta/STM + re/SUF
+5 habitat/STM
+1 pre/STM + posto/STM
+1 pesantissime/STM
+1 canto/STM
+2 ascritto/STM
+2 esisto/STM + no/SUF
+7 passa/STM + to/SUF
+1 rovesci/STM + a/SUF + mento/SUF
+2 Gödel/STM
+1 Città/STM
+1 detta/STM
+1 organi/STM + zza/STM + ndo/SUF
+1 Shakespe/STM + are/SUF
+11 costru/STM + zione/STM
+4 storico/STM
+1 dance/STM
+2 lamella/STM
+1 fur/STM + to/SUF
+1 distin/STM + ti/SUF
+1 basi/STM + li/SUF + ca/STM
+9 crisi/STM
+1 crolla/STM + re/SUF
+2 poggi/STM + ando/STM
+2 opera/STM + ti/SUF
+1 teori/STM + ca/STM
+1 f/STM + re/SUF + schi/STM
+1 vari/STM + o/SUF + pinta/STM
+1 do/STM + ta/SUF + to/SUF
+1 Fitzgerald/STM
+1 affluenti/STM
+2 intui/STM + re/SUF
+2 1127/STM
+1 F/STM + e/SUF + sti/STM + vità/STM
+1 separ/STM + a/SUF + ti/SUF
+1 1909/STM
+1 virtuoso/STM
+1 compie/STM
+2 maggese/STM
+2 Po/STM + te/SUF + re/SUF
+2 speci/STM + ali/STM + zz/STM + a/SUF + ta/SUF
+1 mandato/STM
+1 Recenti/STM
+2 arcipelago/STM
+2 Atrato/STM
+1 osserva/STM + zioni/SUF
+3 mean/STM
+1 ar/STM + o/SUF + mati/STM + zza/STM + re/SUF
+4 compre/STM + nde/STM + re/SUF
+1 considera/STM + va/SUF
+2 riuscirà/STM
+8 continen/STM + tale/STM
+1 546/STM
+1 rap/STM
+2 inter/STM + essa/STM + nti/STM
+2 fusto/STM
+2 Vienna/STM
+1 ter/STM + re/SUF
+8 edifici/STM
+1 1342/STM
+2 colon/STM + i/SUF
+1 Ovest/STM
+6 1790/STM
+6 taglio/STM
+2 unì/STM
+1 attivisti/STM
+2 seg/STM + re/SUF + tario/STM
+1 1497/STM
+2 cause/STM
+3 Musica/STM
+3 collega/STM + ti/SUF
+2 poss/STM + ente/STM
+1 prov/STM + enza/STM + le/SUF
+2 pur/STM + a/SUF
+1 tra/STM + mandato/STM
+1 Borromini/STM
+4 somiglianza/STM
+4 anatre/STM
+3 prese/STM + nta/STM + vano/STM
+4 400/STM
+5 lettera/STM + tura/STM
+4 Orien/STM + tali/STM
+1 Internation/STM + a/SUF + le/SUF
+8 quanti/STM + tà/STM
+1 Augusto/STM
+2 cfr/STM
+2 pro/STM + te/SUF + ggono/STM
+1 Antar/STM + ti/SUF + de/STM
+1 produt/STM + tivo/STM
+1 Oldboy/STM
+2 Salor/STM + no/SUF
+5 mor/STM + to/SUF
+2 potrà/STM
+1 Recente/STM
+4 1886/STM
+1 Linkin/STM
+2 auto/STM + re/SUF
+2 canon/STM + i/SUF
+1 coordina/STM + mento/SUF
+1 zucca/STM
+1 suicid/STM + a/SUF
+1 monoico/STM
+1 provvisti/STM
+1 native/STM
+6 famiglia/STM
+8 morali/STM
+4 1578/STM
+1 raccoglierli/STM
+1 dimostr/STM + azion/STM + i/SUF
+2 1445/STM
+9 opera/STM
+7 casi/STM
+2 Republik/STM
+14 Messico/STM
+4 necessari/STM
+2 spicca/STM + to/SUF
+2 Tedesca/STM
+2 Universi/STM + tà/STM
+2 cresc/STM + ere/STM
+3 nessun/STM
+1 partecip/STM + ò/SUF
+1 sintetizzare/STM
+2 1952/STM
+1 Within/STM
+4 altitu/STM + di/PRE + ni/STM
+1 Salisburghesi/STM
+2 tra/STM + zione/STM
+1 velocità/STM
+2 vita/STM + li/SUF
+1 capi/STM + tali/STM + stica/STM
+1 McKin/STM + le/SUF + y/STM
+1 pre/STM + o/SUF + ccup/STM + ò/SUF
+4 1381/STM
+1 di/PRE + str/STM + e/SUF + tto/STM
+1 giustifica/STM + zione/STM
+2 limi/STM + ta/SUF + to/SUF
+1 Peop/STM + le/SUF
+1 logi/STM + a/SUF
+10 insieme/STM
+3 Nello/STM
+1 parla/STM + no/SUF
+2 pena/STM
+1 feud/STM + a/SUF + le/SUF
+1 pre/STM + ssione/STM
+2 organi/STM + zzarono/STM
+2 1421/STM
+2 mod/STM + a/SUF + le/SUF
+2 costi/STM
+1 oltre/STM + ché/STM
+1 antisismi/STM + che/SUF
+8 milita/STM + re/SUF
+2 imp/STM + i/SUF + anti/STM
+1 predilige/STM
+3 evita/STM + re/SUF
+2 Hitler/STM
+2 cri/STM + te/SUF + ri/STM
+5 genera/STM + lmente/STM
+1 chiam/STM + arono/STM
+1 equilibr/STM + atore/STM
+2 tipi/STM
+4 1608/STM
+1 vol/STM + avano/STM
+3 Principio/STM
+1 eleganti/STM
+2 vederlo/STM
+1 consent/STM + e/SUF
+1 casua/STM + le/SUF
+2 precursori/STM
+3 1249/STM
+1 vagabondi/STM
+2 se/STM + i/SUF + cento/STM
+1 co/STM + esiste/STM + re/SUF
+1 Qu/STM + a/SUF + le/SUF
+1 Jim/STM
+2 raggruppa/STM
+3 Ungheria/STM
+1 scrittrice/STM
+3 cadono/STM
+1 Oro/STM + grafia/STM
+1 web/STM
+2 lago/STM
+2 1233/STM
+1 Umani/STM + tario/STM
+1 atmosf/STM + era/STM
+2 1911/STM
+1 rametti/STM
+1 massima/STM
+2 pratica/STM
+9 colpo/STM
+2 Val/STM
+6 Cinema/STM
+1 Ta/STM + li/SUF
+1 ORF2/STM
+4 cre/STM + azione/SUF
+1 picco/STM + li/SUF
+2 tempi/STM
+6 inter/STM + nazion/STM + a/SUF + le/SUF
+1 s/STM + oggetto/STM
+2 global/STM + izz/STM + azione/SUF
+1 Student/STM + i/SUF
+1 cambi/STM
+2 Piñera/STM
+8 statunite/STM + nse/STM
+5 realizza/STM + zione/STM
+1 autori/STM
+1 Importante/STM
+2 costitu/STM + zione/STM
+1 aument/STM + ando/STM
+1 Nek/STM
+4 1196/STM
+2 archi/STM + tetton/STM + ici/STM
+1 su/STM + r/PRE + class/STM + a/SUF + to/SUF
+3 Quel/STM
+2 80/STM
+2 famiglie/STM
+4 Molte/STM
+2 1200/STM
+1 acus/STM + tiche/STM
+1 riaccorda/STM + te/SUF
+4 1198/STM
+1 Mozart/STM
+2 coinci/STM + se/STM
+5 dar/STM
+4 30/STM
+2 sub/STM + continen/STM + te/SUF
+3 Sicilia/STM
+5 misu/STM + re/SUF
+1 fatta/STM
+2 784/STM
+4 1571/STM
+2 filosofi/STM + co/STM
+1 armati/STM
+1 eb/STM + re/SUF + i/SUF
+1 ciuffetti/STM
+3 promise/STM
+8 Inoltre/STM
+1 l/STM + e/SUF + mb/STM + o/SUF
+34 cui/STM
+2 piacevolezza/STM
+1 Quaderni/STM
+3 oceanica/STM
+3 Florida/STM
+3 pens/STM + i/SUF + ero/STM
+1 istitu/STM + ziona/STM + lizz/STM + a/SUF + te/SUF
+1 color/STM + azione/SUF
+10 verso/STM
+2 ripet/STM + i/SUF + tive/STM
+1 richie/STM + sta/STM
+3 economi/STM + ci/STM
+1 acque/STM
+3 voto/STM
+1 nega/STM + tivo/STM
+9 riguarda/STM
+1 in/STM + utilizz/STM + a/SUF + ti/SUF
+2 avveduta/STM
+2 ricorre/STM + re/SUF
+1 macchina/STM + ri/STM
+1 popol/STM + a/SUF + to/SUF
+5 19/STM
+1 imp/STM + e/SUF + gno/STM
+1 Papa/STM
+1 segue/STM + ndo/SUF
+1 rimane/STM
+7 america/STM + ni/STM
+3 pro/STM + le/SUF + ta/SUF + ri/STM
+1 svilup/STM + pa/STM + te/SUF
+4 Sette/STM + cento/STM
+2 1118/STM
+2 implica/STM + zioni/STM
+2 intro/STM + durre/STM
+1 Boyer/STM
+1 color/STM + a/SUF + to/SUF
+1 golpisti/STM
+1 avanza/STM + ta/SUF
+4 penisola/STM
+2 lettera/STM + lmente/STM
+3 tuttavia/STM
+3 realizza/STM + ti/SUF
+1 netta/STM
+3 poterne/STM
+1 pigna/STM
+1 ispa/STM + no/SUF
+2 XV/STM
+2 resid/STM + enti/STM
+2 ritenuta/STM
+1 effettu/STM + a/SUF + te/SUF
+7 class/STM + e/SUF
+1 cura/STM + va/SUF
+1 oreficeria/STM
+1 Unite/STM
+1 Stesso/STM
+1 L/STM + änder/STM
+7 stessa/STM
+2 1687/STM
+2 1435/STM
+3 Esse/STM + ndo/SUF
+20 Smith/STM
+1 saba/STM + to/SUF
+2 con/STM + tiene/STM
+1 minaccia/STM + to/SUF
+1 ri/STM + organi/STM + zza/STM + re/SUF
+1 Romano/STM
+1 Ance/STM
+1 trasmi/STM + ssioni/STM
+1 esp/STM + a/SUF + nsione/STM
+1 deten/STM + zione/STM
+1 nasconde/STM + ndo/SUF
+1 Bay/STM
+3 uscita/STM
+3 razio/STM + cin/STM + a/SUF + te/SUF
+2 Fran/STM + cesc/STM + o/SUF
+10 2008/STM
+1 donne/STM
+4 conosc/STM + enze/STM
+1 isol/STM + otti/STM
+1 Rap/STM + port/STM + o/SUF
+1 connesso/STM
+1 rivela/STM + va/SUF
+6 Paci/STM + fico/STM
+8 Asia/STM
+48 hann/STM + o/SUF
+2 acc/STM + e/SUF + ttabile/STM
+1 comand/STM + are/SUF
+1 Dalla/STM
+1 G/STM
+3 Plutoni/STM + te/SUF
+1 cer/STM + ta/SUF
+1 masse/STM
+2 dissidenza/STM
+2 nomina/STM
+4 1526/STM
+2 speci/STM + a/SUF + lità/STM
+3 di/PRE + versa/STM
+5 individuo/STM
+1 inizia/STM + le/SUF
+2 sessua/STM + le/SUF
+1 firma/STM
+1 Paul/STM
+4 lettori/STM
+2 esi/STM + li/SUF + o/SUF
+5 spilli/STM
+2 modul/STM + azione/SUF
+1 ricono/STM + sci/STM + mento/SUF
+1 Archeo/STM + logi/STM + a/SUF
+2 artigia/STM + na/STM + li/SUF
+1 1897/STM
+2 900/STM
+94 non/STM
+5 determi/STM + na/STM + ta/SUF
+1 insedia/STM + ti/SUF
+1 Par/STM + te/SUF
+2 1637/STM
+7 Col/STM + leg/STM + amenti/STM
+155 da/STM
+99 al/STM
+4 nove/STM
+7 3/STM
+1 espettorante/STM
+6 oltre/STM
+4 quadro/STM
+2 Cristofor/STM + o/SUF
+4 vegeta/STM + le/SUF
+2 esequi/STM + e/SUF
+44 dalla/STM
+4 1456/STM
+4 verde/STM
+1 Lorenz/STM + o/SUF
+1 cre/STM + a/SUF + ti/SUF + va/SUF
+2 pian/STM + i/SUF
+1 Summer/STM
+1 palazzo/STM
+1 compl/STM + esso/STM
+4 ader/STM + i/SUF + to/SUF
+1 soppiant/STM + are/SUF
+1 geografi/STM + a/SUF
+2 pro/STM + posto/STM
+1 intrinse/STM + che/SUF
+1 All/STM
+4 Colombia/STM
+1 ester/STM + o/SUF
+1 per/STM + siste/STM + nti/STM
+1 resero/STM
+1 brani/STM
+2 Sempre/STM
+1 nasca/STM
+2 giorni/STM
+2 1913/STM
+1 Co/STM + re/SUF + a/SUF
+1 l/STM + Adige/STM
+2 Elvis/STM
+2 rientra/STM + re/SUF
+1 artigia/STM + nale/STM
+1 artificiali/STM
+1 r/PRE + aggiunge/STM
+1 schiavit/STM + ù/STM
+7 Naturale/STM
+1 summary/STM
+2 Kurt/STM
+2 elimina/STM + re/SUF
+1 atti/STM
+2 Bondi/STM
+2 Kar/STM
+5 foreste/STM
+1 verrà/STM
+13 senti/STM + ment/STM + i/SUF
+3 Sono/STM
+1 s/STM + ordina/STM
+1 de/STM + pre/STM + ssione/STM
+1 blu/STM
+3 Infine/STM
+1 Segni/STM
+1 r/STM + e/SUF + clu/STM + ta/SUF + mento/SUF
+7 greco/STM
+1 eserc/STM + i/SUF + zio/STM
+1 1752/STM
+2 1636/STM
+3 comun/STM + i/SUF + sta/STM
+1 Grazie/STM
+1 mod/STM + erne/STM
+2 Reggi/STM + mento/SUF
+2 feder/STM + a/SUF + to/SUF
+1 gra/STM + vità/STM
+6 salario/STM
+2 abbia/STM + no/SUF
+4 ave/STM + va/SUF + no/SUF
+1 not/STM + izia/STM
+13 fino/STM
+23 alcun/STM + i/SUF
+1 anarchico/STM
+1 azi/STM + e/SUF + nde/STM
+10 di/PRE + cembre/STM
+2 Michael/STM
+1 Agri/STM + coltura/STM
+14 sotto/STM
+1 Sulla/STM
+1 colon/STM + na/STM
+1 NYSE/STM
+2 integr/STM + azione/SUF
+36 solo/STM
+2 fond/STM + azion/STM + i/SUF
+1 utilizz/STM + a/SUF + te/SUF
+1 av/STM + i/SUF
+1 Paneveggio/STM
+1 spicca/STM + no/SUF
+3 rela/STM + tiva/STM
+1 visi/STM + te/SUF
+1 con/STM + sens/STM + o/SUF
+2 1979/STM
+4 1791/STM
+1 metal/STM
+2 devi/STM + azione/SUF
+2 si/STM + re/SUF + na/STM
+1 sindac/STM + a/SUF + le/SUF
+2 coton/STM + e/SUF
+2 fossi/STM + li/SUF
+3 sd/STM
+1 associ/STM + ò/SUF
+2 rigoroso/STM
+6 voti/STM
+1 Pavlo/STM
+4 1454/STM
+1 costoloni/STM
+2 ossi/STM + a/SUF
+1 oscuro/STM
+1 dozzina/STM
+1 Committe/STM + e/SUF
+2 Feder/STM + a/SUF + le/SUF
+2 visi/STM + va/SUF
+1 re/STM + inven/STM + ta/SUF + ndo/SUF + lo/STM
+9 dimens/STM + ioni/STM
+1 Mises/STM
+1 Greci/STM
+12 quasi/STM
+1 sta/STM + ta/SUF + li/SUF + zza/STM + re/SUF
+5 animali/STM
+1 José/STM
+2 alfabetico/STM
+1 di/PRE + stribu/STM + i/SUF + te/SUF
+9 cultura/STM
+956 di/STM
+1 Jefferson/STM
+1 defin/STM + i/SUF + tiva/STM
+2 1968/STM
+1 Caserma/STM
+1 ripreso/STM
+2 energia/STM
+1 di/PRE + batt/STM + i/SUF + to/SUF
+1 Colin/STM
+2 1155/STM
+10 archi/STM + te/SUF + ttura/STM
+1 chiam/STM + ò/SUF
+1 ri/STM + nascita/STM
+1 Fer/STM + re/SUF + ri/STM
+1 ri/STM + versa/STM + rono/STM
+9 L/STM
+3 Hollywood/STM
+1 con/STM + sistono/STM
+1 vi/STM + va/SUF + ce/STM + mente/SUF
+2 cellulari/STM
+4 migr/STM + atori/STM
+1 tory/STM
+4 1459/STM
+2 6/STM
+1 naturali/STM + zza/STM + re/SUF
+4 principal/STM + mente/SUF
+1 Era/STM + no/SUF
+1 mon/STM + tante/STM
+1 Ordin/STM + a/SUF + mento/SUF
+2 1893/STM
+2 mini/STM + stri/STM
+1 ni/STM + ti/SUF + da/STM + mente/SUF
+1 pitto/STM + re/SUF
+6 germano/STM
+2 alpine/STM
+1 tra/STM + e/SUF + va/SUF
+2 scontri/STM
+1 sequel/STM
+3 parla/STM + mento/SUF
+2 1593/STM
+2 artista/STM
+1 Anhimidae/STM
+1 del/STM + i/SUF
+1 Diverrà/STM
+8 azion/STM + i/SUF
+2 borsa/STM
+2 vide/STM + o/SUF + camere/STM
+6 faggio/STM
+2 far/STM
+1 Frequent/STM + ò/SUF
+1 venature/STM
+1 maschi/STM + o/SUF
+1 Passa/STM
+3 umani/STM
+1 gioiosi/STM
+1 lasci/STM + a/SUF + ta/SUF
+1 Pierce/STM
+1 prende/STM
+1 Persona/STM + lità/STM
+7 nazion/STM + a/SUF + le/SUF
+1 Pinace/STM + e/SUF
+1 Resistenza/STM
+1 colloca/STM + no/SUF
+8 vennero/STM
+1 misti/STM
+7 Francia/STM
+1 appropri/STM + a/SUF + te/SUF
+7 dipende/STM
+1 imp/STM + o/SUF + sta/STM
+1 abolì/STM
+1 Polytechnis/STM + che/SUF
+1 disc/STM
+1 aggiornata/STM
+6 grado/STM
+1 principe/STM
+1 contemporanei/STM
+6 canta/STM + nte/STM
+2 Out/STM
+1 comodo/STM
+1 pal/STM + etno/STM + logi/STM + a/SUF
+1 agronomia/STM
+21 poss/STM + o/SUF + no/SUF
+1 spagno/STM + la/STM
+1 Autono/STM + mo/STM
+1 sovrapposti/STM
+1 pre/STM + dominante/STM
+78 dal/STM
+5 Africa/STM
+2 se/STM + zione/STM
+1 marittimi/STM
+1 raga/STM
+1 russi/STM
+1 mi/STM + te/SUF
+1 Activities/STM
+1 discriminante/STM
+1 costretto/STM
+1 Gruber/STM
+1 vittoria/STM
+1 Battista/STM
+1 raddoppi/STM + ò/SUF
+2 1916/STM
+1 26/STM
+4 archi/STM + te/SUF + cture/STM
+1 aff/STM + a/SUF + scinante/STM
+2 inven/STM + zione/STM
+1 capi/STM + tali/STM + smo/STM
+1 Flauti/STM
+1 alternative/STM
+1 Bap/STM + ti/SUF + ste/STM
+4 1191/STM
+2 seller/STM
+1 Di/STM + cembre/STM
+1 intendente/STM
+2 ridotte/STM
+1 dà/STM
+3 rispet/STM + tiva/STM + mente/SUF
+3 antrop/STM + ica/STM
+1 ba/STM + va/SUF + rese/STM
+1 storica/STM + mente/SUF
+5 morì/STM
+4 1570/STM
+1 arre/STM + sto/STM
+5 prim/STM + i/SUF
+1 corrisponde/STM + nti/STM
+5 alluv/STM + ione/STM
+1 Oper/STM + azione/SUF
+4 indica/STM + ta/SUF
+3 sostitu/STM + e/SUF + ndosi/STM
+1 bipola/STM + re/SUF
+2 conica/STM
+15 di/PRE + versi/STM
+5 1780/STM
+1 prevede/STM
+1 FRONZONI/STM
+1 Emberá/STM
+2 1969/STM
+5 1966/STM
+12 mano/STM
+1 M/STM
+3 Ulteriori/STM
+1 scienzi/STM + a/SUF + to/SUF
+1 Finché/STM
+1 teso/STM
+1 diffici/STM + li/SUF
+1 agr/STM + ario/STM
+5 considera/STM + ta/SUF
+1 coordina/STM + re/SUF
+3 raggruppa/STM + ti/SUF
+2 Formati/STM
+2 osserva/STM + ti/SUF
+1 Titanic/STM
+4 cilena/STM
+1 esi/STM + ta/SUF + to/SUF
+4 fra/STM + ziona/STM + to/SUF
+1 ampi/STM + a/SUF + mente/SUF
+1 Fonscolombe/STM
+1 rimane/STM + ndo/SUF
+1 illustr/STM + a/SUF + to/SUF
+1 rimossi/STM
+1 appena/STM
+3 par/STM + ti/SUF
+26 era/STM
+2 C/STM + e/SUF + ca/STM
+1 sup/STM + port/STM + ò/SUF
+1 scolpi/STM + ti/SUF
+3 favore/STM + vol/STM + e/SUF
+3 poss/STM + esso/STM
+2 rotula/STM
+6 m/STM
+5 sta/STM + bilità/STM
+6 1520/STM
+2 Stampa/STM
+3 calcolo/STM
+1 NAFTA/STM
+1 decis/STM + ioni/STM
+2 are/STM + a/SUF + le/SUF
+2 fond/STM + e/SUF
+1 ca/STM + va/SUF + lli/STM
+6 sens/STM + o/SUF
+1 Laghetto/STM
+1 vibr/STM + are/SUF
+42 fu/STM
+2 b/STM
+1 vascola/STM + re/SUF
+1 scolas/STM + tico/STM
+3 progressi/STM + ste/STM
+1 sfociano/STM
+2 Fra/STM
+2 P/STM + re/SUF + s/STM + le/SUF + y/STM
+3 di/PRE + re/STM + tta/STM + mente/SUF
+4 1760/STM
+5 pro/STM + durre/STM
+5 numero/STM + si/SUF
+1 cognitive/STM
+14 rosso/STM
+1 Iňárritu/STM
+4 ex/STM
+1 arreda/STM + ment/STM + i/SUF
+1 premi/STM + are/SUF
+3 t/PRE + alvolta/STM
+2 ratific/STM + a/SUF + to/SUF
+1 1069/STM
+3 rece/STM + ssione/STM
+1 Sebastián/STM
+1 Kullman/STM
+2 combustibili/STM
+2 unicamente/STM
+1 Schüssel/STM
+1 Barth/STM
+2 mais/STM
+5 1707/STM
+2 ton/STM + a/SUF + le/SUF
+2 pistacchio/STM
+5 realtà/STM
+1 mattatori/STM
+2 1123/STM
+3 tipica/STM
+7 riso/STM + nanza/STM
+1 rimasero/STM
+1 22/STM
+3 pressi/STM
+43 questo/STM
+1 do/STM + ta/SUF + ti/SUF
+2 spontanea/STM + mente/SUF
+1 sterminio/STM
+1 rifiuta/STM + va/SUF
+1 mansioni/STM
+4 implica/STM
+2 gior/STM + no/SUF
+1 Martin/STM
+5 1199/STM
+1 defin/STM + e/SUF + ndo/SUF + lo/STM
+4 semplic/STM + e/SUF + mente/SUF
+1 romanico/STM
+11 nome/STM
+1 Comandante/STM
+1 λόγος/STM
+5 statunite/STM + nsi/STM
+1 desideri/STM + o/SUF
+2 cocain/STM + a/SUF
+7 sé/STM
+3 48º/STM
+1 pomodoro/STM
+3 fina/STM + nzia/STM + ria/STM
+1 chiam/STM + iamo/STM
+4 esiste/STM
+1 richie/STM + de/STM + vano/STM
+1 1346/STM
+1 fi/STM + to/SUF + ce/STM + no/SUF + si/STM
+1 endemica/STM
+1 guerriglia/STM
+26 Uniti/STM
+1 astro/STM + nomi/STM + a/SUF
+8 lungo/STM
+1 chiese/STM
+1 1933/STM
+2 362/STM
+5 sud/STM + di/PRE + visione/STM
+13 ancora/STM
+1 pedo/STM + logi/STM + che/SUF
+1 Brasi/STM + le/SUF
+1 terra/STM + ferm/STM + a/SUF
+6 Can/STM + celli/STM + ere/STM
+3 unico/STM
+1 Guevara/STM
+4 1602/STM
+1 port/STM + a/SUF + ndo/SUF
+5 esempl/STM + a/SUF + ri/STM
+1 Marcello/STM
+1 profond/STM + i/SUF
+96 anche/STM
+3 spontanea/STM
+1 diplom/STM + a/SUF + ti/SUF + ca/STM
+1 costi/STM + e/SUF + re/SUF
+2 vari/STM + a/SUF + bili/STM
+2 vive/STM + re/SUF
+1 Acquis/STM
+1 attra/STM + versa/STM
+6 Alto/STM
+1 sal/STM + to/SUF
+4 fina/STM + lità/STM
+9 ave/STM + re/SUF
+4 1579/STM
+3 II/STM
+4 astro/STM + nomi/STM
+3 afferma/STM
+5 1628/STM
+8 opere/STM
+5 europeo/STM
+1 semi/STM + preside/STM + nzia/STM + le/SUF
+28 prim/STM + a/SUF
+1 risparmi/STM + are/SUF
+1 Autono/STM + ma/STM
+1 indotto/STM
+1 Schönberg/STM
+4 ter/STM + re/SUF + stri/STM
+1 assolu/STM + ta/SUF
+2 Vice/STM
+2 dogana/STM
+1 gett/STM + ò/SUF
+4 sta/STM + va/SUF
+2 urbani/STM
+61 ed/STM
+1 riassumo/STM + no/SUF
+1 Riggs/STM
+1 preveda/STM + no/SUF
+3 espul/STM + sione/STM
+1 astratto/STM
+1 esse/STM + nzia/STM + le/SUF
+2 Risoluzione/STM
+1 credo/STM + no/SUF
+2 1121/STM
+1 co/STM + di/PRE + fic/STM + a/SUF + to/SUF
+1 col/STM + le/SUF + gio/STM
+2 sospens/STM + ione/STM
+4 1609/STM
+3 longevo/STM
+2 Jean/STM
+2 pondera/STM + ta/SUF
+1 febb/STM + re/SUF
+3 descrive/STM
+4 effetti/STM
+3 attori/STM + a/SUF + le/SUF
+8 piuttosto/STM
+1 o/STM + ccup/STM + ò/SUF
+2 prepar/STM + azione/SUF
+2 ramo/STM
+1 continui/STM + no/SUF
+10 famosi/STM
+4 ecc/STM
+2 unghe/STM + rese/STM
+1 rispet/STM + ta/SUF + ti/SUF
+1 col/STM + le/SUF + zione/STM
+5 prese/STM + nte/STM
+1 na/STM + va/SUF + ta/SUF
+2 1248/STM
+1 cre/STM + a/SUF + ti/SUF
+1 resta/STM + ura/STM + to/SUF
+3 sfalda/STM + no/SUF
+2 Boltzmann/STM
+1 annunci/STM + ò/SUF
+1 figlio/STM
+2 1140/STM
+1 merca/STM + nti/STM + li/SUF + sti/STM
+2 soluzione/STM
+1 orienta/STM + ti/SUF
+1 Hauptschu/STM + le/SUF
+1 ri/STM + tiene/STM
+1 Bohm/STM
+1 socio/STM + logi/STM + che/SUF
+1 organi/STM + zza/STM + to/SUF + re/SUF
+2 1113/STM
+1 sor/STM + ta/SUF
+1 Mil/STM + ioni/STM
+1 t/STM + ruppe/STM
+35 suo/STM
+2 1037/STM
+1 oboi/STM
+3 for/STM + te/SUF + mente/SUF
+8 con/STM + ven/STM + zione/STM
+1 Aythyini/STM
+2 Bio/STM + grafia/STM
+1 Bo/STM + i/SUF + to/SUF
+3 forni/STM + te/SUF
+2 svolge/STM
+1 esport/STM + azione/SUF
+2 Ma/STM
+5 lavor/STM + atore/STM
+1 VR/STM
+1 Cha/STM + rles/STM
+2 Pröll/STM
+1 Ugarte/STM
+3 febbraio/STM
+4 completa/STM + mente/SUF
+1 tras/STM + forma/STM + zione/STM
+1 ci/STM + e/SUF + lo/STM
+1 nascente/STM
+1 Verona/STM
+2 Politica/STM + mente/SUF
+1 collega/STM + no/SUF
+1 neve/STM
+13 Geo/STM + grafia/STM
+1 panorama/STM
+1 rap/STM + prese/STM + nta/STM + to/SUF
+3 elenco/STM
+1 compagni/STM
+2 1156/STM
+3 consent/STM + ì/STM
+2 1423/STM
+1 Prinzipe/STM
+1 Statutar/STM + stadt/STM
+2 fo/STM + to/SUF + ni/STM
+1 ave/STM + ssero/STM
+3 ottocentesca/STM
+1 parzi/STM + a/SUF + le/SUF
+2 1680/STM
+1 Resto/STM
+4 1120/STM
+1 PTS/STM
+2 versa/STM + nte/STM
+1 affinché/STM
+2 approcci/STM + o/SUF
+8 prezzo/STM
+12 oggetto/STM
+1 rife/STM + re/SUF + ndosi/STM
+1 piramid/STM + a/SUF + le/SUF
+1 Garzón/STM
+3 inter/STM + pre/STM + ta/SUF + to/SUF
+1 perso/STM
+3 popol/STM + are/SUF
+1 camionisti/STM
+1 Cuba/STM
+1 Ba/STM + i/SUF + roch/STM
+1 ripar/STM + avano/STM
+4 settanta/STM
+1 360/STM
+2 esse/STM
+10 grazie/STM
+1 esp/STM + re/SUF + ssioni/STM + smo/STM
+4 vedi/STM
+2 ive/STM
+1 agoni/STM + stico/STM
+2 Con/STM + o/SUF + sce/STM
+1 defici/STM + ta/SUF + ria/STM
+1 Hybrid/STM
+7 scienza/STM
+12 prim/STM + e/SUF
+1 salì/STM
+4 1737/STM
+2 1228/STM
+11 2004/STM
+1 destinati/STM
+1 Benjamin/STM
+2 Tom/STM
+1 indotta/STM
+3 picco/STM + le/SUF
+4 essa/STM
+2 scontrasse/STM
+1 serbatoio/STM
+4 progra/STM + mma/STM
+1 approcci/STM
+1 Lennon/STM
+1 esiste/STM + nza/STM
+1 Superiori/STM
+2 fun/STM + ziona/STM + li/SUF
+1 antrop/STM + o/SUF + morfi/STM + zza/STM + to/SUF
+1 61/STM
+1 r/PRE + aggiunge/STM + ndo/SUF
+1 esport/STM + azion/STM + i/SUF
+1 94/STM
+2 super/STM + are/SUF
+1 Ministero/STM
+3 Paolo/STM
+3 viol/STM + enza/STM
+16 maggio/STM + r/SUF + e/SUF
+1 cala/STM + re/SUF
+1 istmo/STM
+4 isol/STM + e/SUF
+7 oggi/STM
+2 Sigmund/STM
+1 virtù/STM
+1 rag/STM + ioni/STM
+1 Tassonomia/STM
+1 Giorda/STM + no/SUF
+1 electro/STM
+1 preservano/STM
+10 Una/STM
+5 vero/STM
+2 votazione/STM
+2 sosten/STM + uto/STM
+1 re/STM + cin/STM + zioni/SUF
+4 1577/STM
+1 sol/STM + di/STM
+1 grave/STM
+1 Nasco/STM + no/SUF
+3 stori/STM + che/SUF
+1 trenta/STM
+1 olio/STM
+3 Amerigo/STM
+5 armonium/STM
+6 Guerra/STM
+1 cerca/STM + re/SUF
+3 aratro/STM
+4 Parla/STM + mento/SUF
+1 legge/STM + ro/STM
+4 aperto/STM
+7 nuove/STM
+2 famose/STM
+5 preci/STM + si/SUF
+2 rami/STM + fic/STM + azione/SUF
+2 ag/STM + li/SUF
+4 1573/STM
+1 effettu/STM + a/SUF + to/SUF
+1 cambi/STM + a/SUF + to/SUF
+1 Newton/STM
+1 Sud/STM + america/STM
+3 95/STM
+1 osserva/STM + bili/STM
+1 marocana/STM
+3 R/STM
+3 coinci/STM + dono/STM
+1 organi/STM + zz/STM + ò/SUF
+4 cir/STM + col/STM + azione/SUF
+2 climax/STM
+1 monte/STM
+1 Borghetto/STM
+1 tecnologico/STM
+1 esclu/STM + sivo/STM
+1 pre/STM + veni/STM + ssero/STM
+1 Carlo/STM
+3 singola/STM + r/SUF + mente/SUF
+3 assieme/STM
+4 1590/STM
+1 Bawerk/STM
+1 pronto/STM
+4 1528/STM
+2 pianura/STM
+1 singo/STM + le/SUF
+1 regis/STM + ti/SUF
+4 data/STM
+1 De/STM + mocra/STM + tica/STM
+1 ris/STM + a/SUF + le/SUF
+4 propri/STM + e/SUF
+3 lingua/STM + ggi/STM + o/SUF
+2 stud/STM + i/SUF + ò/SUF
+3 avvenu/STM + to/SUF
+5 pian/STM + e/SUF + ta/SUF
+1 f/STM + le/SUF + ssibile/STM
+4 asso/STM + luto/STM
+1 valu/STM + e/SUF
+1 preside/STM + nzia/STM + le/SUF
+1 pro/STM + posi/STM + to/SUF
+1 Assomm/STM + ò/SUF
+1 di/PRE + stru/STM + ttive/STM
+2 sfumature/STM
+1 Precisa/STM + mente/SUF
+3 spazi/STM
+1 orizzonta/STM + lmente/STM
+1 inestricabi/STM + lmente/STM
+1 di/STM + li/SUF + gente/STM
+3 Vx/STM
+1 Hawaii/STM
+2 York/STM
+1 fredda/STM
+2 emo/STM
+2 lento/STM
+2 urne/STM
+9 poli/STM + tiche/STM
+1 cilindri/STM
+2 confini/STM
+1 for/STM + ti/SUF + ssima/STM
+1 Dame/STM
+9 persone/STM
+1 Upper/STM
+2 poesi/STM + a/SUF
+1 nutrivano/STM
+1 bordo/STM
+3 di/PRE + ffer/STM + isce/STM
+3 Mill/STM
+2 global/STM + e/SUF
+3 esse/STM + ndo/SUF
+1 alle/STM + a/SUF + ti/SUF
+2 1157/STM
+1 compongono/STM
+3 lombar/STM + della/STM
+1 orienta/STM + mento/SUF
+4 1523/STM
+1 intensivo/STM
+1 festeggi/STM + are/SUF
+2 zappa/STM
+2 fisso/STM
+3 rete/STM
+4 lettera/STM
+9 riferi/STM + mento/SUF
+1 Umeå/STM
+1 ril/STM + ancia/STM + ta/SUF
+6 1190/STM
+6 indipend/STM + enti/STM
+2 g/STM
+2 Posso/STM + no/SUF
+2 1544/STM
+3 inquisi/STM + to/SUF
+5 ricerche/STM
+1 sen/STM + atore/STM
+1 mese/STM
+3 music/STM + ista/STM
+3 nega/STM + tiva/STM
+3 vera/STM
+2 elettroni/STM + co/STM
+18 Alpi/STM
+2 affid/STM + ò/SUF
+2 popol/STM + o/SUF
+1 reli/STM + tto/STM
+1 Curi/STM + o/SUF + sità/STM
+3 sosten/STM + i/SUF + to/SUF + ri/STM
+1 acqua/STM
+1 for/STM + ti/SUF
+1 troppo/STM
+1 Europol/STM
+1 Anassimene/STM
+1 volumi/STM
+3 con/STM + siste/STM
+1 Carampangue/STM
+3 Buffon/STM
+3 etno/STM + logi/STM + a/SUF
+3 Carlos/STM
+1 Ma/STM + le/SUF + nčenko/STM
+2 cambi/STM + amenti/STM
+1 indaga/STM + no/SUF
+2 1972/STM
+1 Plectropterinae/STM
+1 Giants/STM
+1 Innsbruck/STM
+1 An/STM + to/SUF + fagasta/STM
+1 lunghezz/STM + e/SUF
+1 Est/STM
+1 incre/STM + mento/SUF
+2 pinsapo/STM
+2 anas/STM
+2 olimp/STM + ica/STM
+1 for/STM + o/SUF
+1 indebi/STM + ta/SUF
+1 trattene/STM + re/SUF
+2 Divina/STM
+1 anglo/STM + fon/STM + o/SUF
+2 mezzi/STM
+1 4004/STM
+2 1767/STM
+1 ricordiamo/STM
+3 for/STM + te/SUF
+10 stru/STM + mento/SUF
+2 inser/STM + i/SUF + re/SUF
+1 1348/STM
+2 1126/STM
+2 indica/STM
+3 oppu/STM + re/SUF
+4 utilizz/STM + a/SUF + to/SUF
+1 Tranne/STM
+3 codone/STM
+1 includ/STM + e/SUF + vano/STM
+1 1089/STM
+1 Esso/STM
+2 mod/STM + i/SUF
+1 testi/STM + monia/STM + nze/STM
+33 grande/STM
+5 1739/STM
+288 del/STM
+20 svilup/STM + po/STM
+3 1539/STM
+2 questi/STM + o/SUF + ne/STM
+94 In/STM
+1 stanzi/STM + ò/SUF
+1 sopran/STM + nomina/STM + to/SUF
+6 diritto/STM
+2 epoche/STM
+2 Adolf/STM
+1 progett/STM + azione/SUF
+1 Stru/STM + ment/STM + i/SUF
+4 Russi/STM + a/SUF
+1 acquis/STM + endo/STM
+2 1151/STM
+1 Scienza/STM
+9 qual/STM + che/SUF
+1 a/STM + rachide/STM
+7 ufficial/STM + e/SUF
+1 classific/STM + a/SUF + ta/SUF
+1 not/STM + te/SUF
+1 fina/STM + nzia/STM + ta/SUF
+3 sonori/STM + tà/STM
+3 Ameri/STM + che/SUF
+2 1957/STM
+2 possibili/STM + tà/STM
+1 sop/STM + port/STM + a/SUF + re/SUF
+1 Kennedy/STM
+1 imp/STM + li/SUF + che/SUF + rebbe/STM
+1 montagna/STM
+3 segue/STM
+1 aprì/STM
+2 perce/STM + zione/STM
+2 norma/STM
+2 Fall/STM
+2 opportuno/STM
+1 arre/STM + tra/STM + ti/SUF
+98 Il/STM
+2 lettera/STM + ri/STM + o/SUF
+10 mer/STM + idionale/STM
+1 similari/STM
+1 Me/STM + te/SUF + o/SUF + ra/STM
+1 music/STM
+2 riforni/STM + ment/STM + i/SUF
+2 gambe/STM
+1 mille/STM
+2 pino/STM
+1 assiste/STM
+10 lingua/STM
+1 cleristorio/STM
+3 suo/STM + no/SUF
+2 vegeta/STM
+1 Anglo/STM
+1 quar/STM + to/SUF
+1 sti/STM + li/SUF
+1 acqua/STM + tica/STM
+1 tele/STM + visive/STM
+1 sci/STM + a/SUF + fila/STM
+3 nove/STM + mbre/STM
+2 volanti/STM
+1 tempera/STM + ture/STM
+1 Iquique/STM
+1 Piano/STM
+23 dal/STM + le/SUF
+2 lista/STM
+3 patrimonio/STM
+1 Anseri/STM + na/STM + e/SUF
+2 2100/STM
+2 crimini/STM
+2 speci/STM + ali/STM + stico/STM
+1 risalirono/STM
+1 col/STM + ture/STM
+1 russa/STM
+1 pericolosa/STM
+3 usa/STM + to/SUF
+4 1802/STM
+1 buon/STM
+4 parzi/STM + ali/STM
+1 posti/STM
+1 Venne/STM
+1 autori/STM + tario/STM
+1 Govern/STM + atore/STM
+3 civil/STM + e/SUF
+1 Marx/STM
+1 legname/STM
+1 costumi/STM
+2 fond/STM + i/SUF
+2 Banking/STM
+4 Liechtenstein/STM
+1 Geissernel/STM
+2 Fried/STM + man/STM
+16 Si/STM
+1 aiuto/STM
+1 bo/STM + ta/SUF + nico/STM
+1 di/PRE + ffer/STM + e/SUF + nzia/STM + rsi/STM
+1 aiuta/STM + no/SUF
+1 dimesso/STM
+29 ai/STM
+2 ton/STM + i/SUF + che/SUF
+15 rispet/STM + to/SUF
+1 dinami/STM + che/SUF
+2 necessari/STM + a/SUF + mente/SUF
+2 medi/STM + o/SUF
+1 costru/STM + ttori/STM
+1 tre/STM + ntina/STM
+3 imperni/STM + a/SUF + ta/SUF
+3 filosofi/STM + a/SUF
+1 anno/STM + vera/STM + va/SUF + no/SUF
+8 frequ/STM + enze/STM
+1 23/STM
+4 1264/STM
+1 social/STM
+1 particolar/STM + mente/SUF
+1 cor/STM + re/SUF + tto/STM
+2 Ricardo/STM
+1 antisettica/STM
+4 1572/STM
+2 compl/STM + ica/STM + ta/SUF
+2 antagonista/STM
+4 1440/STM
+1 contribu/STM + ti/SUF
+1 induce/STM
+1 vulnerabile/STM
+1 dispor/STM + si/SUF
+2 appaiono/STM
+2 collasso/STM
+1 adotta/STM + to/SUF
+12 territori/STM + o/SUF
+2 mantice/STM
+5 lunghi/STM
+1 abbia/STM + mo/STM
+1 scriv/STM + e/SUF + va/SUF
+3 per/STM + centu/STM + a/SUF + le/SUF
+8 numero/STM
+1 legge/STM + nda/STM
+1 numidica/STM
+2 ulterio/STM + ri/STM
+1 canoi/STM + stica/STM
+4 ciò/STM
+5 1803/STM
+1 kaimichi/STM
+3 pre/STM + suppone/STM
+1 Wook/STM
+1 Pique/STM
+3 perdita/STM
+1 rimasto/STM
+1 rigida/STM
+1 Athapascan/STM
+2 lin/STM + e/SUF
+2 1964/STM
+2 Austria/STM + che/SUF
+1 Com/STM + munity/STM
+4 1881/STM
+4 meglio/STM
+1 simpo/STM + di/STM + a/SUF + le/SUF
+4 social/STM + ista/STM
+3 ven/STM + taglio/STM
+2 1541/STM
+2 regionali/STM
+7 effetto/STM
+1 culturista/STM
+3 equilibr/STM + i/SUF + o/SUF
+2 man/STM + tenuto/STM
+3 Ne/STM
+1 costitu/STM + tivi/STM
+13 paesi/STM
+3 conside/STM + re/SUF + vol/STM + e/SUF
+3 Da/STM
+1 omogenee/STM
+31 lavor/STM + o/SUF
+16 di/PRE + visione/STM
+1 Deutsch/STM + österreich/STM
+8 risulta/STM
+1 rimasti/STM
+3 calo/STM
+1 risposta/STM
+1 C/STM
+1 raggi/STM + un/STM + ta/SUF
+2 1034/STM
+23 I/STM
+1 pat/STM + erni/STM
+1 scul/STM + ture/STM
+1 ri/STM + cadono/STM
+2 ampi/STM
+1 investi/STM + ta/SUF
+1 tappe/STM
+4 feder/STM + a/SUF + ti/SUF
+1 piena/STM
+1 W/STM + i/SUF + te/SUF + lo/STM
+1 ri/STM + prese/STM
+8 Allende/STM
+2 parentesi/STM
+1 inter/STM + pre/STM + ta/SUF + no/SUF
+2 Palazzo/STM
+1 uti/STM + le/SUF
+1 Istmo/STM
+3 applica/STM + tivi/STM
+2 Ingegneria/STM
+4 1920/STM
+2 esper/STM + i/SUF + enze/STM
+1 William/STM
+4 appar/STM + ten/STM + gono/STM
+4 Norvegia/STM
+1 dormi/STM + re/SUF
+2 1705/STM
+1 attu/STM + arono/STM
+1 Gariglione/STM
+9 quattro/STM
+5 verific/STM + a/SUF + to/SUF
+8 rela/STM + tiva/STM + mente/SUF
+3 1789/STM
+2 Chi/STM + le/SUF
+1 esteso/STM
+1 stelle/STM
+1 sempre/STM + verde/STM
+4 libr/STM + i/SUF
+1 estrinse/STM + che/SUF
+1 espansa/STM
+1 gran/STM + o/SUF
+1 iPod/STM
+1 Vivianne/STM
+91 Nel/STM
+2 sub/STM + are/SUF + ali/STM
+1 approv/STM + vi/STM + gion/STM + a/SUF + mento/SUF
+4 1522/STM
+1 1499/STM
+3 istinto/STM
+1 teori/STM + zzarono/STM
+1 stori/STM + ci/STM
+1 palin/STM + o/SUF + logici/STM
+2 firma/STM + ta/SUF + ri/STM
+2 conc/STM + essa/STM
+3 con/STM + front/STM + a/SUF + ti/SUF
+1 dimostr/STM + a/SUF + ti/SUF + ve/STM
+2 1442/STM
+1 fina/STM + nzia/STM + mento/SUF
+1 1669/STM
+1 sen/STM + atori/STM + a/SUF + le/SUF
+4 cresc/STM + ente/STM
+1 nessun/STM + o/SUF
+2 1436/STM
+5 novanta/STM
+1 τέκτων/STM
+1 Margaret/STM
+1 industria/STM + lizz/STM + a/SUF + ta/SUF
+3 Can/STM + a/SUF + le/SUF
+14 social/STM + e/SUF
+5 Atlantico/STM
+8 semplic/STM + e/SUF
+4 intesa/STM
+1 Pinetum/STM
+1 An/STM + a/SUF + ti/SUF + na/STM + e/SUF
+2 1220/STM
+2 Wittgenstein/STM
+1 segna/STM + la/STM + no/SUF
+2 lasci/STM + arono/STM
+7 Regionale/STM
+3 risparmi/STM + a/SUF + to/SUF
+1 preferi/STM + re/SUF
+2 campi/STM + o/SUF + ne/STM
+1 Eudosso/STM
+1 Violent/STM
+1 trasmesse/STM
+1 utilizz/STM + a/SUF + ndo/SUF + lo/STM
+2 elastica/STM
+2 psico/STM + logi/STM
+1 altezz/STM + e/SUF
+4 Belgio/STM
+1 astro/STM + fisica/STM
+1 esista/STM
+1 guarnigione/STM
+1 morirono/STM
+1 Michel/STM + e/SUF
+2 Pro/STM + gett/STM + azione/SUF
+3 segue/STM + nti/STM
+1 esiste/STM + nti/STM
+1 liu/STM + ta/SUF + i/SUF
+2 moder/STM + no/SUF
+1 pre/STM + fisso/STM
+1 rapida/STM
+90 ad/STM
+1 lune/STM
+9 Panama/STM
+1 Giusy/STM
+4 1430/STM
+2 1591/STM
+1 forma/STM + lmente/STM
+1 comun/STM + ica/STM + zioni/STM
+1 E/STM + li/SUF + sa/STM
+2 Popper/STM
+1 Legno/STM
+3 Lusse/STM + mburgo/STM
+1 pigne/STM
+1 nobiltà/STM
+2 realizza/STM + to/SUF
+2 garanzie/STM
+1 social/STM + mente/SUF
+1 incar/STM + di/PRE + nato/STM
+2 brattee/STM
+1 corona/STM
+4 artisti/STM + co/STM
+3 settori/STM
+6 Secondo/STM
+1 esi/STM + li/SUF + a/SUF + ti/SUF
+2 1997/STM
+2 investi/STM + ment/STM + i/SUF
+12 gruppo/STM
+1 suc/STM + cit/STM + a/SUF + ti/SUF
+7 Harry/STM
+1 Michel/STM
+2 1179/STM
+7 austria/STM + ci/STM
+2 1596/STM
+1 centr/STM + o/SUF + america/STM + ni/STM
+1 premi/STM + azione/SUF
+1 immutabile/STM
+1 man/STM + tengono/STM
+1 nido/STM
+2 pnorm/STM
+1 Ave/STM + va/SUF
+2 neutrini/STM
+27 quindi/STM
+2 lasci/STM + ando/STM
+1 reso/STM
+1 Laser/STM
+1 comport/STM + a/SUF + ment/STM + i/SUF
+1 Az/STM + te/SUF + can/STM
+1 pon/STM + gono/STM
+1 9550/STM
+25 fra/STM
+2 montu/STM + o/SUF + se/STM
+6 dis/STM + cus/STM + sione/STM
+2 1831/STM
+2 clima/STM
+1 va/STM + ste/STM
+2 1242/STM
+11 sistema/STM
+2 diretti/STM
+1 rap/STM + port/STM + a/SUF + rsi/STM
+2 punti/STM
+11 ovest/STM
+5 uni/STM + versa/STM + le/SUF
+1 Donax/STM
+3 uso/STM
+1 Larix/STM
+5 rap/STM + port/STM + i/SUF
+2 esecu/STM + tivo/STM
+2 diffusa/STM
+2 Fenice/STM
+1 tipo/STM + logi/STM + e/SUF
+3 cinquanta/STM
+1 fantas/STM + y/STM
+44 lo/STM
+10 confine/STM
+1 pi/STM + ttori/STM
+3 tranne/STM
+2 giro/STM
+1 sup/STM + eriori/STM
+2 1229/STM
+1 speci/STM + ali/STM + zz/STM + azion/STM + i/SUF
+1 Scritti/STM
+3 al/STM + ta/SUF
+14 cresc/STM + ita/STM
+1 Enrico/STM
+4 risorse/STM
+4 1900/STM
+2 1763/STM
+1 America/STM + n/STM
+2 galleria/STM
+6 america/STM + no/SUF
+3 valori/STM + a/SUF + le/SUF
+2 mo/STM + di/PRE + fic/STM + a/SUF + ti/SUF
+1 Bulgaria/STM
+1 ben/STM + e/SUF
+1 suoni/STM
+5 scop/STM + erta/STM
+2 cattura/STM + to/SUF
+1 Migliaia/STM
+8 ancia/STM
+3 Alla/STM
+9 austria/STM + co/STM
+4 preside/STM + nte/STM
+2 Da/STM + ti/SUF
+1 Eve/STM + li/SUF + na/STM
+2 esiste/STM + re/SUF
+2 1764/STM
+3 1634/STM
+2 di/PRE + tta/STM + to/SUF + re/SUF
+3 razionale/STM
+1 sel/STM + va/SUF + ggi/STM + o/SUF
+1 installate/STM
+2 precise/STM
+2 dovuta/STM
+1 c/STM + li/SUF + ente/STM
+1 Baltasar/STM
+4 fasci/STM + sta/STM
+3 riuni/STM + ti/SUF
+1 sotto/STM + bosco/STM
+2 denta/STM + te/SUF
+45 può/STM
+1 pilo/STM + ta/SUF
+1 resi/STM + no/SUF + so/STM
+4 significa/STM
+2 densi/STM + tà/STM
+2 1533/STM
+5 diventa/STM
+1 Sessantamila/STM
+2 alcun/STM + ché/STM
+1 svilup/STM + pa/STM + rsi/STM
+1 cambi/STM + a/SUF + ti/SUF
+1 Avez/STM
+1 verific/STM + are/SUF
+1 esponenti/STM
+8 qual/STM + i/SUF
+1 antrop/STM + o/SUF + logi/STM + che/SUF
+1 case/STM
+2 rinnova/STM + bili/STM
+3 Famiglia/STM
+1 Necessi/STM + ta/SUF
+1 1109/STM
+1 Shoulder/STM
+2 estr/STM + aneo/STM
+1 sequestr/STM + a/SUF + te/SUF
+1 άνθρωπος/STM
+2 1917/STM
+3 cinque/STM
+1 sci/STM + operi/STM
+1 rela/STM + tivo/STM
+3 tecnico/STM
+1 inalien/STM + abili/STM
+1 magister/STM
+2 usc/STM + i/SUF + to/SUF
+4 1576/STM
+2 france/STM + si/SUF
+1 peraltro/STM
+2 soffietto/STM
+3 music/STM + a/SUF + li/SUF
+1 solfi/STM + to/SUF
+1 Romani/STM
+10 Tribù/STM
+1 ebra/STM + i/SUF + che/SUF
+4 1880/STM
+2 entr/STM + a/SUF + to/SUF
+2 svaria/STM + ti/SUF
+3 golpe/STM
+4 giudice/STM
+2 Analogamente/STM
+2 Bossuet/STM
+1 deformò/STM
+4 1457/STM
+1 elev/STM + a/SUF + ti/SUF
+3 benesta/STM + re/SUF
+1 di/PRE + verso/STM
+3 for/STM + e/SUF + sta/STM
+1 condusse/STM
+1 calcio/STM
+1 orfa/STM + no/SUF
+4 aspetto/STM
+2 connessi/STM
+1 culminati/STM
+1 agrarie/STM
+1 veni/STM + sse/STM
+2 1961/STM
+1 Galileo/STM
+1 limi/STM + te/SUF
+2 1159/STM
+1 dovuto/STM
+1 Las/STM
+2 fosse/STM
+2 motivi/STM
+1 piumi/STM + no/SUF
+1 attre/STM + zzi/STM
+1 basta/STM
+1 indaga/STM + re/SUF
+1 mero/STM
+2 villaggi/STM
+2 Casi/STM
+1 Piacentini/STM
+2 1420/STM
+1 garanzia/STM
+1 disc/STM + endo/STM + no/SUF
+1 off/STM + re/SUF
+1 infine/STM
+1 sel/STM + va/SUF + tica/STM
+4 1384/STM
+1 disponibili/STM + tà/STM
+3 potesse/STM
+2 agricol/STM + e/SUF
+3 1919/STM
+2 Austria/STM + ca/STM
+1 larici/STM
+1 danno/STM
+1 ripresi/STM
+4 privacy/STM
+2 contrari/STM + o/SUF
+1 otten/STM + erne/STM
+4 sol/STM + tanto/STM
+1 origin/STM + ario/STM
+1 AHS/STM
+1 riscontrabile/STM
+1 occupa/STM + to/SUF
+1 bulletti/STM
+1 scrisse/STM
+1 Ba/STM + lcani/STM
+1 poteva/STM
+1 Duc/STM
+1 proroga/STM
+2 vita/STM + le/SUF
+4 Abbie/STM
+3 mettersi/STM
+6 ampi/STM + o/SUF
+1 vari/STM + a/SUF
+1 Rica/STM
+1 comun/STM + i/SUF + tario/STM
+1 Rico/STM
+12 agricol/STM + tura/STM
+2 bocca/STM
+22 forma/STM
+1 incar/STM + ico/STM
+151 sono/STM
+4 1000/STM
+3 canta/STM
+1 Secondaria/STM
+2 provoc/STM + a/SUF + ta/SUF
+16 durante/STM
+6 1999/STM
+2 pratico/STM
+1 Su/STM
+4 1601/STM
+1 Theory/STM
+1 Asburgo/STM
+1 nunzio/STM
+1 Berg/STM
+4 1959/STM
+2 di/PRE + stante/STM
+5 scala/STM
+4 quel/STM + li/SUF
+1 geo/STM + poli/STM + tica/STM
+1 confina/STM + nti/STM
+2 1635/STM
+1 Bezirk/STM + e/SUF
+1 comand/STM + a/SUF + to/SUF
+1 decadentismo/STM
+1 Chawla/STM
+1 ra/STM + gion/STM + e/SUF + vol/STM + e/SUF
+98 inven/STM + zioni/STM
+2 calcola/STM
+1 distin/STM + se/STM
+1 capomastro/STM
+2 amministra/STM + tiva/STM + mente/SUF
+2 vigilanza/STM
+3 speci/STM + ali/STM + zz/STM + azione/SUF
+2 omogenei/STM
+4 1387/STM
+1 inter/STM + sogg/STM + e/SUF + ttivo/STM
+1 ad/STM + e/SUF + sione/STM
+1 B/STM + e/SUF + e/SUF
+1 origin/STM + a/SUF + le/SUF
+5 permette/STM
+1 Inizia/STM
+3 fertili/STM + zzanti/STM
+4 pre/STM + senza/STM
+1 1345/STM
+5 economi/STM + co/STM
+4 1382/STM
+7 individui/STM
+1 segno/STM
+1 spigolo/STM
+3 scienze/STM
+1 ciclo/STM
+1 altitu/STM + di/PRE + ne/STM
+8 esterni/STM
+3 assunti/STM
+2 Zevi/STM
+3 rara/STM + mente/SUF
+2 concluse/STM
+7 con/STM + i/SUF
+1 b/STM + ienna/STM + le/SUF
+1 c/STM
+1 spagno/STM + li/SUF
+1 chiave/STM + tte/STM
+1 ottica/STM
+1 of/STM
+1 barbiturici/STM
+1 1343/STM
+1 maschi/STM
+1 di/PRE + co/STM + to/SUF + mia/STM
+2 1117/STM
+2 montane/STM
+10 Santiago/STM
+3 Eaton/STM
+1 auto/STM + noma/STM
+4 pezzo/STM
+3 Uccelli/STM
+1 scende/STM
+2 ma/STM + re/SUF
+1 coinvol/STM + ti/SUF
+5 istitu/STM + ì/STM
+1 strani/STM + e/SUF + re/SUF
+6 nostro/STM
+2 acqua/STM + tici/STM
+1 revoca/STM + re/SUF
+3 umi/STM + di/PRE + tà/STM
+1 fissa/STM + ta/SUF
+4 economi/STM + sti/STM
+1 cartie/STM + re/SUF
+2 Bundespräsident/STM
+2 Pier/STM + re/SUF
+2 1555/STM
+2 pecci/STM + o/SUF
+2 etici/STM
+4 di/PRE + morfi/STM + smo/STM
+2 Purita/STM + ni/STM
+1 pro/STM + por/STM + zione/STM
+3 conosc/STM + enza/STM
+1 esclu/STM + se/STM
+1 aov/STM
+4 inter/STM + esse/STM
+5 Ludwig/STM
+1 tele/STM + visi/STM + va/SUF
+1 Cinque/STM + cento/STM
+1 mp3/STM
+1 Gasperi/STM
+2 difesa/STM
+1 risulta/STM + ti/SUF
+2 1424/STM
+6 con/STM + segue/STM + nza/STM
+8 naturali/STM
+1 nutri/STM + ziona/STM + le/SUF
+1 corridoio/STM
+3 inter/STM + medi/STM + a/SUF
+20 modo/STM
+2 vor/STM + ti/SUF + ce/STM
+1 sfuggi/STM + re/SUF
+1 valut/STM + are/SUF
+2 inglesi/STM
+1 gesui/STM + ta/SUF
+1 tro/STM + va/SUF + to/SUF
+1 valori/STM + zza/STM + zione/STM
+1 Piers/STM
+1 preside/STM + nza/STM
+3 Dio/STM
+4 1071/STM
+1 1852/STM
+2 adotta/STM
+66 ha/STM
+1 mi/STM
+3 sos/STM + tiene/STM
+6 1788/STM
+1 cadu/STM + ta/SUF
+1 attra/STM + ssero/STM
+1 Mantegazza/STM
+1 carica/STM
+2 olimp/STM + ico/STM
+4 forni/STM + re/SUF
+2 cade/STM
+1 the/STM
+2 sogg/STM + e/SUF + tta/STM
+3 Anatidi/STM
+2 tragico/STM
+11 france/STM + se/STM
+8 maggio/STM + r/SUF
+2 1460/STM
+2 associ/STM + azione/SUF
+2 clonale/STM
+2 intro/STM + spet/STM + tivi/STM
+2 continua/STM
+1 trasmessi/STM
+1 giovani/STM + li/SUF
+1 stella/STM
+1 piu/STM + maggio/STM
+1 Na/STM + to/SUF
+7 espressione/STM
+1 occupa/STM + ndosi/STM
+1 dura/STM + tura/STM
+1 VII/STM
+11 medi/STM + a/SUF
+48 esse/STM + re/SUF
+1 salma/STM
+2 firma/STM + ta/SUF
+2 affer/STM + mò/STM
+2 demenza/STM
+18 pro/STM + duzione/STM
+1 In/STM + te/SUF + l/STM
+1 h/STM + itler/STM + iana/STM
+1 gg/STM
+1 Fédération/STM
+2 Sarebbe/STM
+2 r/PRE + esiste/STM + nte/STM
+1 coltiv/STM + abile/STM
+2 armonia/STM
+3 determi/STM + na/STM + re/SUF
+2 liberi/STM
+2 Seconda/STM
+4 america/STM + ne/STM
+2 1039/STM
+2 str/STM + a/SUF + ti/SUF
+2 corpus/STM
+9 stori/STM + a/SUF
+2 etologia/STM
+1 1149/STM
+1 Alban/STM + i/SUF + a/SUF
+8 artisti/STM
+1 or/STM + a/SUF + ri/STM
+1 costru/STM + ì/STM
+1 esisti/STM + ta/SUF
+3 ceti/STM
+2 accu/STM + mul/STM + are/SUF
+3 sovrap/STM + più/STM
+2 rap/STM + prese/STM + nta/STM + ta/SUF
+1 Car/STM + ibbean/STM
+1 in/STM + di/PRE + gen/STM + i/SUF
+6 stro/STM + bili/STM
+4 simi/STM + li/SUF
+1 incursioni/STM
+5 entr/STM + ambe/STM
+1 fertili/STM
+1 sape/STM + va/SUF
+5 nazion/STM + i/SUF
+1 vissuto/STM
+1 biso/STM + gna/STM
+1 disposti/STM
+4 diventa/STM + no/SUF
+3 cognomi/STM
+1 appar/STM + ten/STM + enza/STM
+1 magistr/STM + a/SUF + to/SUF
+1 gla/STM + di/PRE + atore/STM
+2 Germain/STM
+2 Letteratura/STM
+1 re/STM + ti/SUF
+2 presso/STM
+2 1553/STM
+6 vari/STM
+1 acc/STM + erta/STM + te/SUF
+1 Soda/STM + no/SUF
+5 fond/STM + a/SUF + to/SUF
+3 di/PRE + ffer/STM + enti/STM
+3 continen/STM + ti/SUF
+1 Diggers/STM
+1 scelta/STM
+1 giunta/STM
+1 rilev/STM + ante/STM
+1 Fiemme/STM
+4 color/STM + e/SUF
+2 Maastricht/STM
+4 class/STM + ica/STM
+1 sta/STM + ti/SUF + sti/STM
+2 arabi/STM
+1 C/STM + astro/STM
+1 Laga/STM
+4 Bretagna/STM
+2 Camera/STM
+2 rap/STM + prese/STM + nta/STM + nti/STM
+1 Economi/STM + a/SUF
+1 inond/STM + ò/SUF
+2 assunse/STM
+1 futurista/STM
+7 esprime/STM
+1 fo/STM + to/SUF + camere/STM
+2 valut/STM + azione/SUF
+1 diplom/STM + ò/SUF
+1 naso/STM
+1 anzi/STM + ché/STM
+1 limi/STM + ti/SUF
+2 1558/STM
+3 pasco/STM + li/SUF
+2 assisti/STM + te/SUF
+1 ri/STM + chiam/STM + a/SUF
+1 poss/STM + e/SUF + du/STM + te/SUF
+2 ali/STM + ment/STM + are/SUF
+1 divinatorie/STM
+1 regis/STM + tra/STM + ta/SUF
+2 riso/STM
+1 demo/STM + grafica/STM
+2 Con/STM + ta/SUF + no/SUF
+4 1074/STM
+1 dec/STM + li/SUF + no/SUF
+1 prospettica/STM
+6 1730/STM
+1 Fagus/STM
+2 1706/STM
+1 persi/STM + no/SUF
+1 l/STM + este/STM + nsione/STM
+1 aratri/STM
+1 com/STM
+1 arre/STM + sti/STM
+2 miglior/STM + are/SUF
+1 Prima/STM + ria/STM
+1 fon/STM + te/SUF
+1 Cinque/STM
+1 Ligabue/STM
+3 vede/STM
+2 Marie/STM
+1 peculi/STM + are/SUF
+1 E/STM + norme/STM
+2 1538/STM
+2 Habitat/STM
+11 accordi/STM
+7 pochi/STM
+1 CARICOM/STM
+9 campo/STM
+1 mistero/STM
+2 sound/STM
+1 estesi/STM
+2 parantesi/STM
+1 par/STM + te/SUF + ndo/SUF
+2 Konrad/STM
+1 meccani/STM + zza/STM + ta/SUF
+1 Engel/STM + bert/STM
+1 soddis/STM + facendo/STM
+3 1599/STM
+2 con/STM + segue/STM + nte/STM
+1 dieci/STM
+1 destina/STM + te/SUF
+2 Ho/STM + te/SUF + l/STM
+3 larghi/STM
+1 affronta/STM + re/SUF
+6 diffu/STM + sione/STM
+2 petr/STM + olio/STM
+1 Kuna/STM
+8 terz/STM + i/SUF
+6 suo/STM + i/SUF
+1 manuten/STM + zione/STM
+1 miglior/STM + avano/STM
+2 fossero/STM
+90 Persona/STM + ggi/STM
+261 a/STM
+2 938/STM
+1 laurea/STM
+2 nata/STM + li/SUF
+1 presentò/STM
+1 soffiando/STM
+1 uguali/STM
+6 metà/STM
+1 sforzi/STM
+3 com/STM + penetr/STM + azione/SUF
+5 sovrani/STM + tà/STM
+1 generi/STM + camente/STM
+1 zo/STM + o/SUF + logico/STM
+1 fini/STM + te/SUF
+1 prov/STM + a/SUF + te/SUF
+1 coltiv/STM + are/SUF
+3 regol/STM + e/SUF
+3 Golfo/STM
+2 Hayden/STM
+1 attivismo/STM
+1 superflu/STM + o/SUF
+1 1479/STM
+2 sotto/STM + discipline/STM
+1 con/STM + di/PRE + ziona/STM + re/SUF
+2 pri/STM + gion/STM + e/SUF
+2 mar/STM
+5 naturale/STM
+2 1245/STM
+1 Mari/STM + o/SUF
+1 chimica/STM
+1 contenere/STM
+2 energie/STM
+1 continua/STM + no/SUF
+1 intor/STM + no/SUF
+1 mon/STM + ta/SUF + no/SUF
+6 vigo/STM + re/SUF
+1 Sud/STM + di/PRE + visi/STM + oni/STM
+3 personal/STM + i/SUF + tà/SUF
+5 azione/STM
+1 otten/STM + ne/STM
+1 sincera/STM + mente/SUF
+1 ver/STM + r/PRE + ebbero/STM
+1 Nulla/STM
+1 sequestri/STM
+2 cinese/STM
+1 collo/STM
+3 profess/STM + ione/STM
+1 silicei/STM
+10 km/STM
+1 sper/STM + are/SUF
+13 seco/STM + ndo/SUF
+2 1992/STM
+1 speci/STM + fic/STM + o/SUF
+2 1122/STM
+1 Lords/STM
+4 1736/STM
+6 ele/STM + ment/STM + i/SUF
+2 spinacio/STM
+3 Danimarca/STM
+1 Onufrienko/STM
+4 1455/STM
+5 egli/STM
+1 Accademia/STM
+2 vi/STM + a/SUF
+1 commercial/STM + i/SUF + zza/STM + to/SUF
+1 str/STM + a/SUF + to/SUF
+2 favore/STM + voli/STM
+3 1119/STM
+2 1470/STM
+2 Me/STM + di/PRE + terraneo/STM
+1 aggiornati/STM
+4 1265/STM
+1 Piemonte/STM
+4 successi/STM + va/STM + mente/SUF
+11 membri/STM
+3 miravano/STM
+2 alba/STM
+1 nipo/STM + te/SUF
+1 rispet/STM + tive/STM
+7 vi/STM
+1 Kill/STM
+1 acc/STM + e/SUF + tta/STM
+5 Prima/STM
+1 agricol/STM + o/SUF
+1 speci/STM + azione/SUF
+28 mol/STM + to/SUF
+1 Kalpana/STM
+4 Lo/STM
+6 15/STM
+1 2005/STM
+1 tro/STM + va/SUF + va/SUF
+2 Mentr/STM + e/SUF
+1 nega/STM + zioni/SUF + smo/STM
+3 Prats/STM
+3 and/STM + avano/STM
+4 piedi/STM
+1 W/STM
+1 laurea/STM + ti/SUF
+4 situ/STM + a/SUF + to/SUF
+2 anti/STM
+12 archi/STM + tetton/STM + ica/STM
+1 Preside/STM + nzia/STM + le/SUF
+4 poli/STM + tici/STM
+9 tedesco/STM
+2 rinnova/STM + zione/STM
+3 De/STM
+1 lu/STM + o/SUF + mo/STM
+1 F/STM
+143 i/STM
+2 Aerofoni/STM
+1 gioca/STM + to/SUF
+10 tutto/STM
+1 ovul/STM + i/SUF
+3 Essi/STM
+5 contrap/STM + posi/STM + zione/STM
+1 37/STM
+6 14/STM
+8 furono/STM
+1 dover/STM
+3 attu/STM + ando/STM
+2 perché/STM
+12 contro/STM
+8 materia/STM + li/SUF
+1 divise/STM
+1 con/STM + figura/STM + zioni/SUF
+23 film/STM
+1 fil/STM + antrop/STM + o/SUF
+3 distin/STM + gue/STM
+1 na/STM + ziona/STM + li/SUF + smo/STM
+1 spingere/STM
+15 nello/STM
+20 merca/STM + to/SUF
+1 sicci/STM + tà/STM
+1 acquis/STM + i/SUF + zione/STM
+4 corsi/STM
+1 Gordon/STM
+7 tonica/STM
+1 restauro/STM
+4 cm/STM
+1 teori/STM + zza/STM + ndo/SUF
+2 1912/STM
+2 1689/STM
+1 organi/STM + zza/STM + zioni/SUF
+2 religio/STM + so/STM
+1 drammatici/STM
+1 preda/STM
+1 scomparse/STM
+3 disciplina/STM
+5 pop/STM
+1 Buenos/STM
+1 Tra/STM + sport/STM + i/SUF
+2 addomesticare/STM
+1 Quentin/STM
+3 grossi/STM
+1 vulga/STM + ta/SUF
+2 Curie/STM
+1 cambi/STM + are/SUF
+1 integr/STM + a/SUF + ti/SUF + vo/STM
+10 europea/STM
+1 tromb/STM + a/SUF
+3 necessari/STM + a/SUF
+1 dov/STM + rebbe/STM
+1 gara/STM
+2 cosidde/STM + tti/STM
+4 1963/STM
+1 pre/STM + i/SUF + storici/STM
+1 mon/STM + archi/STM + a/SUF
+1 Juan/STM
+1 1219/STM
+2 Milton/STM
+4 anim/STM + a/SUF + le/SUF
+1 1996/STM
+1 inter/STM + romp/STM + endo/STM
+2 eretti/STM
+3 chiam/STM + a/SUF + to/SUF
+3 allontanamento/STM
+15 capaci/STM + tà/STM
+1 ecc/STM + e/SUF + zione/STM
+2 individua/STM + li/SUF
+1 tratta/STM + re/SUF
+1 1469/STM
+2 pens/STM + are/SUF
+2 pra/STM + tiche/STM
+2 por/STM + zione/STM
+1 Van/STM
+1 Avatar/STM
+1 presti/STM + to/SUF
+1 sti/STM + pend/STM + i/SUF
+2 genera/STM + li/SUF + sta/STM
+8 1800/STM
+1 Martínezil/STM
+201 un/STM
+5 timbro/STM
+2 1740/STM
+12 ruolo/STM
+1 lotta/STM
+5 suonato/STM + re/SUF
+1 scritto/STM + re/SUF
+1 massaggi/STM
+2 stabil/STM + e/SUF
+4 prese/STM
+1 corru/STM + zione/STM
+5 Anseri/STM + for/STM + mi/STM
+1 1892/STM
+3 test/STM
+2 committ/STM + enza/STM
+11 antrop/STM + ologia/STM
+1 prefe/STM + re/SUF + nzia/STM + le/SUF
+1 evolu/STM + zioni/SUF
+1 polline/STM
+2 seppur/STM
+9 pro/STM + cesso/STM
+2 determi/STM + na/STM + zioni/STM
+20 Centr/STM + a/SUF + le/SUF
+4 1575/STM
+3 inter/STM + essi/STM
+3 21/STM
+1 illumina/STM + no/SUF
+43 Stati/STM
+8 ne/STM
+1 immortale/STM
+5 patria/STM
+1 1939/STM
+1 ecc/STM + e/SUF + llenza/STM
+1 compl/STM + essi/STM
+1 addizion/STM + a/SUF + le/SUF
+24 questa/STM
+1 di/PRE + fe/STM + tto/STM
+2 music/STM + a/SUF + lmente/STM
+2 1223/STM
+1 Vincent/STM
+1 dis/STM + o/SUF
+8 este/STM + tica/STM
+1 Timothy/STM
+31 nell/STM + e/SUF
+1 fluviali/STM
+1 Occid/STM + e/SUF + nta/STM + li/SUF
+1 1349/STM
+1 compact/STM
+2 1924/STM
+9 quel/STM + le/SUF
+5 sussistenza/STM
+2 considera/STM + zioni/STM
+1 loc/STM + azione/SUF
+2 1447/STM
+1 Ger/STM + mano/STM
+10 valo/STM + re/SUF
+3 lasci/STM + a/SUF + to/SUF
+1 prim/STM + a/SUF + ria/STM
+1 av/STM + rebbe/STM
+2 Pete/STM
+13 secolo/STM
+1 Dak/STM + o/SUF + ta/SUF
+3 suf/STM + fici/STM + ente/STM
+2 usa/STM + no/SUF
+1 vol/STM + e/SUF + re/SUF
+7 europee/STM
+1 laica/STM
+1 segui/STM + ran/STM + no/SUF
+2 sparti/STM + acque/STM
+1 vicini/STM
+5 pri/STM + va/SUF
+2 inf/STM + eriori/STM
+1 ester/STM + i/SUF
+2 aggiunga/STM
+1 l/STM + abbra/STM
+1 elenca/STM + ta/SUF
+2 Suprema/STM
+2 coinvol/STM + ta/SUF
+4 cosmo/STM + nauti/STM
+3 privat/STM + izz/STM + azione/SUF
+1 Österreich/STM + i/SUF + scher/STM
+1 Bobby/STM
+3 Amsterdam/STM
+1 di/PRE + veni/STM + re/SUF
+1 Francis/STM + co/STM
+2 chiave/STM
+1 anne/STM + ssero/STM
+2 sca/STM + le/SUF
+1 plas/STM + tica/STM
+1 problema/STM
+3 1890/STM
+1 stud/STM + i/SUF + a/SUF + te/SUF
+22 dello/STM
+1 C/STM + re/SUF + sce/STM
+2 confina/STM
+3 Linne/STM + o/SUF
+1 co/STM + scienza/STM
+1 scop/STM + rono/STM
+2 fitofarmaci/STM
+2 Vediamo/STM
+6 isol/STM + a/SUF + ti/SUF
+2 metodi/STM
+1 unanime/STM + mente/SUF
+1 Appenni/STM + ni/STM
+8 ci/STM
+4 1973/STM
+1 Alvin/STM
+3 Stori/STM + a/SUF
+1 lasci/STM + ò/SUF
+4 vasta/STM
+12 gover/STM + no/SUF
+7 sette/STM + mbre/STM
+1 O/STM + re/SUF + gon/STM
+1 al/STM + ti/SUF
+2 com/STM + medi/STM + a/SUF
+1 abbazie/STM
+5 esper/STM + i/SUF + enza/STM
+1 Ma/STM + li/SUF + ka/STM
+3 computer/STM
+10 fa/STM
+12 queste/STM
+7 Potter/STM
+2 asia/STM + tiche/STM
+1 Condes/STM
+1 8500/STM
+1 ulterio/STM + re/SUF
+3 Slovenia/STM
+2 1704/STM
+1 elenca/STM + te/SUF
+1 Rowling/STM
+2 Orien/STM + tale/STM
+2 1488/STM
+1 Inuit/STM
+6 Antille/STM
+4 de/STM
+2 imp/STM + le/SUF + ment/STM + ò/SUF
+1 Tra/STM + di/PRE + zioni/STM
+1 bigli/STM + e/SUF + tti/STM
+5 coltiv/STM + azione/SUF
+1 permette/STM + re/SUF
+4 1606/STM
+1 Afghanistan/STM
+2 labor/STM + atori/STM
+1 di/PRE + stribu/STM + endo/STM
+1 superflu/STM + i/SUF
+1 fun/STM + ziona/STM + ri/STM + o/SUF
+2 1483/STM
+3 vetta/STM
+3 colon/STM + izz/STM + azione/SUF
+3 poter/STM
+1 radio/STM + tele/STM + visione/STM
+1 Wounaan/STM
+13 Tra/STM
+5 cose/STM
+2 men/STM + ziona/STM + ti/SUF
+1 Stagirita/STM
+1 mo/STM + mento/SUF
+4 vibr/STM + azione/SUF
+3 veni/STM + vano/STM
+1 concime/STM
+2 ἀρχι/STM + τέκτων/STM
+2 rilev/STM + ando/STM
+413 la/STM
+2 1178/STM
+4 1732/STM
+1 Con/STM + gresso/STM
+3 vaporiera/STM
+3 Tuttavia/STM
+1 cancell/STM + are/SUF
+2 1489/STM
+1 sta/STM + gion/STM + a/SUF + le/SUF
+4 ricerca/STM
+4 conife/STM + re/SUF
+14 vari/STM + a/SUF + nza/STM
+1 ben/STM + ché/STM
+1 organi/STM
+1 lavor/STM + a/SUF + ti/SUF + va/SUF
+1 El/STM
+3 ana/STM + lizz/STM + are/SUF
+4 maturità/STM
+1 re/STM + gre/STM + ssione/STM
+2 provveda/STM
+1 Mon/STM + tagne/STM
+3 cognome/STM
+26 bianco/STM
+3 Jahrndorf/STM
+5 Adige/STM
+1 committ/STM + enti/STM
+2 archi/STM + te/SUF + ktur/STM
+1 estesa/STM
+2 1433/STM
+1 sca/STM + li/SUF
+1 anoma/STM + li/SUF + e/SUF
+1 manifest/STM + avano/STM
+1 Industri/STM + a/SUF + le/SUF
+2 fon/STM + etica/STM
+2 valut/STM + a/SUF + to/SUF
+8 1810/STM
+2 1201/STM
+1 coinvol/STM + ge/STM + rà/STM
+1 cistercensi/STM
+2 1431/STM
+1 per/STM + no/SUF
+1 figura/STM
+1 Aru/STM + ndo/SUF
+11 paese/STM
+3 fatica/STM
+1 rese/STM
+1 Nervi/STM
+1 classific/STM + a/SUF + te/SUF
+2 for/STM + mul/STM + are/SUF
+3 acc/STM + e/SUF + zione/STM
+2 sfavori/STM + to/SUF
+2 vendi/STM + te/SUF
+1 re/STM + pubblica/STM + no/SUF
+3 prese/STM + nta/STM + rsi/STM
+1 ultravio/STM + le/SUF + tti/STM
+1 Dendrocygninae/STM
+1 nipponico/STM
+9 era/STM + no/SUF
+1 ap/STM + port/STM + a/SUF + to/SUF
+4 pittura/STM
+2 Erwin/STM
+11 orienta/STM + le/SUF
+1 regol/STM + a/SUF + ri/STM
+3 Sud/STM
+1 Bill/STM
+12 capi/STM + tale/STM
+1 al/STM + ternativa/STM
+2 collet/STM + tiva/STM + mente/SUF
+4 nuclei/STM
+1 equival/STM + ente/STM + mente/SUF
+2 eletto/STM
+2 fine/STM + str/STM + e/SUF
+3 atmosf/STM + e/SUF + rici/STM
+4 1604/STM
+5 Bosco/STM
+1 von/STM
+1 poter/STM + si/SUF
+2 poss/STM + esso/STM + re/SUF
+2 Mini/STM + stro/STM
+8 x/STM
+4 alpi/STM + no/SUF
+1 sci/STM + o/SUF + per/STM + o/SUF
+1 bracci/STM + anti/STM
+1 G/STM + o/SUF + gh/STM
+1 diret/STM + trici/STM
+1 indagini/STM
+1 venti/STM
+3 terreni/STM
+1 Ucrain/STM + a/SUF
+3 integr/STM + a/SUF + ta/SUF
+1 credo/STM
+13 attra/STM + verso/STM
+5 imp/STM + re/SUF + nditori/STM
+3 stud/STM + i/SUF
+2 Sel/STM + va/SUF
+5 numero/STM + se/STM
+2 1934/STM
+1 gli/STM + e/SUF + la/STM
+1 scritti/STM
+1 breve/STM + tto/STM
+1 Serra/STM
+1 trampolini/STM
+3 1239/STM
+1 conca/STM
+16 sue/STM
+2 profess/STM + ioni/STM
+1 Memory/STM
+1 ave/STM + ndo/SUF
+3 colon/STM + i/SUF + e/SUF
+1 Algeria/STM
+1 norma/STM + le/SUF
+1 Pante/STM + re/SUF
+1 Blair/STM
+12 seconda/STM
+6 corso/STM
+3 Altro/STM
+3 maggio/STM + r/SUF + i/SUF
+1 artisti/STM + ci/STM
+2 1581/STM
+2 governi/STM
+2 1247/STM
+3 Questi/STM
+4 1801/STM
+6 maggio/STM + r/SUF + anza/STM
+81 o/STM
+5 1809/STM
+5 forma/STM + re/SUF
+1 Dove/STM
+3 Comun/STM + e/SUF
+1 Snedecor/STM
+1 Gatún/STM
+1 Temati/STM + che/SUF
+1 Comun/STM + ica/STM + zioni/STM
+1 pian/STM + e/SUF + ti/SUF
+1 clarin/STM + etto/STM
+2 detta/STM + ta/SUF
+3 riduce/STM
+1 atte/STM + sta/STM + ta/SUF
+2 Josif/STM
+1 naturali/STM + smo/STM
+1 ricono/STM + sci/STM + uto/STM
+2 1584/STM
+1 costitu/STM + endo/STM
+2 caratteri/STM + zza/STM + to/SUF
+2 aerei/STM
+2 25/STM
+1 lasci/STM
+3 1870/STM
+6 1079/STM
+2 provoc/STM + ando/STM
+2 affatto/STM
+2 tipico/STM
+2 F/STM + a/SUF
+1 industria/STM + lizz/STM + a/SUF + te/SUF
+1 autostrad/STM + a/SUF + le/SUF
+1 torne/STM + o/SUF
+5 1735/STM
+1 K/STM
+5 tro/STM + va/SUF
+2 storica/STM
+3 Segue/STM + ndo/SUF
+1 Col/STM
+1 affranca/STM + to/SUF
+2 gamma/STM
+2 ben/STM
+2 Fiori/STM
+8 popol/STM + azion/STM + i/SUF
+1 innov/STM + atori/STM
+20 sta/STM + ti/SUF
+2 libera/STM + li/SUF
+12 padre/STM
+189 per/STM
+3 facendo/STM
+2 par/STM + ti/SUF + ti/SUF
+2 1815/STM
+8 insul/STM + are/SUF
+2 Rombo/STM
+1 redditizie/STM
+12 regione/STM
+3 meta/STM + morfica/STM
+1 post/STM
+1 Parachutes/STM
+1 1189/STM
+3 produt/STM + tivi/STM
+1 diretto/STM + re/SUF
+1 giardini/STM
+1 raggiungi/STM + bili/STM
+4 1624/STM
+2 1660/STM
+4 risulta/STM + to/SUF
+3 Bundesrat/STM
+1 Por/STM + to/SUF
+2 1552/STM
+2 possano/STM
+5 Lx/STM
+1 fisi/STM + che/SUF
+26 su/STM
+2 chiamer/STM + ebbero/STM
+1 Button/STM
+2 caratte/STM + re/SUF
+4 loca/STM + li/SUF
+5 limi/STM + ta/SUF
+1 Sepúlveda/STM
+19 quello/STM
+1 linea/STM + re/SUF
+1 Martin/STM + ica/STM
+2 Medio/STM
+6 analisi/STM
+1 essi/STM
+2 corrisponde/STM
+2 1441/STM
+2 1227/STM
+7 tre/STM
+2 Nebrodi/STM
+1 occhio/STM
+2 permanenza/STM
+1 este/STM + ti/SUF + smo/STM
+4 Nonostante/STM
+1 Guadalupa/STM
+2 tasti/STM + era/STM
+2 Dilaga/STM
+1 sotto/STM + linea/STM + no/SUF
+2 1115/STM
+3 aggiunge/STM
+27 qual/STM + e/SUF
+1 Balta/STM
+1 celebrità/STM
+2 1203/STM
+3 determi/STM + na/STM + ti/SUF
+1 Siria/STM
+3 pubblica/STM
+1 coordina/STM + te/SUF
+2 detenuti/STM
+2 Anatra/STM
+18 questi/STM
+3 moto/STM
+3 ripet/STM + uti/STM
+1 inter/STM + ven/STM + uti/STM
+1 principi/STM + are/SUF
+1 tra/STM + pian/STM + ta/SUF + ti/SUF
+1 tirolesi/STM
+3 Josef/STM
+1 geografi/STM + camente/STM
+1 vinse/STM
+2 1443/STM
+2 interessante/STM
+2 dis/STM + corso/STM
+1 necessi/STM + ta/SUF + no/SUF
+1 pro/STM + lunga/STM
+1 Con/STM + te/SUF + a/SUF
+6 USA/STM
+1 1894/STM
+4 mor/STM + te/SUF
+1 mantenuti/STM
+2 riferi/STM + rsi/STM
+2 abili/STM + tà/STM
+16 spesso/STM
+2 1929/STM
+318 in/STM
+5 cileni/STM
+1 aff/STM + a/SUF + ccia/STM
+1 teme/STM + ndo/SUF
+1 contribu/STM + i/SUF + to/SUF
+2 Joseph/STM + stadt/STM
+3 ufficial/STM + i/SUF
+1 annual/STM + e/SUF
+1 in/STM + suc/STM + cesso/STM
+1 age/STM + nzie/STM
+5 raggi/STM
+1 aff/STM + i/SUF + ttanze/STM
+2 kolossal/STM
+3 includ/STM + a/SUF
+1 laghetti/STM
+1 Tadornini/STM
+38 sia/STM
+1 invi/STM + a/SUF + to/SUF
+10 vol/STM + te/SUF
+1 esp/STM + li/SUF + cative/STM
+1 suicid/STM + i/SUF + o/SUF
+1 mosaico/STM
+1 osserva/STM + zione/STM
+5 rili/STM + e/SUF + vi/STM
+4 pur/STM
+1 commercial/STM + mente/SUF
+1 frequ/STM + e/SUF + nta/STM + ti/SUF
+1 Roma/STM
+1 Takita/STM
+2 caten/STM + a/SUF
+12 periodo/STM
+3 1867/STM
+1 archi/STM + tetton/STM + i/SUF + che/SUF
+1 dannosa/STM
+10 È/STM
+4 1807/STM
+1 Moncada/STM
+1 adotta/STM + rono/STM
+3 completa/STM + ndo/SUF
+1 classific/STM + are/SUF
+8 libera/STM
+2 2002/STM
+2 compre/STM + so/STM
+2 budget/STM
+1 anno/STM + vera/STM + va/SUF
+3 fiducia/STM
+1 redd/STM + i/SUF + to/SUF
+1 Novembre/STM
+1 sopra/STM + nnomineranno/STM
+1 col/STM + labor/STM + azione/SUF
+4 1981/STM
+2 di/STM + le/SUF + mma/STM
+2 intrattiene/STM
+4 1453/STM
+4 principal/STM + e/SUF
+1 ἀστρονομία/STM
+2 1548/STM
+1 tendo/STM + no/SUF
+1 conserv/STM + a/SUF + to/SUF + re/SUF
+2 vista/STM
+2 1543/STM
+1 Sofferente/STM
+2 inizia/STM + ta/SUF
+1 compi/STM + to/SUF
+1 Ex/STM + upéry/STM
+1 árchein/STM
+4 america/STM + na/STM
+2 uni/STM + versi/STM + tà/STM
+5 esi/STM + genze/STM
+1 sub/STM + alpine/STM
+1 riferi/STM + ta/SUF
+6 ugu/STM + a/SUF + glianza/STM
+4 1072/STM
+4 sessanta/STM
+3 alpi/STM
+4 50/STM
+2 conobbe/STM
+1 bassa/STM
+4 1458/STM
+1 villa/STM
+1 greca/STM
+4 commer/STM + cio/STM
+1 grossa/STM
+1 meta/STM + for/STM + ica/STM + mente/SUF
+3 qual/STM + i/SUF + tà/STM
+4 libero/STM
+2 1958/STM
+2 vegeta/STM + li/SUF
+2 meccani/STM + ca/STM
+1 loca/STM + le/SUF
+1 Biziurini/STM
+2 realizza/STM
+2 1224/STM
+1 Alaska/STM
+1 cellulosa/STM
+10 Preside/STM + nte/STM
+44 Pino/STM + chet/STM
+7 Questa/STM
+2 sharing/STM
+4 regol/STM + azione/SUF
+1 concepi/STM + ta/SUF
+3 poter/STM + e/SUF
+2 1484/STM
+3 chiaro/STM
+14 termine/STM
+8 sta/STM + te/SUF
+4 macchine/STM
+5 con/STM + testo/STM
+1 autoc/STM + to/SUF + ni/STM
+2 prezzi/STM
+2 cor/STM + ti/SUF
+9 allora/STM
+1 carbur/STM + ante/STM
+1 d/STM + unque/STM
+2 1080/STM
+1 tor/STM + ment/STM + a/SUF + to/SUF
+1 statu/STM + to/SUF
+1 fin/STM
+3 tro/STM + va/SUF + rono/STM
+2 considera/STM + zione/STM
+1 notiziari/STM
+1 CAFTA/STM
+1 riluttante/STM
+3 saga/STM
+3 1775/STM
+1 Usi/STM
+3 archi/STM + te/SUF + tti/STM
+1 cogli/STM + e/SUF + va/SUF
+2 armon/STM + ico/STM
+3 forma/STM + ta/SUF
+2 fiori/STM + te/SUF
+3 Se/STM
+1 con/STM + i/SUF + a/SUF + to/SUF
+1 and/STM + a/SUF + ti/SUF
+11 Hoffman/STM
+4 basa/STM + to/SUF
+2 forma/STM + ndo/SUF
+1 Mayr/STM
+1 capi/STM + tali/STM
+1 1019/STM
+2 doppia/STM
+1 lettera/STM + ri/STM
+2 indipend/STM + enza/STM
+26 invece/STM
+1 100/STM
+2 My/STM
+2 periodi/STM + camente/STM
+1 papaya/STM
+1 1059/STM
+1 tendenza/STM
+4 tempera/STM + mento/SUF
+1 Nebro/STM + i/SUF + di/STM
+1 impressionanti/STM
+1 appiatti/STM + ti/SUF
+1 Statutar/STM + städte/STM
+3 Can/STM + a/SUF + da/STM
+1 medi/STM + a/SUF + te/SUF
+3 tempi/STM + o/SUF
+1 basa/STM + va/SUF
+1 geografi/STM + co/STM
+8 chiam/STM + a/SUF + ti/SUF
+1 palude/STM
+1 offsh/STM + o/SUF + re/SUF
+2 popol/STM + i/SUF
+1 veloce/STM + mente/SUF
+3 nudo/STM
+2 Ogni/STM
+2 Zhang/STM
+1 punk/STM
+12 di/PRE + ffer/STM + enza/STM
+2 Poco/STM
+2 con/STM + ta/SUF + di/PRE + ni/STM
+2 vanno/STM
+2 vendette/STM
+2 basse/STM
+10 città/STM
+2 1631/STM
+1 Bezirk/STM
+1 basca/STM
+1 class/STM + ico/STM
+3 giuri/STM + di/PRE + ci/STM
+1 ecc/STM + e/SUF + zioni/SUF
+4 pro/STM + te/SUF + sta/STM
+1 d/STM
+2 este/STM + tici/STM
+1 defin/STM + ì/STM
+1 1344/STM
+2 considera/STM
+1 gabinetto/STM
+1 Unterstufe/STM
+1 da/STM + ta/SUF + to/SUF
+1 tradusse/STM
+2 even/STM + to/SUF
+1 Arles/STM
+1 plasma/STM + re/SUF
+29 sul/STM
+2 fram/STM + mento/SUF
+3 fis/STM + armon/STM + ica/STM
+1 fagotto/STM
+22 dove/STM
+4 1808/STM
+1 stud/STM + i/SUF + o/SUF + si/SUF
+2 Tu/STM + i/SUF + ria/STM
+1 tenuto/STM + si/SUF
+8 cer/STM + to/SUF
+1 antonomasia/STM
+3 succede/STM
+1 rimorso/STM
+1 inter/STM + a/SUF + mente/SUF
+1 rinnova/STM + mento/SUF
+1 eserc/STM + i/SUF + to/SUF
+1 H/STM + e/SUF + nry/STM
+1 Haddon/STM
+1 resta/STM + nti/STM
+1 De/STM + termi/STM + nazion/STM + e/SUF
+3 front/STM + i/SUF + ere/SUF
+1 bian/STM + chi/STM
+4 1796/STM
+3 cinema/STM + to/SUF + grafica/STM
+1 Miquelon/STM
+5 spinta/STM
+1 sub/STM + ordina/STM + ta/SUF
+4 1386/STM
+1 bello/STM
+1 pri/STM + va/SUF + te/SUF
+1 1661/STM
+1 derise/STM
+2 1202/STM
+3 vice/STM + versa/STM
+2 possibili/STM
+2 sub/STM + acque/STM + a/SUF
+1 cittadin/STM + o/SUF
+1 con/STM + ta/SUF + re/SUF
+1 speci/STM + fic/STM + i/SUF + tà/STM
+2 borghese/STM
+19 Ger/STM + mani/STM + a/SUF
+14 stesso/STM
+1 stagni/STM
+1 gen/STM + e/SUF + tica/STM + mente/SUF
+12 Note/STM
+1 determi/STM + na/STM + zione/STM
+1 Bundesstaat/STM
+2 lampo/STM
+4 Slovacchia/STM
+1 Car/STM + i/SUF + nzia/STM
+1 Oleg/STM
+7 industria/STM + le/SUF
+4 principi/STM
+1 compositori/STM
+1 lati/STM + no/SUF + america/STM + ne/STM
+3 India/STM + no/SUF
+1 av/STM + i/SUF + azione/SUF
+1 FPÖ/STM
+3 1987/STM
+2 inna/STM + te/SUF
+2 passa/STM
+6 nazista/STM
+1 Na/STM + zioni/SUF
+5 Non/STM
+2 1237/STM
+2 sindac/STM + ali/STM
+1 cel/STM + este/STM
+1 Aires/STM
+2 oboe/STM
+2 acc/STM + e/SUF + zioni/STM
+1 povera/STM
+1 Pensiero/STM
+10 lingue/STM
+1 con/STM + duce/STM + ndo/SUF
+2 colloc/STM + a/SUF + ti/SUF
+2 1682/STM
+8 impor/STM + ta/SUF + nti/SUF
+1 Babel/STM
+1 fina/STM + nzia/STM + ri/STM + o/SUF
+1 Dollfuß/STM
+4 argo/STM + ment/STM + i/SUF
+2 1703/STM
+1 omogenei/STM + tà/STM
+1 costru/STM + isce/STM
+2 oppositori/STM
+3 Scartata/STM
+14 stru/STM + ment/STM + i/SUF
+2 1962/STM
+4 tempo/STM + r/SUF + a/SUF + le/SUF
+17 popol/STM + azione/SUF
+16 tipo/STM
+2 diretto/STM
+1 Nero/STM
+2 docu/STM + ment/STM + i/SUF
+2 inform/STM + azion/STM + i/SUF
+3 la/STM + to/SUF
+6 prim/STM + a/SUF + to/SUF
+5 mon/STM + di/STM + a/SUF + le/SUF
+1 dimens/STM + ione/STM
+4 democra/STM + tico/STM
+3 occiden/STM + tali/STM
+8 centr/STM + a/SUF + le/SUF
+2 social/STM + i/SUF
+3 allo/STM
+1 rientr/STM + o/SUF
+2 sistema/STM + tico/STM
+6 piccola/STM
+3 cor/STM + re/SUF + nti/STM
+1 Village/STM
+1 processi/STM
+10 Questo/STM
+2 suonato/STM
+3 Elenco/STM
+1 scolas/STM + tica/STM
+2 1708/STM
+3 spieg/STM + are/SUF
+3 cede/STM
+2 nucleo/STM
+1 Co/STM
+3 migr/STM + are/SUF
+6 basa/STM + te/SUF
+4 rela/STM + zione/STM
+3 adatt/STM + abili/STM + tà/STM
+4 nativi/STM
+4 1261/STM
+1 inond/STM + azion/STM + i/SUF
+1 rimanerlo/STM
+3 procede/STM + re/SUF
+3 metallo/STM
+1 qual/STM + i/SUF + ta/SUF + tivi/STM
+1 silvestre/STM
+2 docu/STM + ment/STM + azione/SUF
+1 publi/STM + cus/STM
+5 oca/STM
+5 pari/STM
+1 comun/STM + i/SUF + ca/STM + zione/STM
+4 costitu/STM + i/SUF + to/SUF
+1 ri/STM + costru/STM + zione/STM
+3 1812/STM
+1 sud/STM + america/STM + no/SUF
+2 riconobbe/STM
+1 semi/STM + nata/STM
+2 inter/STM + ven/STM + to/SUF
+2 superfici/STM
+1 declassific/STM + a/SUF + ti/SUF
+9 10/STM
+2 chimici/STM
+1 ribadita/STM
+2 verific/STM + a/SUF + ti/SUF
+1 flusso/STM
+1 Schu/STM + le/SUF
+2 accorda/STM + tura/STM
+1 fanno/STM
+9 milioni/STM
+1 imp/STM + o/SUF + sti/STM
+1 Taranti/STM + no/SUF
+1 reper/STM + to/SUF
+2 cor/STM + re/SUF + lati/STM
+1 avevo/STM
+1 guadagna/STM + no/SUF
+6 India/STM
+3 sosten/STM + gono/STM
+2 Trascinatosi/STM
+2 Avigliana/STM
+1 proveni/STM + enza/STM
+2 sosta/STM + nzia/STM + lmente/STM
+1 implica/STM + va/SUF
+7 pro/STM + muove/STM + re/SUF
+4 inter/STM + no/SUF
+1 ll/STM
+2 fabbri/STM + che/SUF
+6 edifici/STM + o/SUF
+1 ru/STM + o/SUF + li/SUF
+1 lavor/STM + ò/SUF
+1 Britannica/STM
+1 Anse/STM + ran/STM + atidae/STM
+1 auto/STM
+4 1524/STM
+14 fine/STM
+2 Ronald/STM
+1 operis/STM
+1 pre/STM + giudi/STM + zio/STM
+2 visse/STM
+1 anzi/STM + ano/STM
+4 sguardo/STM
+6 fun/STM + zione/STM
+1 ta/STM + ssi/STM
+2 comport/STM + amentali/STM
+4 1077/STM
+1 conf/STM + li/SUF + tti/STM
+2 MP3/STM
+4 armon/STM + ica/STM
+1 Calabria/STM
+11 cultura/STM + le/SUF
+1 colpi/STM + te/SUF
+2 com/STM + pre/STM + ssione/STM
+2 fon/STM + ti/SUF
+1 USB/STM
+2 1208/STM
+1 dimostr/STM + are/SUF
+2 appennini/STM
+1 diffu/STM + so/STM
+2 1205/STM
+2 bordoni/STM
+4 suddivi/STM + sa/STM
+1 flauto/STM
+2 nati/STM
+6 forma/STM + zione/STM
+1 messo/STM
+6 caratteri/STM
+1 contrastarla/STM
+2 1125/STM
+1 Giunta/STM
+3 riuni/STM + te/SUF
+1 Minutes/STM
+13 sopra/STM + ttu/STM + tto/STM
+3 183/STM
+1 consolid/STM + ò/SUF
+2 Provincia/STM
+1 leg/STM + a/SUF + ta/SUF
+4 materie/STM
+1 Vera/STM
+98 Eventi/STM
+1 Alban/STM
+1 tratto/STM + re/SUF
+4 1882/STM
+2 School/STM
+1 prim/STM + i/SUF + tivi/STM
+1 scelte/STM
+2 1817/STM
+2 este/STM + nsione/STM
+4 estr/STM + e/SUF + mità/STM
+2 Boy/STM
+3 fitte/STM
+1 sci/STM
+3 etno/STM + logici/STM
+3 regimi/STM
+1 Geogra/STM + phical/STM
+1 appropri/STM + azione/SUF
+1 oggetti/STM + vo/STM
+3 determi/STM + na/STM + to/SUF
+1 garanti/STM + re/SUF
+29 Per/STM
+2 ondata/STM
+1 sotto/STM + regioni/STM
+2 mon/STM + e/SUF + ta/SUF + ristiche/STM
+1 concordato/STM
+1 Chan/STM
+3 asburg/STM + ici/STM
+1 arre/STM + sta/STM + ti/SUF
+1 forma/STM + to/SUF
+1 Nicolucci/STM
+1 Madoni/STM + e/SUF
+3 riceve/STM + tte/STM
+1 Oper/STM + e/SUF
+1 tra/STM + di/PRE + ng/STM
+2 1490/STM
+11 paro/STM + le/SUF
+2 materia/STM + le/SUF
+7 Parco/STM
+1 clarin/STM + e/SUF + tti/STM
+1 ricorda/STM + no/SUF
+2 l/STM + e/SUF + mmi/STM
+6 ambi/STM + enti/STM
+1 Ri/STM + o/SUF
+2 1632/STM
+1 ἄστρον/STM
+1 compone/STM
+1 maestoso/STM
+11 albero/STM
+1 inser/STM + isce/STM
+1 applica/STM + zioni/SUF
+2 mi/STM + no/SUF + ri/STM
+1 Distretti/STM
+2 fatti/STM
+1 attori/STM
+2 ²/STM
+3 pro/STM + tagonista/STM
+2 Boys/STM
+18 genera/STM + le/SUF
+2 1481/STM
+3 Mondo/STM
+1 favori/STM + va/SUF
+1 Currency/STM
+1 Patrick/STM
+2 esclu/STM + si/SUF + va/STM + mente/SUF
+1 cri/STM + tici/STM
+1 coltiv/STM + a/SUF + ti/SUF
+5 mol/STM + te/SUF
+1 conci/STM
+6 situ/STM + azione/SUF
+1 Anassimandro/STM
+1 idrorepell/STM + enti/STM
+11 volume/STM
+3 compre/STM + nde/STM + rne/STM
+1 mate/STM + matica/STM
+5 2009/STM
+1 ante/STM + riore/STM
+2 compl/STM + essa/STM
+2 fusta/STM + i/SUF + e/SUF
+4 California/STM
+12 Unione/STM
+2 fina/STM + nzia/STM + ti/SUF
+1 vivo/STM + no/SUF
+2 Euro/STM
+1 quo/STM + ta/SUF
+5 austria/STM + che/SUF
+1 di/PRE + venne/STM
+1 Survey/STM
+1 sintesi/STM
+26 sempre/STM
+1 Etruria/STM
+1 vi/STM + e/SUF + nnese/STM
+4 appunto/STM
+1 con/STM + to/SUF
+1 pro/STM + te/SUF + ste/STM
+1 Indie/STM
+1 eserc/STM + i/SUF + ta/SUF + to/SUF
+7 comun/STM + e/SUF
+4 uccelli/STM
+1 as/STM + sicura/STM + no/SUF
+1 Gerico/STM
+2 naturali/STM + zza/STM + to/SUF
+1 PET/STM
+1 Piranesi/STM
+4 ÖVP/STM
+1 paga/STM + ti/SUF
+2 sta/STM + gion/STM + e/SUF
+2 Venezuela/STM
+5 port/STM + a/SUF + rono/STM
+1 imp/STM + o/SUF + se/STM
+1 significa/STM + re/SUF
+1 1986/STM
+5 terz/STM + o/SUF
+4 1450/STM
+1 Blu/STM
+3 vicende/STM
+2 Carni/STM + che/SUF
+2 Panamá/STM
+1 con/STM + test/STM + atori/STM
+2 Morfo/STM + logi/STM + a/SUF
+2 sa/STM + te/SUF + lli/STM + ta/SUF + ri/STM
+3 1709/STM
+9 nazion/STM + e/SUF
+11 comun/STM + e/SUF + mente/SUF
+1 strani/STM + e/SUF + ro/STM
+1 cinqua/STM + ntina/STM
+1 posi/STM + tivi/STM
+6 Svi/STM + zzera/STM
+2 1204/STM
+1 eco/STM + logi/STM + che/SUF
+4 1451/STM
+2 1154/STM
+7 teori/STM + a/SUF
+3 realizza/STM + re/SUF
+4 1625/STM
+1 glob/STM + i/SUF
+5 r/PRE + aggiunge/STM + re/SUF
+4 60/STM
+1 governa/STM + tive/STM
+2 1701/STM
+2 tanto/STM
+1 re/STM + ndi/STM + ta/SUF
+2 1545/STM
+1 ospita/STM + va/SUF
+6 con/STM + front/STM + o/SUF
+1 borisii/STM
+3 peso/STM
+3 horror/STM
+1 applica/STM + ta/SUF
+3 sof/STM + tware/STM
+1 scriv/STM + e/SUF + re/SUF
+3 genera/STM
+14 alcun/STM + e/SUF
+2 500/STM
+1 cre/STM + are/SUF
+1 Con/STM + serv/STM + atore/STM
+1 decade/STM
+1 forni/STM + ta/SUF
+1 liu/STM + te/SUF + ria/STM
+1 1857/STM
+19 particolar/STM + e/SUF
+4 Austria/STM
+1 atte/STM + sta/STM + to/SUF
+1 confusa/STM
+1 BZÖ/STM
+1 di/PRE + tta/STM + ture/STM
+1 usi/STM
+1 scritto/STM
+2 attre/STM + zza/STM + ture/STM
+1 approv/STM + arono/STM
+1 segnerà/STM
+1 Baumgarten/STM
+2 best/STM
+1 designa/STM + to/SUF
+2 Muovendosi/STM
+5 propri/STM + a/SUF
+14 per/STM + ò/SUF
+2 fanismo/STM
+2 approv/STM + a/SUF + ta/SUF
+4 buon/STM + a/SUF
+2 gravita/STM + ziona/STM + li/SUF
+1 Eugen/STM
+1 ruppe/STM
+5 soddis/STM + fa/STM + re/SUF
+3 rettangolare/STM
+2 selvi/STM + coltura/STM
+4 1266/STM
+1 acco/STM + mpagna/STM
+1 militar/STM + mente/SUF
+1 Esi/STM + genze/STM
+2 1427/STM
+4 1383/STM
+1 determi/STM + na/STM + ssero/STM
+1 996/STM
+2 incompatibili/STM
+5 Società/STM
+3 16/STM
+1 dove/STM + sse/STM
+1 trementina/STM
+2 abbienti/STM
+1 1500/STM
+8 1070/STM
+1 mo/STM + della/STM + re/SUF
+3 catalogazione/STM
+4 mettere/STM
+6 contro/STM + llo/STM
+4 Dal/STM
+2 illeg/STM + almente/STM
+1 anglo/STM + foni/STM
+1 Disco/STM + te/SUF + che/SUF
+1 1937/STM
+1 statu/STM + a/SUF
+1 risonanti/STM
+2 Comarca/STM
+8 interna/STM
+2 1036/STM
+2 lavor/STM + are/SUF
+5 simbolo/STM
+5 1389/STM
+1 b/STM + re/SUF + vi/STM
+3 campagne/STM
+2 5000/STM
+1 piscivo/STM + re/SUF
+14 nord/STM
+1 occupa/STM + re/SUF
+1 ri/STM + tenuto/STM
+1 sci/STM + o/SUF + gliendo/STM
+1 atto/STM
+1 speci/STM + fic/STM + a/SUF + to/SUF
+2 divismo/STM
+6 costo/STM
+1 caratteri/STM + zza/STM + rono/STM
+2 funera/STM + li/SUF
+1 fabbri/STM + ca/STM + re/SUF
+1 ton/STM + i/SUF + ficanti/STM
+1 contro/STM + versi/STM
+1 ali/STM + ment/STM + i/SUF
+1 Fidel/STM
+5 alimentari/STM
+2 Schrödinger/STM
+1 sca/STM + ture/STM + ndo/SUF
+4 Argentina/STM
+1 Lamballe/STM
+7 basa/STM + ta/SUF
+1 E/STM + milia/STM
+2 influ/STM + enza/STM + ti/SUF
+2 necessi/STM + ta/SUF + va/SUF
+1 seggi/STM
+2 richie/STM + ste/STM
+1 panettiere/STM
+2 1766/STM
+1 affian/STM + ca/STM + no/SUF
+2 colpirono/STM
+1 nove/STM + cento/STM
+2 richie/STM + se/STM
+5 limi/STM + ta/SUF + ta/SUF
+1 anti/STM + comun/STM + i/SUF + sta/STM
+4 intratteni/STM + mento/SUF
+3 1983/STM
+1 rimase/STM
+2 ca/STM
+6 noto/STM
+1 ti/STM
+8 diritti/STM
+2 Cecoslovacchia/STM
+1 scarica/STM + re/SUF
+1 incass/STM + o/SUF
+1 concer/STM + ti/SUF
+1 gra/STM + di/STM
+6 di/PRE + re/STM
+3 leader/STM
+2 1537/STM
+1 Co/STM + ordina/STM + mento/SUF
+24 gruppi/STM
+1 Common/STM
+3 CIA/STM
+7 fini/STM
+1 coltiv/STM + abili/STM
+2 punta/STM
+1 imp/STM + i/SUF + eg/STM + a/SUF + te/SUF
+1 Pier/STM
+1 Ampli/STM + ando/STM
+1 al/STM + e/SUF + ggi/STM + ò/SUF
+5 1985/STM
+1 insegn/STM + ante/STM
+2 cosmici/STM
+1 emissari/STM + o/SUF
+1 favori/STM + sce/STM
+1 piglia/STM + tutto/STM
+1 84/STM
+3 se/STM + i/SUF
+2 mobil/STM + etto/STM
+1 colo/STM + ssa/STM + le/SUF
+2 mossi/STM
+1 Schwarzenegger/STM
+1 vinil/STM + e/SUF
+1 Amadeus/STM
+1 1879/STM
+302 è/STM
+1 pesi/STM
+1 frutti/STM + coltura/STM
+4 propri/STM + o/SUF
+1 unità/STM
+1 scompa/STM + rsi/STM
+1 ratific/STM + a/SUF + ta/SUF
+3 cor/STM + re/SUF + tta/STM + mente/SUF
+1 ospita/STM + to/SUF
+2 1814/STM
+3 Rivoluzione/STM
+1 Por/STM + to/SUF + gallo/STM
+4 particolar/STM
+1 simp/STM + a/SUF + te/SUF + tico/STM
+1 ORF/STM
+1 vi/STM + a/SUF + ggi/STM + o/SUF
+3 tras/STM + port/STM + a/SUF + bile/STM
+7 milita/STM + ri/STM
+2 fi/STM + le/SUF
+2 Ma/STM + re/SUF
+3 privo/STM
+1 o/STM + maggio/STM
+1 Between/STM
+2 esp/STM + li/SUF + ci/STM + to/SUF
+1 lu/STM + o/SUF + go/STM
+2 RTL/STM
+68 compre/STM + nde/STM
+3 Piramidi/STM
+1 Anseri/STM + ni/STM
+2 denominato/STM
+1 U/STM + di/PRE + ne/STM
+1 train/STM + a/SUF + ta/SUF
+1 denaro/STM
+7 senti/STM + mento/SUF
+1 condivi/STM + se/STM
+1 ri/STM + ti/SUF + ra/STM
+4 liceo/STM
+2 1246/STM
+3 ce/STM + le/SUF + sti/STM
+1 dipende/STM + nte/STM
+1 sciafilia/STM
+1 riconducibili/STM
+1 V/STM + a/SUF + le/SUF + ch/STM
+2 biochimico/STM
+3 fantas/STM + tico/STM
+1 dimostr/STM + a/SUF + ta/SUF
+1 Con/STM + testo/STM
+1 trasferirsi/STM
+1 grossomodo/STM
+3 prive/STM
+3 innov/STM + azion/STM + i/SUF
+1 arriv/STM + ando/STM
+2 band/STM
+1 car/STM + to/SUF + grafi/STM
+1 45/STM
+11 vengono/STM
+1 domestici/STM
+3 femmini/STM + li/SUF
+4 1627/STM
+3 usa/STM
+3 incre/STM + ment/STM + are/SUF
+3 Mississippi/STM
+4 1452/STM
+1 Walkman/STM
+2 Pice/STM + a/SUF
+2 2012/STM
+2 zero/STM
+20 Cile/STM
+3 maschi/STM + li/SUF
+2 aggirare/STM
+1 avvenisse/STM
+3 vantaggi/STM
+1 Malga/STM
+10 avuto/STM
+3 abbra/STM + ccia/STM
+2 stabil/STM + i/SUF + ment/STM + i/SUF
+1 Rhododendro/STM
+3 Feder/STM + a/SUF + to/SUF
+4 parla/STM
+3 egoismo/STM
+1 circostanze/STM
+1 atte/STM + nta/STM + to/SUF
+1 sta/STM + va/SUF + no/SUF
+1 tentò/STM
+4 votò/STM
+1 ciascun/STM + a/SUF
+4 1607/STM
+2 Strauß/STM
+1 fecero/STM
+2 imp/STM + re/SUF + ssero/STM
+1 Filippine/STM
+2 1550/STM
+4 adatt/STM + a/SUF + mento/SUF
+3 esegue/STM
+2 assunto/STM
+2 suffragio/STM
+1 Nettapodini/STM
+5 ἀρχη/STM
+11 real/STM + e/SUF
+3 sforzo/STM
+2 britanni/STM + ca/STM
+1 Rocciose/STM
+2 1989/STM
+2 mesi/STM
+6 Nord/STM
+2 coali/STM + zione/STM
+1 Vitruvio/STM
+1 Vietnam/STM
+1 astro/STM + no/SUF + mo/STM
+2 1031/STM
+2 1235/STM
+2 1546/STM
+1 umorismo/STM
+4 1806/STM
+1 Stuart/STM
+1 1895/STM
+2 afferma/STM + zione/STM
+1 economi/STM + a/SUF
+1 passa/STM + ggi/STM + o/SUF
+1 considera/STM + te/SUF
+1 Croix/STM
+2 1124/STM
+7 firma/STM + to/SUF
+2 Romance/STM
+1 1699/STM
+2 1226/STM
+8 dall/STM
+3 Deutsch/STM
+1 pro/STM + to/SUF + collo/STM
+1 Gees/STM
+2 intemperie/STM
+1 pro/STM + te/SUF + gg/STM + e/SUF + rsi/STM
+1 sarangi/STM + sta/STM
+1 ide/STM + e/SUF
+1 ap/STM + poggi/STM + a/SUF + to/SUF
+1 pino/STM + che/SUF + ti/SUF + sta/STM
+1 figli/STM
+5 togli/STM + ere/STM
+11 sulla/STM
+2 incre/STM + ment/STM + a/SUF + ta/SUF
+2 azion/STM + a/SUF + to/SUF
+6 tale/STM
+1 Entra/STM + ta/SUF
+2 1243/STM
+2 cedettero/STM
+1 mani/STM + a/SUF
+1 agricol/STM + i/SUF
+4 nata/STM
+3 segui/STM + ta/SUF
+4 1240/STM
+1 co/STM + di/PRE + fic/STM + a/SUF + ti/SUF
+1 Ligu/STM + re/SUF
+1 facendo/STM + ne/STM
+1 prossi/STM + mità/STM
+1 no/STM + zioni/SUF
+8 Corte/STM
+7 nuo/STM + va/SUF
+1 Sax/STM
+2 giaci/STM + ment/STM + i/SUF
+1 Gidzenko/STM
+2 pini/STM
+1 possied/STM + e/SUF
+2 ul/STM + ti/SUF + mi/STM
+1 lingua/STM + ggi/STM
+1 norma/STM + tive/STM
+2 1702/STM
+119 tra/STM
+3 Nicaragua/STM
+1 Trade/STM
+1 Tu/STM + te/SUF + la/STM
+4 1078/STM
+1 Fatto/STM + re/SUF
+1 acc/STM + usa/STM + to/SUF
+1 1341/STM
+1 poli/STM + morfi/STM + smo/STM
+2 semplic/STM + i/SUF
+8 prese/STM + nta/STM
+4 meccani/STM + che/SUF
+4 1860/STM
+4 ver/STM + sione/STM
+2 intitolato/STM
+1 giustifica/STM + no/SUF
+1 mo/STM + ment/STM + i/SUF
+2 America/STM + na/STM
+1 delin/STM + e/SUF + ano/STM
+1 puri/STM
+1 fond/STM + e/SUF + re/SUF
+2 1485/STM
+4 1883/STM
+1 mol/STM + ta/SUF
+1 νόμος/STM
+3 Dal/STM + le/SUF
+1 Österreich/STM
+1 rapido/STM
+1 Sa/STM + to/SUF + las/STM
+1 vibr/STM + a/SUF
+1 Ayane/STM
+1 1945/STM
+2 propri/STM + e/SUF + tà/STM
+1 Re/STM
+3 Europe/STM + a/SUF
+9 inizia/STM + no/SUF
+1 tanni/STM + no/SUF
+1 ca/STM + va/SUF + li/SUF + ere/STM
+33 alle/STM
+1 1904/STM
+117 Altri/STM
+1 costitu/STM + ita/STM
+1 riannessa/STM
+2 Sp/STM + e/SUF + ci/STM + e/SUF
+3 considera/STM + ti/SUF
+1 semicolonnina/STM
+18 Europa/STM
+2 1551/STM
+9 all/STM
+8 impor/STM + tante/STM
+5 parla/STM + re/SUF
+1 sfrutta/STM
+1 cre/STM + a/SUF + ti/SUF + vità/STM
+1 Tolomeo/STM
+1 anti/STM + che/SUF
+4 1263/STM
+1 evidenza/STM
+1 premi/STM + o/SUF
+36 quanto/STM
+64 degli/STM
+2 completa/STM
+5 margi/STM + nale/STM
+1 miglior/STM + i/SUF
+1 Se/STM + a/SUF + le/SUF
+1 successi/STM + va/SUF
+2 snazional/STM + izz/STM + azione/SUF
+1 aver/STM
+2 nostre/STM
+1 esp/STM + re/SUF + ssivo/STM
+1 collega/STM + ndo/SUF
+1 visconte/STM
+12 così/STM
+1 intui/STM + tiva/STM + mente/SUF
+4 feder/STM + a/SUF + le/SUF
+2 ribellione/STM
+1 Basti/STM
+1 emesso/STM
+2 1542/STM
+1 prose/STM + li/SUF + ti/SUF + smo/STM
+1 Impero/STM
+1 deriv/STM + e/SUF
+4 1195/STM
+1 20/STM
+2 cinema/STM + to/SUF + grafici/STM
+1 popol/STM + a/SUF + r/STM + mente/SUF
+3 erbacee/STM
+2 consta/STM
+2 avvenu/STM + ta/SUF
+1 tratta/STM + vano/STM
+2 sosten/STM + ere/STM
+1 rivolu/STM + ziona/STM
+1 t/STM + esse/STM + re/SUF
+1 obblig/STM + atori/STM + a/SUF
+2 ele/STM + mento/SUF
+1 I/STM + o/SUF
+6 2011/STM
+1 Saudita/STM
+1 Condor/STM
+4 infe/STM + riore/STM
+1 piume/STM
+1 Schu/STM + bert/STM
+8 indiana/STM
+1 sal/STM + va/SUF + guarda/STM + va/SUF
+1 depone/STM
+1 dischi/STM
+1 sit/STM
+1 pre/STM + visione/STM
+5 ipotesi/STM
+1 Pompidou/STM
+2 di/PRE + vennero/STM
+2 1225/STM
+1 rap/STM + prese/STM + nta/STM + nte/STM
+1 suf/STM + fisso/STM
+7 va/STM
+2 ovvi/STM + are/SUF
+2 resid/STM + enza/STM
+11 cinema/STM
+2 statica/STM
+3 mezzo/STM
+14 spazi/STM + o/SUF
+1 power/STM
+2 1175/STM
+2 1534/STM
+1 vegeta/STM + tivo/STM
+11 tecnica/STM
+1 dis/STM + occupa/STM + zione/STM
+3 nega/STM + tive/STM
+2 1547/STM
+1 utilizz/STM + a/SUF + ta/SUF
+1 cancell/STM + o/SUF
+2 stretta/STM
+1 Giustiniano/STM
+1 com/STM + pens/STM + are/SUF
+2 1761/STM
+2 Yimou/STM
+3 agricol/STM + a/SUF
+5 aspetti/STM
+1 abusi/STM
+2 suolo/STM
+2 ter/STM + re/SUF + no/SUF
+2 1158/STM
+1 scriv/STM + iamo/STM
+2 col/STM
+3 sugli/STM
+1 front/STM + iera/STM
+1 afferma/STM + ta/SUF
+2 am/STM
+1 carico/STM
+15 venne/STM
+2 rimane/STM + re/SUF
+1 formul/STM + a/SUF + ta/SUF
+5 sia/STM + no/SUF
+1 Standing/STM
+580 il/STM
+2 volon/STM + tà/STM
+1 evolutiva/STM
+1 mol/STM + ti/SUF + plic/STM + arono/STM
+2 entr/STM + a/SUF + ti/SUF
+2 rilev/STM + azione/SUF
+1 sin/STM
+2 carichi/STM
+5 Con/STM + siglio/STM
+1 pane/STM
+1 cede/STM + re/SUF
+4 equabile/STM
+1 determi/STM + na/STM + no/SUF
+2 volo/STM
+2 pecci/STM
+5 quo/STM + te/SUF
+1 silvi/STM + coltura/STM + le/SUF
+7 1700/STM
+1 diedero/STM
+2 trovi/STM + a/SUF + mo/STM
+2 costanti/STM
+1 proveni/STM + enti/STM
+11 vita/STM
+1 con/STM + nota/STM + ti/SUF
+4 1885/STM
+1 favori/STM + ti/SUF
+1 artigia/STM + nato/STM
+2 1486/STM
+1 organi/STM + stico/STM
+3 N/STM
+4 1884/STM
+1 stimol/STM + are/SUF
+4 gradu/STM + a/SUF + le/SUF
+1 tenero/STM
+4 economi/STM + che/SUF
+2 Hermann/STM
+1 ele/STM + ment/STM + are/SUF
+1 bru/STM + ta/SUF + lità/STM
+1 poli/STM + tico/STM
+1 etimo/STM + logi/STM + a/SUF
+1 1991/STM
+3 8/STM
+2 sicu/STM + re/SUF + zza/STM
+2 1114/STM
+1 ordina/STM + le/SUF
+111 dei/STM
+2 1128/STM
+2 1111/STM
+2 baukunst/STM
+7 gran/STM
+3 da/STM + re/SUF
+1 par/STM + e/SUF
+4 1738/STM
+1 combatt/STM + evo/STM
+1 laghi/STM
+2 rura/STM + li/SUF
+1 credenze/STM
+2 1221/STM
+1 maneggi/STM + are/SUF
+1 Ugo/STM
+2 1595/STM
+3 di/PRE + am/STM + e/SUF + tro/STM
+1 motrice/STM
+3 acco/STM + mpagna/STM + re/SUF
+2 color/STM + i/SUF
+1 saranno/STM
+1 governa/STM + no/SUF
+4 impor/STM + tanza/STM
+1 cantiere/STM
+5 note/STM + vol/STM + e/SUF
+1 diventa/STM + to/SUF
+2 fun/STM + ziona/STM + le/SUF
+2 tronco/STM
+1 preced/STM + e/SUF + tte/STM
+2 insedia/STM + rsi/STM
+1 pessimista/STM
+1 alle/STM + va/SUF + te/SUF
+1 Denis/STM
+2 Stori/STM + e/SUF
+1 gravita/STM + zione/STM
+1 integr/STM + i/SUF
+1 gesti/STM + te/SUF
+16 prodo/STM + tti/STM
+1 to/STM + ller/STM + a/SUF
+1 astro/STM + nomi/STM + che/SUF
+1 rivela/STM
+1 leg/STM + a/SUF + te/SUF
+2 sbocchi/STM
+3 argini/STM
+1 arruol/STM + ò/SUF
+1 di/PRE + am/STM + ante/STM
+8 favore/STM
+1 profond/STM + i/SUF + tà/STM
+2 Hero/STM
+1 Tra/STM + di/PRE + ziona/STM + lmente/STM
+2 pagine/STM
+2 saltuario/STM
+1 Trigno/STM
+1 sotto/STM + linea/STM + ndo/SUF
+1 imp/STM + re/SUF + sa/STM
+1 Oltre/STM
+2 commercial/STM + i/SUF
+1 sal/STM + gono/STM
+7 totale/STM
+1 mani/STM
+1 Grande/STM
+5 no/STM + nostante/STM
+4 gen/STM + e/SUF + tica/STM
+2 riduttivo/STM
+1 pot/STM + enza/STM
+5 sistemi/STM
+1 1896/STM
+6 Alcun/STM + i/SUF
+1 congiurati/STM
+1 Com/STM + modo/STM + re/SUF
+4 1605/STM
+1 distin/STM + gu/STM + o/SUF + no/SUF
+2 con/STM + corso/STM
+1 Inizi/STM + ò/SUF
+1 elev/STM + a/SUF + te/SUF
+4 1192/STM
+1 Aéro/STM + nauti/STM + que/STM
+4 1792/STM
+1 teenager/STM
+1 villaggio/STM
+2 mer/STM + i/SUF + to/SUF
+1 appassionata/STM
+1 Boccaccio/STM
+2 coste/STM
+6 mag/STM + matica/STM
+1 moderna/STM + mente/SUF
+2 bru/STM + no/SUF
+1 rovesci/STM + a/SUF + ti/SUF
+3 1918/STM
+1 dimostr/STM + ò/SUF
+9 principal/STM + i/SUF
+1 fa/STM + coltà/STM
+1 aperta/STM
+5 deriv/STM + azione/SUF
+1 umane/STM + si/SUF + mo/STM
+7 sta/STM + ta/SUF
+1 stabil/STM + isce/STM
+2 viol/STM + azion/STM + i/SUF
+3 visione/STM
+8 otten/STM + ere/STM
+1 omogenea/STM
+1 rilasci/STM + a/SUF + to/SUF
+1 intervista/STM
+1 cosmo/STM + logi/STM + a/SUF
+1 acc/STM + re/SUF + sci/STM + mento/SUF
+2 accorda/STM + to/SUF
+1 devo/STM + no/SUF
+1 effimera/STM
+5 avviene/STM
+3 nulla/STM
+1 pazzo/STM
+1 rallenta/STM + mento/SUF
+4 1075/STM
+1 mut/STM + amenti/STM
+2 defin/STM + i/SUF + ti/SUF
+1 osserva/STM
+2 1038/STM
+1 Ipparco/STM
+2 Centr/STM + o/SUF
+1 conserv/STM + azione/SUF
+1 Ne/STM + re/SUF
+2 1869/STM
+7 com/STM + prese/STM
+1 TN/STM
+3 svilup/STM + pa/STM + to/SUF
+4 occiden/STM + tale/STM
+2 bel/STM + le/SUF
+1 contrap/STM + pone/STM + ndo/SUF
+1 diffici/STM + lmente/STM
+1 bancario/STM
+5 interni/STM
+1 cile/STM + no/SUF
+5 Regno/STM
+3 forma/STM + te/SUF
+2 1438/STM
+1 ferrea/STM
+1 1988/STM
+1 Menger/STM
+1 ray/STM
+1 quinti/STM
+2 Nera/STM
+1 Nobel/STM
+2 Giovanni/STM
+2 minima/STM + li/SUF + sti/STM
+2 azi/STM + o/SUF + na/STM
+1 ridotti/STM
+1 subas/STM
+1 tra/STM + di/PRE + ziona/STM + li/SUF
+1 fanteria/STM
+2 1898/STM
+2 1032/STM
+1 Catanzaro/STM
+2 Townshend/STM
+2 1/STM
+1 scopri/STM + re/SUF
+3 razza/STM
+1 Garriott/STM
+2 norma/STM + tiva/STM
+1 slan/STM + ciato/STM
+1 Corbusier/STM
+4 Quando/STM
+3 fenome/STM + ni/STM
+32 nei/STM
+2 applica/STM + no/SUF
+2 1768/STM
+1 Departures/STM
+25 altre/STM
+7 sfrutta/STM + mento/SUF
+2 contempla/STM
+1 blocca/STM
+1 profess/STM + o/SUF + re/SUF
+2 fantas/STM + i/SUF + a/SUF
+1 all/STM + oggi/STM
+4 28/STM
+1 riesce/STM
+1 Massi/STM + milia/STM + no/SUF
+2 prodursi/STM
+2 1206/STM
+10 America/STM
+1 compre/STM + nde/STM + nte/STM
+1 PIL/STM
+2 Michel/STM + le/SUF
+1 sperdu/STM + ti/SUF
+1 successi/STM
+1 conc/STM + erne/STM
+1 Regioni/STM
+5 1529/STM
+1 femmini/STM + le/SUF
+2 inton/STM + azione/SUF
+4 contro/STM + lli/STM
+4 giunse/STM
+3 questi/STM + oni/STM
+2 1956/STM
+2 17/STM
+4 bel/STM + le/SUF + zza/STM
+3 vuo/STM + le/SUF
+2 inizia/STM
+2 abbia/STM
+1 Mergini/STM
+3 diventa/STM + ti/SUF
+2 1330/STM
+2 rimangono/STM
+5 or/STM + di/PRE + ne/STM
+3 frutto/STM
+21 esempio/STM
+220 della/STM
+5 Oceano/STM
+3 port/STM + a/SUF
+2 1429/STM
+2 1559/STM
+2 prossi/STM + mo/STM
+1 pra/STM + tici/STM
+1 gotico/STM
+4 obtudus/STM
+1 cospir/STM + azione/SUF
+7 1819/STM
+2 Tensi/STM + oni/STM
+2 bottone/STM
+1 marathon/STM
+3 1770/STM
+3 somme/STM + rsi/STM
+4 ottob/STM + re/SUF
+2 medesimo/STM
+1 raccont/STM + are/SUF
+2 Sinclair/STM
+1 ànthropos/STM
+2 1112/STM
+2 elimina/STM + ta/SUF
+1 Malthus/STM
+4 24/STM
+7 guerra/STM
+5 cittadin/STM + anza/STM
+2 elenca/STM + to/SUF
+1 cine/STM + a/SUF + sti/STM
+1 card/STM
+1 contenuta/STM
+1 St/STM + a/SUF + te/SUF + s/STM
+1 Po/STM + i/SUF + ché/STM
+7 Biblio/STM + grafia/STM
+2 1688/STM
+1 rossastre/STM
+11 abe/STM + te/SUF
+1 alcun/STM
+1 preferi/STM + bilmente/STM
+2 Park/STM
+1 Par/STM + ti/SUF + to/SUF
+5 1804/STM
+3 bacino/STM
+1 influ/STM + enza/STM + to/SUF
+4 opera/STM + zioni/STM
+1 nega/STM + rono/STM
+2 Vive/STM
+1 to/STM
+2 pira/STM + te/SUF + ria/STM
+4 forma/STM + le/SUF
+1 stride/STM + va/SUF
+1 nu/STM
+3 risulta/STM + no/SUF
+4 giudi/STM + zio/STM
+4 civil/STM + tà/STM
+2 pugna/STM + li/SUF
+1 Quaroni/STM
+1 1899/STM
+5 entr/STM + ambi/STM
+5 inizia/STM + lmente/STM
+4 1262/STM
+4 Massach/STM + usetts/STM
+1 Donna/STM
+1 amazzonica/STM
+1 diviso/STM
+11 umana/STM
+2 conicità/STM
+2 boom/STM
+1 Agree/STM + ment/STM
+6 fenome/STM + no/SUF
+2 within/STM
+1 osserva/STM + tori/STM
+1 estr/STM + arre/STM
+1 illu/STM + stri/STM
+1 poca/STM
+1 mor/STM + ti/SUF
+2 1818/STM
+2 Theater/STM
+2 fasi/STM
+2 stud/STM + ente/STM
+1 Car/STM + atte/STM + ristiche/STM
+2 batt/STM + o/SUF + no/SUF
+2 1638/STM
+1 ingegn/STM + e/SUF + re/SUF
+1 1829/STM
+1 scuo/STM + le/SUF
+2 richie/STM + sti/STM
+2 1639/STM
+1 per/STM + izia/STM
+1 acquis/STM + i/SUF + to/SUF
+1 tirato/STM
+1 scozzesi/STM
+1 esempl/STM + are/SUF
+1 annual/STM + mente/SUF
+1 nega/STM + tiva/STM + mente/SUF
+1 suicid/STM + ò/SUF
+2 1585/STM
+1 fon/STM + di/PRE + aria/STM
+3 indipend/STM + ente/STM
+1 regis/STM + tri/STM
+4 Vespucci/STM
+1 dettero/STM
+1 rie/STM + di/PRE + zione/STM
+4 1793/STM
+1 vende/STM + re/SUF
+4 preced/STM + enti/STM
+2 mobil/STM + ita/STM + zione/STM
+3 problema/STM + tica/STM
+2 estr/STM + azione/SUF
+9 anno/STM
+10 9/STM
+1 fa/STM + legname/STM + rie/STM
+4 vicino/STM
+4 punto/STM
+1 Colui/STM
+7 infatti/STM
+4 canta/STM + nti/STM
+2 Francis/STM
+1 esclu/STM + de/STM
+1 rinascimentali/STM
+1 1339/STM
+1 esponente/STM
+2 so/STM + li/SUF
+1 premi/STM
+1 integr/STM + a/SUF + rsi/STM
+3 Con/STM
+3 zampe/STM
+2 Influenze/STM
+1 Fi/STM + re/SUF + nze/STM
+2 nomade/STM
+1 scorsi/STM
+1 norma/STM + lità/STM
+3 X/STM
+1 Haydn/STM
+2 Alle/STM
+2 esecu/STM + zione/STM
+1 Modernismo/STM
+1 macro/STM + sporofilli/STM
+6 Paesi/STM
+2 poveri/STM
+5 lavor/STM + atori/STM
+1 ferm/STM + a/SUF
+1 verità/STM
+1 setto/STM + re/SUF
+1 ment/STM + a/SUF + le/SUF
+1 fedel/STM + e/SUF
+2 squadra/STM
+1 seghe/STM + tta/STM + to/SUF
+1 separ/STM + azione/SUF
+11 dagli/STM
+1 antrop/STM + o/SUF
+1 Nusser/STM
+1 concimi/STM
+2 uscì/STM
+5 uomini/STM
+2 Di/STM
+6 simi/STM + le/SUF
+1 pro/STM + to/SUF + tipo/STM
+1 fab/STM + bisogni/STM
+4 tratta/STM
+1 l/STM + e/SUF + vel/STM
+1 carbonio/STM
+5 1269/STM
+24 ogni/STM
+4 1621/STM
+1 Sof/STM + tware/STM
+1 cara/STM + i/SUF + bica/STM
+3 etnica/STM
+3 1965/STM
+1 moda/STM
+1 farine/STM
+1 gemme/STM
+4 1805/STM
+5 pian/STM + o/SUF
+2 Po/STM + le/SUF + sine/STM
+1 U/STM + e/SUF
+2 classific/STM + azione/SUF
+1 av/STM + vantaggi/STM + a/SUF + ti/SUF
+1 governa/STM + tivi/STM
+3 religio/STM + sa/STM
+6 music/STM + a/SUF + le/SUF
+1 vive/STM + nte/STM
+2 ingresso/STM
+3 causa/STM + le/SUF
+2 anse/STM + i/SUF + formi/STM
+1 provoc/STM + a/SUF + ti/SUF
+4 1950/STM
+1 duemila/STM
+2 passa/STM + re/SUF
+2 Colombo/STM
+1 con/STM + i/SUF + a/SUF
+1 madre/STM
+2 1482/STM
+1 r/STM + e/SUF + visionismo/STM
+4 condivi/STM + de/STM
+1 in/STM + di/PRE + gen/STM + a/SUF
+1 rivendic/STM + azion/STM + i/SUF
+3 genera/STM + li/SUF
+1 sopra/STM
+2 dominata/STM
+2 1953/STM
+2 der/STM
+1 continua/STM + ta/SUF
+1 mosso/STM
+1 feder/STM + azione/SUF
+3 ita/STM + liano/STM
+2 Perutz/STM
+1 spet/STM + ta/SUF + co/STM + li/SUF
+1 assume/STM + re/SUF
+2 800/STM
+1 desiderosi/STM
+2 tecno/STM + logi/STM + che/SUF
+1 sup/STM + port/STM + i/SUF
+2 alluv/STM + ioni/STM
+2 intellettuali/STM
+1 tra/STM + e/SUF
+2 ide/STM + a/SUF + le/SUF
+1 Turchia/STM
+3 Joseph/STM
+6 diff/STM + i/SUF + coltà/STM
+5 posto/STM
+6 1380/STM
+2 resto/STM
+4 potuto/STM
+1 effetti/STM + va/STM + mente/SUF
+2 Anseri/STM + for/STM + mes/STM
+2 resta/STM
+3 eletti/STM
+1 punta/STM + va/SUF
+1 Lingue/STM
+1 Ostarrichi/STM
+1 riciclaggio/STM
+1 concentra/STM + zioni/SUF
+180 si/STM
+1 rigetta/STM
+3 salari/STM
+2 nega/STM + to/SUF
+1 solu/STM + zioni/SUF
+1 scher/STM + no/SUF
+2 resurre/STM + zione/STM
+3 di/PRE + gi/STM + tali/STM
+5 ric/STM + chezza/STM
+1 do/STM + minato/STM
+1 Liddy/STM
+2 sotto/STM + fond/STM + o/SUF
+1 Saint/STM + e/SUF
+1 vi/STM + e/SUF
+4 larga/STM
+4 1889/STM
+2 precisa/STM + mente/SUF
+4 1110/STM
+5 cor/STM + te/SUF
+1 Archi/STM + vi/STM
+4 1622/STM
+5 risparmi/STM + o/SUF
+1 Fi/STM + no/SUF
+1 alb/STM + e/SUF + ri/STM
+1 Successi/STM + va/STM + mente/SUF
+2 profond/STM + a/SUF
+1 sceneggi/STM + a/SUF + tura/STM
+1 emerge/STM
+1 am/STM + atori/STM + a/SUF + le/SUF
+2 tonalità/STM
+1 Barri/STM + o/SUF
+1 pre/STM + veni/STM + re/SUF
+1 sol/STM + le/SUF + ci/STM + ta/SUF + to/SUF
+1 leggi/STM
+1 acc/STM + e/SUF + tta/STM + to/SUF
+2 1222/STM
+1 esimo/STM
+4 18/STM
+1 Colony/STM
+3 sarà/STM
+1 sub/STM + endo/STM
+1 attu/STM + azione/SUF
+1 possied/STM + o/SUF + no/SUF
+2 Negli/STM
+5 fisici/STM
+34 due/STM
+2 Alternativa/STM
+1 annull/STM + a/SUF + to/SUF
+2 mon/STM + di/PRE + ali/STM
+1 tra/STM + di/PRE + zione/STM
+1 felice/STM
+1 ci/STM + ta/SUF + to/SUF
+1 artigia/STM + ni/STM
+1 capo/STM + scuola/STM
+1 Altra/STM
+16 poli/STM + tica/STM
+2 sommersa/STM
+1 innegabile/STM
+1 Centr/STM + e/SUF
+4 1629/STM
+1 Bernardo/STM
+2 rinvii/STM
+1 capi/STM + tali/STM + sti/STM
+2 larice/STM
+5 Durante/STM
+3 Saghe/STM
+1 l/STM + i/SUF + turgico/STM
+1 ungarico/STM
+2 melodie/STM
+2 1238/STM
+1 orn/STM + amentali/STM
+1 fitto/STM
+1 filosof/STM + a/SUF + le/SUF
+1 insegn/STM + amenti/STM
+2 coetanee/STM
+6 edilizia/STM
+2 1232/STM
+1 corpor/STM + azion/STM + i/SUF
+10 cioè/STM
+10 comun/STM + que/STM
+1 declassific/STM + ò/SUF
+2 1630/STM
+1 ri/STM + acquis/STM + ta/SUF + to/SUF
+3 trami/STM + te/SUF
+2 tortura/STM
+4 minimo/STM
+1 monumenta/STM + li/SUF
+2 indica/STM + re/SUF
+1 United/STM
+3 Ancora/STM
+4 1193/STM
+3 Falkland/STM
+1 superando/STM
+1 con/STM + ti/SUF
+2 Nuovo/STM
+3 lunga/STM
+1 ufficial/STM + mente/SUF
+1 Bundesl/STM + and/STM
+1 permette/STM + ndo/SUF
+2 compil/STM + ò/SUF
+1 Keplero/STM
+1 con/STM + figura/STM
+3 Medio/STM + evo/STM
+1 avvi/STM + a/SUF + ta/SUF
+1 idrico/STM
+1 inter/STM + viene/STM
+1 ri/STM + valut/STM + azione/SUF
+1 fina/STM + nze/STM
+1 genera/STM + ta/SUF
+1 rende/STM + ndo/SUF
+1 Filadelfi/STM + a/SUF
+1 regis/STM + tra/STM
+3 compone/STM + nte/STM
+1 abi/STM + ta/SUF + no/SUF
+1 misero/STM
+3 inter/STM + dipende/STM + nza/STM
+1 ric/STM + che/SUF
+3 Alle/STM + a/SUF + ti/SUF
+2 sesto/STM
+3 on/STM
+1 Renzo/STM
+2 di/PRE + tta/STM + tura/STM
+2 personal/STM + e/SUF
+3 boschi/STM
+1 Pausini/STM
+2 vede/STM + re/SUF
+1 riducon/STM + o/SUF
+2 mo/STM + le/SUF
+12 Voci/STM
+3 1940/STM
+3 par/STM + ti/SUF + re/SUF
+1 An/STM + a/SUF + to/SUF + lij/STM
+1 riposo/STM
+2 1781/STM
+1 archi/STM
+3 tema/STM
+1 dap/STM + prim/STM + a/SUF
+2 cresc/STM + enti/STM
+2 ester/STM + no/SUF
+5 proba/STM + bilmente/STM
+1 mi/STM + e/SUF + i/SUF
+1 frasi/STM
+2 strani/STM + e/SUF + ri/STM
+6 corrisponde/STM + nte/STM
+1 tor/STM + ture/STM
+2 Occid/STM + ente/STM
+2 1434/STM
+2 1598/STM
+2 vive/STM
+7 legno/STM
+1 regol/STM + are/SUF
+2 Thomas/STM
+2 sens/STM + azion/STM + i/SUF
+11 tempo/STM
+3 Ly/STM
+1 ironia/STM
+3 colonne/STM
+13 grandi/STM
+135 le/STM
+3 se/STM + di/PRE + ment/STM + aria/STM
+2 1589/STM
+1 fond/STM + azione/SUF
+1 speci/STM + ali/STM + zz/STM + a/SUF + te/SUF
+1 Le/STM + i/SUF + f/STM
+2 altezza/STM
+2 1236/STM
+5 Sotto/STM + famiglia/STM
+1 destra/STM
+4 caratteri/STM + stica/STM
+5 con/STM + tatto/STM
+1 F/STM + o/SUF + a/SUF + le/SUF
+3 Due/STM
+1 condivisero/STM
+4 1888/STM
+1 appiatti/STM + mento/SUF
+2 Divisione/STM
+1 riducibile/STM
+1 se/STM + ment/STM + i/SUF
+2 vendi/STM + ta/SUF
+1 esigua/STM
+1 ra/STM + gion/STM + e/SUF
+1 So/STM + le/SUF
+2 Lenin/STM
+3 elettroni/STM + che/SUF
+1 Wagler/STM
+5 XVIII/STM
+1 ce/STM + re/SUF + ali/STM
+2 teori/STM + che/SUF
+2 compre/STM + si/SUF
+1 descrive/STM + ssero/STM
+4 Carpazi/STM
+2 Wai/STM
+3 vale/STM
+1 1938/STM
+1 scop/STM + erto/STM
+3 provincia/STM
+8 basa/STM
+4 1731/STM
+1 prevede/STM + va/SUF
+1 nasce/STM
+13 2000/STM
+2 1426/STM
+1 pens/STM + i/SUF
+22 Stato/STM
+2 conserv/STM + a/SUF + to/SUF
+2 opera/STM + re/SUF
+2 dis/STM + inter/STM + essa/STM
+2 New/STM
+1 includ/STM + o/SUF + no/SUF
+1 compre/STM + nsione/STM
+1 ap/STM + o/SUF + sto/STM + li/SUF + co/STM
+6 sola/STM
+2 guida/STM
+2 tech/STM
+2 1480/STM
+3 riduzione/STM
+1 immigr/STM + azione/SUF
+5 comport/STM + a/SUF
+1 confina/STM + ta/SUF
+1 interglaci/STM + a/SUF + le/SUF
+1 al/STM + e/SUF + meno/STM
+3 veri/STM
+2 fisico/STM
+1 ri/STM + tro/STM + va/SUF + mento/SUF
+6 richie/STM + de/STM
+7 facil/STM + mente/SUF
+2 Un/STM + o/SUF
+3 fiumi/STM
+1 avanti/STM
+6 nuovi/STM
+2 inerenti/STM
+1 mi/STM + ti/SUF
+1 V/STM + a/SUF + ti/SUF + ca/STM + no/SUF
+111 progett/STM + i/SUF
+2 cominci/STM + arono/STM
+1 stud/STM + i/SUF + a/SUF
+2 impronta/STM + to/SUF
+5 XIX/STM
+3 da/STM + ti/SUF
+1 psico/STM
+9 inoltre/STM
+4 di/PRE + sco/STM
+1 visua/STM + le/SUF
+1 convergenza/STM
+3 appar/STM + e/SUF
+1 Notre/STM
+1 palmati/STM + e/SUF
+2 Thatcher/STM
+3 Nori/STM + che/SUF
+7 applica/STM
+2 Hume/STM
+1 tro/STM + va/SUF + rsi/STM
+2 manu/STM + a/SUF + le/SUF
+1 Mon/STM + ti/SUF
+4 1794/STM
+5 ance/STM
+2 Macbeth/STM
+1 elimina/STM + va/SUF
+2 ORF1/STM
+1 decidua/STM
+1 contribu/STM + iscono/STM
+9 necessari/STM + o/SUF
+1 mediterranea/STM
+1 decotto/STM
+4 frequ/STM + enza/STM
+3 Internet/STM
+21 negli/STM
+2 Fatto/STM
+1 deriv/STM + a/SUF
+2 stimol/STM + ò/SUF
+3 acquis/STM + tarono/STM
+1 in/STM + di/PRE + ri/STM + zza/STM + ti/SUF
+3 provve/STM + di/PRE + ment/STM + i/SUF
+1 debutto/STM
+170 una/STM
+1 O/STM + a/SUF + sis/STM
+1 rece/STM + nte/STM
+1 posta/STM
+1 appassionata/STM + mente/SUF
+2 di/PRE + minuzione/STM
+1 arti/STM + fici/STM + o/SUF
+2 suonato/STM + ri/STM
+2 Fisher/STM
+1 Col/STM + umbia/STM
+1 parla/STM + ndo/SUF
+1 nomi/STM
+10 scultura/STM
+1 cor/STM + re/SUF + zione/STM
+54 nella/STM
+1 Nibe/STM + lunghi/STM
+1 merca/STM + ti/SUF
+3 chi/STM + o/SUF + ma/STM
+1 triad/STM + e/SUF
+2 collega/STM
+1 Tarapacá/STM
+2 port/STM + ò/SUF
+1 innesc/STM + ò/SUF
+2 Erodo/STM + to/SUF
+6 spagno/STM + lo/STM
+2 comun/STM + i/SUF + smo/STM
+1 insuffl/STM + a/SUF + to/SUF
+1 frutti/STM + fic/STM + azione/SUF
+2 supera/STM + mento/SUF
+13 vol/STM + ta/SUF
+26 Le/STM
+3 Svezia/STM
+1 1855/STM
+1 f/STM + re/SUF + netica/STM + mente/SUF
+2 accan/STM + to/SUF
+1 Tre/STM
+2 zampa/STM
+2 dominante/STM
+1 An/STM + atidae/STM
+1 contempla/STM + ta/SUF
+1 Lopez/STM
+2 Comun/STM + i/SUF + tà/SUF
+1 e/STM + venti/STM
+3 Scuola/STM
+1 aument/STM + are/SUF
+2 PRO7/STM
+1 ampi/STM + e/SUF
+1 rap/STM + prese/STM + nta/STM + tive/STM
+5 Teoria/STM
+1 Zuc/STM + che/SUF + ro/STM
+1 Beltrami/STM
+1 laburista/STM
+1 s/STM + corso/STM
+2 1971/STM
+1 Al/STM + ti/SUF
+2 tro/STM + va/SUF + ndo/SUF
+1 tali/STM
+3 con/STM + di/PRE + zione/STM
+10 di/PRE + stribu/STM + zione/STM
+1 volga/STM + re/SUF
+1 cresc/STM + e/SUF + vano/STM
+1 sovra/STM + sta/STM
+4 tro/STM + va/SUF + re/SUF
+2 La/STM + ti/SUF + na/STM
+1 pot/STM + rebbe/STM
+849 e/STM
+1 ferm/STM + a/SUF + te/SUF
+3 innato/STM
+1 forza/STM
+6 pur/STM + e/SUF
+3 piovosi/STM + tà/STM
+3 David/STM
+3 Sequel/STM
+3 ritorn/STM + ò/SUF
+1 metal/STM + li/SUF + co/STM
+4 almeno/STM
+4 superfici/STM + e/SUF
+2 petr/STM + o/SUF + li/SUF + feri/STM
+1 aument/STM + o/SUF
+2 meccani/STM + zza/STM + zione/STM
+1 parallela/STM + mente/SUF
+84 La/STM
+1 co/STM + stretta/STM
+1 lògos/STM
+1 Tony/STM
+1 qual/STM + i/SUF + ta/SUF + tiva/STM + mente/SUF
+1 rura/STM + le/SUF
+1 salu/STM + te/SUF
+2 tolto/STM
+1 genovese/STM
+1 ste/STM + r/PRE + minato/STM
+1 Norfolk/STM
+2 Lock/STM + e/SUF
+3 Tutte/STM
+1 Meneguzzi/STM
+1 Cipro/STM
+1 ve/STM + ndo/SUF + no/SUF
+129 più/STM
+1 Ludovico/STM
+1 dorsa/STM + le/SUF
+1 con/STM + ti/SUF + nuo/STM
+4 familiari/STM
+1 personal/STM
+3 Nationalrat/STM
+1 Morris/STM
+1 Camillo/STM
+1 fi/STM + a/SUF + to/SUF
+1 tossi/STM + co/STM + dipende/STM + nti/STM
+1 industri/STM + e/SUF
+3 Burgenland/STM
+1 lati/STM + fond/STM + o/SUF
+1 inquina/STM + mento/SUF
+3 costante/STM + mente/SUF
+1 accademi/STM + che/SUF
+1 conc/STM + e/SUF + ssioni/STM
+2 defin/STM + i/SUF + zioni/STM
+2 qualsiasi/STM
+1 diffici/STM + le/SUF
+17 quella/STM
+2 1010/STM
+6 1600/STM
+3 britanni/STM + che/SUF
+2 veni/STM + va/SUF
+1 sanguino/STM + le/SUF + nta/STM
+10 livello/STM
+2 Lione/STM
+1 Kotov/STM
+9 conc/STM + etto/STM
+5 costru/STM + i/SUF + re/SUF
+1 port/STM + a/SUF + mento/SUF
+2 miglior/STM + a/SUF + mento/SUF
+1 accadde/STM
+4 Braunau/STM
+4 1073/STM
+1 marcescenza/STM
+3 sti/STM + le/SUF
+1 cosa/STM
+1 torna/STM
+1 falsi/STM
+1 An/STM + no/SUF
+1 propri/STM + e/SUF + ta/SUF + ri/STM
+1 prescinda/STM
+1 defin/STM + i/SUF + ta/SUF
+1 Slesia/STM
+1 U/STM + to/SUF
+1 1ª/STM
+6 giovani/STM
+1 preferisce/STM
+1 Hawker/STM
+1 tras/STM + mettere/STM
+1 concentra/STM
+4 per/STM + tanto/STM
+1 regol/STM + a/SUF + trici/STM
+1 auto/STM + noma/STM + mente/SUF
+1 fun/STM + ziona/STM + ri/STM
+2 norme/STM
+1 XIII/STM
+1 vendu/STM + te/SUF
+1 morfologico/STM
+4 miracolo/STM
+1 cicogna/STM
+1 Chi/STM
+1 domi/STM + nazion/STM + e/SUF
+2 sotto/STM + famiglie/STM
+1 Po/STM + etica/STM
+2 1487/STM
+3 indomabile/STM
+2 arre/STM + sta/STM + to/SUF
+1 in/STM + forma/STM + tica/STM
+2 estreme/STM
+3 tra/STM + di/PRE + ziona/STM + lmente/STM
+1 giustifica/STM
+1 Costitu/STM + zione/STM
+1 l/STM + unghe/STM
+1 rarissime/STM
+2 circolante/STM
+1 rosa/STM
+12 Roccia/STM
+5 nonché/STM
+2 port/STM + a/SUF + no/SUF
+4 Danubio/STM
+1 Ottone/STM
+1 deleg/STM + a/SUF + ti/SUF
+1 Eminem/STM
+1 Gior/STM + gia/STM
+152 con/STM
+1 scaten/STM + ò/SUF
+1 etica/STM
+2 F/STM + re/SUF + e/SUF
+1 micro/STM + sporofilli/STM
+4 accuse/STM
+6 austria/STM + ca/STM
+2 die/STM + ta/SUF
+1 bambù/STM
+1 1492/STM
+1 Zweite/STM
+5 1799/STM
+1 progett/STM + are/SUF
+1 spontaneo/STM
+2 apri/STM + le/SUF
+3 nascita/STM
+2 bosco/STM
+7 semi/STM
+1 forma/STM + ti/SUF + vità/STM
+2 SAT/STM
+1 pro/STM + lunga/STM + re/SUF
+3 cominci/STM + ò/SUF
+1 let/STM + ture/STM
+3 cittadin/STM + i/SUF
+1 coltiv/STM + a/SUF + to/SUF
+1 riceve/STM
+3 Distribu/STM + zione/STM
+1 mo/STM + di/PRE + fic/STM + are/SUF
+4 breve/STM
+2 adatt/STM + amenti/STM
+1 opera/STM + tori/STM
+1 off/STM + erta/STM
+3 tro/STM + va/SUF + no/SUF
+2 tesi/STM
+12 lui/STM
+2 1820/STM
+2 sol/STM + le/SUF + cit/STM + a/SUF + ti/SUF
+1 Bischofshofen/STM
+12 Nord/STM + america/STM
+9 centr/STM + o/SUF
+4 dollari/STM
+1 Zero/STM
+2 carrubo/STM
+2 1914/STM
+4 1210/STM
+2 assegn/STM + are/SUF
+2 progett/STM + o/SUF
+4 ingegneria/STM
+2 visi/STM + bilità/STM
+5 agosto/STM
+1 conferm/STM + ò/SUF
+2 Stalin/STM
+1 previsti/STM
+2 agrumi/STM
+2 sub/STM + prim/STM + e/SUF
+4 1797/STM
+2 adul/STM + ti/SUF
+1 filone/STM
+1 bombard/STM + are/SUF
+1 inser/STM + i/SUF + ti/SUF
+3 scienti/STM + fici/STM
+6 domanda/STM
+2 ben/STM + e/SUF + fici/STM + a/SUF + to/SUF
+1 mm/STM
+3 economi/STM + e/SUF
+4 Tele/STM + visione/STM
+1 leg/STM + i/SUF + ttimo/STM
+1 atti/STM + va/STM + mente/SUF
+4 1955/STM
+2 ONU/STM
+2 sui/STM + no/SUF
+1 avveni/STM + ssero/STM
+3 generi/STM
+104 com/STM + e/SUF
+1 Reng/STM + a/SUF
+2 sporgenti/STM
+5 nota/STM
+16 meno/STM
+1 novellame/STM
+1 commercial/STM + izz/STM + azione/SUF
+1 conc/STM + e/SUF + ssero/STM
+1 leg/STM + a/SUF + me/STM
+6 Anche/STM
+3 venga/STM + no/SUF
+1 or/STM + a/SUF
+1 rivolu/STM + ziona/STM + ri/STM
+2 intende/STM + va/SUF
+2 cre/STM + a/SUF + ti/SUF + ve/STM
+2 etno/STM + antrop/STM + o/SUF + logi/STM + che/SUF
+1 appar/STM + tiene/STM
+1 Blanlot/STM
+1 acc/STM + olte/STM
+1 compl/STM + e/SUF + ment/STM + are/SUF
+1 Stictonettinae/STM
+1 domiciliari/STM
+1 preval/STM + enza/STM
+3 vuo/STM + ti/SUF
+4 futuro/STM
+1 dove/STM + vano/STM
+1 and/STM
+1 conosc/STM + i/SUF + uta/STM
+1 Arabia/STM
+1 parchi/STM
+2 antica/STM
+1 Grozio/STM
+2 1150/STM
+2 palmati/STM
+1 manifest/STM + azion/STM + i/SUF
+44 sua/STM
+15 Adam/STM
+2 1422/STM
+5 zona/STM
+1 Midnight/STM
+3 balcani/STM + ca/STM
+6 europei/STM
+1 com/STM + mettere/STM
+4 1977/STM
+3 rimane/STM + nti/STM
+2 1176/STM
+2 conferm/STM + a/SUF
+2 riguarda/STM + re/SUF
+1 tu/STM + te/SUF + la/STM
+1 Großglo/STM + ckner/STM
+2 rientra/STM
+3 estensi/STM + va/SUF
+1 bonifica/STM
+1 Mp3/STM
+2 91/STM
+3 conf/STM + li/SUF + tto/STM
+2 conife/STM + ra/STM
+2 critt/STM + analisi/STM
+4 regis/STM + ta/SUF
+4 metodo/STM
+2 attende/STM + re/SUF
+2 risoluzione/STM
+1 aggrav/STM + ando/STM
+1 castelli/STM
+1 ordina/STM + to/SUF
+1 continui/STM + tà/STM
+2 insul/STM + a/SUF + ri/STM
+2 sostitu/STM + zione/STM
+4 antichi/STM
+2 abba/STM + ndo/SUF + nata/STM
+2 ma/STM + i/SUF
+2 Herbert/STM
+1 ridotta/STM
+4 1525/STM
+5 corde/STM
+2 1923/STM
+2 rap/STM + prese/STM + nta/STM
+2 qui/STM
+1 Sila/STM
+1 high/STM
+1 sequenza/STM
+1 Organismi/STM
+1 di/PRE + stanzia/STM
+3 costru/STM + i/SUF + to/SUF
+11 cavità/STM
+1 migr/STM + azione/SUF
+4 1521/STM
+5 ambi/STM + to/SUF
+7 invisi/STM + bile/STM
+1 inven/STM + ta/SUF + re/SUF
+3 bisogno/STM
+1 deducon/STM + o/SUF
+2 1592/STM
+1 858/STM
+4 medi/STM + e/SUF
+4 1603/STM
+2 spesa/STM
+2 lettera/STM + le/SUF
+3 nota/STM + re/SUF
+2 Wolfgang/STM
+2 esp/STM + li/SUF + ci/STM + ti/SUF
+1 cattedra/STM
+2 1681/STM
+1 viol/STM + e/SUF + nta/STM
+1 mischi/STM + avano/STM
+1 tratto/STM
+3 rive/STM
+1 Carl/STM
+1 ritorn/STM + o/SUF
+1 da/STM + te/SUF
+4 altrui/STM
+2 senti/STM + re/SUF
+2 ti/STM + to/SUF + lo/STM
+1 palchi/STM
+12 cor/STM + re/SUF + late/STM
+2 Considera/STM
+13 circa/STM
+1 fiori/STM
+3 spieg/STM + abile/STM
+1 rovesci/STM + ò/SUF
+1 y/STM
+21 suc/STM + cesso/STM
+1 no/STM + bili/STM
+58 ma/STM
+1 Pesca/STM + ntina/STM
+3 1921/STM
+138 del/STM + le/SUF
+6 oggetti/STM
+1 Costa/STM
+4 1385/STM
+1 Bagdasarian/STM
+1 ad/STM + erenti/STM
+1 St/STM + a/SUF + tu/STM + to/SUF
+7 Caraibi/STM
+5 discipline/STM
+1 consumatori/STM
+15 Repubblica/STM
+5 defin/STM + i/SUF + to/SUF
+1 tossi/STM + ci/STM
+1 norma/STM + tivi/STM
+8 zone/STM
+1 pre/STM + nota/STM + zioni/SUF
+2 manifa/STM + ttura/STM
+1 par/STM + te/SUF + nza/STM
+3 moderna/STM
+1 includ/STM + e/SUF
+2 voce/STM
+1 r/STM + e/SUF + spiratori/STM + e/SUF
+3 fond/STM + a/SUF + to/SUF + re/SUF
+1 Simony/STM + i/SUF
+1 procede/STM
+1 Hanno/STM
+2 guida/STM + to/SUF
+1 ladina/STM
+2 arriv/STM + ò/SUF
+8 1995/STM
+1 pat/STM + a/SUF + ta/SUF
+1 Sellers/STM
+1 Ferro/STM
+26 viene/STM
+1 best/STM + i/SUF + a/SUF + me/STM
+1 associ/STM + a/SUF + ndosi/STM
+1 medico/STM
+12 causa/STM
+1 tocca/STM
+1 com/STM + pens/STM + a/SUF + ta/SUF
+1 capaci/STM
+2 costru/STM + i/SUF + ti/SUF
+2 1234/STM
+2 deriv/STM + anti/STM
+1 linguis/STM + tiche/STM
+1 Ashbury/STM
+5 aero/STM + foni/STM
+1 filo/STM
+1 comparsa/STM
+3 pubblica/STM + to/SUF
+1 esse/STM + rsi/STM
+3 abetine/STM
+1 epidemie/STM
+1 mur/STM + a/SUF + to/SUF
+9 John/STM
+13 Un/STM
+2 naturalmente/STM
+1 degno/STM
+1 fagiolo/STM
+3 este/STM + riore/STM
+2 pietra/STM
+2 stabil/STM + mente/SUF
+2 Louis/STM
+1 mancanza/STM
+1 sera/STM
+1 mala/STM + to/SUF
+2 1531/STM
+3 1769/STM
+2 sette/STM
+1 inte/STM + riore/STM
+3 pre/STM + decessore/STM
+1 base/STM
+1 riaccorda/STM + re/SUF
+2 consent/STM + i/SUF + to/SUF
+1 risulta/STM + ndo/SUF
+1 epistemologica/STM
+2 latitudini/STM
+1 ecc/STM + essi/STM + va/SUF
+2 elev/STM + a/SUF + to/SUF
+1 Libero/STM
+2 1982/STM
+4 1798/STM
+3 de/STM + di/PRE + zione/STM
+1 Geo/STM + poli/STM + tica/STM + mente/SUF
+2 inimmaginabili/STM
+3 1439/STM
+1 perde/STM + re/SUF
+2 adatt/STM + i/SUF
+1 Jerry/STM
+1 forni/STM + to/SUF
+2 impedisce/STM
+2 Richard/STM
+1 emetto/STM + no/SUF
+2 spiri/STM + to/SUF
+70 Italia/STM
+157 gli/STM
+2 1580/STM
+3 1209/STM
+1 uncinatae/STM
+2 1231/STM
+1 semantica/STM
+1 annette/STM + re/SUF
+6 significa/STM + ti/SUF + va/SUF + mente/SUF
+1 sacerdo/STM + tale/STM
+1 Friedrich/STM
+2 gen/STM + te/SUF
+2 costa/STM
+2 con/STM + segue/STM + nze/STM
+1 Rubin/STM
+1 fond/STM + o/SUF
+2 industria/STM
+2 epigrafico/STM
+1 concorrono/STM
+2 emittenti/STM
+1 Volksschu/STM + le/SUF
+3 arte/STM
+1 Radio/STM
+1 Considera/STM + zioni/SUF
+2 1535/STM
+6 pro/STM + fitto/STM
+2 ricorda/STM + re/SUF
+1 profess/STM + ioni/STM + sti/STM
+2 esper/STM + ti/SUF
+1 Danu/STM + bian/STM + a/SUF
+2 1954/STM
+2 cor/STM + te/SUF + ccia/STM
+8 1990/STM
+1 Che/STM + re/SUF + nkov/STM
+3 altrui/STM + smo/STM
+1 convenuti/STM
+1 tar/STM + li/SUF
+1 grande/STM + zza/STM
+2 integr/STM + a/SUF + ti/SUF
+1 rispet/STM + to/SUF + so/STM
+1 liberi/STM + smo/STM
+1 affer/STM + iscono/STM
+1 ulterior/STM + mente/SUF
+2 Padri/STM + no/SUF
+1 Oxyurini/STM
+2 Universi/STM + ty/STM
+2 Max/STM
+1 descrive/STM + re/SUF
+1 cus/STM + to/SUF + di/STM + va/SUF
+1 2006/STM
+3 origin/STM + aria/STM + mente/SUF
+1 logica/STM
+2 1152/STM
+1 Kleinwalsertal/STM
+1 1347/STM
+2 assiste/STM + va/SUF
+1 V/STM + a/SUF + ri/STM
+4 1733/STM
+1 affin/STM + i/SUF
+3 perse/STM
+2 tra/STM + di/PRE + zioni/STM
+2 1683/STM
+1 rinveni/STM + mento/SUF
+3 tribù/STM
+2 abitanti/STM
+2 Tokio/STM
+2 camere/STM
+4 denomi/STM + nazion/STM + e/SUF
+1 rilasci/STM + a/SUF + te/SUF
+1 separ/STM + a/SUF + to/SUF
+4 singola/STM
+1 Con/STM + cepción/STM
+1 contemporanei/STM + tà/STM
+1 83/STM
+1 can/STM + di/PRE + dato/STM
+1 Claudio/STM
+2 1930/STM
+2 Bru/STM + no/SUF
+70 l/STM
+10 sud/STM
+3 tal/STM
+1 commesse/STM
+1 caratteri/STM + zza/STM
+3 di/PRE + vinità/STM
+1 record/STM
+4 Unito/STM
+# Time used (secs): 0

@@ -1,0 +1,5541 @@
+# expandmorphsegmentations.pl, Sun Apr 30 18:37:25 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+2 destino/STM
+1 Sub/STM + rahmanyan/STM
+1 car/STM + naval/STM
+1 con/PRE + t/STM + ó/SUF
+1 masculin/STM + a/SUF
+4 Albert/STM
+315 se/STM
+3 comun/STM + ica/SUF + ciones/SUF
+2 minori/STM + taria/STM
+2 complejo/STM
+1 1832/STM
+1 P/STM + es/SUF + o/SUF
+1 Y/STM
+3 incluye/STM
+3 térm/STM + ica/SUF
+1 auto/STM + r/SUF + iza/STM + ción/SUF
+1 Cat/STM + a/SUF + ra/SUF + tas/STM
+3 radica/STM + l/SUF
+3 templa/STM + do/SUF
+1 química/STM
+1 que/STM + da/SUF
+1 ovino/STM
+4 educa/STM + ción/SUF
+4 tiempo/STM + s/SUF
+1 hi/STM + s/SUF + toric/STM + ista/STM
+1 Pre/STM + via/STM + mente/SUF
+1 cat/STM + ego/STM + ría/SUF
+13 est/STM + a/SUF + s/SUF
+5 propia/STM
+3 electoral/STM
+2 expresiones/STM
+4 pequeño/STM
+1 mu/STM + r/SUF + ien/STM + do/SUF
+1 Rock/STM
+2 cordilleranas/STM
+1 al/STM + tur/STM + a/SUF + s/SUF
+6 sigu/STM + e/SUF + n/SUF
+2 re/PRE + clama/STM + do/SUF
+1 aten/STM + ción/STM
+1 automo/STM + vi/STM + lismo/STM
+2 form/STM + a/SUF + ba/SUF
+2 Chica/STM
+1 con/PRE + stitu/STM + tiva/SUF
+1 385/STM
+3 inf/STM + ra/SUF + estructura/STM
+2 urbanos/STM
+1 hela/STM + do/SUF
+1 residente/STM
+2 PS/STM
+1 compon/STM + en/STM
+1 ambi/STM + ciones/SUF
+2 25K/STM
+1 eclectic/STM + ismo/SUF
+2 sudamericano/STM
+1 Duhal/STM + de/STM
+6 70/STM
+4 denomina/STM + da/SUF
+1 mbyá/STM
+1 Re/STM + ciente/STM + mente/SUF
+1 de/STM + fun/STM + ciones/SUF
+2 desarrol/STM + l/SUF + a/SUF + n/SUF
+2 explorador/STM
+1 vi/STM + de/STM + s/SUF
+1 utiliza/STM + da/SUF + s/SUF
+2 817/STM
+13 Principa/STM + do/SUF
+1 1954/STM
+1 irrup/STM + ción/SUF
+1 San/STM + ita/STM + rio/SUF
+3 form/STM + a/SUF + do/SUF
+1 dura/STM + ción/SUF
+1 29/STM
+1 incre/STM + mentado/STM
+2 rela/STM + cion/STM + a/SUF + dos/SUF
+6 cultura/STM + l/SUF + es/SUF
+1 ven/STM + di/STM + dos/SUF
+3 man/STM + do/SUF
+2 inspi/STM + r/SUF + ó/SUF
+1 andinas/STM
+2 produc/STM + e/SUF
+1 latín/STM
+3 1748/STM
+1 Innova/STM + ción/STM
+1 in/STM + da/SUF + gan/STM
+3 in/PRE + alcanzable/STM
+3 abrir/STM
+3 Alvear/STM
+2 madera/STM
+2 volcaron/STM
+1 aporte/STM
+5 soleados/STM
+12 caracter/STM + ística/STM + s/SUF
+1 atrapa/STM + dos/SUF
+5 habitual/STM
+1 órgano/STM + s/SUF
+1 126/STM
+1 Pro/STM + cur/STM + a/SUF + do/SUF + r/SUF
+3 partícula/STM + s/SUF
+1 Histoire/STM
+4 anterior/STM + mente/SUF
+5 Misiones/STM
+2 re/PRE + ciente/STM + mente/SUF
+1 ve/STM + stigios/STM
+1 correc/STM + ciones/SUF
+1 presidenta/STM
+16 San/STM
+2 profunda/STM + mente/SUF
+2 húme/STM + da/SUF
+1 Crist/STM + o/SUF
+1 extranjero/STM
+1 E/STM + r/SUF + mengol/STM
+2 compite/STM
+3 resulta/STM + do/SUF + s/SUF
+3 pas/STM + a/SUF + jeros/STM
+1 destino/STM + s/SUF
+8 feria/STM + dos/SUF
+1 nacional/STM + idad/SUF + es/SUF
+1 fren/STM + a/SUF + r/SUF + la/STM
+1 im/STM + posi/STM + tiva/SUF
+2 puntua/STM + ción/SUF
+6 aquellos/STM
+1 Neolít/STM + ico/SUF
+1 Mart/STM + ha/STM
+5 Corrientes/STM
+18 argentina/STM
+1 docu/STM + mento/STM
+5 ámbito/STM
+1 ext/STM + r/SUF + a/SUF + je/STM + ron/SUF
+1 mecanismo/STM
+2 comple/STM + mento/STM + s/SUF
+2 cuál/STM + es/SUF
+2 Investiga/STM + do/SUF + r/SUF
+1 benigno/STM
+3 417/STM
+1 Ballet/STM
+2 seis/STM
+1 in/PRE + flu/STM + ida/STM
+10 mientras/STM
+5 1922/STM
+3 RTP/STM
+5 elegido/STM
+6 chorro/STM + s/SUF
+1 cul/STM + tiva/SUF + ble/STM + s/SUF
+6 obten/STM + ido/SUF
+2 aplica/STM
+2 propósito/STM
+6 colapso/STM
+1 Cinco/STM
+1 Ce/STM + pe/STM + da/SUF
+1 ALT/STM
+3 13/STM
+4 causa/STM + l/SUF
+1 te/STM + atro/STM
+1 compara/STM + ble/STM
+1 1419/STM
+1 pudú/STM
+1 académica/STM + s/SUF
+1 ocup/STM + ó/SUF
+2 re/PRE + presenta/STM + nte/STM + s/SUF
+15 así/STM
+1 fo/STM + c/STM + s/SUF
+9 día/STM + s/SUF
+3 invierno/STM + s/SUF
+4 Georgia/STM + s/SUF
+2 común/STM + mente/SUF
+31 código/STM
+3 emblem/STM + a/SUF
+2 3560/STM
+1 trans/STM + porta/STM
+8 rama/STM + s/SUF
+5 33/STM
+3 experi/STM + encia/STM
+1 archaeological/STM
+2 dura/STM
+1 man/STM + tener/STM
+2 motor/STM
+1 tele/STM + f/STM + ó/SUF + n/SUF + icas/STM
+1 fisiólogo/STM
+1 ne/STM + o/SUF + clás/STM + ica/SUF
+1 considera/STM + ba/SUF
+12 agrícola/STM
+1 urban/STM + ística/STM
+7 medida/STM
+1 catalán/STM + La/STM
+2 ballenas/STM
+3 práctica/STM
+11 ambo/STM + s/SUF
+1 6000/STM
+9 pública/STM
+3 suelo/STM + s/SUF
+2 Oria/STM
+1 Héritier/STM
+1 derrota/STM
+2 auto/STM + r/SUF + idad/SUF
+2 Strauss/STM
+1 grave/STM
+1 pacificadoras/STM
+9 mundial/STM
+1 sub/STM + con/PRE + tin/STM + ente/STM
+1 con/PRE + tin/STM + gente/STM
+1 cosecha/STM
+1 VI/STM
+4 Pueblo/STM + s/SUF
+1 Vege/STM + ta/STM + ción/SUF
+1 origina/STM + rio/SUF + s/SUF
+6 General/STM
+3 medida/STM + s/SUF
+1 dis/STM + curso/STM + s/SUF
+1 proteína/STM
+1 cuasi/STM
+1 roble/STM
+2 participa/STM + r/SUF
+3 alto/STM
+33 ASCII/STM
+2 Oriente/STM
+2 Aurora/STM
+2 analizar/STM
+2 exp/STM + l/SUF + ica/SUF + n/SUF
+2 Complementaria/STM
+1 ext/STM + r/SUF + ac/STM + ción/SUF
+1 Rousseau/STM
+9 actua/STM + l/SUF + idad/SUF
+1 competi/STM + ciones/SUF
+1 diferencia/STM + do/SUF + r/SUF
+1 baut/STM + iza/STM + do/SUF + s/SUF
+1 audio/STM
+1 impuls/STM + ado/SUF
+1 Fra/STM + n/SUF + co/STM
+1 auto/STM + bús/STM
+3 demost/STM + ra/SUF + ron/SUF
+6 agua/STM + s/SUF
+1 con/PRE + ven/STM + ci/STM + ó/SUF
+3 comenz/STM + a/SUF + ron/SUF
+1 de/STM + s/SUF + crita/STM
+1 socio/STM + logía/STM
+6 11/STM
+3 apro/STM + ba/SUF + ción/SUF
+3 modifica/STM + n/SUF + do/SUF
+4 re/PRE + vista/STM
+2 de/PRE + termina/STM + da/SUF
+1 constituy/STM + e/SUF + n/SUF + do/SUF
+2 concentra/STM + ba/SUF
+1 eños/STM
+3 Pobla/STM + ción/SUF
+1 sujeta/STM
+1 pas/STM + a/SUF + ría/SUF
+9 Guerra/STM
+1 indio/STM + s/SUF
+1 per/STM + de/STM + r/SUF
+2 par/STM + idad/SUF
+2 Mari/STM + s/SUF + cal/STM
+4 pino/STM
+4 utiliza/STM + n/SUF
+1 met/STM + a/SUF
+4 eleva/STM + do/SUF
+1 especial/STM + iza/STM + da/SUF
+3 varia/STM + ciones/SUF
+3 alianza/STM
+1 gene/STM + ra/SUF + cion/STM + a/SUF + l/SUF
+2 permanente/STM
+3 edad/STM
+1 za/STM + n/SUF + jas/STM
+1 mental/STM
+19 agri/STM + cultura/STM
+2 deci/STM + sion/STM + es/SUF
+1 cocaína/STM
+9 principio/STM + s/SUF
+1 r/STM + estable/STM + cido/STM + s/SUF
+9 muchas/STM
+4 univers/STM + idad/SUF + es/SUF
+1 m/STM
+6 Virreinato/STM
+1 Atenas/STM
+1 renuevan/STM
+1 an/STM + a/SUF + tomía/STM
+1 italiana/STM
+5 estable/STM + ci/STM + ó/SUF
+3 evolu/STM + tivo/SUF
+1 acuerdo/STM + s/SUF
+2 sirve/STM
+1 aporta/STM + ba/SUF
+2 53/STM
+4 Est/STM + a/SUF + do/SUF + s/SUF
+2 de/PRE + part/STM + a/SUF + mento/STM
+1 5200/STM
+10 ya/STM
+1 Del/STM
+19 tiempo/STM
+2 adicional/STM
+1 di/STM + cta/STM + do/SUF
+1 des/PRE + tac/STM + ándose/STM
+2 naveg/STM + ables/STM
+1 naci/STM + da/SUF + s/SUF
+1 título/STM + s/SUF
+2 escribe/STM
+2 127/STM
+4 vino/STM
+6 fútbol/STM
+1 UCLA/STM
+2 OJ/STM
+1 im/STM + popular/STM
+1 cielo/STM
+1 Henri/STM
+1 de/PRE + cla/STM + ra/SUF + da/SUF + s/SUF
+3 cerca/STM + n/SUF + ía/SUF
+1 solar/STM
+11 arquitec/STM + tur/STM + a/SUF
+1 convirt/STM + iéndola/STM
+2 Aérea/STM
+3 31/STM
+6 1970/STM
+1 articulato/STM + rio/SUF
+4 obten/STM + ción/SUF
+2 Concor/STM + da/SUF + ncia/STM
+1 Núñez/STM
+3 pas/STM + a/SUF + ron/SUF
+2 mitima/STM + e/SUF
+1 Feryal/STM
+1 de/PRE + cla/STM + r/SUF + en/STM
+1 suficiente/STM + s/SUF
+9 sociedad/STM + es/SUF
+1 de/STM + marca/STM + ción/SUF
+1 R/STM
+2 territorial/STM + es/SUF
+6 importa/STM + ncia/STM
+1 pod/STM + ría/SUF
+1 decir/STM + se/STM
+4 Mo/STM + rse/SUF
+8 re/PRE + curso/STM + s/SUF
+1 basan/STM
+1 fama/STM
+2 permane/STM + ciendo/STM
+2 Robert/STM
+1 cr/STM + uz/STM + ado/SUF
+2 alcanz/STM + a/SUF + n/SUF + do/SUF
+2 metro/STM
+1 sol/STM
+1 crea/STM + do/SUF
+2 8859/STM
+1 termina/STM
+1 re/PRE + sum/STM + ió/STM
+3 Colón/STM
+1 asocia/STM + da/SUF + s/SUF
+5 12/STM
+2 administra/STM + da/SUF + s/SUF
+2 emit/STM + ido/SUF
+2 riego/STM
+1 ext/STM + ender/STM
+3 con/PRE + stitu/STM + ción/SUF
+2 inter/STM + valo/STM
+2 periódicas/STM
+1 colo/STM + r/SUF + es/SUF
+4 surge/STM
+1 Cha/STM + mpions/STM
+1 re/PRE + conoce/STM + r/SUF
+6 des/PRE + ayuno/STM
+2 delfin/STM + es/SUF
+1 atra/STM + í/STM + dos/SUF
+2 laguna/STM + s/SUF
+2 guvernamentales/STM
+1 rela/STM + tos/STM
+2 alzado/STM
+1 estudia/STM + r/SUF
+3 imposibilita/STM
+1 incur/STM + sion/STM + es/SUF
+1 1816/STM
+1 fabrica/STM + ción/SUF
+1 Nueva/STM + s/SUF
+6 altos/STM
+2 emitir/STM
+4 0/STM
+1 inter/STM + este/STM + lares/STM
+1 Miras/STM
+2 aficionado/STM
+1 pre/PRE + sion/STM + ado/SUF
+6 Latinoamérica/STM
+1 re/PRE + ciente/STM + s/SUF
+2 mediano/STM
+1 presidencia/STM + l/SUF
+2 ejerc/STM + e/SUF
+1 llámese/STM
+1 Cela/STM + de/STM + s/SUF
+2 evolu/STM + cion/STM + ista/STM
+3 dual/STM
+8 exporta/STM + ciones/SUF
+1 dis/STM + continua/STM
+1 traduc/STM + ción/SUF
+3 Unicode/STM
+13 técn/STM + icas/SUF
+1 Final/STM + mente/SUF
+2 Cuenta/STM
+1 alfajor/STM
+2 Apipé/STM
+58 part/STM + e/SUF
+3 ANV/STM
+3 plata/STM
+2 S/STM
+4 fronter/STM + a/SUF
+285 por/STM
+3 especial/STM + iza/STM + da/SUF + s/SUF
+2 dej/STM + ó/SUF
+2 emisoras/STM
+2 pec/STM + es/SUF
+1 indig/STM + encia/STM
+2 Extendido/STM
+1 origina/STM + l/SUF + mente/SUF
+1 re/PRE + organiza/STM + do/SUF
+1 saturasen/STM
+1 aled/STM + aña/STM
+1 radica/STM + l/SUF + es/SUF
+44 negro/STM
+2 familia/STM + r/SUF
+5 evolu/STM + ción/SUF
+3 blazar/STM
+2 Periódicos/STM
+1 mate/STM + mático/STM
+6 franc/STM + es/SUF + es/SUF
+11 etc/STM
+2 univers/STM + o/SUF
+4 importa/STM + ciones/SUF
+2 basta/STM
+4 principado/STM
+2 mejoran/STM
+3 hizo/STM
+2 Edwin/STM
+3 amplio/STM
+1 tavyte/STM + rá/STM
+3 índice/STM
+2 bombardearon/STM
+1 vean/STM
+4 sec/STM + ción/SUF
+1 derro/STM + tó/STM
+5 utiliza/STM + dos/SUF
+2 copríncipe/STM
+3 latino/STM + americana/STM
+2 sujeto/STM + s/SUF
+8 tener/STM
+2 símbolo/STM + s/SUF
+3 efecto/STM
+1 conoci/STM + era/STM
+11 poder/STM
+6 aeropuerto/STM
+1 tribu/STM + taria/STM
+2 compara/STM + tiva/SUF
+1 direc/STM + tivo/SUF + s/SUF
+1 pre/PRE + ferencias/STM
+3 posi/STM + tiva/SUF
+4 con/PRE + tin/STM + ente/STM
+1 acelera/STM + dos/SUF
+9 valle/STM
+1 trono/STM
+1 Ingenie/STM + ría/SUF
+5 último/STM + s/SUF
+1 condensa/STM + ción/SUF
+1 curva/STM + tur/STM + a/SUF
+3 Proxim/STM + idad/SUF
+2 59/STM
+3 encontraban/STM
+1 desarrol/STM + l/SUF + a/SUF + r/SUF
+2 pierde/STM + n/SUF
+2 posee/STM + n/SUF
+1 modifica/STM + ciones/SUF
+1 é/STM + sta/STM + s/SUF
+1 42/STM
+3 Científicas/STM
+7 Gran/STM
+4 menos/STM
+6 Mar/STM
+1 Shatt/STM
+1 encontra/STM + do/SUF
+2 Geográfico/STM
+1 Freud/STM
+1 evid/STM + ente/STM + mente/SUF
+1 mucha/STM
+2 Compara/STM + do/SUF
+11 datos/STM
+1 par/STM + agua/STM + s/SUF
+6 marzo/STM
+1 ju/STM + ego/STM + s/SUF
+1 a/STM + part/STM + a/SUF + do/SUF
+1 es/STM + cultura/STM
+2 aña/STM + di/STM + ó/SUF
+3 Técnicas/STM
+2 organiza/STM + ciones/SUF
+11 Seo/STM
+1 urban/STM + ista/STM
+21 uno/STM
+1 hierba/STM + s/SUF
+1 líderes/STM
+1 ciervo/STM
+1 divid/STM + e/SUF
+2 disminuye/STM
+1 oblig/STM + ado/SUF
+1 Edu/STM + a/SUF + r/SUF + do/SUF
+5 con/PRE + junto/STM
+2 suce/STM + de/STM
+3 Está/STM
+2 Verde/STM + s/SUF
+7 Perú/STM
+2 húme/STM + dos/SUF
+2 sólidos/STM
+1 041/STM
+1 ma/STM + quis/STM
+1 ex/STM + tin/STM + ción/SUF
+1 suce/STM + di/STM + ó/SUF
+1 propi/STM + eta/STM + rio/SUF
+2 1853/STM
+1 Mo/STM + r/SUF + gan/STM
+1 va/STM + ría/SUF
+3 arreglan/STM
+1 latino/STM + americano/STM
+1 acumu/STM + la/STM + do/SUF
+23 total/STM
+19 han/STM
+1 domestica/STM + da/SUF + s/SUF
+1 cal/STM + idad/SUF
+4 1973/STM
+1 principio/STM
+4 segu/STM + n/SUF + do/SUF
+2 in/PRE + media/STM + ta/STM + mente/SUF
+1 Ghez/STM
+2 clonación/STM
+6 intento/STM
+1 lo/STM + ma/STM + da/SUF + s/SUF
+1 pre/PRE + ocup/STM + a/SUF + rse/SUF
+3 sufren/STM
+1 frescos/STM
+3 Islas/STM
+1 Asamblea/STM
+9 crecimiento/STM
+4 maquinaria/STM + s/SUF
+5 Malvinas/STM
+2 Julio/STM
+4 libertad/STM
+3 dura/STM + n/SUF
+1 Jacinto/STM
+3 estadounidense/STM
+4 trata/STM
+2 57/STM
+6 mujer/STM + es/SUF
+1 Déca/STM + da/SUF
+1 pingüinos/STM
+1 civil/STM
+3 Investiga/STM + ciones/SUF
+1 administra/STM + ción/SUF
+5 tur/STM + ismo/SUF
+1 man/STM + tien/STM + e/SUF
+4 Ciudad/STM
+1 teni/STM + do/SUF
+25 Nacional/STM
+1 colo/STM + n/SUF + iza/STM + ción/SUF
+5 plata/STM + form/STM + a/SUF
+4 III/STM
+8 nomb/STM + r/SUF + e/SUF
+1 ir/STM
+3 hockey/STM
+1 manzanas/STM
+1 Eddington/STM
+8 Son/STM
+1 Di/STM + arios/STM
+1 exp/STM + l/SUF + ica/SUF + ciones/SUF
+2 ciento/STM
+1 firm/STM + ado/SUF
+1 v/STM + ieron/STM
+1 misionero/STM
+5 tal/STM + es/SUF
+1 causa/STM + l/SUF + idad/SUF
+1 mejor/STM + es/SUF
+1 Comape/STM + dro/STM + s/SUF + a/SUF
+1 incorpo/STM + ra/SUF + rse/SUF
+3 dispone/STM
+2 Marca/STM
+1 Nova/STM
+15 principal/STM
+5 café/STM
+2 subdivid/STM + e/SUF
+1 Lamas/STM
+1 compara/STM + ción/SUF
+3 posee/STM + r/SUF
+1 pre/PRE + via/STM + mente/SUF
+1 Windows/STM
+4 miembro/STM + s/SUF
+4 Bariloche/STM
+2 armamentístico/STM
+3 significa/STM + r/SUF
+1 hi/STM + s/SUF + tó/STM + rico/STM
+1 Roman/STM
+4 nieve/STM
+1 gas/STM + oducto/STM
+3 singular/STM + idad/SUF
+1 re/PRE + con/PRE + struc/STM + ción/SUF
+1 distrito/STM + s/SUF
+1 educa/STM + tiva/SUF
+2 aquellas/STM
+4 priv/STM + a/SUF + do/SUF
+1 reserva/STM + s/SUF
+4 debe/STM
+4 geometría/STM
+1 Urquiza/STM
+1 opera/STM + ciones/SUF
+1 nu/STM + tri/STM + a/SUF
+1 decisiva/STM + mente/SUF
+1 Man/STM + comun/STM + idad/SUF
+1 780/STM
+4 Yrigoyen/STM
+1 organiza/STM + rse/SUF
+1 rela/STM + tivo/SUF
+1 Au/STM + ge/STM + r/SUF
+1 allá/STM
+1 local/STM + idad/SUF + es/SUF
+8 posible/STM
+2 Casa/STM
+2 diseño/STM
+1 excava/STM + ción/SUF
+1 progreso/STM + s/SUF
+2 incorpo/STM + ra/SUF
+2 Butagaz/STM
+1 es/STM + tua/STM + rio/SUF
+3 expresión/STM
+2 desarrol/STM + l/SUF + a/SUF + ron/SUF
+1 arqueo/STM + lógica/STM + s/SUF
+2 expone/STM + nte/STM + s/SUF
+1 beneficia/STM + da/SUF
+1 estable/STM + cido/STM + s/SUF
+1 adapta/STM + tivo/SUF
+7 herr/STM + amientas/STM
+1 1944/STM
+2 triun/STM + f/STM + ó/SUF
+1 Puna/STM
+1 considera/STM + n/SUF + do/SUF
+2 dispara/STM + da/SUF
+2 guaraní/STM + es/SUF
+18 región/STM
+3 dirigida/STM
+1 inca/STM + ico/SUF
+7 noroeste/STM
+4 núcleo/STM
+15 2007/STM
+1 sugir/STM + ieron/STM
+4 Per/STM + ó/SUF + n/SUF
+2 escribi/STM + ó/SUF
+1 in/PRE + flujo/STM
+5 tecno/STM + logía/STM
+2 mes/STM
+1 1964/STM
+1 fase/STM
+1 bio/STM + lógico/STM + s/SUF
+20 España/STM
+2 conserva/STM
+1 sá/STM + ndwich/STM
+1 chirigu/STM + anos/STM
+1 incorpo/STM + ra/SUF + n/SUF + do/SUF
+2 Obisp/STM + ado/SUF
+1 1974/STM
+1 Type/STM
+2 defini/STM + do/SUF
+1 mono/STM + cul/STM + tivo/SUF
+2 ú/STM + n/SUF + ica/SUF + s/SUF
+18 algunos/STM
+2 pas/STM + a/SUF
+2 dispone/STM + n/SUF
+2 múltiples/STM
+1 1980/STM
+21 todo/STM
+3 14/STM
+64 fue/STM
+4 veloc/STM + idad/SUF
+3 Dicho/STM
+6 Reino/STM
+5 Primera/STM
+2 impuls/STM + a/SUF + n/SUF + do/SUF
+6 anual/STM + es/SUF
+2 va/STM
+2 capital/STM + es/SUF
+1 competi/STM + r/SUF
+2 regula/STM
+3 método/STM
+1 avanzada/STM + s/SUF
+2 nega/STM + ba/SUF
+5 Est/STM + e/SUF
+2 representó/STM
+3 biológica/STM
+1 masivo/STM + s/SUF
+4 pro/STM
+1 ley/STM + en/STM + da/SUF
+3 cubre/STM
+1 eléct/STM + rico/STM
+1 dispone/STM + r/SUF
+1 monar/STM + quía/STM
+2 Art/STM + e/SUF
+3 Fo/STM + n/SUF + do/SUF
+9 human/STM + o/SUF
+5 genética/STM
+1 petroquím/STM + ico/SUF
+3 recorr/STM + ido/SUF
+2 Fijo/STM
+30 A/STM
+1 evitar/STM
+3 ent/STM + idad/SUF + es/SUF
+2 Marc/STM
+3 espíritu/STM
+1 métrica/STM + s/SUF
+5 serie/STM
+1 Caballé/STM
+4 longitud/STM
+2 idioma/STM + s/SUF
+5 milita/STM + r/SUF
+2 estructura/STM + lismo/STM
+2 exp/STM + l/SUF + ica/SUF + ción/SUF
+8 mitad/STM
+2 trazado/STM
+7 destaca/STM
+2 in/PRE + fusiones/STM
+1 1912/STM
+5 ese/STM
+2 direc/STM + tor/STM + es/SUF
+4 mantenimiento/STM
+2 hogar/STM + es/SUF
+1 cuarentena/STM
+4 variedad/STM
+1 galardona/STM + dos/SUF
+1 equivale/STM
+4 Inteligencia/STM
+2 predomina/STM + n/SUF
+2 Desde/STM
+1 resulta/STM + ba/SUF + n/SUF
+3 Zodiaco/STM
+1 meridional/STM
+1 Sal/STM + ado/SUF
+1 prede/STM + ceso/STM + r/SUF + es/SUF
+1 solicita/STM + r/SUF + la/STM
+8 mejor/STM
+1 Feria/STM
+2 depen/STM + de/PRE + ncia/STM
+2 Cantábrico/STM
+1 gene/STM + ra/SUF + l/SUF + izándose/STM
+2 ciclismo/STM
+1 Con/STM + stitu/STM + yente/STM
+1 sustancia/STM + l/SUF
+1 titu/STM + la/STM + da/SUF
+1 vec/STM + tor/STM + es/SUF
+3 festiv/STM + idad/SUF + es/SUF
+1 exp/STM + l/SUF + ica/SUF + do/SUF
+1 marplatense/STM
+3 cero/STM
+3 enorme/STM
+1 tonocot/STM + é/STM
+1 supóngase/STM
+1 trasla/STM + do/SUF
+2 puro/STM
+2 comienza/STM
+1 tribu/STM + n/SUF + al/STM + es/SUF
+3 física/STM + s/SUF
+2 dominarlos/STM
+11 2/STM
+1 Punta/STM
+3 perd/STM + ido/SUF
+2 lloran/STM
+1 erra/STM + dic/STM + ó/SUF
+1 excursion/STM + ista/STM + s/SUF
+1 lleg/STM + a/SUF
+11 República/STM
+1 Andrea/STM
+1 domést/STM + icas/STM
+5 progreso/STM
+2 caracter/STM + ística/STM
+1 Envalira/STM
+3 con/PRE + fluencia/STM
+5 ante/STM
+2 control/STM + a/SUF
+1 General/STM + es/SUF
+3 perd/STM + ien/STM + do/SUF
+3 ligera/STM + mente/SUF
+1 B/STM
+1 integra/STM + nte/STM
+2 actua/STM + l/SUF + es/SUF
+3 creencias/STM
+1 Re/STM + organiza/STM + ción/SUF
+1 Canadá/STM
+6 5/STM
+2 pre/PRE + via/STM
+1 finita/STM
+1 Bronisław/STM
+5 servicio/STM
+1 exist/STM + ía/SUF
+1 de/STM + form/STM + a/SUF + ción/SUF
+1 cobre/STM
+1 preca/STM + riedad/STM
+2 Guipúzcoa/STM
+1 ita/STM + liano/STM
+4 elec/STM + ción/SUF
+8 diversos/STM
+1 Timoteo/STM
+5 con/PRE + sum/STM + o/SUF
+1 105/STM
+1 human/STM + ismo/SUF
+2 Es/STM + til/STM + o/SUF
+2 con/PRE + lleva/STM
+14 área/STM
+1 ey/STM + ectado/STM
+7 externos/STM
+2 Fútbol/STM
+2 provee/STM
+2 salina/STM
+1 part/STM + ida/STM
+1 estética/STM + s/SUF
+1 sardina/STM
+3 agrupa/STM + r/SUF
+3 satisface/STM
+1 es/STM + f/STM + érica/STM
+2 Diseño/STM
+1 trans/STM + form/STM + a/SUF + ría/SUF
+1 trans/STM + misi/STM + ó/SUF + n/SUF
+1 g/STM + astronom/STM + ía/SUF
+1 extendida/STM
+1 accede/STM + r/SUF
+8 Otro/STM + s/SUF
+14 otra/STM + s/SUF
+1 aluvional/STM
+1 perd/STM + iese/STM + n/SUF
+2 arbitraje/STM
+7 Existe/STM + n/SUF
+4 poco/STM
+1 centolla/STM
+17 alguna/STM + s/SUF
+8 human/STM + o/SUF + s/SUF
+2 soporte/STM
+4 naturaleza/STM
+1 pre/PRE + tend/STM + ido/SUF
+1 capac/STM + ita/STM + ción/SUF
+1 ganade/STM + ra/SUF
+1 arance/STM + les/SUF
+2 UE/STM
+2 univers/STM + idad/SUF
+1 va/STM + ría/SUF + n/SUF
+1 boletín/STM
+1 Mitre/STM
+4 1984/STM
+2 vecino/STM + s/SUF
+1 con/PRE + cepto/STM
+1 susp/STM + ender/STM
+1 cáñamo/STM
+1 macizo/STM
+5 hombre/STM
+3 franc/STM + es/SUF + a/SUF + s/SUF
+1 logra/STM + n/SUF + do/SUF
+1 local/STM + iza/STM + n/SUF
+1 ci/STM + r/SUF + cul/STM + a/STM + ción/SUF
+5 Atlántico/STM
+1 cal/STM + ca/STM + do/SUF
+1 Maximi/STM + liano/STM
+1 titu/STM + lar/STM
+4 Maquinaria/STM
+1 Se/STM + gu/STM + n/SUF + do/SUF
+1 legisla/STM + tur/STM + a/SUF + s/SUF
+2 hall/STM + en/STM
+3 Luis/STM
+3 regional/STM
+3 cálidos/STM
+2 op/STM + ciones/SUF
+1 drástica/STM
+3 político/STM
+2 Original/STM + mente/SUF
+6 similar/STM
+1 decisiva/STM
+1 Pampeanas/STM
+95 no/STM
+10 estos/STM
+1 compati/STM + ble/STM
+2 Ceferino/STM
+1 escandinavos/STM
+2 150/STM
+1 explota/STM + ción/SUF
+2 Impuesto/STM
+2 XIII/STM
+1 Sgen/STM
+12 puede/STM + n/SUF
+1 Puede/STM + n/SUF
+13 ciencia/STM + s/SUF
+1 Herr/STM + era/STM
+1 A/STM + grega/STM + do/SUF
+1 revi/STM + sion/STM + es/SUF
+2 crítico/STM + s/SUF
+3 tecno/STM + lógica/STM + s/SUF
+1 clasifica/STM + ción/SUF
+1 puesto/STM + s/SUF
+5 Estadoun/STM + idense/STM
+9 exist/STM + e/SUF + n/SUF
+2 caso/STM
+8 siete/STM
+2 éste/STM
+1 ó/STM + p/STM + tima/STM + s/SUF
+2 casaler/STM + s/SUF
+1 combustible/STM
+1 aloja/STM + miento/STM
+1 amplia/STM + r/SUF
+1 hogar/STM
+2 orde/STM + n/SUF + a/SUF + do/SUF
+2 post/STM + erior/STM + mente/SUF
+1 conserva/STM + do/SUF + r/SUF + es/SUF
+1 varia/STM + da/SUF
+1 Social/STM
+1 demo/STM + gráfico/STM
+1 horizon/STM + tal/STM + es/SUF
+1 recurr/STM + ía/SUF + n/SUF
+3 red/STM
+7 español/STM + es/SUF
+1 de/STM + struc/STM + tiva/SUF
+1 Natural/STM + es/SUF
+1 Perfil/STM
+1 dibuj/STM + o/SUF
+2 porteños/STM
+3 esencial/STM + mente/SUF
+35 tien/STM + e/SUF
+1 apunta/STM + do/SUF + r/SUF
+1 califica/STM + ba/SUF
+3 crea/STM + da/SUF + s/SUF
+1 diseña/STM + r/SUF
+1 entre/STM + guerra/STM + s/SUF
+1 considera/STM + do/SUF + s/SUF
+2 ban/STM + do/SUF
+1 Louis/STM
+2 Evita/STM
+1 des/PRE + hielo/STM + s/SUF
+3 resulta/STM + do/SUF
+7 Juan/STM
+3 Justicialista/STM
+7 americano/STM
+2 hijo/STM
+3 obra/STM + s/SUF
+1 s/STM + orde/STM + ra/SUF
+4 época/STM
+1 cinco/STM
+1 ante/STM + cedente/STM
+3 62/STM
+1 10º/STM
+1 in/PRE + form/STM + áticos/STM
+1 clasifica/STM + r/SUF
+3 televisiva/STM
+5 re/PRE + presenta/STM + da/SUF
+5 hijo/STM + s/SUF
+1 gig/STM + awatts/STM
+1 cha/STM + n/SUF + é/STM
+2 con/PRE + tribuye/STM
+4 mayor/STM + es/SUF
+3 cívicas/STM
+5 Radical/STM
+3 oficial/STM + idad/SUF
+1 vincula/STM + r/SUF
+1 predomina/STM
+11 Plata/STM
+1 sus/STM + tenta/STM
+1 domestica/STM + ción/SUF
+5 Congreso/STM
+1 Hollande/STM
+6 esa/STM
+2 debe/STM + ría/SUF
+2 masiva/STM
+1 plást/STM + ico/SUF + s/SUF
+3 tradiciones/STM
+61 entre/STM
+1 integra/STM + nte/STM + s/SUF
+1 máximo/STM + s/SUF
+1 activ/STM + a/SUF
+2 Torres/STM
+7 cerca/STM
+1 ORTA/STM
+2 naranja/STM
+1 Gonz/STM + ález/STM
+1 clero/STM
+2 sicómoro/STM
+4 nuevo/STM
+1 in/PRE + struc/STM + ciones/SUF
+2 AAFC/STM
+1 cua/STM + terna/STM + rio/SUF
+1 organiza/STM + da/SUF
+7 acuerdo/STM
+1 investiga/STM + r/SUF
+3 hidrocarbur/STM + íferos/STM
+4 luego/STM
+1 agrupa/STM
+1 Juntos/STM
+1 estable/STM + cido/STM
+3 Hasta/STM
+1 4/STM
+4 apoya/STM + da/SUF
+2 Belleza/STM
+1 silvestre/STM + s/SUF
+4 re/PRE + presenta/STM + ción/SUF
+1 carpin/STM + cho/STM + s/SUF
+1 segui/STM + ría/SUF
+3 te/STM + ó/SUF + rico/STM + s/SUF
+2 Nouveau/STM
+6 turístico/STM + s/SUF
+1 Di/STM + ferencias/STM
+4 Censo/STM
+1 anti/STM + ba/SUF + cteriales/STM
+9 ningún/STM
+1 fundamental/STM + es/SUF
+1 al/STM + terna/STM + tiva/SUF + s/SUF
+32 está/STM
+1 in/PRE + defini/STM + da/SUF + mente/SUF
+1 emp/STM + a/SUF + renta/STM + dos/SUF
+4 composición/STM
+1 cuya/STM
+6 Un/STM + ido/SUF
+2 selección/STM
+17 lengua/STM
+2 aparatos/STM
+5 argentino/STM + s/SUF
+1 químicos/STM
+17 tres/STM
+1 pod/STM + emos/STM
+1 re/PRE + conoci/STM + do/SUF
+1 reserva/STM + da/SUF + s/SUF
+3 protocolo/STM
+2 Real/STM
+6 conoci/STM + da/SUF
+5 abril/STM
+1 celebra/STM + do/SUF
+6 lingü/STM + ística/STM
+5 patin/STM + es/SUF
+1 última/STM + s/SUF
+3 Perrault/STM
+2 J/STM
+2 And/STM + r/SUF + óme/STM + da/SUF
+9 sistema/STM + s/SUF
+2 ametrallaron/STM
+2 comparte/STM + n/SUF
+4 propone/STM
+2 Car/STM + r/SUF + era/STM
+2 cigarrillo/STM
+2 etapa/STM
+3 episcopal/STM
+3 conjugan/STM
+1 amplio/STM + s/SUF
+1 Tull/STM
+3 aspecto/STM + s/SUF
+1 origina/STM
+13 menor/STM
+1 puro/STM + s/SUF
+1 opio/STM
+2 pequeña/STM
+5 6/STM
+2 fenómeno/STM + s/SUF
+4 ú/STM + n/SUF + ico/SUF
+1 emp/STM + a/SUF + que/STM + ta/STM + do/SUF
+1 pol/STM + a/SUF + cos/STM
+3 capítulos/STM
+1 empez/STM + a/SUF + ron/SUF
+1 km2/STM
+1 adulta/STM
+3 128/STM
+2 Huapi/STM
+2 permit/STM + ía/SUF
+1 IVA/STM
+1 órbita/STM
+1 in/PRE + capac/STM + idad/SUF + es/SUF
+1 theorem/STM
+11 Par/STM + a/SUF
+2 de/PRE + cla/STM + r/SUF + ó/SUF
+1 Legisla/STM + tiva/SUF
+1 con/PRE + ur/STM + ba/SUF + ción/SUF
+1 Có/STM + dice/STM
+1 Re/STM + greso/STM
+1 un/STM + iera/STM + n/SUF
+1 Ba/STM + s/SUF + si/STM
+2 introduc/STM + ción/SUF
+2 inter/STM + nacional/STM + mente/SUF
+1 Morell/STM
+6 territorio/STM + s/SUF
+1 nazi/STM + s/SUF
+1 Actual/STM + idad/SUF
+1 habita/STM + ción/SUF
+1 apunta/STM + lar/STM
+3 men/STM + s/SUF + a/SUF + jes/STM
+1 adelante/STM
+3 usa/STM
+5 significó/STM
+1 semin/STM + al/STM + es/SUF
+1 des/PRE + emp/STM + eña/STM + do/SUF
+1 milen/STM + arios/STM
+3 crítica/STM
+7 exten/STM + sión/STM
+5 empresa/STM + s/SUF
+3 tom/STM + ó/SUF
+1 ig/STM + no/STM + r/SUF + ado/SUF
+2 secuencia/STM + s/SUF
+1 post/STM + uras/STM
+1 er/STM + udito/STM + s/SUF
+13 Mundial/STM
+2 post/STM + erior/STM
+1 des/PRE + igualdad/STM
+1 fren/STM + o/SUF
+2 sigu/STM + ieron/STM
+1 direc/STM + ta/STM
+1 federa/STM + l/SUF + es/SUF
+2 Hispán/STM + ica/SUF
+1 aborda/STM
+1 post/STM + al/STM + es/SUF
+1 con/PRE + tra/STM + dic/STM + ción/SUF
+1 hay/STM + a/SUF + n/SUF
+1 cadá/STM + ver/STM + es/SUF
+1 gene/STM + r/SUF + ó/SUF
+1 in/PRE + stru/STM + mento/STM + s/SUF
+3 esperanza/STM
+1 significa/STM + tivo/SUF
+3 cuarto/STM
+3 libro/STM + s/SUF
+12 econom/STM + ía/SUF
+1 gra/STM + n/SUF + ero/STM
+1 canto/STM
+1 1986/STM
+5 español/STM + a/SUF + s/SUF
+1 análoga/STM
+4 enero/STM
+1 auto/STM + denomina/STM + da/SUF
+11 grande/STM
+1 paí/STM
+2 auto/STM + r/SUF + re/PRE + conoce/STM + n/SUF
+1 tej/STM + ido/STM
+1 denomina/STM + do/SUF + s/SUF
+8 astronom/STM + ía/SUF
+1 Im/STM + posi/STM + bil/STM + idad/SUF
+1 de/STM + por/STM + tivo/SUF + s/SUF
+5 presidencia/STM
+1 400/STM
+1 gasto/STM
+4 antigu/STM + o/SUF
+2 fabrica/STM + da/SUF + s/SUF
+4 modelo/STM
+1 acantila/STM + dos/SUF
+1 even/STM + tos/STM
+1 emblem/STM + áticos/STM
+2 precisa/STM + s/SUF
+1 1886/STM
+2 Monzón/STM
+2 cuanto/STM + s/SUF
+1 esposa/STM + do/SUF
+1 acordó/STM
+1 incluida/STM + s/SUF
+2 independiente/STM + s/SUF
+1 alimenta/STM + ria/STM
+3 archivos/STM
+2 post/STM + u/STM + la/STM + dos/SUF
+1 ante/STM + pas/STM + a/SUF + do/SUF
+1 separa/STM + da/SUF
+5 tropas/STM
+1 entrega/STM + do/SUF
+9 cul/STM + tivo/SUF + s/SUF
+1 fuente/STM
+1 proveniente/STM
+13 casi/STM
+1 Paloma/STM
+1 Museo/STM
+1 acu/STM + ática/STM
+6 nuevo/STM + s/SUF
+1 tra/STM + s/SUF
+1 auto/STM + vía/STM
+2 convirtió/STM
+2 copríncipe/STM + s/SUF
+2 habla/STM + da/SUF
+9 grande/STM + s/SUF
+1 heli/STM + puerto/STM
+1 practica/STM
+2 primi/STM + tiv/STM + ismo/SUF
+5 término/STM
+1 trata/STM + n/SUF
+1 795/STM
+2 viajar/STM
+1 exige/STM + n/SUF
+1 102/STM
+2 plan/STM + imetría/STM
+1 americano/STM + s/SUF
+1 este/STM + lar/STM
+1 jabalí/STM
+9 Gobierno/STM
+4 inclu/STM + s/SUF + o/SUF
+1 busca/STM + ban/STM
+2 siempre/STM
+1 busca/STM + n/SUF + do/SUF
+2 Chiquita/STM
+5 universal/STM
+2 buen/STM
+4 magn/STM + éticos/STM
+1 253/STM
+1 exige/STM
+2 escapa/STM
+11 dice/STM
+1 Co/STM + rdoba/STM + zo/STM
+1 rey/STM
+1 De/STM + ntro/STM
+3 emitida/STM
+1 Tahuantinsuyo/STM
+12 público/STM
+2 Hitler/STM
+4 comercio/STM
+5 gene/STM + ra/SUF + l/SUF + mente/SUF
+1 concentra/STM + n/SUF
+2 Petain/STM
+1 época/STM + s/SUF
+5 logra/STM + r/SUF
+1 aprieta/STM
+1 Jethro/STM
+1 utiliza/STM + ción/SUF
+6 indígena/STM + s/SUF
+3 valo/STM + ra/STM + ción/SUF
+4 rugby/STM
+21 materia/STM
+2 Secretaría/STM
+1 hall/STM + a/SUF
+1 algo/STM + d/STM + ó/SUF + n/SUF
+11 Hawking/STM
+17 partir/STM
+1 Astor/STM
+5 Cívica/STM
+3 est/STM + a/SUF + n/SUF + do/SUF
+7 web/STM
+4 libre/STM
+5 producto/STM
+1 monu/STM + mento/STM + s/SUF
+1 fun/STM + da/SUF + mento/STM
+1 parque/STM + s/SUF
+1 co/STM + hesión/STM
+1 t/STM + error/STM + ismo/SUF
+2 obten/STM + ido/SUF + s/SUF
+1 Q/STM
+2 sujeto/STM
+6 millas/STM
+1 tend/STM + ía/SUF + n/SUF
+1 ado/STM + les/SUF + c/STM + encia/STM
+2 humu/STM + s/SUF
+1 Sancti/STM
+1 inf/STM + o/SUF + graf/STM + ía/SUF
+1 inexora/STM + ble/STM + mente/SUF
+1 juzg/STM + ado/SUF
+18 sur/STM
+1 lleg/STM + a/SUF + do/SUF
+1 plantea/STM + miento/STM
+3 caso/STM + s/SUF
+1 au/STM + mentando/STM
+1 75/STM
+1 80/STM
+3 esquí/STM
+2 imágen/STM + es/SUF
+1 estre/STM + cho/STM + s/SUF
+1 evid/STM + encia/STM + do/SUF
+1 1827/STM
+12 Fuego/STM
+3 amplió/STM
+3 Alan/STM
+1 Ramon/STM
+4 perspectiva/STM
+1 gol/STM
+1 im/STM + predicti/STM + bil/STM + idad/SUF
+2 Usuarios/STM
+1 Derqui/STM
+6 Liga/STM
+1 igual/STM + mente/SUF
+2 pobla/STM + do/SUF
+1 peronistas/STM
+2 vivos/STM
+1 pérdida/STM
+2 in/PRE + numer/STM + ables/STM
+3 lleva/STM
+1 Britán/STM + ica/SUF
+4 part/STM + ido/SUF
+1 espec/STM + táculo/STM
+27 tanto/STM
+1 espelta/STM
+1 divid/STM + ido/SUF
+1 tele/STM + fonía/STM
+4 voto/STM
+3 UTF/STM
+3 público/STM + s/SUF
+1 citar/STM
+1 Ganancias/STM
+1 ava/STM + la/STM + do/SUF
+1 vi/STM + tal/STM + es/SUF
+5 semilla/STM + s/SUF
+1 electoral/STM + es/SUF
+3 corriente/STM
+3 julio/STM
+2 ferrocarril/STM + es/SUF
+1 neut/STM + r/SUF + al/STM + idad/STM
+1 sol/STM + es/SUF
+1 folclore/STM
+5 Arqueo/STM + logía/STM
+1 Concor/STM + dia/STM
+2 tiende/STM + n/SUF
+1 bas/STM + ado/SUF
+1 cabello/STM
+6 radia/STM + ción/SUF
+2 artículo/STM
+1 esca/STM + lo/STM + nada/STM + s/SUF
+2 pensa/STM + ba/SUF
+1 XV/STM
+7 fiscal/STM
+1 XML/STM
+1 pub/STM + l/SUF + ica/SUF + dos/SUF
+5 lugar/STM + es/SUF
+2 veloc/STM + idad/SUF + es/SUF
+1 pato/STM
+2 restric/STM + tiva/SUF
+1 estudia/STM + da/SUF
+1 des/PRE + favor/STM + ables/STM
+2 patronal/STM
+3 fran/STM + quista/STM
+3 Tolosa/STM
+3 escuela/STM
+1 incorpo/STM + ra/SUF + da/SUF
+8 con/PRE + tien/STM + e/SUF
+3 arqueo/STM + logía/STM
+3 Petrol/STM + íferos/STM
+4 muerte/STM
+6 mujer/STM
+1 vende/STM
+2 tango/STM
+1 jesuita/STM
+1 gene/STM + r/SUF + ándose/STM
+1 des/PRE + can/STM + s/SUF + o/SUF
+11 2008/STM
+1 crítico/STM
+4 Imperio/STM
+3 ocurrencia/STM
+1 cuál/STM
+2 familia/STM
+3 Bosque/STM
+2 tecno/STM + lógica/STM
+2 real/STM + idad/SUF
+1 conectan/STM
+1 rodean/STM
+2 observa/STM + ción/SUF
+2 orillas/STM
+1 ingenie/STM + ros/STM
+1 alame/STM + da/SUF + s/SUF
+8 investiga/STM + ción/SUF
+4 Biblio/STM + graf/STM + ía/SUF
+3 est/STM + a/SUF + r/SUF
+3 enfoque/STM
+2 pro/STM + s/SUF + per/STM + idad/SUF
+2 huarpe/STM
+5 central/STM
+1 individu/STM + o/SUF
+5 independiente/STM
+2 disputa/STM
+1 beneficio/STM + s/SUF
+1 Tr/STM + es/SUF
+1 y/STM + ero/STM + s/SUF
+2 extranjera/STM + s/SUF
+3 Otro/STM
+1 bebida/STM
+2 frecuencia/STM
+2 atacamas/STM
+1 mu/STM + dos/SUF
+2 cúbicos/STM
+2 ocupan/STM
+1 adquiri/STM + dos/SUF
+1 pre/PRE + ocup/STM + a/STM + ción/SUF
+2 pre/PRE + colom/STM + bina/STM
+2 in/PRE + versión/STM
+1 pro/STM + media/STM + n/SUF
+43 agujero/STM
+1 Natural/STM
+2 compon/STM + ía/SUF
+1 nahua/STM + s/SUF
+141 al/STM
+2 marea/STM
+1 6873/STM
+1 of/STM
+142 más/STM
+13 toda/STM + s/SUF
+2 créditos/STM
+1 Fangio/STM
+2 Negro/STM
+4 verde/STM
+1 aisla/STM + da/SUF
+1 jazz/STM
+1 in/PRE + depen/STM + dent/STM + ista/STM
+1 recib/STM + ir/STM
+2 divi/STM + sion/STM + es/SUF
+2 señala/STM
+3 con/PRE + memo/STM + ra/SUF + ciones/SUF
+1 hor/STM + n/SUF + ero/STM
+2 43/STM
+2 concentra/STM + n/SUF + do/SUF
+1 d/STM + un/STM + a/SUF + s/SUF
+3 de/PRE + porte/STM + s/SUF
+1 Defini/STM + ción/STM
+1 auto/STM + proclam/STM + ó/SUF
+2 nebulosa/STM
+1 origina/STM + dos/SUF
+2 provocó/STM
+1 ubico/STM
+4 objeto/STM + s/SUF
+5 carne/STM
+2 resultó/STM
+2 super/STM + ávit/STM
+1 Miguel/STM
+1 Preliminar/STM
+28 est/STM + a/SUF
+1 mitad/STM + es/SUF
+1 sobre/STM + co/STM + gi/STM + da/SUF
+1 P/STM + roduc/STM + tiva/SUF
+2 habiendo/STM
+1 con/PRE + segui/STM + r/SUF
+1 est/STM + a/SUF + do/SUF + s/SUF
+2 dígitos/STM
+1 dura/STM + ría/SUF
+6 difusión/STM
+3 noche/STM
+46 pobla/STM + ción/SUF
+1 cápita/STM
+2 cuarta/STM
+2 prima/STM + ria/STM + s/SUF
+4 Selección/STM
+1 Gu/STM + ido/SUF
+1 pampeana/STM + s/SUF
+4 secreto/STM
+3 verano/STM + s/SUF
+1 inmuno/STM + lógico/STM
+1 menciona/STM + n/SUF
+1 sol/STM + a/SUF + mente/SUF
+1 Infa/STM + nta/STM
+2 náhuat/STM + l/SUF
+3 pre/PRE + cios/STM
+4 llevó/STM
+2 treinta/STM
+15 entonces/STM
+1 ma/STM + temática/STM
+240 un/STM
+1 proclam/STM + ó/SUF
+2 Alfred/STM
+1 Tren/STM
+1 re/PRE + cepto/STM + r/SUF
+3 solo/STM
+2 457/STM
+2 llanos/STM
+1 Godelier/STM
+2 se/STM + a/SUF
+4 cul/STM + tivo/SUF
+1 temp/STM + eratura/STM + s/SUF
+1 un/STM + i/STM + ó/SUF + n/SUF
+1 rela/STM + tiva/SUF
+1 con/STM + s/SUF + enso/STM
+1 tra/STM + scend/STM + encia/STM
+2 Massana/STM
+1 Ban/STM + de/STM + ra/SUF
+3 Engordany/STM
+2 visita/STM
+1 plást/STM + icas/STM
+2 descrito/STM
+2 marca/STM + ron/SUF
+5 in/PRE + fluencia/STM
+21 territorio/STM
+2 aduaneras/STM
+1 N/STM + orde/STM + s/SUF + te/STM
+1 organiza/STM + r/SUF
+1 con/PRE + tuv/STM + iese/STM + n/SUF
+2 golpe/STM
+3 juega/STM
+3 distintos/STM
+3 José/STM
+1 compara/STM + tivo/SUF
+7 noreste/STM
+1 varia/STM + da/SUF + s/SUF
+5 ellas/STM
+1 parril/STM + la/STM + da/SUF
+1 profesional/STM + iza/STM + do/SUF
+1 ubicó/STM
+1 Pese/STM
+1 un/STM + e/SUF
+1 Arma/STM + n/SUF + do/SUF
+4 Sándwich/STM
+2 exitosa/STM + mente/SUF
+1 compara/STM + da/SUF
+2 cuenta/STM + n/SUF
+1 L/STM
+2 Trat/STM + ado/SUF
+2 extiende/STM + n/SUF
+3 colonia/STM + l/SUF + es/SUF
+2 mínima/STM
+1 recae/STM
+1 biológica/STM + s/SUF
+1 oca/STM + sion/STM + a/SUF + n/SUF + do/SUF
+12 principal/STM + mente/SUF
+1 inme/STM + rsión/STM
+2 pertenecen/STM
+2 miseria/STM
+1 Petit/STM
+1 in/PRE + ten/STM + sific/STM + ó/SUF
+2 gene/STM + ra/SUF + r/SUF
+8 edifi/STM + cios/STM
+2 estall/STM + ido/SUF
+1 férti/STM + les/SUF
+1 tormentas/STM
+2 bronce/STM
+1 cul/STM + tiv/STM + ó/SUF
+1 Cepal/STM
+1 Nacional/STM + es/SUF
+1 asocia/STM + dos/SUF
+39 mayor/STM
+3 comun/STM + es/SUF
+7 comprende/STM + r/SUF
+1 rela/STM + tivista/STM
+1 ranquel/STM
+2 Correa/STM
+1 gabinete/STM
+3 Tele/STM + cinco/STM
+1 corresponde/STM + ría/SUF
+1 nobleza/STM
+1 asocia/STM + do/SUF
+1 mera/STM + mente/SUF
+2 sede/STM + ntarias/STM
+1 llanura/STM + s/SUF
+1 Car/STM + naval/STM
+2 versión/STM
+1 re/PRE + conoce/STM
+10 bajo/STM
+4 PIB/STM
+2 des/PRE + cubri/STM + miento/STM + s/SUF
+3 echa/STM + dos/SUF
+1 guis/STM + ante/STM
+1 constituy/STM + e/SUF + n/SUF
+16 Francia/STM
+2 Glaciares/STM
+2 qué/STM
+2 Nueva/STM
+2 gra/STM + do/SUF
+1 pobla/STM + cion/STM + a/SUF + l/SUF
+2 automotriz/STM
+5 lenguajes/STM
+3 T/STM
+1 lenteja/STM
+1 Es/STM + o/SUF
+2 poder/STM + es/SUF
+423 los/STM
+1 co/STM + ron/SUF + ó/SUF
+4 Muchos/STM
+5 idioma/STM
+1 catolic/STM + ismo/SUF
+1 legit/STM + im/STM + idad/SUF
+1 1916/STM
+2 eminentes/STM
+1 26/STM
+6 isla/STM
+2 legisla/STM + tur/STM + a/SUF
+7 human/STM + a/SUF
+1 con/PRE + figura/STM + ciones/SUF
+2 mamíferos/STM
+1 inter/STM + no/STM
+1 musical/STM
+2 azar/STM
+1 ingl/STM + es/SUF + es/SUF
+2 Bauhaus/STM
+7 Com/STM + o/SUF
+2 Cuy/STM + o/SUF
+1 vital/STM
+1 pobla/STM + ciones/SUF
+1 respuesta/STM + s/SUF
+1 hall/STM + azgos/STM
+6 galáct/STM + ica/SUF
+2 resulta/STM + ría/SUF
+1 perten/STM + e/SUF + ci/STM + es/SUF + en/STM
+4 global/STM
+1 conoce/STM + r/SUF
+4 depen/STM + di/STM + ó/SUF
+3 gramát/STM + ica/SUF
+1 a/STM + compañ/STM + a/SUF + ron/SUF
+1 Su/STM + perio/STM + r/SUF
+1 procede/STM + n/SUF
+1 pese/STM
+1 error/STM + es/SUF
+2 clasifica/STM + da/SUF + s/SUF
+1 pud/STM + iera/STM
+3 vencedor/STM
+1 ele/STM + gi/STM + da/SUF
+1 produc/STM + tiva/SUF + s/SUF
+15 primer/STM
+1 integra/STM + ción/SUF
+12 medio/STM
+2 Art/STM + s/SUF
+2 reactor/STM + es/SUF
+2 labora/STM + l/SUF + es/SUF
+2 exclusiva/STM
+1 delta/STM
+1 1966/STM
+1 procesa/STM + do/SUF + r/SUF
+2 probable/STM + s/SUF
+1 bicéfalo/STM
+2 sá/STM + ba/SUF + do/SUF
+2 hubiera/STM
+4 natural/STM
+3 NRJ12/STM
+1 anticipa/STM + ción/SUF
+1 Cat/STM + a/SUF + lana/STM
+1 colonia/STM + l/SUF + ismo/SUF
+4 conceptos/STM
+1 con/PRE + com/STM + ita/STM + nte/STM + s/SUF
+1 ver/STM + a/SUF + niega/STM
+1 Tristaina/STM
+4 oficial/STM + es/SUF
+2 punta/STM
+3 Boston/STM
+2 Cáncer/STM
+1 montañ/STM + ismo/SUF
+3 inusual/STM + mente/SUF
+1 colegas/STM
+3 resulta/STM + ba/SUF
+4 23/STM
+1 populosa/STM
+1 perio/STM + di/STM + sta/STM + s/SUF
+2 observa/STM + do/SUF + r/SUF
+11 Uruguay/STM
+1 dedican/STM
+25 era/STM
+1 colonia/STM
+2 nunca/STM
+2 Iguazú/STM
+2 papel/STM + es/SUF
+1 1852/STM
+1 Pich/STM
+2 pud/STM + o/SUF
+3 intrínseca/STM
+10 andorrano/STM
+1 integra/STM + do/SUF + ra/SUF
+1 astronómica/STM + s/SUF
+16 río/STM + s/SUF
+2 especial/STM + iza/STM + ción/SUF
+1 Jefe/STM
+2 trans/STM + porta/STM + r/SUF
+5 planta/STM + s/SUF
+1 misma/STM + s/SUF
+3 Aconcagua/STM
+2 candi/STM + datos/STM
+1 vota/STM
+2 lago/STM
+2 Merca/STM + do/SUF
+1 par/STM + a/SUF + guay/STM
+2 vacuno/STM
+2 londinense/STM
+1 volumen/STM
+1 Hait/STM + í/STM
+1 irriga/STM + ción/SUF
+2 menu/STM + do/SUF
+4 astronómica/STM
+2 Sub/STM
+1 insta/STM + ncia/STM
+1 par/STM + a/SUF + digm/STM + ática/STM
+3 CONICET/STM
+1 separa/STM + da/SUF + s/SUF
+1 Urlezaga/STM
+2 Sebastián/STM
+1 Gaulle/STM
+1 min/STM + ú/STM + s/SUF + culas/STM
+1 min/STM + e/SUF + ría/SUF
+1 ejércitos/STM
+1 suficiente/STM + mente/SUF
+2 trans/STM + form/STM + a/SUF + ción/SUF
+3 con/PRE + íferos/STM
+1 rápi/STM + da/SUF
+5 mate/STM + mático/STM + s/SUF
+2 exten/STM + sion/STM + es/SUF
+1 viv/STM + ido/SUF
+6 atrac/STM + ción/SUF
+1 hecho/STM + s/SUF
+2 creciendo/STM
+4 porque/STM
+1 Meritxell/STM
+1 alberdiano/STM
+3 con/PRE + versión/STM
+2 audi/STM + encia/STM
+3 Yacimientos/STM
+2 Defensor/STM
+1 fragmenta/STM + da/SUF
+2 bina/STM + rio/SUF + s/SUF
+1 nahua/STM
+3 auto/STM + móvil/STM + es/SUF
+3 Néstor/STM
+1 Ginóbili/STM
+2 perforada/STM + s/SUF
+1 mo/STM + tivo/SUF + s/SUF
+12 hacia/STM
+2064 de/STM
+2 287/STM
+1 plan/STM + if/STM + ica/STM + n/SUF
+1 cuanto/STM
+1 afecta/STM + n/SUF
+4 Adminis/STM + tra/STM + ción/SUF
+10 económica/STM
+1 Crist/STM + iani/STM
+1 corresponde/STM + ncia/STM + s/SUF
+3 organiza/STM + do/SUF
+1 proclam/STM + ado/SUF
+1 Sicília/STM
+1 pud/STM + ien/STM + do/SUF
+1 de/STM + ud/STM + a/SUF
+2 secunda/STM + rio/SUF
+2 ubicada/STM
+2 renuncia/STM
+1 ingresa/STM + r/SUF
+1 IV/STM
+5 parroquias/STM
+2 Lévi/STM
+1 1933/STM
+2 subramas/STM
+4 invas/STM + i/STM + ó/SUF + n/SUF
+1 simple/STM
+1 adopta/STM + n/SUF + do/SUF
+1 provee/STM + r/SUF
+1 en/STM + tend/STM + ido/SUF
+7 nuestra/STM
+1 congela/STM + do/SUF
+1 hacía/STM
+1 Fiscal/STM
+2 dominios/STM
+2 Shetland/STM
+1 esqu/STM + ia/STM + ble/STM + s/SUF
+21 dos/STM
+9 largo/STM
+2 costa/STM + s/SUF
+1 sofistica/STM + da/SUF + s/SUF
+30 año/STM + s/SUF
+2 INVAP/STM
+1 extrema/STM + da/SUF
+1 re/PRE + lle/STM + nos/STM
+1 UCS/STM
+2 Observatorio/STM
+1 colapsa/STM + ría/SUF
+3 denomina/STM + ción/SUF
+1 introduc/STM + e/SUF
+2 interior/STM + es/SUF
+4 II/STM
+1 católico/STM
+1 pobla/STM + da/SUF + s/SUF
+1 re/PRE + sum/STM + ida/STM
+2 Mercosur/STM
+2 re/PRE + presenta/STM + tiva/SUF
+2 índice/STM + s/SUF
+1 difieren/STM
+1 sorbete/STM
+3 rocoso/STM
+1 jurisprud/STM + encia/STM
+8 ciencia/STM
+1 hormigu/STM + ero/STM + s/SUF
+1 vol/STM + a/SUF + do/SUF + r/SUF + a/SUF
+2 super/STM + a/SUF + se/STM
+4 Cultura/STM
+4 municipio/STM
+1 collas/STM
+2 Vall/STM
+1 conju/STM + nta/STM
+1 humita/STM
+1 ten/STM + ien/STM + do/SUF
+1 Tanto/STM
+3 crea/STM + r/SUF
+10 luz/STM
+3 indígena/STM
+1 ba/STM + lonmano/STM
+1 observa/STM + r/SUF
+2 entra/STM
+1 particular/STM + idad/SUF
+2 alcanz/STM + a/SUF
+6 codifica/STM + ción/SUF
+2 130/STM
+4 media/STM + dos/SUF
+4 40/STM
+2 Larga/STM
+1 XON/STM
+2 Roure/STM
+1 quien/STM + es/SUF
+2 Relieve/STM
+1 patag/STM + ó/SUF + n/SUF + ico/SUF
+1 atra/STM + y/STM + en/STM + do/SUF
+1 Edu/STM
+1 la/STM + nza/STM + ron/SUF
+2 brindando/STM
+1 Boltzmann/STM
+1 cierto/STM
+3 distingu/STM + ido/SUF
+1 ello/STM
+3 256/STM
+1 racional/STM + iza/STM + da/SUF
+1 produj/STM + era/STM
+5 Radcliffe/STM
+3 pintan/STM
+1 propósito/STM + s/SUF
+1 Ausejo/STM
+1 Es/STM + crib/STM + e/SUF
+1 Adolfo/STM
+5 religiosa/STM
+4 vec/STM + es/SUF
+1 mercadeo/STM
+1 anti/STM + peronistas/STM
+1 Estudia/STM
+2 islote/STM
+2 papel/STM
+2 Can/STM + ción/SUF
+2 OCDE/STM
+1 hidra/STM + tos/STM
+1 to/STM + ba/SUF
+1 introduc/STM + ido/SUF
+2 asum/STM + iera/STM
+3 revestida/STM
+2 de/STM + creto/STM
+1 ejerc/STM + ía/SUF + n/SUF
+2 in/PRE + tenta/STM + r/SUF
+3 conoci/STM + miento/STM + s/SUF
+7 alta/STM
+2 WWF/STM
+2 oro/STM
+5 hecho/STM
+3 dar/STM
+17 cuatro/STM
+1 65/STM
+1 Al/STM + imentos/STM
+1 des/PRE + integra/STM + da/SUF + s/SUF
+17 tierra/STM
+4 migraciones/STM
+2 1423/STM
+4 cierto/STM + s/SUF
+3 Notas/STM
+1 destaca/STM + ron/SUF
+1 próximas/STM
+1 textil/STM
+2 Fuerza/STM + s/SUF
+1 reserva/STM
+1 roja/STM
+2 Human/STM + idad/SUF
+1 correspon/STM + diente/STM + s/SUF
+3 alpi/STM + n/SUF + ismo/SUF
+1 labora/STM + ble/STM + s/SUF
+6 exist/STM + encia/STM
+10 antropólogo/STM + s/SUF
+6 conflicto/STM + s/SUF
+1 domi/STM + n/SUF + ante/STM + s/SUF
+13 XX/STM
+1 ext/STM + r/SUF + a/SUF + í/STM + dos/SUF
+3 fuerza/STM + s/SUF
+2 Namuncurá/STM
+1 que/STM + da/SUF + do/SUF
+1 feudal/STM
+18 río/STM
+9 diferencia/STM
+4 basándose/STM
+2 importa/STM + da/SUF + s/SUF
+1 ent/STM + idad/SUF
+1 hair/STM
+6 destaca/STM + n/SUF
+2 quinto/STM
+12 2004/STM
+13 varios/STM
+1 perju/STM + dic/STM + ó/SUF
+1 falsa/STM + ble/STM + s/SUF
+4 Oriental/STM
+2 y/STM + acimientos/STM
+1 repitiéndolo/STM
+2 abarca/STM
+2 paga/STM
+1 pre/PRE + decir/STM
+1 ba/STM + loncesto/STM
+2 facilitar/STM
+1 aumentar/STM
+1 espacia/STM + da/SUF + s/SUF
+3 igualdad/STM
+1 ra/STM + cial/STM + es/SUF
+11 Par/STM + a/SUF + guay/STM
+2 Cab/STM + o/SUF + et/STM
+2 Comercio/STM
+2 fibra/STM + s/SUF
+1 escri/STM + tor/STM + es/SUF
+5 ejemplo/STM
+2 peti/STM + ción/SUF
+1 disponi/STM + ble/STM
+1 pecar/STM + í/STM + es/SUF
+5 situa/STM + da/SUF
+3 debe/STM + n/SUF
+5 supuesto/STM
+1 sur/STM + este/STM
+1 cesar/STM
+7 amplia/STM
+1 Albert/STM + o/SUF
+1 p/STM + o/SUF + eta/STM
+1 Sigmund/STM
+1 paleonto/STM + logía/STM
+1 participa/STM
+1 aplica/STM + dos/SUF
+1 desembocan/STM
+1 anal/STM + ítica/STM
+1 Enric/STM
+3 re/PRE + presenta/STM + ba/SUF
+2 Ber/STM + n/SUF + au/STM + s/SUF
+4 men/STM + ción/SUF
+15 desarrol/STM + l/SUF + o/SUF
+1 imprimi/STM + ble/STM
+1 profesional/STM + es/SUF
+8 disciplina/STM + s/SUF
+1 estable/STM + s/SUF
+1 produc/STM + tiva/SUF
+2 signos/STM
+1 universal/STM + es/SUF
+14 pueblo/STM + s/SUF
+2 Gauchito/STM
+1 Parla/STM + mento/STM
+1 traduc/STM + ido/SUF + s/SUF
+1 Donde/STM
+1 modifica/STM + ron/SUF
+3 pas/STM + a/SUF + n/SUF + do/SUF
+3 con/PRE + stru/STM + ido/SUF
+3 entrega/STM
+1 Newton/STM
+1 Skossyreff/STM
+2 haciendo/STM
+9 sector/STM + es/SUF
+5 World/STM
+1 95/STM
+4 integra/STM + do/SUF
+2 jet/STM
+1 Collasuyo/STM
+2 ECPI/STM
+2 May/STM + o/SUF
+2 pleno/STM
+2 mercado/STM + s/SUF
+1 estri/STM + cta/STM + mente/SUF
+1 pilag/STM + á/STM
+7 Es/STM
+2 par/STM + a/SUF + lelo/STM
+1 cla/STM + sific/STM + ó/SUF
+5 haber/STM
+1 pronto/STM
+1 á/STM + rab/STM + es/SUF
+4 Franz/STM
+3 novela/STM + s/SUF
+1 cráneos/STM
+15 otro/STM
+1 emplea/STM + ba/SUF
+2 aborda/STM + r/SUF
+5 Aunque/STM
+1 estable/STM
+1 arena/STM
+1 pre/PRE + par/STM + a/SUF + da/SUF
+1 fascinada/STM
+8 activ/STM + idad/SUF + es/SUF
+1 burguesa/STM
+2 mil/STM + es/SUF
+22 sector/STM
+2 regional/STM + es/SUF
+1 insist/STM + ía/SUF
+5 comun/STM + ica/SUF + ción/SUF
+1 víncu/STM + los/STM
+2 AD/STM
+2 vecinas/STM
+2 Orcada/STM + s/SUF
+1 A/STM + eropuerto/STM
+5 Así/STM
+1 propu/STM + s/SUF + o/SUF
+1 esca/STM + s/SUF + a/SUF + s/SUF
+1 In/STM + fluencia/STM + dos/SUF
+1 fantást/STM + icas/STM
+1 dor/STM + ado/SUF
+2 in/PRE + icio/STM + s/SUF
+2 curso/STM
+2 lento/STM
+2 crea/STM
+1 ven/STM + ido/SUF
+1 in/PRE + migratorio/STM + s/SUF
+1 Piazzolla/STM
+6 2011/STM
+1 aspecto/STM
+2 in/PRE + flu/STM + en/STM + ci/STM + ó/SUF
+1 compara/STM + ba/SUF
+1 dirigir/STM + ía/SUF
+2 mayorita/STM + ria/STM + mente/SUF
+1 posi/STM + tivista/STM
+2 Varios/STM
+1 Algunas/STM
+1 antigu/STM + a/SUF
+2 máximo/STM
+3 reina/STM + do/SUF
+5 establece/STM
+1 é/STM + t/STM + n/SUF + icas/STM
+3 situa/STM + ción/SUF
+1 actua/STM + l/SUF + iza/STM + do/SUF
+2 in/PRE + ten/STM + sivo/STM
+1 é/STM + nfasis/STM
+1 form/STM + a/SUF + ciones/SUF
+19 código/STM + s/SUF
+1 Canillo/STM
+2 amplia/STM + mente/SUF
+1 est/STM + ri/STM + ba/SUF + ciones/SUF
+4 45/STM
+8 entro/STM + pía/STM
+2 vice/STM + presidente/STM
+2 tarifas/STM
+2 danza/STM
+1 1527/STM
+1 ofrec/STM + ido/SUF
+6 considera/STM + n/SUF
+1 rama/STM
+4 crecen/STM
+1 inicia/STM + ron/SUF
+8 menor/STM + es/SUF
+3 marino/STM
+2 cierta/STM + s/SUF
+1 proyecta/STM + ba/SUF
+44 sobre/STM
+3 letras/STM
+1 vi/STM + é/STM + n/SUF + do/SUF + le/STM
+4 gan/STM + ó/SUF
+2 honda/STM + mente/SUF
+1 amplia/STM + ron/SUF
+4 con/PRE + siste/STM
+1 emp/STM + a/SUF + nada/STM
+1 pro/STM + to/STM + n/SUF + es/SUF
+1 vuela/STM
+1 Güemes/STM
+2 expandido/STM
+6 planta/STM
+10 Carlos/STM
+1 34/STM
+4 1972/STM
+1 especial/STM + iza/STM
+1 Ob/STM + tuv/STM + o/SUF
+4 posee/STM
+5 ser/STM + es/SUF
+1 armoniosa/STM + mente/SUF
+3 cuadra/STM + dos/SUF
+2 19/STM
+1 típ/STM + ica/SUF
+3 incre/STM + mento/STM
+2 cría/STM
+1 Media/STM
+2 excedentes/STM
+1 unen/STM
+2 con/PRE + tigua/STM
+2 portugu/STM + es/SUF + es/SUF
+1 ir/STM + o/SUF + que/STM + s/SUF + es/SUF
+7 través/STM
+10 diferente/STM + s/SUF
+1 elegido/STM + s/SUF
+1 Teresa/STM
+2 banca/STM + rio/SUF + s/SUF
+2 trasla/STM + da/SUF + n/SUF + do/SUF
+2 femenino/STM
+1 cha/STM + queña/STM
+1 realiza/STM + n/SUF
+1 Per/STM + o/SUF
+1 afluentes/STM
+1 ron/STM + da/SUF
+4 materna/STM
+2 séptimo/STM
+3 Unesco/STM
+2 exceso/STM
+1 cer/STM + rada/STM
+422 del/STM
+1 atrinche/STM + r/SUF + ó/SUF
+3 527/STM
+1 Indiana/STM
+2 es/STM + clavos/STM
+1 hipótesis/STM
+24 provincia/STM
+1 aplast/STM + ándose/STM
+1 gene/STM + s/SUF
+2 20º/STM
+1 órbita/STM + s/SUF
+4 numer/STM + osos/STM
+1 dependie/STM + nte/STM
+10 control/STM
+1 eleva/STM + da/SUF
+4 camp/STM + eón/STM
+2 esencial/STM + es/SUF
+1 policía/STM
+1 proviene/STM + n/SUF
+1 inevita/STM + ble/STM + mente/SUF
+5 Carlomagno/STM
+4 cuenca/STM + s/SUF
+11 gene/STM + ra/SUF + ción/SUF
+1 1828/STM
+1 Villa/STM
+1 reg/STM + lamenta/STM + da/SUF
+5 Láctea/STM
+1 Ciudad/STM + es/SUF
+1 carga/STM + r/SUF
+1 as/STM + censo/STM
+1 in/PRE + flu/STM + ido/SUF
+1 Content/STM
+1 niega/STM
+9 análisis/STM
+1 pot/STM + encia/STM
+1 apoya/STM + r/SUF
+1 cor/STM + e/SUF + a/SUF
+1 ñand/STM + ú/STM
+4 estudio/STM + s/SUF
+1 1859/STM
+3 pradera/STM + s/SUF
+6 perío/STM + do/SUF
+1 organiza/STM + ción/SUF
+1 son/STM + oro/STM + s/SUF
+2 rastrear/STM
+1 administra/STM + tivo/SUF
+1 pa/STM + trimonio/STM
+2 final/STM + mente/SUF
+3 sale/STM
+2 in/PRE + tenta/STM + ron/SUF
+3 Cat/STM + a/SUF + marca/STM
+5 hace/STM + r/SUF
+1 fiesta/STM
+1 colec/STM + cion/STM + ismo/SUF
+1 car/STM + ril/STM + es/SUF
+16 cultura/STM
+1 Marx/STM
+1 con/PRE + fun/STM + dirse/STM
+1 con/PRE + flu/STM + ir/STM
+4 cambio/STM + s/SUF
+1 actua/STM + ciones/SUF
+1 est/STM + a/SUF + mo/STM + s/SUF
+2 Si/STM
+2 u/STM + s/SUF + ó/SUF
+2 predominante/STM
+1 vincula/STM + n/SUF
+4 ahora/STM
+3 agua/STM
+1 est/STM + a/SUF + n/SUF + da/SUF + rte/STM
+1 resolver/STM
+1 escribi/STM + e/SUF + ron/SUF
+3 alcanz/STM + ó/SUF
+2 M/STM
+3 form/STM + a/SUF + dos/SUF
+4 fundó/STM
+2 exist/STM + iera/STM
+2 base/STM + s/SUF
+3 recibió/STM
+11 elec/STM + ciones/SUF
+27 social/STM
+1 elec/STM + tro/STM + n/SUF + es/SUF
+7 Federación/STM
+1 democracia/STM
+1 san/STM + idad/SUF
+1 palud/STM + ismo/STM
+7 suele/STM
+1 rendi/STM + r/SUF
+3 ocasiones/STM
+1 Fo/STM + r/SUF + ma/STM + ción/STM
+3 Consejo/STM
+3 México/STM
+1 cosmo/STM + logía/STM
+1 soja/STM
+1 u/STM + til/STM + idad/SUF
+2 angustia/STM
+1 1947/STM
+1 tom/STM + a/SUF + n/SUF + do/SUF
+1 US/STM
+1 unánime/STM
+2 Subse/STM + creta/STM + ría/SUF
+1 distribu/STM + ido/SUF + s/SUF
+3 real/STM + mente/SUF
+284 las/STM
+3 ararse/STM
+1 con/PRE + voca/STM
+1 enzima/STM
+2 eucalipto/STM
+2 dirigir/STM
+1 ucrania/STM
+1 M/STM + así/STM + a/SUF
+1 1850/STM
+1 estricto/STM + s/SUF
+1 puerto/STM
+2 tipo/STM + s/SUF
+2 montañ/STM + osos/STM
+3 realiza/STM + do/SUF
+1 Barenboim/STM
+1 plan/STM + eta/STM
+1 comechingon/STM + es/SUF
+1 1993/STM
+1 orienta/STM + ción/SUF
+2 bien/STM
+1 anti/STM + güe/STM + da/SUF + de/STM + s/SUF
+2 diner/STM
+1 emit/STM + e/SUF
+2 visita/STM + nte/STM + s/SUF
+8 Cat/STM + ó/SUF + l/SUF + ica/SUF
+1 inoc/STM + encia/STM
+1 equilib/STM + rio/SUF
+9 denomina/STM
+1 funciona/STM + n/SUF + do/SUF
+5 eran/STM
+1 metalúrg/STM + ica/SUF
+2 ampa/STM + rada/STM
+1 regist/STM + r/SUF + ado/SUF
+4 estudia/STM
+2 Gigawatts/STM
+3 sustitución/STM
+7 década/STM
+7 objeto/STM
+1 Reina/STM
+1 des/PRE + agua/STM + da/SUF
+4 C/STM
+7 agrícola/STM + s/SUF
+2 I/STM
+1 lingü/STM + ísticos/STM
+2 cabece/STM + ra/SUF
+1 k/STM
+1 erra/STM + da/SUF
+1 estilís/STM + tico/STM
+1 impuesto/STM + s/SUF
+1 apunta/STM + do/SUF + r/SUF + es/SUF
+2 Pertenecen/STM
+5 Sistema/STM
+2 diferencia/STM + do/SUF
+4 Chile/STM
+1 man/STM + tenía/STM + n/SUF
+1 In/STM + stitu/STM + tion/STM
+1 derivado/STM + s/SUF
+2 exist/STM + e/SUF + nte/STM + s/SUF
+2 re/PRE + organiza/STM + ción/SUF
+1 William/STM
+2 Antárt/STM + ico/SUF
+3 equivalente/STM
+3 con/PRE + cejal/STM + ía/SUF + s/SUF
+1 UEFA/STM
+2 rela/STM + tiva/SUF + mente/SUF
+5 re/PRE + presenta/STM
+1 largo/STM + metrajes/STM
+2 man/STM + o/SUF
+1 con/PRE + fu/STM + s/SUF + a/SUF + s/SUF
+1 asi/STM + met/STM + ría/SUF + s/SUF
+1 es/STM + fer/STM + a/SUF
+1 con/PRE + ferencias/STM
+1 Georg/STM + es/SUF
+1 arquitectó/STM + n/SUF + ico/SUF + s/SUF
+2 bajas/STM
+1 incorpo/STM + r/SUF + ó/SUF
+1 Bekenstein/STM
+16 oeste/STM
+5 con/PRE + secuencia/STM
+2 algún/STM
+8 Boas/STM
+2 jefe/STM + s/SUF
+2 Crafts/STM
+3 ubicado/STM
+2 UCR/STM
+1 móvil/STM
+7 constituy/STM + e/SUF
+1 evolu/STM + cion/STM + en/STM
+2 subir/STM
+15 cultura/STM + l/SUF
+6 pre/STM + s/SUF + ente/STM
+2 surge/STM + n/SUF
+3 riqueza/STM
+4 fun/STM + ción/SUF
+1 Spiritu/STM
+1 ingenuo/STM
+1 Edward/STM
+1 conflicto/STM
+19 embargo/STM
+2 Firm/STM + ita/STM + s/SUF
+2 caracter/STM + ísticos/STM
+1 sufra/STM
+1 editoriales/STM
+1 min/STM + ero/STM + s/SUF
+2 esa/STM + s/SUF
+1 abs/STM + ten/STM + ción/SUF
+8 natural/STM + es/SUF
+4 aire/STM
+7 Enlaces/STM
+3 in/PRE + stitu/STM + ción/SUF
+6 hoy/STM
+2 pública/STM + s/SUF
+1 bio/STM + tecno/STM + logía/STM
+3 curso/STM + s/SUF
+1 man/STM + tuv/STM + o/SUF
+1 indio/STM
+1 impuls/STM + a/SUF + da/SUF
+1 Smithsonian/STM
+6 altitud/STM
+10 español/STM
+13 zona/STM + s/SUF
+2 disminu/STM + ido/SUF
+3 exp/STM + l/SUF + ica/SUF + r/SUF
+2 atribuye/STM
+2 vert/STM + iente/STM
+3 cuestiones/STM
+6 aún/STM
+34 agujero/STM + s/SUF
+2 logra/STM + ron/SUF
+2 aligeran/STM
+2 idea/STM + les/SUF
+3 vieja/STM
+131 par/STM + a/SUF
+1 horizonte/STM + s/SUF
+1 particular/STM + ista/STM
+1 surreal/STM + ista/STM
+1 Re/STM + a/SUF + parece/STM + ría/SUF
+1 co/STM + ron/SUF + a/SUF
+1 gestora/STM
+3 experimental/STM
+1 ayu/STM + da/SUF + ron/SUF
+2 Ban/STM + da/SUF
+1 completa/STM + r/SUF
+1 Libro/STM
+5 Su/STM + da/SUF + mérica/STM
+1 lana/STM
+2 reduc/STM + ción/SUF
+7 1997/STM
+1 im/STM + ita/STM + ción/SUF
+1 cuántica/STM
+4 cargo/STM
+1 jugo/STM
+2 Hubble/STM
+1 crea/STM + n/SUF + do/SUF
+1 celebra/STM + ción/SUF
+1 cumple/STM + año/STM + s/SUF
+2 Refer/STM + encia/STM
+1 prueban/STM
+2 Desierto/STM
+2 y/STM + erba/STM
+4 popular/STM + mente/SUF
+1 es/STM + lavos/STM
+1 pone/STM + n/SUF
+2 761/STM
+2 Poder/STM
+1 a/STM + diner/STM + a/SUF + da/SUF
+2 territorial/STM + mente/SUF
+7 proyecto/STM
+2 orde/STM + n/SUF + a/SUF + do/SUF + r/SUF + es/SUF
+10 hiper/STM + superficie/STM
+2 1975/STM
+2 Alianza/STM
+2 Ocean/STM + ía/SUF
+1 energético/STM
+1 excursion/STM + es/SUF
+7 Malinowski/STM
+1 com/STM + partir/STM
+1 demanda/STM
+1 integra/STM + l/SUF
+1 regula/STM + r/SUF + idad/SUF
+61 Andorra/STM
+2 Bicentenario/STM
+10 clima/STM
+1 lig/STM + a/SUF
+2 renta/STM
+2 enclave/STM
+1 peru/STM + anos/STM
+1 higi/STM + en/STM + e/SUF
+2 con/STM + da/SUF + do/SUF
+1 pre/STM + s/SUF + tar/STM
+2 Antecedentes/STM
+1 lobo/STM
+1 empez/STM + a/SUF + n/SUF + do/SUF
+1 est/STM + a/SUF + dística/STM
+2 religioso/STM
+7 fuerza/STM
+26 Buenos/STM
+14 uso/STM
+54 Los/STM
+2 tarjetas/STM
+5 María/STM
+1 asigna/STM + do/SUF
+1 demost/STM + ra/SUF + do/SUF
+5 estrella/STM + s/SUF
+1 Legisla/STM + tivo/SUF
+2 Asocia/STM + ción/SUF
+1 masculin/STM + o/SUF + s/SUF
+2 ofrec/STM + e/SUF
+2 segui/STM + do/SUF
+1 alta/STM + mente/SUF
+3 decidir/STM
+2 Interior/STM
+46 lo/STM
+2 re/PRE + clama/STM
+3 G/STM
+2 de/STM + porta/STM + dos/SUF
+9 tele/STM + visión/STM
+1 Palma/STM
+3 biodivers/STM + idad/SUF
+1 en/STM + glo/STM + ba/SUF + dos/SUF
+2 gendarmes/STM
+1 auto/STM + denomina/STM + do/SUF
+2 49/STM
+1 volverse/STM
+1 celest/STM + es/SUF
+2 Cuenca/STM
+2 sinónimos/STM
+1 Ame/STM + rica/STM + n/SUF
+2 tehuelche/STM
+2 municipal/STM
+10 pu/STM + es/SUF
+1 Cosquín/STM
+1 órgano/STM
+1 Regla/STM + mento/STM
+2 Cat/STM + a/SUF + s/SUF + tro/STM
+2 arquitectó/STM + n/SUF + ico/SUF
+1 form/STM + a/SUF + n/SUF + do/SUF
+3 distribu/STM + ido/SUF
+1 uva/STM
+1 fun/STM + da/SUF + da/SUF
+1 Viedma/STM
+14 presidente/STM
+6 te/STM + ó/SUF + rica/STM
+3 existir/STM
+2 Chaco/STM
+1 Biblio/STM + teca/STM
+2 banca/STM + ria/STM + s/SUF
+1 sud/STM + americana/STM
+1 misionero/STM + s/SUF
+1 baja/STM
+2 congela/STM + ción/SUF
+1 neorromán/STM + ico/SUF
+3 produc/STM + ida/STM + s/SUF
+1 enlazan/STM
+22 principal/STM + es/SUF
+1 a/STM + cerca/STM + n/SUF
+1 gra/STM + dual/STM
+2 primi/STM + tiva/SUF
+1 britán/STM + ico/SUF
+1 tubércu/STM + los/STM
+1 volú/STM + men/STM + es/SUF
+1 gén/STM + ero/STM
+1 cul/STM + tiva/SUF + dos/SUF
+3 occidental/STM
+2 Verde/STM
+5 significa/STM
+3 Cauchy/STM
+1 diseña/STM + da/SUF
+1 pas/STM + a/SUF + n/SUF
+1 investiga/STM + ciones/SUF
+2 Jorge/STM
+1 Llull/STM
+1 Hubert/STM
+1 organiza/STM
+8 está/STM + n/SUF
+4 conoci/STM + do/SUF
+1 funciona/STM + r/SUF
+13 sólo/STM
+1 teorema/STM
+2 exten/STM + s/SUF + a/SUF
+5 disposi/STM + ción/SUF
+2 de/STM + teni/STM + do/SUF
+1 K/STM + ar/STM + l/SUF
+2 300/STM
+1 croatas/STM
+1 con/PRE + quis/STM + tó/STM
+6 marinas/STM
+3 par/STM + a/SUF + do/SUF + jas/STM
+1 colo/STM + r/SUF + ado/SUF
+4 gravedad/STM
+1 uruguay/STM + o/SUF + s/SUF
+1 universita/STM + ria/STM
+1 cruceros/STM
+1 llamada/STM + s/SUF
+3 parajes/STM
+2 coste/STM + ra/SUF
+2 bás/STM + quet/STM
+1 2014/STM
+1 activ/STM + a/SUF + mente/SUF
+2 britán/STM + ico/SUF + s/SUF
+2 ente/STM + ra/SUF
+4 explícita/STM
+2 laguna/STM
+2 aprender/STM
+1 cosecha/STM + s/SUF
+1 in/PRE + tenta/STM + ba/SUF + n/SUF
+1 reactor/STM
+2 pared/STM
+2 bellos/STM
+4 integra/STM + n/SUF
+3 matrimonio/STM
+2 Roger/STM
+1 defini/STM + ciones/SUF
+1 est/STM + a/SUF + bil/STM + iza/STM + ría/SUF
+1 56/STM
+2 Ev/STM + a/SUF
+2 priv/STM + a/SUF + da/SUF
+11 según/STM
+1 instala/STM + r/SUF
+16 sociedad/STM
+1 entra/STM + ñas/STM
+1 55/STM
+1 cuchil/STM + las/STM
+1 incertidumbre/STM
+1 C/STM + r/SUF + ó/SUF + n/SUF + ica/SUF
+3 otredad/STM
+1 funciona/STM + lismo/STM + El/STM
+1 Alti/STM + plan/STM + o/SUF
+1 conoci/STM + da/SUF + s/SUF
+2 Mauri/STM
+3 diez/STM
+3 habla/STM + nte/STM + s/SUF
+17 importante/STM + s/SUF
+2 asuntos/STM
+2 pre/PRE + dice/STM
+2 supone/STM
+1 ejerc/STM + ido/SUF
+3 Casi/STM
+1 ten/STM + emos/STM
+1 Clasif/STM + ica/SUF + ción/SUF
+6 colabora/STM + ción/SUF
+2 cereal/STM
+1 ex/STM + cedente/STM
+1 entrena/STM + ba/SUF
+1 milici/STM + a/SUF + s/SUF
+1 favor/STM + a/SUF + ble/STM
+1 practica/STM + r/SUF
+1 cual/STM + ita/STM + tivo/STM
+2 con/PRE + tribu/STM + ido/SUF
+1 in/PRE + flu/STM + yente/STM
+1 Par/STM + ticip/STM + ó/SUF
+3 asumió/STM
+1 hela/STM + dos/SUF
+1 Ju/STM + dicial/STM
+1 con/PRE + flu/STM + y/STM + en/STM + do/SUF
+11 carga/STM
+2 emergido/STM
+1 opera/STM + ción/SUF
+9 había/STM
+3 super/STM + masivo/STM + s/SUF
+2 con/PRE + tra/STM + rio/SUF
+9 fuerte/STM
+2 1967/STM
+1 armadil/STM + los/STM
+1 resuelto/STM
+1 macrocef/STM + á/STM + l/SUF + ico/SUF
+1 con/PRE + tac/STM + to/STM
+1 fun/STM + da/SUF + do/SUF + r/SUF + es/SUF
+1 Mús/STM + ica/SUF
+1 lisozima/STM
+1 Toda/STM + vía/STM
+1 A/STM + que/STM + l/SUF + las/STM
+1 numer/STM + a/SUF + ción/SUF
+1 neomud/STM + éjar/STM
+1 mandioca/STM
+1 volvería/STM
+1 san/STM + a/SUF + vi/STM + ron/SUF + es/SUF
+1 pastos/STM
+1 pad/STM + ezcan/STM
+3 ARTE/STM
+1 Jesús/STM
+1 De/STM + part/STM + a/SUF + mento/STM
+1 Personajes/STM
+2 usa/STM + n/SUF
+1 acaba/STM
+21 form/STM + a/SUF
+1 sedimenta/STM + rio/SUF
+1 Archivos/STM
+1 nues/STM + tro/STM
+8 60/STM
+1 chulup/STM + í/STM
+2 opositores/STM
+1 Premio/STM + s/SUF
+2 seco/STM + s/SUF
+1 debía/STM
+1 re/PRE + compon/STM + ía/SUF
+2 rotación/STM
+1 carbono/STM
+2 1999/STM
+1 defini/STM + dos/SUF
+1 partícula/STM
+4 tamaño/STM
+5 castellano/STM
+1 Ba/STM + talla/STM
+1 rendi/STM + miento/STM
+2 Reginald/STM
+2 bien/STM + es/SUF
+1 segui/STM + miento/STM
+1 difund/STM + e/SUF
+18 2001/STM
+1 literaria/STM
+1 é/STM + lite/STM
+3 ido/STM
+2 racional/STM
+1 exporta/STM
+1 ve/STM
+1 pro/STM + segui/STM + r/SUF
+1 centrí/STM + fuga/STM + mente/SUF
+2 superior/STM
+1 simpat/STM + iza/STM + r/SUF
+3 neut/STM + ron/SUF + es/SUF
+2 temática/STM
+1 tam/STM + poco/STM
+9 muchos/STM
+2 oceánica/STM
+2 38/STM
+1 Pakistán/STM
+1 bo/STM + vino/STM
+2 36/STM
+1 difund/STM + ido/SUF
+2 fij/STM + ó/SUF
+1 Can/STM + ig/STM + ó/SUF
+1 convertir/STM
+3 futbolista/STM
+1 1252/STM
+2 uniform/STM + e/SUF
+9 actua/STM + l/SUF
+2 Sarkozy/STM
+1 democrático/STM + s/SUF
+4 Roman/STM + a/SUF
+1 cer/STM + vez/STM + a/SUF
+3 límite/STM + s/SUF
+1 Futaleuf/STM + ú/STM
+1 busca/STM + ron/SUF
+2 total/STM + idad/SUF
+1 Int/STM + roduc/STM + ción/SUF
+2 mandato/STM + s/SUF
+19 espacio/STM
+9 3/STM
+10 tradición/STM
+1 exist/STM + ía/SUF + n/SUF
+1 Sub/STM + andinas/STM
+3 de/PRE + cla/STM + ra/SUF + da/SUF
+2 c/STM
+1 Boris/STM
+1 ocup/STM + a/SUF + ban/STM
+1 de/PRE + termina/STM + r/SUF
+1 acompañado/STM + s/SUF
+1 completa/STM + do/SUF
+35 negro/STM + s/SUF
+2 origina/STM + l/SUF + es/SUF
+2 exigía/STM
+1 lengua/STM + je/STM
+1 Rask/STM
+5 clás/STM + ico/SUF
+2 Fiter/STM
+1 form/STM + a/SUF + l/SUF + mente/SUF
+29 ser/STM
+1 divid/STM + ida/STM
+1 env/STM + ejec/STM + ido/SUF
+2 adquisi/STM + ción/SUF
+4 Manuel/STM
+11 Sin/STM
+1 atrac/STM + tivo/SUF
+1 Orquesta/STM
+1 regí/STM + men/STM + es/SUF
+1 acelera/STM + ción/SUF
+2 emit/STM + ía/SUF + n/SUF
+1 pene/STM + tra/STM + ción/SUF
+2 lista/STM + s/SUF
+2 Lé/STM + r/SUF + ida/STM
+1 orienta/STM + ciones/SUF
+1 Pie/STM + r/SUF + re/STM
+1 dirig/STM + en/STM
+1 un/STM + ido/SUF
+1 astro/STM
+2 huecos/STM
+1 Principa/STM + t/STM
+2 difund/STM + ida/STM + s/SUF
+17 Sur/STM
+1 comparte/STM
+1 Eul/STM + alia/STM
+1 Eng/STM + el/STM + s/SUF
+2 algo/STM
+18 donde/STM
+1 ocup/STM + a/SUF
+9 mayor/STM + ía/SUF
+2 leg/STM + ado/SUF
+1 acu/STM + s/SUF + en/STM
+2 mo/STM + do/SUF
+1 domi/STM + n/SUF + a/SUF + da/SUF
+1 ACB/STM
+1 presenta/STM + rse/SUF
+1 astro/STM + física/STM
+2 1185/STM
+1 Emanuel/STM
+1 ganade/STM + ría/SUF
+44 ha/STM
+3 de/PRE + más/STM
+1 Bolivia/STM + n/SUF + a/SUF
+2 Excep/STM + cion/STM + a/SUF + l/SUF + mente/SUF
+1 enorme/STM + mente/SUF
+2 utiliza/STM
+2 con/PRE + glomeraciones/STM
+3 bioma/STM
+1 Ti/STM + en/STM + e/SUF
+1 excava/STM + r/SUF
+1 oirse/STM
+1 or/STM + iente/STM
+1 instala/STM + do/SUF
+1 escapa/STM + r/SUF
+1 ole/STM + oducto/STM
+1 g/STM + astronómica/STM
+5 Juego/STM + s/SUF
+1 continua/STM
+200 com/STM + o/SUF
+1 provincia/STM + l/SUF
+1 modifica/STM + r/SUF
+15 segu/STM + n/SUF + da/SUF
+1 octavo/STM
+1 apoyo/STM + s/SUF
+1 estable/STM + ciendo/STM
+1 caudal/STM + o/SUF + s/SUF + o/SUF
+13 encuentra/STM + n/SUF
+1 dia/STM + ria/STM + s/SUF
+23 Por/STM
+4 habitaban/STM
+3 Da/STM + do/SUF
+2 re/PRE + elegido/STM
+1 Qu/STM + e/SUF
+1 logros/STM
+14 mas/STM + a/SUF
+1 mil/STM + lón/STM
+1 argu/STM + mento/STM + s/SUF
+2 legal/STM + es/SUF
+2 inmigr/STM + ante/STM + s/SUF
+4 ºC/STM
+2 Tucumán/STM
+1 antigu/STM + a/SUF + s/SUF
+1 empieza/STM
+2 afecta/STM + da/SUF
+5 compuesta/STM
+3 impuls/STM + ó/SUF
+1 tergiversa/STM
+1 literaria/STM + s/SUF
+1 ob/STM + tuv/STM + o/SUF
+1 Na/STM + cimiento/STM + s/SUF
+1 ejerc/STM + er/STM
+1 Colom/STM + bi/STM + a/SUF
+2 semin/STM + ó/SUF + ma/STM + da/SUF + s/SUF
+3 agraria/STM
+2 Ello/STM
+1 férreas/STM
+3 propiedad/STM + es/SUF
+2 Funda/STM + ción/SUF
+1 bebés/STM
+1 Sídney/STM
+1 propor/STM + cion/STM + a/SUF + l/SUF
+2 superficiales/STM
+2 costos/STM
+2 boliviano/STM
+1 divulga/STM + da/SUF
+2 hicieron/STM
+2 licenciar/STM
+1 satisface/STM + r/SUF
+4 Economía/STM
+3 Ministerio/STM
+2 culto/STM
+1 pre/PRE + tend/STM + en/STM
+5 requieren/STM
+1 Burnett/STM
+3 sede/STM
+5 plasma/STM
+3 absoluta/STM
+17 bit/STM + s/SUF
+9 2010/STM
+1 pobla/STM + dos/SUF
+4 idea/STM
+1 concentra/STM + ción/SUF
+2 tabaco/STM
+1 anglo/STM
+3 Cu/STM + a/SUF + n/SUF + do/SUF
+1 comprende/STM + n/SUF
+3 tercer/STM
+1 1674/STM
+3 325/STM
+1 recurr/STM + ieron/STM
+1 i/STM + legal/STM + es/SUF
+3 ecua/STM + ciones/SUF
+1 pensa/STM + do/SUF + r/SUF + es/SUF
+1 minerales/STM
+1 su/STM + stitu/STM + ido/SUF
+1 vacío/STM
+10 con/PRE + di/STM + ciones/SUF
+2 económica/STM + mente/SUF
+1 considerable/STM + mente/SUF
+5 final/STM
+1 labra/STM + r/SUF
+2 Montevi/STM + de/STM + o/SUF
+1 apari/STM + encia/STM
+1 probable/STM + mente/SUF
+2 Parece/STM
+1 resist/STM + encia/STM
+1 Herr/STM + amientas/STM
+1 François/STM + e/SUF
+2 cumple/STM
+3 aviones/STM
+3 legal/STM
+1 alia/STM + dos/SUF
+1 de/STM + muestra/STM + n/SUF
+1 fun/STM + da/SUF + do/SUF + r/SUF
+2 Merca/STM + deres/STM
+13 camp/STM + o/SUF
+3 39/STM
+3 vuln/STM + erables/STM
+1 comercial/STM + iza/STM + ción/SUF
+3 dialect/STM + o/SUF + logía/STM
+1 Colom/STM
+4 propu/STM + est/STM + a/SUF
+1 afecta/STM + dos/SUF
+1 Bocca/STM
+1 vali/STM + osas/STM
+2 instala/STM + dos/SUF
+1 colabora/STM + do/SUF + r/SUF + es/SUF
+1 sembrar/STM
+1 cla/STM + ra/SUF + mente/SUF
+1 tar/STM + e/SUF + a/SUF
+1 re/PRE + lle/STM + nar/STM
+1 site/STM
+3 desarrol/STM + l/SUF + a/SUF + n/SUF + do/SUF
+1 buen/STM + a/SUF
+1 des/PRE + conoci/STM + do/SUF + s/SUF
+4 trata/STM + do/SUF
+3 choque/STM
+7 industria/STM + s/SUF
+1 Re/STM + specto/STM
+4 oferta/STM
+2 Puede/STM
+1 divid/STM + en/STM
+2 compacta/STM
+5 Martí/STM + n/SUF
+2 produc/STM
+1 obje/STM + tivo/STM
+2 Depend/STM + ien/STM + do/SUF
+1 Est/STM + a/SUF + dio/STM
+2 Radi/STM + a/STM + ción/SUF
+3 orígenes/STM
+9 horizonte/STM
+1 Cu/STM + ba/SUF
+1 Zonas/STM
+1 Golfo/STM
+1 lingü/STM + ista/STM + s/SUF
+2 ANSI/STM
+1 super/STM + a/SUF + da/SUF
+2 Recoleta/STM
+2 tesi/STM + tur/STM + a/SUF
+1 2015/STM
+2 valle/STM + s/SUF
+14 todo/STM + s/SUF
+8 mar/STM
+2 ac/STM + ciones/SUF
+2 tenía/STM
+2 patentes/STM
+1 Chagas/STM
+1 obsole/STM + tos/STM
+9 est/STM + a/SUF + do/SUF
+1 abue/STM + los/STM
+1 acu/STM + íferos/STM
+1 silencio/STM
+1 defini/STM + rse/SUF
+1 chori/STM + pán/STM
+2 69/STM
+1 Piedra/STM
+1 Circulan/STM
+4 Crisis/STM
+1 certamen/STM
+3 Copríncipe/STM
+1 febrero/STM
+2 consumir/STM
+4 in/PRE + form/STM + e/SUF
+1 atrapa/STM + do/SUF
+6 pobreza/STM
+5 etno/STM + logía/STM
+1 alter/STM + ca/STM + dos/SUF
+1 mayor/STM + ita/STM + rio/SUF + s/SUF
+1 actua/STM + ción/SUF
+9 superficie/STM
+1 pod/STM + ría/SUF + n/SUF
+1 pas/STM + tele/STM + s/SUF
+1 varia/STM + nte/STM
+27 km/STM
+1 domi/STM + n/SUF + a/SUF + ba/SUF
+1 Ginastera/STM
+3 aquel/STM
+3 correspon/STM + diente/STM
+1 Iñaki/STM
+1 encinas/STM
+1 incorpo/STM + ra/SUF + ron/SUF
+3 1992/STM
+2 Futbol/STM
+1 apunta/STM + n/SUF
+1 man/STM + teni/STM + do/SUF
+5 suelo/STM
+1 190/STM
+4 envi/STM + ó/SUF
+1 hubo/STM
+2 Metropolitano/STM
+3 ambi/STM + ente/STM
+178 La/STM
+2 con/PRE + vierte/STM
+2 éstos/STM
+2 caracteriza/STM
+2 Belgrano/STM
+2 vacuna/STM
+1 visión/STM
+5 ante/STM + s/SUF
+2 ventaja/STM
+3 mandato/STM
+4 flujo/STM
+1 económico/STM + s/SUF
+1 Cap/STM
+2 firm/STM + ó/SUF
+1 Napol/STM + eón/STM
+1 can/STM + di/STM + da/SUF + tur/STM + a/SUF
+3 argentina/STM + s/SUF
+1 Lo/STM
+3 15/STM
+8 ley/STM + es/SUF
+10 2005/STM
+7 cual/STM + es/SUF
+3 usar/STM
+3 con/PRE + tabil/STM + iza/STM + r/SUF
+2 con/PRE + segui/STM + do/SUF
+17 obra/STM
+3 Civil/STM
+3 Agencia/STM
+1 tortugas/STM
+1 Al/STM + ba/SUF
+4 caudal/STM
+1 in/PRE + cur/STM + r/SUF + ió/STM
+1 sem/STM + estre/STM
+1 lule/STM
+2 Filomena/STM
+9 De/STM
+2 aceite/STM
+3 manif/STM + est/STM + a/SUF + ciones/SUF
+6 i/STM
+1 tapiet/STM + é/STM
+5 portugu/STM + es/SUF + a/SUF
+7 radio/STM
+5 colonia/STM + l/SUF
+1 conjetura/STM
+1 gi/STM + ra/SUF + sol/STM
+21 millones/STM
+1 uruguay/STM
+2 en/STM + carga/STM + n/SUF
+706 en/STM
+2 omaguaca/STM
+2 parámetro/STM + s/SUF
+1 asum/STM + ía/SUF
+1 aficionado/STM + s/SUF
+2 arqueo/STM + lógico/STM + s/SUF
+3 Historia/STM
+9 derecho/STM
+5 miembro/STM
+1 distingu/STM + e/SUF
+1 marca/STM + s/SUF
+2 desarrol/STM + l/SUF + o/SUF + s/SUF
+1 acaba/STM + n/SUF
+5 imprimi/STM + ble/STM + s/SUF
+2 cercanas/STM
+2 inmigr/STM + a/SUF + toria/STM
+3 chocolate/STM
+1 Descrip/STM + ción/SUF
+2 Art/STM
+1 ampl/STM + ísimo/STM
+3 1998/STM
+1 administra/STM + tiva/SUF + s/SUF
+1 edifi/STM + ca/STM + ción/SUF
+10 disciplina/STM
+6 inglés/STM
+3 ergosfera/STM
+2 Prove/STM + e/SUF + do/SUF + r/SUF + es/SUF
+1 p/STM + r/SUF + ado/SUF + s/SUF
+1 Mar/STM + ado/SUF + na/STM
+3 re/PRE + ciente/STM
+2 decir/STM
+1 Corte/STM
+1 menciona/STM + dos/SUF
+1 galáct/STM + ico/SUF
+2 compañ/STM + ía/SUF + s/SUF
+9 extranjero/STM + s/SUF
+1 138474/STM
+5 europea/STM
+1 puma/STM
+3 042/STM
+15 además/STM
+1 colapsa/STM + ra/SUF
+1 resi/STM + día/STM
+2 Barracas/STM
+3 1963/STM
+1 intui/STM + tiva/SUF + s/SUF
+3 pampeana/STM
+3 Leñas/STM
+1 drenaje/STM
+2 mecanismo/STM + s/SUF
+2 Código/STM
+1 inca/STM + ica/SUF
+1 habita/STM + bil/STM + idad/SUF
+2 judicial/STM
+4 gra/STM + dos/SUF
+2 totaliza/STM + n/SUF + do/SUF
+1 hab/STM + ido/SUF
+4 dependie/STM + n/SUF + do/SUF
+3 integra/STM + ba/SUF
+2 noveno/STM
+1 Vari/STM + ante/STM + s/SUF
+2 CITEFA/STM
+3 re/PRE + presenta/STM + do/SUF
+4 Pirineos/STM
+1 via/STM + jeros/STM
+1 Diego/STM
+2 imaginar/STM
+16 año/STM
+1 proviene/STM
+1 impedir/STM
+1 lácteos/STM
+1 au/STM + s/SUF + encia/STM
+9 lugar/STM
+5 ASA/STM
+4 teo/STM + ría/SUF + s/SUF
+2 con/PRE + di/STM + ción/SUF
+1 pr/STM + ensa/STM + s/SUF
+1 restaurar/STM
+6 Est/STM + o/SUF + s/SUF
+1 elefante/STM
+1 p/STM + en/STM + s/SUF + ó/SUF
+1 alt/STM + era/STM + ciones/SUF
+1 Andoain/STM
+8 catalán/STM
+4 realiza/STM + da/SUF
+1 avestruz/STM
+1 funciona/STM
+1 Sociologi/STM + que/STM
+2 defini/STM + tiva/SUF + mente/SUF
+1 atrapa/STM
+2 1939/STM
+2 municipio/STM + s/SUF
+2 30/STM
+2 AS/STM
+2 constituy/STM + ó/SUF
+2 econom/STM + ía/SUF + s/SUF
+7 sin/STM + o/SUF
+1 Siglo/STM
+1 argentum/STM
+1 vino/STM + s/SUF
+1 nota/STM + ble/STM + mente/SUF
+2 quechua/STM
+1 solida/STM + r/SUF + idad/SUF
+2 antár/STM + tica/STM
+3 constante/STM + s/SUF
+4 equipo/STM + s/SUF
+2 anual/STM + mente/SUF
+2 Enfrentó/STM
+1 cos/STM + a/SUF + s/SUF
+2 gigante/STM
+2 voto/STM + s/SUF
+42 antropolog/STM + ía/SUF
+1 Media/STM + nte/STM
+2 dispo/STM + n/SUF + ía/SUF
+3 lagos/STM
+3 hidroeléct/STM + rica/STM
+1 I/STM + r/SUF + ó/SUF + n/SUF + ica/SUF + mente/SUF
+1 copia/STM + n/SUF
+1 convirt/STM + ieron/STM
+4 civil/STM + es/SUF
+2 Bermejo/STM
+1 forrajes/STM
+2 hielo/STM
+2 biodiésel/STM
+1 pájaro/STM
+5 par/STM + a/SUF + í/STM + s/SUF + o/SUF
+1 prima/STM + ria/STM + mente/SUF
+8 tarde/STM
+1 rendi/STM + miento/STM + s/SUF
+2 excava/STM + ciones/SUF
+2 arable/STM
+11 pesar/STM
+6 desarrol/STM + l/SUF + ó/SUF
+2 versiones/STM
+2 bos/STM + cos/STM + a/SUF + s/SUF
+2 vivió/STM
+2 pol/STM + o/SUF
+1 concentra/STM + da/SUF
+1 Francisco/STM
+1 monarca/STM
+1 Nilo/STM
+3 Refer/STM + encia/STM + s/SUF
+1 intérpret/STM + es/SUF
+1 m3/STM
+5 Sierra/STM + s/SUF
+4 inter/STM + ac/STM + ción/SUF
+2 problema/STM
+1 tele/STM + im/STM + pre/PRE + sión/STM
+7 sucesos/STM
+1 trajo/STM
+1 temp/STM + o/SUF + r/SUF + al/STM
+1 Domínguez/STM
+2 unió/STM
+1 Sobre/STM + s/SUF + alen/STM
+1 reg/STM + ido/SUF + s/SUF
+3 bastante/STM
+1 Idioma/STM
+2 espec/STM + íficos/STM
+1 Ba/STM + loncesto/STM
+1 pobla/STM + do/SUF + r/SUF + es/SUF
+2 est/STM + a/SUF + ción/SUF
+1 civil/STM + iza/STM + ción/SUF
+1 átomos/STM
+1 con/PRE + tra/STM + r/SUF + r/SUF + evolu/STM + cion/STM + a/SUF + ria/STM
+2 utiliza/STM + da/SUF
+1 inf/STM + anti/STM + les/SUF
+3 observa/STM + ciones/SUF
+23 tien/STM + e/SUF + n/SUF
+2 mejor/STM + a/SUF + s/SUF
+1 Y/STM + e/SUF + pes/STM
+2 emplea/STM + n/SUF
+2 arroj/STM + ado/SUF
+2 Patrimonio/STM
+1 refugio/STM
+2 inca/STM + s/SUF
+2 observa/STM + dos/SUF
+1 parece/STM + r/SUF
+9 interés/STM
+1 medio/STM + ambi/STM + ental/STM + es/SUF
+3 inme/STM + r/SUF + s/SUF + a/SUF
+1 hall/STM + ó/SUF
+1 Esqu/STM + ivel/STM
+2 sal/STM + a/SUF
+1 serán/STM
+1 tamal/STM
+2 Mart/STM + a/SUF
+1 ob/STM + via/STM + mente/SUF
+2 prestigiosas/STM
+2 adquiri/STM + r/SUF + la/STM
+1 inde/STM + m/STM + n/SUF + iza/STM + ciones/SUF
+1 con/PRE + stitu/STM + cion/STM + a/SUF + l/SUF + es/SUF
+4 borde/STM
+1 Sagittarius/STM
+1 pa/STM + sta/STM + s/SUF
+1 Tig/STM + ri/STM + s/SUF
+2 plantea/STM
+3 archipié/STM + lagos/STM
+8 sobera/STM + n/SUF + ía/SUF
+1 Boix/STM
+2 oblig/STM + atorio/STM
+2 ferroviaria/STM
+2 declive/STM
+3 bit/STM
+2 delim/STM + ita/STM + ción/SUF
+1 balancear/STM
+1 gan/STM + a/SUF + do/SUF + r/SUF
+8 grupo/STM
+1 paga/STM + r/SUF
+2 periferia/STM
+2 inscrito/STM
+9 momento/STM
+19 nacional/STM
+1 permit/STM + ía/SUF + n/SUF
+3 habla/STM
+5 Santa/STM
+3 económico/STM
+1 retrato/STM
+1 drogas/STM
+1 Madriu/STM
+1223 la/STM
+2 perten/STM + e/SUF + ciente/STM
+2 invisible/STM
+2 resistir/STM
+1 atribuible/STM
+1 modern/STM + ista/STM
+2 carolingio/STM
+1 estudia/STM + ba/SUF
+5 exp/STM + l/SUF + ica/SUF
+1 Tal/STM
+1 pas/STM + a/SUF + do/SUF + s/SUF
+1 crea/STM + se/STM
+7 ella/STM
+1 1994/STM
+4 Actual/STM + mente/SUF
+2 1945/STM
+1 Pequeño/STM
+3 manteca/STM
+1 elec/STM + tric/STM + idad/SUF
+1 pre/PRE + supuesto/STM
+1 hidrául/STM + ica/SUF
+1 Dulce/STM
+4 convirt/STM + iéndose/STM
+1 pico/STM
+1 eligió/STM
+1 implotan/STM
+1 de/PRE + cla/STM + ra/SUF + ción/SUF
+1 coincidi/STM + ó/SUF
+1 1787/STM
+1 gober/STM + n/SUF + a/SUF + bil/STM + idad/SUF
+3 ganadero/STM
+3 fenómeno/STM
+1 Can/STM + a/SUF + sta/STM
+1 igual/STM + es/SUF
+1 vivienda/STM
+1 inter/STM + rogante/STM
+1 atra/STM + yente/STM + s/SUF
+1 re/PRE + ten/STM + ciones/SUF
+1 gober/STM + n/SUF + a/SUF + ba/SUF
+1 human/STM + idad/SUF + es/SUF
+2 figura/STM
+1 Hertz/STM
+3 sustancia/STM + l/SUF + mente/SUF
+1 Valor/STM
+11 número/STM
+1 in/PRE + ten/STM + s/SUF + a/SUF + s/SUF
+1 chile/STM
+4 línea/STM + s/SUF
+1 dis/STM + curso/STM
+2 aglomeraciones/STM
+5 materia/STM + l/SUF
+2 orde/STM + n/SUF + a/SUF + r/SUF
+1 sostenible/STM
+3 human/STM + idad/SUF
+2 mediterráneo/STM
+1 Con/STM + creta/STM + mente/SUF
+1 emit/STM + iese/STM
+1 mestizaje/STM
+2 censo/STM
+1 causa/STM + s/SUF
+2 1860/STM
+4 tuv/STM + o/SUF
+1 vincula/STM + dos/SUF
+5 costumbre/STM + s/SUF
+3 habita/STM + n/SUF
+3 TDT/STM
+6 Literatura/STM
+2 abandon/STM + o/SUF
+6 Confederación/STM
+1 elíp/STM + tica/STM + s/SUF
+2 bina/STM + rio/SUF
+1 adquiri/STM + e/SUF + ron/SUF
+1 o/STM + posi/STM + ción/SUF
+1 La/STM + fitau/STM
+1 Con/STM + struc/STM + ción/SUF
+1 De/STM + termina/STM + dos/SUF
+1 cigarrillo/STM + s/SUF
+10 línea/STM
+4 produj/STM + o/SUF
+7 importante/STM
+3 gas/STM
+3 reduc/STM + ido/SUF
+1 in/PRE + tenta/STM + ba/SUF
+2 arquitectos/STM
+1 denegará/STM
+2 excepto/STM
+1 1934/STM
+7 cuyo/STM
+5 Estándares/STM
+5 re/PRE + gio/STM + n/SUF + es/SUF
+2 presentará/STM
+1 ayu/STM + da/SUF + n/SUF
+2 propuesto/STM
+1 brasas/STM
+3 mil/STM
+1 altitud/STM + in/STM + al/STM + es/SUF
+1 Página/STM
+3 Marcel/STM + o/SUF
+1 surreal/STM + ismo/SUF
+3 maquinaria/STM
+20 estudio/STM
+1 exist/STM + a/SUF
+6 hace/STM
+1 hu/STM + r/SUF + ó/SUF + n/SUF
+1 continua/STM + da/SUF
+1 id/STM + ent/STM + idad/SUF
+3 ropaje/STM
+3 especifica/STM + da/SUF + s/SUF
+5 Río/STM
+1 oficial/STM + mente/SUF
+86 o/STM
+4 Río/STM + s/SUF
+2 co/STM + marca/STM + l/SUF
+3 con/PRE + sigu/STM + ien/STM + do/SUF
+25 Se/STM
+2 pampa/STM
+1 talla/STM
+1 de/PRE + termina/STM + dos/SUF
+5 capac/STM + idad/SUF
+2 Pacífico/STM
+2 nacion/STM + es/SUF
+1 adquisi/STM + tivo/SUF
+3 sol/STM + da/SUF + dos/SUF
+1 sal/STM + mo/STM + n/SUF + es/SUF
+11 primeros/STM
+1 de/PRE + cla/STM + ra/SUF + r/SUF + le/STM
+2 alcohólicas/STM
+1 ju/STM + ri/STM + s/SUF + dic/STM + ción/SUF
+2 Común/STM
+1 comporta/STM + ría/SUF
+2 club/STM
+2 exclusiva/STM + mente/SUF
+2 Bancos/STM
+1 aplast/STM + a/SUF + rse/SUF
+2 anglosajona/STM
+4 25/STM
+1 1870/STM
+11 francés/STM
+1 almacenaje/STM
+2 pastor/STM
+1 super/STM + masivo/STM
+1 plaguicida/STM
+2 Caa/STM
+1 Don/STM + n/SUF
+2 utiliza/STM + r/SUF
+2 aumentado/STM
+1 euro/STM
+1 a/STM + crecimiento/STM
+2 integra/STM
+1 dad/STM + o/SUF
+14 Provincia/STM
+2 padre/STM
+2 particular/STM + mente/SUF
+1 per/STM
+3 cuerpo/STM
+3 invierno/STM
+3 estima/STM
+1 c/STM + r/SUF + ó/SUF + n/SUF + icas/STM
+1 1878/STM
+1 establece/STM + r/SUF
+1 1941/STM
+6 propor/STM + ción/SUF
+1 con/PRE + ven/STM + cion/STM + a/SUF + l/SUF
+1 euro/STM + s/SUF
+2 asciende/STM
+1 joven/STM
+2 Plaza/STM
+2 Borges/STM
+5 eso/STM
+3 requisitos/STM
+1 parámetro/STM
+1 Arquitec/STM + tur/STM + a/SUF
+1 reflejaban/STM
+2 produc/STM + ido/SUF + s/SUF
+1 ciudad/STM + a/SUF + no/STM
+1 pobla/STM + r/SUF
+3 divers/STM + if/STM + ica/SUF + ción/SUF
+1 introduj/STM + e/SUF + ron/SUF
+5 pre/STM + s/SUF + ente/STM + s/SUF
+1 britán/STM + ico/SUF + Mientras/STM
+1 Mauri/STM + ce/STM
+2 lluvias/STM
+5 trigo/STM
+1 Fieldata/STM
+3 mide/STM
+1 pre/PRE + histórica/STM + s/SUF
+1 con/PRE + sigu/STM + e/SUF
+1 turístico/STM
+123 su/STM
+1 prevale/STM + ci/STM + ó/SUF
+2 explorador/STM + es/SUF
+3 etiquetas/STM
+3 Cristina/STM
+2 de/PRE + part/STM + a/SUF + mento/STM + s/SUF
+5 movi/STM + miento/STM + s/SUF
+2 ejercida/STM
+5 metro/STM + s/SUF
+7 canal/STM
+2 con/PRE + de/STM
+4 Indígenas/STM
+1 privat/STM + iza/STM + do/SUF
+2 Naturaleza/STM
+1 lactoferrina/STM
+3 Medio/STM
+7 excepción/STM
+4 Tendemos/STM
+9 cantidad/STM
+12 rela/STM + ción/SUF
+2 proveniente/STM + s/SUF
+1 discrimina/STM + dos/SUF
+2 detalles/STM
+1 1862/STM
+1 negocia/STM + ciones/SUF
+1 bajo/STM + s/SUF
+3 árbol/STM
+1 prote/STM + gen/STM
+1 arraigo/STM
+3 ecorregión/STM
+5 dicho/STM
+2 mismo/STM + s/SUF
+1 instala/STM + ciones/SUF
+2 direc/STM + ta/STM + mente/SUF
+1 Estero/STM
+1 I/STM + r/SUF + ún/STM
+5 revolución/STM
+2 provisional/STM
+1 na/STM + tivo/STM
+10 pueblo/STM
+1 huemul/STM
+2 nueva/STM + mente/SUF
+3 acompañado/STM
+1 emplea/STM + da/SUF + s/SUF
+1 pierde/STM
+4 apoyo/STM
+1 sigu/STM + iera/STM
+1 Co/STM + rdillera/STM
+3 dando/STM
+3 re/PRE + cep/STM + ción/SUF
+2 asum/STM + ien/STM + do/SUF
+2 es/STM + cindido/STM
+20 Entre/STM
+6 Vieja/STM
+4 se/STM + ría/SUF
+1 XOFF/STM
+1 urban/STM + a/SUF
+3 viol/STM + encia/STM
+2 ceba/STM + da/SUF
+9 galaxia/STM
+2 varia/STM + nte/STM + s/SUF
+1 aéreas/STM
+1 se/STM + n/SUF + sible/STM
+1 Man/STM + s/SUF + o/SUF
+1 fluyen/STM
+2 aconteci/STM + miento/STM + s/SUF
+6 aporta/STM
+5 industria/STM + l/SUF
+1 chiripás/STM
+2 Venustas/STM
+1 hispano/STM + habla/STM + nte/STM
+1 impuesto/STM
+4 form/STM + ó/SUF
+4 acreción/STM
+1 Brocard/STM
+2 410/STM
+2 colo/STM
+1 democrático/STM
+1 chorote/STM
+6 después/STM
+2 nubes/STM
+5 Baudot/STM
+1 inter/STM + pre/STM + tó/STM
+1 bélicos/STM
+1 Tesis/STM
+9 2002/STM
+3 socio/STM + cultura/STM + l/SUF + es/SUF
+4 salud/STM
+1 malbec/STM
+1 pusiera/STM
+1 separa/STM
+1 exam/STM + ina/STM + ba/SUF
+2 milita/STM
+9 de/PRE + ntro/STM
+1 ferrocarril/STM
+1 virrey/STM
+2 Nicolas/STM
+14 gene/STM + ra/SUF + l/SUF
+2 valo/STM + r/SUF
+4 dispers/STM + a/SUF
+1 Sahag/STM + ún/STM
+4 le/STM + ó/SUF + n/SUF
+1 propia/STM + s/SUF
+5 disposi/STM + tivo/SUF + s/SUF
+2 Madre/STM
+1 super/STM + en/STM
+3 Tylor/STM
+6 Pío/STM
+2 Vivien/STM + da/SUF + s/SUF
+20 hay/STM
+1 siste/STM + mático/STM
+1 anima/STM + dos/SUF
+1 Provence/STM
+2 Difunta/STM
+3 provincia/STM + les/SUF
+1 temp/STM + era/STM + mento/STM + s/SUF
+4 actua/STM + l/SUF + mente/SUF
+3 organismo/STM + s/SUF
+3 multi/STM + cultura/STM + l/SUF
+1 causa/STM + ron/SUF
+1 Na/STM + ciones/SUF
+1 entrena/STM + ron/SUF
+3 1776/STM
+1 dulce/STM + s/SUF
+1 est/STM + a/SUF + dística/STM + s/SUF
+8 sent/STM + ido/SUF
+1 destina/STM + da/SUF + s/SUF
+4 servicio/STM + s/SUF
+4 gravita/STM + toria/STM
+2 profesiones/STM
+1 di/STM + sec/STM + ción/SUF
+6 un/STM + idad/SUF + es/SUF
+4 llamado/STM + s/SUF
+2 hacerlo/STM
+2 Foix/STM
+2 Gil/STM
+1 niñez/STM
+2 segui/STM + r/SUF
+1 mi/STM + rada/STM
+9 PBI/STM
+1 cactus/STM
+3 in/PRE + stitu/STM + ciones/SUF
+12 siendo/STM
+32 per/STM + o/SUF
+2 amenaz/STM + ó/SUF
+2 gra/STM + ba/SUF + da/SUF
+415 a/STM
+1 dibuj/STM + ante/STM
+1 delete/STM
+7 producto/STM + s/SUF
+1 R/STM + ivers/STM
+2 re/PRE + pública/STM
+2 labores/STM
+1 au/STM + mente/SUF
+2 País/STM
+1 Cygnus/STM
+4 permit/STM + e/SUF
+2 griego/STM
+1 emit/STM + a/SUF
+2 pod/STM + ía/SUF + n/SUF
+1 rico/STM + s/SUF
+1 teléfonos/STM
+1 geo/STM + gráfico/STM + s/SUF
+2 FAS/STM
+1 su/STM + erte/STM
+4 sesgo/STM
+2 307/STM
+2 metodo/STM + logía/STM
+6 estructura/STM
+1 dedicado/STM + s/SUF
+4 dieron/STM
+2 afán/STM
+3 de/PRE + bajo/STM
+2 primer/STM + o/SUF
+1 recom/STM + ien/STM + da/SUF
+8 20/STM
+1 cine/STM
+1 fin/STM
+2 exten/STM + s/SUF + o/SUF
+1 fronter/STM + iza/STM
+1 Derecho/STM + s/SUF
+1 nulo/STM
+1 Bás/STM + ica/SUF
+3 Andorranos/STM
+4 crea/STM + ción/SUF
+1 cerca/STM + n/SUF + ía/SUF + s/SUF
+1 caigan/STM
+1 autónoma/STM + s/SUF
+2 abedul/STM
+1 op/STM + cion/STM + a/SUF + l/SUF
+2 preserva/STM + n/SUF
+1 desarrol/STM + l/SUF + a/SUF + rse/SUF
+1 entrena/STM + do/SUF + r/SUF
+1 Perafita/STM
+5 con/PRE + stitu/STM + ido/SUF
+1 occidental/STM + es/SUF
+1 encargado/STM + s/SUF
+1 incre/STM + mente/SUF
+1 siga/STM
+5 franc/STM + es/SUF + a/SUF
+6 compati/STM + bil/STM + idad/SUF
+1 su/STM + mar/STM + a/SUF
+4 respec/STM + tiva/SUF + mente/SUF
+1 política/STM + mente/SUF
+1 Ub/STM + ica/SUF + ción/SUF
+1 G/STM + astronom/STM + ía/SUF
+1 inéd/STM + ita/STM
+9 Constitución/STM
+3 ancha/STM
+1 imposibil/STM + idad/SUF
+1 empí/STM + rica/STM
+2 colonos/STM
+3 in/PRE + finito/STM
+20 andorrana/STM
+5 100/STM
+13 7/STM
+3 Inglaterra/STM
+2 con/PRE + sigu/STM + iente/STM
+3 otorga/STM + da/SUF + s/SUF
+1 favor/STM + ecida/STM
+2 judíos/STM
+1 code/STM
+1 perspectiva/STM + s/SUF
+1 hiper/STM + infla/STM + cion/STM + a/SUF + rio/SUF
+2 universita/STM + rio/SUF
+1 exist/STM + ien/STM + do/SUF
+1 destina/STM + do/SUF
+1 capac/STM + es/SUF
+1 elec/STM + tos/STM
+2 defini/STM + tivo/SUF + s/SUF
+1 J/STM + on/STM + es/SUF
+2 est/STM + a/SUF + ba/SUF
+1 fran/STM + jas/STM
+1 conjetura/STM + do/SUF
+1 in/PRE + capac/STM + es/SUF
+1 topo/STM + lógica/STM + s/SUF
+1 clase/STM + s/SUF
+2 esencial/STM
+1 E/STM + cua/STM + do/SUF + r/SUF
+2 Fuerza/STM
+1 primordia/STM + les/SUF
+2 expresando/STM
+1 Blanca/STM
+1 introduc/STM + ía/SUF
+1 reivindica/STM + n/SUF + do/SUF
+1 Bahía/STM
+2 con/PRE + tien/STM + da/SUF
+2 remonta/STM + n/SUF
+1 dio/STM
+3 pre/PRE + cedente/STM + s/SUF
+2 favor/STM
+1 oveja/STM
+1 viol/STM + in/STM + ista/STM
+1 arrurruz/STM
+1 ejerc/STM + ía/SUF
+1 41/STM
+1 concentra/STM + ciones/SUF
+2 sancion/STM + ó/SUF
+1 focos/STM
+6 publicó/STM
+4 enfermedad/STM + es/SUF
+2 FM/STM
+1 beneficia/STM + do/SUF
+1 re/PRE + specto/STM
+1 pesca/STM
+1 especifica/STM + dos/SUF
+3 alpinos/STM
+1 Nava/STM + r/SUF + ro/STM
+1 numer/STM + a/SUF + dos/SUF
+2 18/STM
+1 or/STM + namen/STM + tal/STM + es/SUF
+3 370/STM
+1 correspon/STM + día/STM
+1 1840/STM
+2 nada/STM
+5 misma/STM
+1 migratorio/STM + s/SUF
+3 fin/STM + es/SUF
+2 numérica/STM
+2 ceibo/STM
+1 defini/STM + da/SUF + s/SUF
+5 gene/STM + ra/SUF + l/SUF + es/SUF
+1 Mecán/STM + ica/SUF
+1 Henry/STM
+1 chorizo/STM
+1 propi/STM + ci/STM + ado/SUF
+2 conectan/STM + do/SUF
+1 campesina/STM + do/SUF
+1 esca/STM + r/SUF + pa/STM + dos/SUF
+1 reduc/STM + ir/STM
+4 Kirchner/STM
+8 2003/STM
+1 considera/STM + rse/SUF
+3 compa/STM + ctos/STM
+3 la/STM + do/SUF
+1 infecci/STM + osas/STM
+1 Beagle/STM
+3 livianos/STM
+1 inter/STM + persona/STM + les/SUF
+1 exitosos/STM
+2 correcta/STM
+2 descender/STM
+1 final/STM + iz/STM + ó/SUF
+1 Florentino/STM
+1 regist/STM + r/SUF + ó/SUF
+2 Capillitas/STM
+1 esposa/STM
+2 meteorológico/STM + s/SUF
+7 llamada/STM
+9 mismo/STM
+6 angular/STM
+3 des/PRE + can/STM + s/SUF + a/SUF
+1 meseta/STM
+1 vivienda/STM + s/SUF
+1 norma/STM + l/SUF + mente/SUF
+5 arte/STM + s/SUF
+1 Austr/STM + alia/STM
+1 va/STM + n/SUF
+2 extrema/STM
+3 estaban/STM
+1 crea/STM + dos/SUF
+12 trabajo/STM
+2 con/PRE + form/STM + a/SUF + da/SUF
+3 Ràdio/STM
+1 obedece/STM
+1 afi/STM + ción/SUF
+3 llanura/STM
+26 Aires/STM
+1 alcoho/STM + lismo/STM
+4 tele/STM + gráfico/STM + s/SUF
+2 lleg/STM + ó/SUF
+1 década/STM + s/SUF
+1 fábrica/STM
+3 marca/STM + da/SUF
+1 García/STM
+1 patrio/STM + s/SUF
+1 Conde/STM
+4 vio/STM
+2 eleva/STM + ría/SUF
+1 inf/STM + usión/STM
+1 per/STM + segui/STM + do/SUF + s/SUF
+1 Moreno/STM
+3 diaguita/STM
+1 variable/STM + s/SUF
+1 des/PRE + censo/STM
+1 Buffon/STM
+1 Pregna/STM + ncia/STM
+3 promedio/STM
+1 mono/STM + graf/STM + ía/SUF
+5 clás/STM + ica/SUF
+3 reemplazar/STM
+2 efecto/STM + s/SUF
+1 administra/STM + tivo/SUF + s/SUF
+2 sirve/STM + n/SUF
+2 radia/STM + ciones/SUF
+15 tipo/STM
+2 misi/STM + l/SUF
+1 Zaragoza/STM
+7 uno/STM + s/SUF
+8 in/PRE + form/STM + a/SUF + ción/SUF
+3 Consell/STM
+1 Gestapo/STM
+10 especial/STM
+2 oiko/STM + nomía/STM
+1 Cruc/STM + es/SUF
+2 derivado/STM
+3 disco/STM + s/SUF
+2 medalla/STM + s/SUF
+1 devenir/STM
+1 est/STM + a/SUF + tus/STM
+3 re/PRE + form/STM + a/SUF
+1 sub/STM + ven/STM + ciones/SUF
+1 cereal/STM + es/SUF
+1 es/STM + par/STM + ci/STM + ó/SUF
+4 costa/STM
+4 litigio/STM
+2 Anoeta/STM
+3 junto/STM
+2 propor/STM + cion/STM + a/SUF + n/SUF + do/SUF
+1 riojanas/STM
+2 vota/STM + da/SUF + s/SUF
+1 nivel/STM + es/SUF
+3 atomizada/STM
+3 pre/STM + s/SUF + encia/STM
+1 silvestre/STM
+2 protagon/STM + ismo/SUF
+1 Daniel/STM
+1 XIV/STM
+2 1812/STM
+4 pub/STM + l/SUF + ica/SUF + da/SUF
+3 pobr/STM + es/SUF
+2 Verá/STM
+1 vacuno/STM + s/SUF
+12 historia/STM
+4 inter/STM + es/SUF + es/SUF
+10 10/STM
+2 trampa/STM
+1 Villa/STM + r/SUF + ó/SUF
+4 Ordino/STM
+2 filo/STM + logía/STM
+2 bati/STM + ó/SUF
+12 argentino/STM
+1 paisaj/STM + ismo/SUF
+4 otra/STM
+1 Virgen/STM
+2 ú/STM + n/SUF + ica/SUF + mente/SUF
+3 hoy/STM + o/SUF
+3 200/STM
+1 ha/STM + r/SUF + ina/STM
+1 proteína/STM + s/SUF
+2 científica/STM + s/SUF
+2 convertir/STM + ía/SUF
+4 océano/STM
+3 duro/STM
+2 investiga/STM + do/SUF + r/SUF + es/SUF
+1 comun/STM + al/STM + es/SUF
+2 presidente/STM + s/SUF
+8 Valira/STM
+1 auto/STM
+1 Raúl/STM
+1 inciso/STM
+2 externa/STM
+2 Encu/STM + est/STM + a/SUF
+6 con/PRE + tin/STM + ental/STM
+12 nacional/STM + idad/SUF
+4 extremo/STM
+4 hambre/STM
+1 tío/STM
+4 Organ/STM + iza/STM + ción/SUF
+3 de/PRE + cla/STM + ra/SUF + do/SUF
+2 forestal/STM
+6 alre/STM + de/STM + do/SUF + r/SUF
+18 carácter/STM
+3 Sexta/STM
+2 emocional/STM + es/SUF
+7 quien/STM
+1 individu/STM + al/STM + es/SUF
+3 1976/STM
+1 mixogénesis/STM
+1 Campeon/STM + a/SUF + tos/STM
+1 É/STM + sta/STM + s/SUF
+1 gene/STM + ra/SUF + l/SUF + iza/STM + r/SUF
+1 visual/STM
+3 trilogía/STM
+3 edición/STM
+5 medalla/STM
+1 rápi/STM + da/SUF + mente/SUF
+1 Deporti/STM + sta/STM + s/SUF
+1 Ushuaia/STM
+1 profesora/STM
+2 introduj/STM + o/SUF
+1 Fórmula/STM
+1 religiosa/STM + s/SUF
+1 pisos/STM
+2 Campeon/STM + a/SUF + to/STM
+4 Un/STM + ido/SUF + s/SUF
+1 vi/STM + vía/STM
+1 comienza/STM + n/SUF
+7 nos/STM
+1 subtropical/STM
+3 victoria/STM
+1 desarrol/STM + l/SUF + a/SUF + da/SUF
+3 Chorros/STM
+8 sí/STM
+1 excl/STM + usión/STM
+1 mes/STM + o/SUF + americana/STM
+2 abundante/STM
+2 esbozo/STM + s/SUF
+3 plasmaEn/STM
+3 lidiaron/STM
+1 plan/STM + e/SUF + ado/SUF
+1 nomb/STM + rada/STM
+2 arroj/STM + ó/SUF
+1 máxima/STM
+1 condensa/STM + r/SUF
+1 48/STM
+1 abarca/STM + r/SUF
+1 F/STM + a/SUF + una/STM
+2 regist/STM + rada/STM
+2 secuencia/STM
+5 auto/STM + nomía/STM
+1 con/PRE + cor/STM + da/SUF + to/STM
+1 Liniers/STM
+2 continua/STM + ba/SUF
+1 FMI/STM
+2 dirig/STM + e/SUF
+2 situa/STM + da/SUF + s/SUF
+2 límite/STM
+1 bonanza/STM
+3 naveg/STM + ante/STM + s/SUF
+1 caza/STM
+6 empresa/STM
+2 alpina/STM
+1 otorga/STM + ron/SUF
+1 ponga/STM
+2 histórica/STM
+5 No/STM
+2 piel/STM
+1 banca/STM
+2 váli/STM + dos/SUF
+4 sierras/STM
+5 local/STM
+1 anterior/STM + es/SUF
+2 disponi/STM + bil/STM + idad/SUF
+1 Patagónico/STM + s/SUF
+6 ²/STM
+2 suaves/STM
+1 Bureau/STM
+1 Le/STM + s/SUF
+2 Arma/STM + da/SUF
+1 direc/STM + tor/STM
+2 integra/STM + do/SUF + s/SUF
+2 novela/STM
+1 plenitud/STM
+4 extiende/STM
+1 des/PRE + ciende/STM
+4 lite/STM + ratura/STM
+1 libro/STM
+1 imper/STM + ante/STM + s/SUF
+1 Catedral/STM
+1 recomend/STM + ado/SUF
+6 2009/STM
+1 vórtice/STM
+1 Frá/STM + ncfort/STM
+4 raz/STM + ó/SUF + n/SUF
+1 vol/STM + vía/STM
+183 es/STM
+1 Joan/STM
+1 ciclos/STM
+1 golfo/STM
+3 vista/STM
+1 do/STM + g/STM + mático/STM
+2 defende/STM + r/SUF
+4 encontra/STM + r/SUF
+1 Rosita/STM
+1 defini/STM + ción/SUF
+1 oasis/STM
+4 gober/STM + n/SUF + a/SUF + do/SUF + r/SUF
+3 Francesa/STM
+8 constante/STM
+4 gobierno/STM + s/SUF
+5 extremo/STM + s/SUF
+1 ayu/STM + da/SUF + r/SUF
+2 tecla/STM + do/SUF
+2 blanca/STM
+6 antropo/STM + lógica/STM + s/SUF
+8 Iglesia/STM
+5 derecho/STM + s/SUF
+2 desarrol/STM + l/SUF + a/SUF + do/SUF
+1 precipi/STM + ta/STM + ción/SUF
+1 patag/STM + ó/SUF + n/SUF + icas/STM
+1 masculin/STM + idad/SUF
+3 lect/STM + uras/STM
+2 enana/STM
+1 inquietud/STM
+2 funciona/STM + miento/STM
+2 participó/STM
+1 Venezuela/STM
+1 NBA/STM
+5 producen/STM
+1 nacional/STM + iza/STM + ron/SUF
+1 historia/STM + s/SUF
+4 Sierra/STM
+1 Patagónico/STM
+2 tecno/STM + logía/STM + s/SUF
+1 perten/STM + ezcan/STM
+2 cuajar/STM
+1 mo/STM + r/SUF + tal/STM + idad/SUF
+1 predomina/STM + ron/SUF
+1 na/STM + cimiento/STM
+1 fuerte/STM + s/SUF
+1 in/PRE + form/STM + a/SUF + tiva/SUF
+1 teatral/STM
+3 muebles/STM
+3 con/PRE + tribuye/STM + ron/SUF
+5 Conquista/STM
+1 tierra/STM + s/SUF
+1 Nótese/STM
+6 régimen/STM
+1 G/STM + nómica/STM
+1 aumentar/STM + o/SUF + n/SUF
+2 Rúa/STM
+1 permane/STM + cieron/STM
+7 propio/STM
+2 orografía/STM
+1 remonta/STM
+1 renuncia/STM + r/SUF
+2 os/STM
+3 materia/STM + l/SUF + es/SUF
+5 dimensiones/STM
+2 software/STM
+1 des/PRE + central/STM + iza/STM + r/SUF
+3 Existe/STM
+1 des/PRE + env/STM + uelven/STM
+1 exterior/STM + ismo/SUF
+1 Clifford/STM
+1 estética/STM
+2 auto/STM + matización/STM
+2 car/STM + r/SUF + era/STM + s/SUF
+1 Bélg/STM + ica/SUF
+2 variable/STM
+9 ley/STM
+2 alguna/STM
+1 pigmenta/STM + ción/SUF
+1 S/STM + a/SUF + a/SUF + vedra/STM
+1 hortaliza/STM
+1 ruso/STM + s/SUF
+1 argonautas/STM
+2 hito/STM
+1 máxima/STM + s/SUF
+1 forzosa/STM + mente/SUF
+3 alemanes/STM
+1 Nava/STM + r/SUF + ra/SUF
+1 avanzada/STM
+3 distinguirse/STM
+1 usaban/STM
+2 260/STM
+7 punto/STM + s/SUF
+1 1884/STM
+11 durante/STM
+1 Feria/STM + dos/SUF
+6 activ/STM + idad/SUF
+4 cubri/STM + r/SUF
+1 puedan/STM
+1 Pé/STM + r/SUF + s/SUF + ico/SUF
+2 defen/STM + día/STM
+1 ob/STM + tuvieron/STM
+2 puesto/STM
+7 manera/STM
+7 16/STM
+1 naci/STM + do/SUF
+2 leer/STM
+1 observa/STM + ron/SUF
+3 gravita/STM + cion/STM + a/SUF + l/SUF
+1 pensa/STM + dos/SUF
+5 ingenie/STM + ría/SUF
+3 distribu/STM + ción/SUF
+2 re/PRE + mover/STM
+1 heredero/STM
+1 plást/STM + ico/SUF
+2 texto/STM + s/SUF
+11 urban/STM + a/SUF + s/SUF
+1 inter/STM + n/SUF + a/SUF
+9 pas/STM + a/SUF + do/SUF
+7 Su/STM
+1 protocola/STM + rio/SUF
+1 92/STM
+3 rápi/STM + do/SUF
+2 nuclear/STM + es/SUF
+1 vivir/STM
+4 sigu/STM + iente/STM + s/SUF
+2 re/PRE + clama/STM + da/SUF
+3 vigente/STM
+1 usa/STM + ba/SUF
+1 5000/STM
+2 distrito/STM
+2 califica/STM + dos/SUF
+1 lleva/STM + r/SUF
+2 597/STM
+1 te/STM + ó/SUF + rico/STM
+1 migratorio/STM
+1 agrónomos/STM
+1 bolivia/STM
+3 económica/STM + s/SUF
+2 garantiza/STM + n/SUF
+6 escala/STM
+6 Universidad/STM
+1 hombre/STM + s/SUF
+6 mate/STM
+89 Argentina/STM
+4 europeo/STM + s/SUF
+1 te/STM + ó/SUF + rica/STM + mente/SUF
+4 pan/STM
+2 Norte/STM
+2 infiltración/STM
+2 Valtonen/STM
+37 caracter/STM + es/SUF
+1 gober/STM + n/SUF + a/SUF + r/SUF
+1 culmin/STM + a/SUF
+1 Infa/STM + n/SUF + til/STM
+1 88/STM
+1 Suiza/STM
+34 siglo/STM
+2 Vasco/STM
+4 Bajo/STM
+1 auto/STM + r/SUF + idad/SUF + es/SUF
+3 medieval/STM
+2 petróleo/STM
+2 re/PRE + chazo/STM
+3 Una/STM
+1 1983/STM
+1 lista/STM
+2 música/STM
+1 Simultánea/STM + mente/SUF
+1 socio/STM
+7 antropo/STM + lógica/STM
+4 con/PRE + teni/STM + dos/SUF
+8 pregunta/STM
+1 respec/STM + tivo/SUF + s/SUF
+1 equipa/STM + miento/STM + s/SUF
+1 regula/STM + r/SUF + idad/SUF + es/SUF
+2 1977/STM
+2 Informática/STM
+2 festiv/STM + al/STM + es/SUF
+2 destaca/STM + dos/SUF
+1 salvajes/STM
+2 ocasión/STM
+5 perten/STM + e/SUF + ciente/STM + s/SUF
+1 Euro/STM + copa/STM
+4 marítima/STM
+2 CIA/STM
+1 topo/STM + graf/STM + ía/SUF
+1 Inmi/STM + gra/STM + ción/SUF
+2 Hogares/STM
+2 329/STM
+2 Vichy/STM
+1 en/STM + vuelta/STM
+1 victoria/STM + n/SUF + a/SUF
+6 cambio/STM
+1 di/STM + vis/STM + a/SUF
+3 785/STM
+4 cultura/STM + s/SUF
+5 maíz/STM
+6 Antártida/STM
+1 gimnasia/STM
+1 trifás/STM + ico/SUF
+1 fruta/STM
+5 octubre/STM
+2 Público/STM
+1 con/PRE + cur/STM + ría/SUF
+1 muf/STM + lon/STM + es/SUF
+1 embar/STM + que/STM + s/SUF
+1 A/STM + udito/STM + rio/SUF
+2 Culture/STM
+1 Int/STM + e/SUF + gra/STM + da/SUF
+1 regadío/STM
+8 Matute/STM
+1 va/STM + que/STM + ría/SUF + s/SUF
+2 r/STM + eleva/STM + miento/STM
+4 frente/STM
+1 masivo/STM
+2 Salta/STM
+4 realiza/STM
+6 eléct/STM + rica/STM
+1 reunifica/STM + do/SUF
+2 965/STM
+2 poderos/STM + o/SUF
+1 cortos/STM
+1 des/PRE + acuerdo/STM
+1 disminu/STM + ción/SUF
+2 aborigen/STM
+3 casa/STM + s/SUF
+3 predictible/STM
+1 2018/STM
+13 produc/STM + ción/SUF
+1 naci/STM + da/SUF
+4 lucha/STM
+1 aperos/STM
+1 regula/STM + r/SUF + es/SUF
+2 comprende/STM
+1 cuyo/STM + s/SUF
+11 origen/STM
+2 alfabet/STM + iza/STM + ción/SUF
+1 Geertz/STM
+1 abunda/STM
+2 licencien/STM
+1 FC/STM
+2 cor/STM + r/SUF + alito/STM
+1 uni/STM + cameral/STM
+1 cuenca/STM
+4 fue/STM + ra/SUF
+1 siqu/STM + iera/STM
+4 trabajo/STM + s/SUF
+2 prote/STM + sta/STM + s/SUF
+2 valo/STM + r/SUF + es/SUF
+1 Con/STM + torno/STM
+1 va/STM + ron/SUF + es/SUF
+1 alcanz/STM + a/SUF + ría/SUF
+5 re/PRE + presenta/STM + r/SUF
+3 parece/STM
+1 vac/STM + a/SUF
+3 antár/STM + tico/STM
+2 alfab/STM + ética/STM + mente/SUF
+3 312/STM
+2 realiza/STM + do/SUF + s/SUF
+1 cifras/STM
+1 estudia/STM + do/SUF
+2 estudia/STM + nte/STM + s/SUF
+1 aborda/STM + rse/SUF
+2 soberano/STM
+1 entre/STM + teni/STM + miento/STM
+1 separa/STM + ción/SUF
+2 Ilus/STM + tra/STM + ción/SUF
+2 Rey/STM
+1 merluzas/STM
+5 europea/STM + s/SUF
+3 estilos/STM
+1 A/STM + part/STM + e/SUF
+8 español/STM + a/SUF
+1 a/STM + gente/STM + s/SUF
+2 criollos/STM
+8 igual/STM
+2 Territorial/STM
+52 también/STM
+3 disposi/STM + tivo/SUF
+1 wich/STM + í/STM
+3 mera/STM
+1 post/STM + al/STM
+2 título/STM
+1 gratu/STM + idad/SUF
+11 cua/STM + n/SUF + do/SUF
+6 conoce/STM
+1 usa/STM + dos/SUF
+6 pub/STM + l/SUF + ica/SUF
+1 di/STM + arios/STM
+1 na/STM + ta/STM + ción/SUF
+1 con/PRE + tam/STM + ina/STM + ción/SUF
+2 de/PRE + scend/STM + iente/STM
+1 mes/STM + es/SUF
+2 Util/STM + idad/SUF
+2 Proceso/STM
+2 controlar/STM
+3 efec/STM + tiva/SUF
+2 Bret/STM + aña/STM
+20 Est/STM + a/SUF + do/SUF
+1 gu/STM + s/SUF + tos/STM
+1 reserva/STM + r/SUF
+1 exitosa/STM
+2 batallones/STM
+1 mu/STM + tua/STM + mente/SUF
+5 msnm/STM
+1 7000/STM
+2 274/STM
+2 1989/STM
+1 pico/STM + s/SUF
+5 divers/STM + idad/SUF
+1 encab/STM + eza/STM + da/SUF
+5 Vitruvio/STM
+1 católico/STM + s/SUF
+3 territorial/STM
+6 problema/STM + s/SUF
+3 culmin/STM + ó/SUF
+2 vuelta/STM
+1 Pod/STM + ría/SUF
+13 especie/STM + s/SUF
+3 pequeño/STM + s/SUF
+3 rela/STM + tiv/STM + idad/SUF
+1 IPC/STM
+1 chorro/STM
+2 claro/STM
+1 diferencia/STM + da/SUF + s/SUF
+1 Gerard/STM
+1 rural/STM + es/SUF
+1 automotor/STM + es/SUF
+2 billones/STM
+1 subcomité/STM
+1 des/PRE + plaza/STM + dos/SUF
+2 anima/STM + l/SUF
+4 común/STM
+1 Estudios/STM
+1 pre/PRE + mi/STM + s/SUF + a/SUF
+2 explota/STM + da/SUF + s/SUF
+3 parque/STM
+3 Nature/STM
+4 remediar/STM
+5 Na/STM + ción/SUF
+1 mixta/STM
+3 hor/STM + a/SUF
+1 reunió/STM
+1 poco/STM + s/SUF
+1 asum/STM + ida/STM
+1 Salvadó/STM
+2 tercer/STM + a/SUF
+3 escritos/STM
+1 trans/STM + versal/STM
+1 Pablo/STM
+1 este/STM + r/SUF + e/SUF + o/SUF + tipo/STM + s/SUF
+1 1996/STM
+1 Fue/STM
+6 especial/STM + mente/SUF
+2 ámbito/STM + s/SUF
+1 fin/STM + alizar/STM
+4 situa/STM + do/SUF
+2 des/PRE + estima/STM + n/SUF + do/SUF
+1 uros/STM
+1 Ezeiza/STM
+6 etno/STM + graf/STM + ía/SUF
+1 ar/STM
+9 porcentaje/STM
+1 Hipólito/STM
+1 posi/STM + tivo/SUF + s/SUF
+1 K/STM + er/STM + r/SUF
+2 goza/STM + n/SUF
+1 Sáenz/STM
+2 par/STM + a/SUF + guay/STM + a/SUF + s/SUF
+2 presenta/STM
+2 métrica/STM
+2 popular/STM + idad/SUF
+1 anti/STM + r/SUF + ros/STM + ista/STM
+1 XVI/STM
+3 mas/STM
+2 asocia/STM + ciones/SUF
+1 vota/STM + nte/STM + s/SUF
+2 inter/STM + censal/STM
+2 Pesca/STM + do/SUF
+3 Su/STM + s/SUF
+1 des/PRE + hace/STM + r/SUF + se/STM
+1 isótropo/STM
+5 funciona/STM + lismo/STM
+3 Hockey/STM
+1 cuásar/STM
+1 Fun/STM + cion/STM + a/SUF + l/SUF
+6 sitios/STM
+3 Regiones/STM
+73 país/STM
+1 Pueblo/STM
+1 ob/STM + tener/STM
+1 solu/STM + ción/SUF
+126 El/STM
+3 bosque/STM
+4 con/PRE + struc/STM + ciones/SUF
+2 describir/STM
+3 implica/STM + n/SUF
+3 Europea/STM
+2 se/STM + tenta/STM
+1 com/STM + posi/STM + tor/STM + es/SUF
+3 log/STM + r/SUF + ó/SUF
+9 Europa/STM
+1 circunvala/STM + ciones/SUF
+26 mu/STM + n/SUF + do/SUF
+1 engull/STM + ido/SUF
+4 limitada/STM
+3 espacio/STM + s/SUF
+2 milici/STM + anos/STM
+1 gra/STM + ba/SUF + do/SUF
+2 Puigcerdá/STM
+1 fecha/STM
+1 g/STM + est/STM + a/SUF
+1 Dos/STM
+2 rodocrosita/STM
+1 pre/PRE + mio/STM
+1 campesina/STM
+1 real/STM + izándose/STM
+1 osos/STM
+1 dedicada/STM
+1 porcentaje/STM + s/SUF
+2 impresora/STM
+1 pez/STM
+2 número/STM + s/SUF
+1 ad/STM + hesión/STM
+1 participa/STM + n/SUF + do/SUF
+1 recurr/STM + e/SUF
+2 incluida/STM
+6 símbolo/STM
+25 América/STM
+1 Verdaguer/STM
+1 inspi/STM + ra/STM + ción/SUF
+1 germánicos/STM
+1 estructura/STM + lista/STM
+7 central/STM + es/SUF
+1 a/STM + propia/STM + do/SUF
+1 islote/STM + s/SUF
+8 1990/STM
+1 tor/STM + tur/STM + a/SUF
+1 Canal/STM
+1 F/STM + acu/STM + n/SUF + do/SUF
+4 permiti/STM + do/SUF
+4 perten/STM + encia/STM
+1 evas/STM + i/STM + ó/SUF + n/SUF
+1 Arab/STM
+6 gravita/STM + ción/SUF
+2 División/STM
+1 con/PRE + cierto/STM + s/SUF
+2 neces/STM + idad/SUF + es/SUF
+2 elemento/STM
+1 Ve/STM + rsión/STM
+3 Presidente/STM
+1 espec/STM + tro/STM
+1 supone/STM + r/SUF
+1 resulta/STM + n/SUF + do/SUF
+1 Mehrgarh/STM
+1 im/STM + posible/STM
+1 biofarmacéu/STM + tico/STM + s/SUF
+1 Campeon/STM + es/SUF
+4 pas/STM + ó/SUF
+1 part/STM + ien/STM + do/SUF
+1 vegetal/STM
+3 part/STM + e/SUF + n/SUF
+2 operaban/STM
+1 gaucho/STM
+3 Hay/STM
+2 in/PRE + form/STM + ática/STM
+13 Antropo/STM + logía/STM
+1 conoce/STM + n/SUF
+3 regist/STM + r/SUF + ado/SUF + s/SUF
+3 había/STM + n/SUF
+1 ocio/STM
+2 contrajo/STM
+3 britán/STM + ica/SUF
+4 resulta/STM
+1 se/STM + man/STM + a/SUF + s/SUF
+9 llamado/STM
+2 depen/STM + de/STM
+43 desde/STM
+1 tapir/STM
+2 Firmeza/STM
+3 de/PRE + talla/STM + da/SUF
+1 terreno/STM
+1 1724/STM
+3 Victoria/STM
+2 Santiago/STM
+1 Gardel/STM
+1 virtud/STM
+2 decimal/STM
+1 sancion/STM + a/SUF + r/SUF
+2 sindicato/STM
+1 Malar/STM + güe/STM
+1 hepati/STM + ti/STM + s/SUF
+3 Quizá/STM
+2 con/PRE + ven/STM + iente/STM
+1 in/PRE + ten/STM + tan/STM
+4 646/STM
+1 biopirate/STM + ría/SUF
+2 Arnal/STM + do/SUF
+32 sin/STM
+1 protagon/STM + ista/STM
+3 21/STM
+2 dirig/STM + ien/STM + do/SUF
+2 gráfico/STM + s/SUF
+16 isla/STM + s/SUF
+9 teo/STM + ría/SUF
+5 cre/STM + ó/SUF
+1 Macedonia/STM
+11 exist/STM + e/SUF
+2 1871/STM
+2 marco/STM
+3 prima/STM + rio/SUF
+6 guaraní/STM
+1 marca/STM + r/SUF
+4 Escalde/STM + s/SUF
+1 arqueo/STM + lógico/STM
+11 nacional/STM + es/SUF
+2 N/STM
+2 diplomático/STM
+1 cuya/STM + nos/STM
+4 Stephen/STM
+5 gene/STM + ra/SUF + l/SUF + iza/STM + da/SUF
+2 impide/STM
+3 1991/STM
+1 sedimenta/STM + ción/SUF
+8 8/STM
+3 méd/STM + ico/SUF
+1 penal/STM
+1 coatí/STM
+25 gra/STM + n/SUF
+3 tasa/STM
+4 35/STM
+2 Encamp/STM
+1 cumplirán/STM
+2 evapora/STM + ción/SUF
+1 XI/STM
+2 compuesta/STM + s/SUF
+122 En/STM
+15 social/STM + es/SUF
+2 provee/STM + do/SUF + r/SUF
+1 677/STM
+1 apoya/STM + ron/SUF
+1 con/PRE + texto/STM
+5 Partido/STM
+1 radica/STM
+2 latitud/STM
+1 inéd/STM + ito/STM
+1 320/STM
+4 propio/STM + s/SUF
+2 actua/STM + r/SUF
+1 ext/STM + r/SUF + a/SUF + jo/STM
+1 Lewis/STM
+2 des/PRE + cubri/STM + ó/SUF
+1 Seturia/STM
+3 paso/STM
+5 especie/STM
+2 Fernando/STM
+1 ñoqui/STM
+5 Además/STM
+1 re/PRE + pre/PRE + sión/STM
+1 De/STM + porte/STM
+4 1928/STM
+5 inter/STM + nacional/STM
+13 dirig/STM + ido/SUF
+1 P/STM + eña/STM
+1 carece/STM + r/SUF
+3 errónea/STM + mente/SUF
+2 Depend/STM + e/SUF
+7 texto/STM
+5 cual/STM + quier/STM
+3 individuos/STM
+2 bás/STM + ica/SUF + mente/SUF
+4 denomina/STM + do/SUF
+1 Ju/STM + s/SUF + to/STM
+3 Mesopotamia/STM
+4 And/STM + es/SUF
+1 lite/STM + ra/SUF + rio/SUF
+1 Sobre/STM
+7 Grande/STM
+1 ju/STM + do/SUF
+1 res/STM + ponde/STM + r/SUF
+3 juni/STM + o/SUF
+1 derrota/STM + do/SUF
+4 Pampa/STM
+1 Mal/STM
+6 Debido/STM
+1 Por/STM + tugal/STM
+4 suroeste/STM
+2 mínima/STM + s/SUF
+2 form/STM + a/SUF + da/SUF
+3 Barcelona/STM
+1 a/STM + firm/STM + a/SUF
+1 cu/STM + arte/STM + l/SUF
+1 recorte/STM
+6 dicha/STM
+4 récord/STM
+12 de/PRE + bido/STM
+2 coste/STM
+1 ex/STM + pre/STM + s/SUF + a/SUF + n/SUF
+2 implica/STM
+19 cual/STM
+1 visual/STM + mente/SUF
+2 habla/STM + n/SUF + do/SUF
+3 jefe/STM
+18 vi/STM + da/SUF
+1 con/PRE + torno/STM
+1 Viv/STM + es/SUF
+2 juga/STM + do/SUF
+1 local/STM + es/SUF
+1 deja/STM + ron/SUF
+1 Narciso/STM
+2 tele/STM + impresora/STM + s/SUF
+1 bestias/STM
+2 mapuches/STM
+4 cerro/STM
+1 asigna/STM + n/SUF
+2 postgra/STM + do/SUF
+1 labora/STM + torio/STM + s/SUF
+2 en/STM + carece/STM + rse/SUF
+3 sincretismo/STM
+2 copia/STM
+1 considera/STM + ra/SUF
+4 ejecu/STM + tivo/SUF
+1 Palacio/STM
+19 puede/STM
+1 pes/STM + a/SUF + da/SUF
+1 des/PRE + nu/STM + da/SUF
+3 guardias/STM
+2 Centro/STM
+1 orde/STM + n/SUF + a/SUF
+5 alimentos/STM
+3 1869/STM
+5 con/PRE + struc/STM + ción/SUF
+4 comercial/STM
+2 auto/STM + r/SUF + es/SUF
+1 dicta/STM + dura/STM
+2 destina/STM + da/SUF
+3 banca/STM + rio/SUF
+1 está/STM + n/SUF + da/SUF + r/SUF
+1 exon/STM + era/STM + dos/SUF
+3 de/PRE + fin/STM + e/SUF
+2 censo/STM + s/SUF
+1 fluvi/STM + al/STM + es/SUF
+1 Bartolom/STM + é/STM
+1 rayos/STM
+3 colima/STM + dos/SUF
+2 tren/STM
+1 Perth/STM
+1 administra/STM + tiva/SUF + mente/SUF
+1 Bauzá/STM
+4 bosque/STM + s/SUF
+1 méd/STM + icas/STM
+4 docu/STM + mento/STM + s/SUF
+7 científicos/STM
+30 este/STM
+1 mediterráneo/STM + s/SUF
+27 primer/STM + a/SUF
+2 ent/STM + r/SUF + ó/SUF
+1 Pé/STM + r/SUF + ez/STM
+2 procurar/STM
+1 origina/STM + ria/STM
+3 CNN/STM
+1 favor/STM + ito/STM
+7 conoci/STM + miento/STM
+2 coincidi/STM + do/SUF
+2 Arnal/STM + da/SUF
+2 Euro/STM + visión/STM
+1 destaca/STM + do/SUF
+3 Entrega/STM
+14 1/STM
+5 Después/STM
+2 aleja/STM + da/SUF + s/SUF
+3 fun/STM + ciones/SUF
+6 dedicada/STM + s/SUF
+2 sindicato/STM + s/SUF
+1 ven/STM + ía/SUF + n/SUF
+1 tardó/STM
+1 norma/STM + tiva/SUF
+1 con/PRE + form/STM + a/SUF + do/SUF
+2 in/PRE + stitu/STM + cion/STM + a/SUF + l/SUF
+1 Mo/STM + n/SUF + eta/STM + rio/SUF
+2 París/STM
+7 hay/STM + a/SUF
+1 agropecua/STM + rio/SUF
+9 form/STM + a/SUF + s/SUF
+1 funciona/STM + ba/SUF
+1 Ley/STM
+2 un/STM + a/SUF + s/SUF
+2 Claude/STM
+1 ex/STM + ó/SUF + tica/STM + s/SUF
+86 s/STM
+4 Religión/STM
+6 agricultor/STM + es/SUF
+3 labora/STM + l/SUF
+4 posible/STM + s/SUF
+1 Montserrat/STM
+4 siglo/STM + s/SUF
+1 par/STM + cial/STM + mente/SUF
+1 locro/STM
+1 permiti/STM + ó/SUF
+2 peligro/STM
+1 Nub/STM + es/SUF
+2 des/PRE + agua/STM + n/SUF
+3 part/STM + ido/SUF + s/SUF
+1 método/STM + s/SUF
+1 ocup/STM + ado/SUF
+1 técn/STM + ico/SUF + s/SUF
+2 chichas/STM
+1 17/STM
+2 con/PRE + grega/STM
+1 singular/STM + idad/SUF + es/SUF
+8 les/STM
+2 363/STM
+2 in/PRE + form/STM + e/SUF + s/SUF
+6 nivel/STM
+2 Neuquén/STM
+2 Chubut/STM
+12 sido/STM
+1 OGM/STM
+3 inter/STM + ven/STM + ción/SUF
+3 François/STM
+2 escolar/STM
+2 lide/STM + r/SUF + ó/SUF
+2 financiero/STM
+2 Asocia/STM + ciones/SUF
+4 abierto/STM
+2 trabaja/STM + n/SUF
+3 Sólo/STM
+2 Blanco/STM
+1 origina/STM + rio/SUF
+1 re/PRE + presenta/STM + tivo/SUF + s/SUF
+1 significa/STM + tivo/SUF + s/SUF
+5 guerra/STM
+1 840/STM
+1 implica/STM + ría/SUF
+9 página/STM
+1 ortodoxia/STM
+2 emisión/STM
+2 montañ/STM + osas/STM
+1 man/STM + tuvieron/STM
+1 des/PRE + central/STM + iza/STM + ción/SUF
+6 ISO/STM
+2 Antoni/STM
+1 término/STM + s/SUF
+1 Cámara/STM
+5 modern/STM + a/SUF
+1 fiscal/STM + es/SUF
+1 vía/STM
+1 propu/STM + s/SUF + ieron/STM
+5 Post/STM + erior/STM + mente/SUF
+10 último/STM
+1 Menem/STM
+4 alumnos/STM
+1 ab/STM + orígenes/STM
+1 provoca/STM + da/SUF
+1 mu/STM + r/SUF + ió/STM
+2 Asi/STM + mismo/STM
+1 fomenta/STM + r/SUF
+2 lacustres/STM
+1 ga/STM + r/SUF + banzo/STM
+494 que/STM
+1 Des/STM + cubri/STM + miento/STM + s/SUF
+2 antropo/STM + lógico/STM
+4 Bolivia/STM
+5 form/STM + a/SUF + n/SUF
+2 poca/STM
+1 Aix/STM
+3 depósitos/STM
+1 azúcar/STM
+2 con/PRE + form/STM + e/SUF
+1 estadounidense/STM + s/SUF
+5 avances/STM
+1 aborda/STM + ron/SUF
+1 simula/STM + ción/SUF
+1 par/STM + lamenta/STM + rio/SUF
+2 Colorado/STM
+2 renovable/STM
+2 270/STM
+1 opuso/STM
+1 plan/STM + es/SUF
+2 XVII/STM
+1 manif/STM + es/SUF + tó/STM
+1 1826/STM
+1 semilla/STM
+1 manufactura/STM + dos/SUF
+3 corriente/STM + s/SUF
+5 Vía/STM
+1 mocho/STM
+1 Academia/STM
+5 ayu/STM + da/SUF
+2 enfrenta/STM
+1 trucha/STM
+4 ellos/STM
+1 conserva/STM + ción/SUF
+6 9/STM
+1 re/PRE + presenta/STM + ble/STM + s/SUF
+11 punto/STM
+10 varia/STM + s/SUF
+1 HTML/STM
+3 organismo/STM
+1 deport/STM + ista/STM
+1 mundial/STM + mente/SUF
+1 man/STM + eja/STM + n/SUF
+4 septiembre/STM
+1 reglas/STM
+1 perju/STM + icio/STM
+1 extranjera/STM
+4 op/STM + ción/SUF
+1 Derecho/STM
+3 frondosas/STM
+9 Con/STM
+2 costumbre/STM
+1 propor/STM + cion/STM + a/SUF + les/SUF
+2 de/STM + valuación/STM
+5 origina/STM + l/SUF
+1 mar/STM + cha/STM + r/SUF
+2 X/STM
+1 vec/STM + toria/STM + l/SUF
+1 ave/STM
+2 estrecha/STM
+4 Mode/STM + r/SUF + n/SUF + ismo/SUF
+1 Tur/STM + ismo/STM
+1 Ba/STM + lonmano/STM
+1 ISA/STM
+2 abono/STM
+5 Olímpicos/STM
+3 517/STM
+1 acelera/STM + ron/SUF
+2 viene/STM
+1 may/STM
+2 varia/STM + ción/SUF
+4 gravita/STM + torio/STM
+2 33º/STM
+2 envío/STM
+1 industria/STM + l/SUF + es/SUF
+1 recorr/STM + e/SUF
+6 centro/STM + s/SUF
+2 pintura/STM
+1 tasa/STM + s/SUF
+1 Marcel/STM
+1 inter/STM + depen/STM + de/PRE + ncia/STM
+1 encuentro/STM
+2 particular/STM + es/SUF
+1 procesa/STM
+3 re/PRE + presenta/STM + n/SUF
+1 propor/STM + cion/STM + a/SUF
+2 Alfonsín/STM
+2 mo/STM + s/SUF + tra/STM + ron/SUF
+4 sufragio/STM
+2 distinta/STM + s/SUF
+1 neogót/STM + ico/SUF
+1 vídeo/STM
+1 mo/STM + da/SUF
+1 na/STM + ciente/STM
+7 persona/STM + s/SUF
+1 Pre/STM + historia/STM
+1 fomenta/STM + dos/SUF
+2 vía/STM + s/SUF
+25 muy/STM
+1 Pre/STM + s/SUF + encia/STM
+1 impuls/STM + o/SUF
+1 salto/STM
+1 pilar/STM
+1 paleolít/STM + ico/SUF
+2 aceptó/STM
+2 aimara/STM
+1 Leclerc/STM
+7 1950/STM
+1 468/STM
+1 usa/STM + n/SUF + do/SUF
+1 madre/STM
+1 suscepti/STM + ble/STM + s/SUF
+6 moneda/STM
+1 atrac/STM + ciones/SUF
+4 Est/STM + o/SUF
+1 est/STM + a/SUF + n/SUF + ca/STM + miento/STM
+3 empequeñecía/STM
+1 points/STM
+2 representen/STM
+3 inmediato/STM
+3 popular/STM + es/SUF
+1 Baluchistán/STM
+1 re/PRE + lieve/STM
+1 regula/STM + r/SUF + mente/SUF
+2 re/PRE + ferida/STM
+3 800/STM
+5 leche/STM
+1 des/PRE + activ/STM + ado/SUF
+25 país/STM + es/SUF
+3 even/STM + tual/STM + mente/SUF
+1 Su/STM + perfici/STM + e/SUF
+3 toro/STM
+2 virtualmente/STM
+1 Hacia/STM
+1 con/PRE + firm/STM + ado/SUF
+2 neces/STM + arios/STM
+4 resto/STM
+1 naci/STM + dos/SUF
+15 sistema/STM
+3 ni/STM
+2 inter/STM + con/PRE + ectado/STM
+1 179/STM
+2 en/STM + señanza/STM
+2 se/STM + quía/STM
+22 si/STM
+1 propone/STM + rse/SUF
+2 3694/STM
+14 Tierra/STM
+1 su/STM + primi/STM + r/SUF
+1 almi/STM + d/STM + ó/SUF + n/SUF
+1 part/STM + e/SUF + s/SUF
+5 europeo/STM
+3 pas/STM + a/SUF + r/SUF
+1 página/STM + s/SUF
+1 Mo/STM + ra/SUF
+2 gratuita/STM
+1 bás/STM + ica/SUF
+3 precisa/STM + mente/SUF
+5 especial/STM + iza/STM + do/SUF
+2 convenios/STM
+1 com/STM + puesto/STM
+4 cabo/STM
+2 legal/STM + iza/STM + do/SUF
+1 tend/STM + encia/STM + s/SUF
+1 progresiva/STM
+1 pelos/STM
+3 escape/STM
+2 estructura/STM + l/SUF
+1 acelera/STM + ría/SUF
+1 in/PRE + flu/STM + yente/STM + s/SUF
+3 clase/STM
+5 orde/STM + n/SUF
+3 Jujuy/STM
+6 media/STM
+1 in/PRE + ten/STM + tó/STM
+2 dedicado/STM
+1 cotidiana/STM + mente/SUF
+1 ca/STM + s/SUF + tor/STM
+7 mediante/STM
+1 destina/STM
+1 Invierno/STM
+1 fonét/STM + icas/STM
+1 permiti/STM + rá/STM
+15 encuentra/STM
+1 vi/STM + go/STM + r/SUF
+1 li/STM + mo/STM + n/SUF + es/SUF
+4 presidencia/STM + les/SUF
+10 oficial/STM
+1 glaciar/STM
+3 pie/STM + s/SUF
+15 fue/STM + ron/SUF
+1 pro/STM + vi/STM + n/SUF + cal/STM
+9 Est/STM + a/SUF
+2 191/STM
+2 deja/STM + do/SUF
+1 diferencia/STM + s/SUF
+1 penal/STM + es/SUF
+2 fuga/STM
+2 in/PRE + telig/STM + encia/STM
+2 con/PRE + figura/STM + n/SUF + do/SUF
+6 form/STM + a/SUF + r/SUF
+1 Quilmes/STM
+3 árbol/STM + es/SUF
+2 Bernar/STM + do/SUF
+1 competen/STM
+2 si/STM + da/SUF
+5 Durante/STM
+4 bas/STM + ado/SUF + s/SUF
+5 Salud/STM
+7 Instituto/STM
+7 exterior/STM
+2 urban/STM + iza/STM + ción/SUF
+1 De/STM + saguad/STM + ero/STM
+1 aña/STM + día/STM
+3 agricultor/STM
+2 pradera/STM
+1 Co/STM + principado/STM
+1 falsa/STM + mente/SUF
+1 Jung/STM
+2 gan/STM + ado/SUF
+1 segu/STM + ros/STM
+1 pro/STM + ba/SUF + ron/SUF
+3 ubicado/STM + s/SUF
+1 Madrid/STM
+1 posi/STM + cion/STM + a/SUF
+2 continuos/STM
+1 ir/STM + regula/STM + r/SUF + idad/SUF + es/SUF
+1 vol/STM + ca/STM + do/SUF
+1 produc/STM + ir/STM
+1 con/PRE + form/STM + a/SUF + ron/SUF
+1 republicana/STM
+8 dólares/STM
+2 universita/STM + ria/STM + s/SUF
+1 Jakobson/STM
+5 inmigr/STM + a/STM + ción/SUF
+1 rankulch/STM + es/SUF
+3 nace/STM
+1 con/PRE + ex/STM + i/STM + ó/SUF + n/SUF
+4 comida/STM
+3 francoalemán/STM
+2 Arma/STM + rio/SUF
+1 inclu/STM + ía/SUF
+2 entender/STM
+2 Asun/STM + ción/SUF
+1 metodo/STM + lógico/STM
+1 diferente/STM
+1 Quirino/STM
+1 académica/STM
+1 clasifica/STM + n/SUF
+1 tecnif/STM + ica/SUF + ción/SUF
+1 cierta/STM
+1 sargento/STM
+3 inclu/STM + ido/SUF
+1 provoca/STM
+1 Trophy/STM
+1 738/STM
+3 Agrupación/STM
+2 Util/STM + ita/STM + s/SUF
+4 Luego/STM
+1 pirámide/STM
+1 reunifica/STM + ción/SUF
+2 narra/STM + tiva/SUF
+4 andorrana/STM + s/SUF
+1 minu/STM + to/STM
+4 fiesta/STM + s/SUF
+4 nueva/STM
+4 político/STM + s/SUF
+2 tend/STM + encia/STM
+2 Regi/STM + miento/STM
+3 BBC/STM
+1 1978/STM
+4 de/PRE + jar/STM
+2 Durkheim/STM
+1 cuero/STM
+2 galaxia/STM + s/SUF
+1 tema/STM
+1 Claror/STM
+2 continúa/STM
+1 experimen/STM + tó/STM
+2 distancia/STM
+1 comple/STM + mento/STM
+1 Edad/STM
+1 permit/STM + ien/STM + do/SUF
+1 Tecno/STM + logía/STM
+1 Occid/STM + ente/STM
+3 terreno/STM + s/SUF
+1 marino/STM + s/SUF
+3 elíp/STM + tico/STM + s/SUF
+1 camb/STM + ió/STM
+1 Infa/STM + me/STM
+2 dimiti/STM + r/SUF
+1 Martí/STM
+6 garantiza/STM
+1 con/PRE + sigo/STM
+1 celu/STM + lares/STM
+4 turista/STM + s/SUF
+3 comercial/STM + es/SUF
+9 le/STM
+2 completa/STM + mente/SUF
+1 tridimen/STM + sion/STM + al/STM + es/SUF
+7 producto/STM + r/SUF
+3 sustancia/STM + s/SUF
+1 SUBstitute/STM
+1 viaja/STM
+1 ruso/STM
+1 de/STM + puesto/STM
+1 cazon/STM + es/SUF
+1 asenta/STM + miento/STM
+1 perten/STM + e/SUF + ce/STM
+4 obispo/STM
+7 Véase/STM
+1 Schwarzschild/STM
+2 cordillera/STM
+2 discrimina/STM + toria/STM
+1 empez/STM + a/SUF + do/SUF
+11 ciudad/STM
+1 impedir/STM + lo/STM
+3 seño/STM + río/STM + s/SUF
+3 mundial/STM + es/SUF
+1 galletas/STM
+10 con/PRE + tra/STM
+3 plan/STM + o/SUF
+2 compara/STM + do/SUF
+4 XVIII/STM
+1 1814/STM
+1 ESCape/STM
+1 cuentos/STM
+3 Fiscal/STM + es/SUF
+2 230/STM
+2 1938/STM
+6 gracias/STM
+7 También/STM
+6 toda/STM
+3 profunda/STM
+2 2000/STM
+4 norma/STM
+6 vehículos/STM
+1 energético/STM + s/SUF
+3 ú/STM + n/SUF + ica/SUF
+3 carretera/STM
+1 irland/STM + es/SUF + es/SUF
+1 dis/STM + tribuye/STM
+2 demost/STM + r/SUF + ó/SUF
+1 realiza/STM + r/SUF
+2 vota/STM + da/SUF
+1 éxito/STM
+1 con/PRE + cebirse/STM
+1 Caben/STM
+1 histórica/STM + s/SUF
+4 teorema/STM + s/SUF
+1 activ/STM + o/SUF
+2 atreve/STM
+1 disputa/STM + do/SUF
+2 fuentes/STM
+3 INDEC/STM
+1 est/STM + a/SUF + cion/STM + a/SUF + rio/SUF
+1 mecenas/STM
+3 Uno/STM
+5 equipo/STM
+1 in/PRE + capac/STM + idad/SUF
+2 artística/STM
+6 diciembre/STM
+1 as/STM + ado/SUF
+13 XIX/STM
+1 Chi/STM + ngolo/STM
+1 resulta/STM + rá/STM
+2 potencias/STM
+1 Geo/STM + graf/STM + ía/SUF
+35 aunque/STM
+2 disco/STM
+2 28/STM
+4 obsoleta/STM
+6 montañ/STM + a/SUF
+1 chinos/STM
+1 temp/STM + ra/SUF + n/SUF + a/SUF + mente/SUF
+1 ó/STM + ptimo/STM
+2 piedra/STM
+25 cada/STM
+4 pre/PRE + sión/STM
+15 provincia/STM + s/SUF
+2 visual/STM + es/SUF
+4 Española/STM
+3 antropólogo/STM
+3 600/STM
+4 32/STM
+1 lengua/STM + s/SUF
+1 anex/STM + i/STM + ó/SUF + n/SUF
+1 sum/STM + e/SUF + rio/SUF + s/SUF
+4 Internet/STM
+1 armenios/STM
+1 form/STM + a/SUF + rse/SUF
+2 Pancho/STM
+3 Toda/STM + s/SUF
+222 una/STM
+4 seco/STM
+3 intelectuales/STM
+7 comun/STM + idad/SUF + es/SUF
+1 latitud/STM + es/SUF
+1 care/STM + ci/STM + ó/SUF
+1 nor/STM + occidental/STM
+2 celebra/STM
+1 1749/STM
+66 son/STM
+3 cumbre/STM
+1 practica/STM + n/SUF
+1 Clarín/STM
+1 escribi/STM + era/STM
+48 Las/STM
+1 decretó/STM
+2 000/STM
+1 Penniman/STM
+2 Factbook/STM
+2 metál/STM + icas/SUF
+2 Enfermería/STM
+2 satélites/STM
+2 catalana/STM
+1 Ho/STM + la/STM + n/SUF + da/SUF
+1 Bás/STM + quet/STM
+2 con/PRE + form/STM + a/SUF + n/SUF
+2 codifica/STM + ciones/SUF
+1 cosmopolita/STM
+1 neut/STM + r/SUF + ino/STM
+4 Tras/STM
+3 encima/STM
+1 camp/STM + aña/STM
+3 Obisp/STM + o/SUF
+1 étnico/STM + s/SUF
+1 pot/STM + ente/STM
+1 falsa/STM + cion/STM + ismo/SUF
+18 proceso/STM
+2 Social/STM + ista/STM
+1 pro/STM + gramát/STM + ica/SUF + s/SUF
+1 Bronislaw/STM
+1 centra/STM
+4 Montes/STM + quieu/STM
+2 Parque/STM
+2 nueve/STM
+1 jefa/STM + tur/STM + a/SUF
+1 des/PRE + hierba/STM + r/SUF
+1 calamar/STM
+2 Ri/STM + ba/SUF
+1 particular/STM
+4 obten/STM + ien/STM + do/SUF
+9 Inter/STM + nacional/STM
+2 sigu/STM + iente/STM
+1 Toponimia/STM
+1 tuvieron/STM
+13 Latina/STM
+1 Waasland/STM
+19 e/STM
+11 rela/STM + ciones/SUF
+1 presenta/STM + da/SUF
+2 Mojinete/STM
+4 montañ/STM + a/SUF + s/SUF
+1 Özel/STM
+1 com/STM + bina/STM + ciones/SUF
+1 Enrique/STM
+5 aumento/STM
+17 norte/STM
+1 Autónoma/STM
+1 Claret/STM
+1 b/STM + aña/STM
+5 Pilcomayo/STM
+2 Declaración/STM
+12 política/STM
+8 estrella/STM
+1 hidrocarbur/STM + o/SUF + s/SUF
+1 pampa/STM + s/SUF
+1 cumbre/STM + s/SUF
+3 casa/STM
+3 industria/STM + l/SUF + iza/STM + ción/SUF
+2 odio/STM
+1 brasil/STM
+4 Ros/STM + a/SUF + rio/SUF
+1 Argerich/STM
+2 Ludovico/STM
+2 estatal/STM
+2 ocho/STM
+2 constela/STM + ción/SUF
+3 Elli/STM + s/SUF
+2 municipal/STM + es/SUF
+2 Chandrasekhar/STM
+2 trabaja/STM + do/SUF + r/SUF + es/SUF
+4 crisis/STM
+6 nueva/STM + s/SUF
+8 ac/STM + ción/SUF
+36 hasta/STM
+1 port/STM + eña/STM
+6 modernos/STM
+2 calcula/STM
+1 man/STM + e/SUF + jo/STM
+3 Cristóbal/STM
+1 blanca/STM + s/SUF
+3 EAE/STM
+4 práctica/STM + mente/SUF
+2 SIDE/STM
+2 practica/STM + nte/STM + s/SUF
+1 ext/STM + r/SUF + a/SUF + ordin/STM + arios/STM
+1 buen/STM + a/SUF + s/SUF
+1 Ti/STM + emp/STM + o/SUF
+3 comporta/STM + miento/STM
+1 cos/STM + a/SUF
+1 in/PRE + greso/STM
+3 interior/STM
+3 destaca/STM + mento/STM
+2 ayudó/STM
+1 propor/STM + cion/STM + a/SUF + da/SUF
+1 Ethnology/STM
+1 Orange/STM
+2 temp/STM + o/SUF + rada/STM
+1 autónoma/STM
+2 interactúan/STM
+1 Roy/STM
+3 per/STM + o/SUF + n/SUF + ismo/SUF
+2 uso/STM + s/SUF
+1 1927/STM
+1 concentra/STM
+5 dulce/STM
+3 re/PRE + velan/STM
+2 ponde/STM + r/SUF + ado/SUF
+1 anticipa/STM + da/SUF
+5 Brown/STM
+3 pesqueros/STM
+1 exclusivos/STM
+1 invernal/STM
+1 Di/STM + seña/STM + ban/STM
+4 ejerc/STM + icio/STM
+2 Émil/STM + e/SUF
+1 priv/STM + a/SUF + da/SUF + s/SUF
+2 llaves/STM
+1 ciudad/STM + anos/STM
+1 bi/STM + cameral/STM
+3 salvo/STM
+2 Defensa/STM
+4 torno/STM
+2 Arma/STM + da/SUF + s/SUF
+2 re/PRE + colec/STM + tor/STM + es/SUF
+1 dad/STM + a/SUF
+2 corresponde/STM + n/SUF
+1 sub/STM + sec/STM + ciones/SUF
+3 sigu/STM + e/SUF
+26 vez/STM
+2 caza/STM + do/SUF + r/SUF + es/SUF
+3 Otras/STM
+2 Einstein/STM
+1 1610/STM
+5 perio/STM + do/SUF
+9 arte/STM
+1 ondulante/STM
+1 golpe/STM + a/SUF
+6 bloque/STM
+3 memoria/STM
+15 Urgel/STM
+2 tos/STM
+1 pub/STM + l/SUF + ica/SUF + do/SUF
+3 fundamental/STM + mente/SUF
+176 con/STM
+1 mo/STM + da/SUF + l/SUF + idad/SUF + es/SUF
+1 rela/STM + cion/STM + a/SUF + da/SUF + s/SUF
+3 Histó/STM + rica/STM + mente/SUF
+3 trans/STM + gén/STM + ico/SUF
+1 proyecta/STM + n/SUF
+1 pro/STM + cedente/STM
+1 Cab/STM + il/STM + do/SUF
+1 café/STM + s/SUF
+3 dieta/STM
+3 considerable/STM
+1 ilustres/STM
+3 automotor/STM
+5 grupo/STM + s/SUF
+1 1133/STM
+1 ingresa/STM + n/SUF + do/SUF
+1 Girona/STM
+2 atra/STM + viese/STM
+1 1825/STM
+6 Premio/STM
+7 modern/STM + idad/SUF
+2 UBA/STM
+1 patrio/STM
+5 rural/STM
+5 considera/STM
+1 coci/STM + nada/STM + s/SUF
+1 b/STM + reve/STM
+1 polar/STM + izándose/STM
+17 Según/STM
+3 nuclear/STM
+2 Nahuel/STM
+1 Tango/STM
+1 solu/STM + ciones/SUF
+1 1820/STM
+8 Unión/STM
+1 dis/STM + ponga/STM
+2 observa/STM + ble/STM + s/SUF
+1 extrema/STM + da/SUF + mente/SUF
+3 Bell/STM
+1 na/STM + ción/SUF
+12 centro/STM
+4 total/STM + mente/SUF
+1 alcanz/STM + a/SUF + r/SUF
+12 Patagonia/STM
+1 anti/STM + vir/STM + al/STM + es/SUF
+2 1914/STM
+2 instala/STM + da/SUF
+2 acaba/STM + ron/SUF
+1 reunir/STM
+1 Sede/STM
+9 Córdoba/STM
+2 agosto/STM
+1 plaza/STM + s/SUF
+2 asimismo/STM
+2 bar/STM + rio/SUF
+2 segu/STM + r/SUF + idad/SUF
+2 orienta/STM + l/SUF
+1 final/STM + es/SUF
+2 profesional/STM + iza/STM + ción/SUF
+1 orienta/STM + dos/SUF
+1 tuberculosis/STM
+4 Mendoza/STM
+3 participa/STM + ción/SUF
+1 ex/STM + a/SUF + men/STM
+1 deb/STM + ía/SUF + n/SUF
+1 solicita/STM + do/SUF
+1 per/STM + ic/STM + ó/SUF + n/SUF
+1 orde/STM + n/SUF + a/SUF + do/SUF + r/SUF
+7 form/STM + a/SUF + ción/SUF
+1 mm/STM
+1 en/STM + seña/STM + n/SUF + do/SUF
+3 factores/STM
+7 Brasil/STM
+2 accede/STM
+4 anima/STM + les/SUF
+2 hab/STM
+2 1955/STM
+1 neces/STM + itase/STM
+3 última/STM
+1 podía/STM
+2 difíci/STM + l/SUF
+1 Mansilla/STM
+2 protocolo/STM + s/SUF
+2 Aparatos/STM
+1 Plena/STM
+1 com/STM + primi/STM + r/SUF
+1 Annee/STM
+2 ora/STM
+1 bina/STM + ria/STM + s/SUF
+2 cable/STM
+2 bebidas/STM
+2 Mujer/STM
+2 Instituto/STM + s/SUF
+2 est/STM + o/SUF
+1 con/PRE + sum/STM + ido/SUF
+3 futur/STM + o/SUF
+2 fuerte/STM + mente/SUF
+2 and/STM
+1 Alemania/STM
+3 proceso/STM + s/SUF
+1 se/STM + cu/STM + es/SUF + tro/STM
+2 Castellb/STM + ó/SUF
+12 zona/STM
+5 día/STM
+1 cerca/STM + n/SUF + a/SUF + a/SUF
+1 pud/STM + iese/STM
+3 Tradicional/STM + mente/SUF
+1 externa/STM + s/SUF
+1 miel/STM
+1 trans/STM + form/STM + a/SUF + n/SUF
+2 anual/STM
+3 50/STM
+2 medio/STM + s/SUF
+3 persona/STM
+1 des/PRE + hidra/STM + ta/STM + ción/SUF
+1 paisaj/STM + es/SUF
+5 Penrose/STM
+2 beneficio/STM
+4 Nobel/STM
+1 compañ/STM + ía/SUF
+1 nazi/STM
+1 tengan/STM
+7 re/PRE + ligión/STM
+2 hallan/STM
+2 Primitive/STM
+3 grave/STM + s/SUF
+2 te/STM + ó/SUF + rica/STM + s/SUF
+3 re/PRE + elegido/STM + s/SUF
+1 respuesta/STM
+3 área/STM + s/SUF
+3 449/STM
+1 Sconv/STM
+9 24/STM
+1 Tarija/STM
+1 realiza/STM + ban/STM
+1 psíqu/STM + icas/STM
+5 flor/STM
+1 tenía/STM + n/SUF
+1 abandon/STM + ado/SUF
+2 dispuso/STM
+6 lleg/STM + a/SUF + da/SUF
+3 dudas/STM
+1 psicom/STM + ental/STM + es/SUF
+1 posi/STM + bil/STM + idad/SUF
+4 Festival/STM
+1 Brasil/STM + ia/STM
+3 multi/STM + étnico/STM
+2 ade/STM + cua/STM + da/SUF
+1 fu/STM + sion/STM + ándose/STM
+2 con/PRE + ceptual/STM
+62 sus/STM
+1 Pauli/STM
+2 Pé/STM + ron/SUF
+2 Ciencia/STM
+1 Planck/STM
+1 socio/STM + cultura/STM + l/SUF
+1 Car/STM + l/SUF
+1 des/PRE + cal/STM + zo/STM
+2 Bancaria/STM
+1 ver/STM + da/SUF + dero/STM
+2 percatarse/STM
+13 kilómetros/STM
+4 tan/STM
+1 sintét/STM + ico/SUF
+1 sal/STM + a/SUF + s/SUF
+1 Oppenheimer/STM
+2 Convención/STM
+3 arqueólogos/STM
+4 anterior/STM
+1 propiedad/STM
+1 aporte/STM + s/SUF
+776 y/STM
+1 Ros/STM + a/SUF + s/SUF
+1 MIME/STM
+1 mocoví/STM
+15 habita/STM + nte/STM + s/SUF
+2 Costa/STM
+4 de/PRE + bate/STM
+1 Comunal/STM
+1 foto/STM + graf/STM + ía/SUF
+2 adopta/STM + da/SUF
+4 Mauss/STM
+3 con/PRE + solida/STM + ción/SUF
+6 popular/STM
+1 catalana/STM + s/SUF
+2 Falsa/STM
+13 ninguna/STM
+2 Post/STM
+5 camp/STM + o/SUF + s/SUF
+1 váli/STM + da/SUF
+1 marihuana/STM
+1 suce/STM + dieron/STM
+1 de/STM + fensor/STM + es/SUF
+11 elemento/STM + s/SUF
+1 ventaja/STM + s/SUF
+2 desaparecidos/STM
+1 Fun/STM + cion/STM + a/SUF + l/SUF + ismo/SUF
+5 modern/STM + a/SUF + s/SUF
+1 con/PRE + temp/STM + oránea/STM
+1 procede/STM
+3 apro/STM + xim/STM + a/SUF + da/SUF + mente/SUF
+1 inter/STM + pre/STM + tarlos/STM
+1 902/STM
+2 glaciaria/STM
+19 gobierno/STM
+4 2012/STM
+4 1995/STM
+1 Mar/STM + ianela/STM
+1 materia/STM + l/SUF + ismo/SUF
+2 pie/STM
+2 de/PRE + porte/STM
+1 rica/STM
+1 fu/STM + tur/STM + a/SUF
+1 estricto/STM
+5 etanol/STM
+2 causa/STM
+1 sospec/STM + hab/STM + a/SUF
+4 Cruz/STM
+7 incluye/STM + n/SUF
+850 el/STM
+3 Cuatro/STM
+5 cadenas/STM
+1 promov/STM + ien/STM + do/SUF
+4 federa/STM + l/SUF
+3 ciudad/STM + es/SUF
+3 International/STM
+1 Hidro/STM + graf/STM + ía/SUF
+1 detectar/STM
+2 en/STM + do/SUF + r/SUF + re/PRE + icas/STM
+1 Tele/STM + visió/STM
+1 Un/STM
+3 fundamental/STM
+2 procesa/STM + miento/STM
+1 tom/STM + ado/SUF
+1 dependie/STM + nte/STM + s/SUF
+1 japon/STM + es/SUF + es/SUF
+1 narra/STM + tivo/SUF
+4 Club/STM
+1 a/STM + cerca/STM + miento/STM + s/SUF
+8 Paraná/STM
+2 Fernández/STM
+1 inve/STM + stig/STM + ó/SUF
+3 231/STM
+5 recupe/STM + r/SUF + ó/SUF
+4 incluye/STM + n/SUF + do/SUF
+2 someter/STM
+26 otro/STM + s/SUF
+1 de/STM + stitu/STM + ción/SUF
+2 legisla/STM + tivo/SUF
+1 opera/STM + tivo/SUF + s/SUF
+13 base/STM
+1 abarca/STM + n/SUF
+1 numer/STM + osas/STM
+1 gitanos/STM
+3 Est/STM + a/SUF + s/SUF
+2 tribu/STM + s/SUF
+3 u/STM
+1 re/PRE + conoci/STM + do/SUF + s/SUF
+1 replanteo/STM
+2 produc/STM + ido/SUF
+1 Primero/STM
+1 Mientras/STM
+1 1982/STM
+1 Símbo/STM + los/STM
+1 pre/PRE + cepto/STM
+1 Gualeguaych/STM + ú/STM
+3 origina/STM + n/SUF + do/SUF
+11 energ/STM + ía/SUF
+1 alimenta/STM + dos/SUF
+1 Hoy/STM
+1 Ba/STM + r/SUF + ó/SUF + n/SUF
+5 considera/STM + do/SUF
+3 labranza/STM
+1 inicia/STM + l/SUF + mente/SUF
+3 asintóticamente/STM
+1 comentar/STM + ista/STM + s/SUF
+1 aisla/STM + dos/SUF
+1 propu/STM + l/SUF + sión/STM
+1 Italia/STM
+1 É/STM + ufrat/STM + es/SUF
+3 privat/STM + iza/STM + da/SUF
+5 cómo/STM
+1 manufactura/STM
+1 significa/STM + tiva/SUF + mente/SUF
+1 puntua/STM + les/SUF
+1 abstra/STM + ctos/STM
+3 Marscher/STM
+1 encubierta/STM
+1 Friedrich/STM
+2 Irigoyen/STM
+1 apenas/STM
+3 expansión/STM
+7 gente/STM
+5 científica/STM
+2 encargado/STM
+1 apro/STM + ve/STM + cha/STM + n/SUF + do/SUF
+2 fo/STM + n/SUF + do/SUF
+9 industria/STM
+1 fibra/STM
+2 asesinar/STM
+1 Re/STM + form/STM + a/SUF
+1 cede/STM
+7 Argentino/STM
+6 comenz/STM + ó/SUF
+1 muestra/STM
+1 en/STM + via/STM + ron/SUF
+1 Nature/STM + lle/STM
+1 demanda/STM + s/SUF
+1 1953/STM
+8 física/STM
+2 actos/STM
+2 incre/STM + mentando/STM
+3 andorrano/STM + s/SUF
+1 ataca/STM + r/SUF
+2 empez/STM + ó/SUF
+2 rico/STM
+5 considera/STM + da/SUF
+3 Paz/STM
+2 hojas/STM
+3 pone/STM + r/SUF
+1 busca/STM + ba/SUF
+1 pid/STM + ien/STM + do/SUF
+1 cuest/STM + i/STM + ó/SUF + n/SUF
+9 divers/STM + a/SUF + s/SUF
+2 verano/STM
+3 Frente/STM
+1 con/PRE + segui/STM + r/SUF + á/STM
+22 cuenta/STM
+1 demost/STM + ra/SUF + r/SUF
+2 portugués/STM
+1 moneda/STM + s/SUF
+3 Revolución/STM
+1 resist/STM + ieron/STM
+1 atóm/STM + ico/SUF
+1 ú/STM + n/SUF + ico/SUF + s/SUF
+1 Occid/STM + ental/STM
+3 trans/STM + porte/STM
+5 2006/STM
+1 habla/STM + do/SUF
+1 hbar/STM
+2 goza/STM
+2 lino/STM
+5 est/STM + a/SUF + ciones/SUF
+1 rubro/STM
+9 Al/STM
+15 capital/STM
+1 media/STM + s/SUF
+1 Rioja/STM
+1 abo/STM + n/SUF + ado/SUF
+2 ext/STM + r/SUF + a/SUF + galáct/STM + ica/SUF
+1 leguminosa/STM
+1 hispano/STM
+1 con/PRE + solida/STM + r/SUF
+1 familia/STM + r/SUF + es/SUF
+1 activ/STM + a/SUF + s/SUF
+4 1930/STM
+1 toxicomanias/STM
+2 con/PRE + stitu/STM + ía/SUF + n/SUF
+3 l/STM
+1 ocup/STM + a/STM + ción/SUF
+1 co/STM + oficial/STM + idad/SUF
+4 tal/STM
+1 per/STM + tur/STM + ba/SUF + nte/STM + s/SUF
+5 mercado/STM
+1 fertilizante/STM
+# Time used (secs): 0

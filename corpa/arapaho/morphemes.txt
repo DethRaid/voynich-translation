@@ -1,0 +1,3141 @@
+# expandmorphsegmentations.pl, Sun Apr 30 23:09:05 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+5 nae/STM + nee/STM + javaā/STM + nau/STM + hau/PRE + gane/STM + de/SUF
+8 hāe/STM + ne/SUF + dau/SUF + wau/PRE + dau/STM + au/SUF
+46 39/STM
+4 he/PRE + dau/PRE + gau/PRE + wu/STM + daune/SUF + nau/SUF
+1 jeva/STM + wau/SUF + chu/SUF + thajau/STM
+4 nau/STM + de/SUF + daun/STM + a/SUF + de/SUF + nesee/STM
+1 na/STM + ve/SUF + the/SUF + nau/SUF
+3 hana/STM + thau/SUF + hau/PRE + thā/STM + na/SUF
+1 wau/STM + thau/SUF + nau/SUF + hāhe/STM
+3 nea/STM + he/PRE + hau/STM + au/SUF
+2 heja/STM + e/SUF + da/SUF + yā/STM + ne/SUF + ne/SUF
+6 Lazarus/STM
+2 hau/PRE + ā/PRE + nau/STM
+4 hana/STM + dau/SUF + nau/SUF + de/SUF
+7 hae/PRE + nauusa/STM + nauau/SUF
+10 ha/PRE + duu/STM
+2 nane/STM + e/SUF + da/SUF + nau/SUF + wau/STM + de/SUF
+11 ha/PRE + dāhe/STM + wau/SUF + nā/SUF + daune/SUF
+5 hena/STM + yau/SUF + hade/STM
+8 hae/PRE + the/STM + au/SUF + gu/SUF + ne/SUF
+1 nava/STM + dau/SUF + ve/SUF + nau/SUF
+1 he/PRE + sā/STM + he/PRE + dā/STM + eyaun/STM + e/SUF
+3 vevethahe/STM + he/STM + hau/STM + au/SUF
+1 haeau/STM + thau/SUF + na/SUF + na/SUF + de/SUF + tha/SUF
+4 ha/PRE + nesee/STM + daune/SUF + nau/SUF
+4 Hauwu/STM + nau/SUF + na/SUF + ne/SUF
+1 nana/STM + vaa/STM + ve/SUF + he/STM
+6 Hana/STM + āe/STM + nehe/STM + thau/SUF + de/SUF
+7 hathaāje/STM + daune/SUF + nee/SUF
+3 haenunanat/STM + hegu/STM + tha/SUF + nauau/SUF
+2 hae/PRE + ja/PRE + the/PRE + da/PRE + saa/STM
+6 wau/STM + nau/SUF + yau/SUF + au/SUF
+1 nau/STM + thee/SUF
+2 dau/PRE + hae/PRE + nauwu/STM + nethe/SUF
+5 72/STM
+2 hāe/PRE + veeyau/STM + nee/SUF
+1 De/STM + athave/STM + jena/STM + na/SUF + tha/SUF + na/SUF
+3 Je/STM + dau/PRE + wuu/STM
+3 vada/STM + nee/SUF
+3 Hadvāde/STM
+2 had/PRE + nau/STM + gau/STM + da/SUF + ne/SUF + nee/SUF
+1 Nane/STM + se/SUF + e/SUF + de/SUF
+10 58/STM
+59 4/STM
+2 dau/STM
+1 hanaāe/STM + a/SUF + na/SUF + de/SUF + de/SUF
+2 hadenaāene/STM + au/SUF + va/SUF + ne/SUF
+5 hanā/STM + janaugu/STM + de/SUF
+2 hae/PRE + jau/STM
+1 ne/STM + jau/STM + auwuu/STM
+8 hanaāe/PRE + jat/STM + hā/STM + au/SUF + de/SUF
+25 he/PRE + naja/STM + ne/SUF + de/SUF
+30 hau/PRE + auwuu/STM
+11 hese/STM + se/SUF
+127 heau/STM
+2 hae/PRE + gau/PRE + gauu/STM + sa/SUF + nau/SUF
+1 Hathāauau/STM
+11 he/PRE + wau/PRE + nehaa/STM
+3 hana/STM + ā/PRE + authea/STM + wau/STM + de/SUF
+2 Hadje/STM + na/SUF + nu/STM
+1 nese/STM + ne/SUF + ne/SUF + se/SUF + gu/SUF + hede/STM + dau/SUF + ne/SUF + nee/SUF
+1 hae/PRE + ja/PRE + the/PRE + tha/STM + sau/STM + au/SUF + naa/SUF
+4 dau/PRE + je/PRE + nauthā/STM + nau/SUF
+5 hanaāa/STM + uchuwuha/STM + u/SUF + de/SUF
+2 haeje/STM + je/PRE + dā/STM
+1 ha/PRE + va/PRE + thā/STM + nā/SUF + va/SUF
+34 41/STM
+3 nadee/STM + se/PRE + hau/PRE + nauau/STM
+2 had/PRE + ja/PRE + ve/PRE + chau/PRE + dauwu/STM + na/SUF
+5 wauchudaude/STM
+3 hae/STM + ne/SUF + hau/PRE + vā/STM
+2 Had/STM + nee/SUF + dusaa/STM + na/SUF + tha/SUF + na/SUF
+3 ha/PRE + dau/PRE + nau/STM + ne/SUF + hau/STM
+4 gau/PRE + had/STM + ve/SUF + e/SUF + de/SUF
+3 va/PRE + heda/STM + yau/SUF + de/SUF
+3 hā/STM + a/SUF
+2 had/PRE + nee/STM + jae/STM + gau/PRE + hade/STM + ne/SUF + nee/SUF
+4 hae/PRE + enahav/STM + āe/STM
+3 heda/STM + he/PRE + nau/STM
+3 ha/PRE + vechaut/STM + hā/STM + daune/SUF + nau/SUF
+3 Nechau/STM
+2 de/STM + na/SUF + yau/SUF + thā/STM + nith/STM
+2 Nane/STM + dau/SUF + wau/SUF + au/SUF + de/SUF
+49 2/STM
+2 gau/STM + chu/SUF + jā/STM + de/SUF
+2 Judea/STM
+1 had/PRE + jaa/STM + nauwu/STM + na/SUF + u/SUF + nauau/SUF
+1 nane/STM + dau/SUF + va/SUF + nau/SUF + the/SUF
+4 naje/STM
+3 hae/STM + ve/SUF + na/SUF + nauau/SUF
+2 hā/STM + hau/PRE + wu/STM + jā/STM + ve/SUF + dau/PRE + gau/PRE + hau/PRE + wau/STM + nauau/SUF
+1 hanaāa/STM + uchuhanana/STM + de/SUF + thā/STM + de/SUF
+2 hada/STM + je/STM
+2 had/PRE + ja/PRE + jat/STM + hā/STM + au/SUF + va/SUF
+1 hāe/PRE + dauwu/STM + na/SUF + tha/SUF + ne/SUF
+1 had/PRE + vā/STM
+5 Jae/STM + yehau/STM
+39 34/STM
+161 hena/STM + ne/SUF
+2 nane/STM + sau/STM + nauau/SUF
+3 hae/PRE + da/PRE + da/PRE + jene/STM + he/PRE + tha/STM
+2 de/STM + wauc/STM + hā/STM + he/STM + nethe/SUF
+4 wau/STM + de/SUF + ne/SUF + esaunee/STM
+1 hāe/PRE + jat/STM + hā/STM + au/SUF + nethe/SUF
+9 vane/STM + nane/STM + nau/SUF
+4 haud/STM + jā/STM + edauwu/STM + nau/SUF + nith/SUF
+2 vave/STM + sau/STM + chuwu/STM + de/SUF
+3 hase/STM + vechaut/STM + hā/STM + de/SUF
+2 hāe/PRE + jae/STM + nauusa/STM + nau/SUF + ne/SUF
+2 nau/STM + gu/SUF
+3 je/PRE + va/PRE + gaugauana/STM + dauwu/STM + u/SUF
+7 Vahee/STM
+2 nedau/STM + gau/PRE + dau/PRE + yau/STM + hu/STM + dau/PRE + nee/STM
+4 He/PRE + dauwu/STM + yau/SUF + nee/SUF
+8 nethe/STM + e/SUF
+2 had/PRE + eheae/STM + nau/SUF + nee/SUF
+1 dau/PRE + jea/STM + nauau/SUF
+4 hae/STM + ve/SUF + ve/SUF + the/PRE + daun/STM + a/SUF + nauau/SUF
+4 neauthu/STM + ne/SUF + a/SUF + hee/STM
+3 waudasa/STM + na/SUF + gu/SUF
+7 henesaunaune/STM
+6 had/PRE + nauau/STM + chau/STM + au/SUF
+3 haee/STM + hā/STM + tha/SUF + ne/SUF
+6 hae/STM + ne/SUF + he/PRE + tha/STM
+2 hā/STM + ne/SUF + dauwu/STM + nā/SUF + dau/SUF + ne/SUF + nau/SUF
+1 ha/PRE + nee/STM
+3 hauunaug/STM + a/SUF + nauau/SUF
+6 haud/STM + nee/SUF + da/PRE + nauwu/STM + na/SUF + na/SUF
+8 je/PRE + yau/STM + wau/SUF + nau/SUF
+3 nane/STM + the/SUF + nauwu/STM
+3 haeauā/STM + ne/SUF + nau/SUF
+4 vechaut/STM + haa/STM
+3 daun/STM + a/SUF + adāde/STM
+2 nane/STM + the/SUF + na/SUF + ne/SUF + ne/SUF + nau/SUF
+11 Hauwu/STM + nau/SUF + na/SUF + a/SUF
+3 he/PRE + thā/STM + e/SUF + thauguhādau/STM + nau/SUF
+19 He/PRE + nee/STM
+1 ha/PRE + nethe/STM + yau/SUF + nau/SUF
+3 nau/STM + nau/SUF + dāhe/STM + nethe/SUF
+3 hae/STM + na/SUF + thau/SUF
+2 hau/PRE + wau/STM + hau/STM + au/SUF + wudan/STM + e/SUF
+4 hau/PRE + chau/PRE + nau/STM
+11 hanaāa/STM + na/STM + dethaude/STM
+4 chau/STM + nau/SUF + nauau/SUF + nith/SUF
+35 13/STM
+2 hae/STM + nee/SUF + chau/STM + na/SUF
+19 Hena/STM
+3 hanā/STM + na/SUF + ā/SUF + e/SUF + wau/SUF + dā/STM + hau/PRE + na/STM
+33 37/STM
+9 59/STM
+4 nethā/STM + na/SUF + de/SUF
+12 Heee/STM
+4 Hā/STM + e/SUF + nau/SUF + thau/SUF + the/SUF
+3 he/PRE + gau/STM + gauuthajaudenenau/STM + au/SUF
+3 nauuchau/STM + dau/SUF + ne/SUF + na/SUF
+1 neheahe/STM + sa/SUF + de/SUF + de/SUF
+37 ha/PRE + naa/STM
+1 je/PRE + da/PRE + wuu/STM
+2 had/PRE + duse/STM + vaveene/STM + va/SUF
+1 hathaāje/STM + nith/STM
+1 Hana/STM + āe/STM + jases/STM + a/SUF + na/SUF + de/SUF + dau/STM + au/SUF
+4 jau/STM + au/SUF + da/SUF + ne/SUF + e/SUF
+2 hada/STM + vechaut/STM + hau/STM
+4 hau/PRE + chuwu/STM + dau/SUF + nau/SUF
+2 hase/STM + na/SUF + he/PRE + hau/STM
+5 hā/STM + a/SUF + ne/SUF + dau/SUF + the/SUF
+1 had/STM + va/SUF + he/PRE + nee/STM + dau/SUF + thee/SUF
+2 had/PRE + jena/STM + nauau/SUF
+49 he/PRE + thauwu/STM + u/SUF
+3 hae/PRE + va/PRE + hena/STM + yau/SUF + thā/STM + nauau/SUF
+4 hāe/STM + na/SUF + u/PRE + hau/PRE + dauwu/STM + nith/SUF
+8 hane/STM + sa/SUF + de/SUF + e/SUF
+7 nese/PRE + dau/STM + de/SUF
+4 hāsau/STM + nau/SUF
+6 hana/STM + de/SUF + de/SUF
+4 hau/PRE + nau/STM + yau/SUF + de/SUF
+4 had/STM + na/SUF + na/SUF + de/SUF + de/SUF
+28 jau/STM + au/SUF + jau/STM + nau/SUF
+3 hae/PRE + nau/STM + de/SUF + dau/STM + va/SUF
+1 he/PRE + thau/STM + wau/PRE + dauwu/STM + na/SUF + gu/SUF
+3 had/STM + na/SUF + āe/STM + dā/STM + e/SUF + yau/SUF + ne/SUF + ne/SUF + na/SUF
+4 Hae/STM + au/SUF + wau/STM + au/SUF + daun/STM + a/SUF
+507 he/PRE + nee/STM
+9 hau/PRE + ā/PRE + nee/STM
+3 javaā/STM + nee/SUF + nauthaunee/STM
+2 vaveenethedau/STM + na/SUF + tha/SUF + ne/SUF
+1 hane/PRE + chau/PRE + chau/STM + na/SUF + a/SUF
+4 hene/STM + nau/SUF + chu/SUF + na/SUF
+2 hāe/STM + nau/SUF + a/SUF + he/PRE + nā/STM
+2 hae/PRE + vevethahe/STM + daune/STM
+4 Hae/STM + nau/SUF + wau/SUF
+3 nau/STM + dauhu/STM + the/PRE + da/PRE + saa/STM
+1 denausu/STM + nane/STM + dau/SUF + de/SUF
+3 haud/STM + nau/SUF + hau/PRE + duu/STM
+1 nau/STM + nuda/STM + nava/STM + the/SUF
+5 ne/PRE + sayā/STM + nā/STM + edauwu/STM + na/SUF + u/SUF + de/SUF
+2 hae/PRE + athave/STM + na/SUF + ne/SUF
+4 he/PRE + he/PRE + thee/STM + ja/PRE + se/PRE + see/STM
+14 Nau/STM + nau/STM + thau/SUF + au/SUF
+3 gau/PRE + had/PRE + nau/STM + de/SUF + nau/STM + hau/PRE + wau/STM
+2 hane/STM + a/SUF + ve/SUF + dau/PRE + daun/STM + a/SUF + de/SUF
+1 vada/STM + de/SUF
+3 hane/PRE + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + na/SUF
+3 vava/STM + de/SUF + naa/STM + nesā/STM + de/SUF
+1 hadeeseda/STM + nā/SUF + na/SUF
+55 20/STM
+1 ha/PRE + nese/STM + nee/SUF
+6 nau/STM + nauthaunee/STM
+2 hae/STM + nee/SUF + nu/STM + ha/PRE + nauau/STM
+4 had/PRE + nau/STM + dau/STM + au/SUF
+1 nane/PRE + see/STM + de/SUF
+2 hadne/PRE + da/PRE + nauwu/STM + nā/SUF + de/SUF
+1 he/PRE + sā/STM + ne/SUF
+1 ha/PRE + dau/PRE + chu/STM + na/SUF + ne/SUF + nethe/SUF
+3 he/PRE + hau/PRE + wu/STM + nesā/STM + hene/STM
+3 nane/STM + the/SUF + nau/SUF + thee/SUF
+1 hae/PRE + wau/STM + tha/SUF + ne/SUF
+2 He/PRE + sau/STM
+4 hāe/PRE + nuda/STM + nā/SUF + nau/SUF + ne/SUF
+3 nevaā/STM + he/PRE + nee/STM
+157 nana/STM + ne/SUF + ne/SUF
+1 janechuv/STM + ā/SUF + he/PRE + nith/STM
+4 wau/STM + nau/SUF + tha/SUF + a/SUF
+3 had/PRE + je/PRE + wau/STM + ne/PRE + je/PRE + dā/STM + nith/SUF
+2 hadne/PRE + the/PRE + daun/STM + a/SUF + nauwu/STM + na/SUF + na/SUF
+3 haesaese/STM
+1 haee/STM + nayauhu/STM + ne/SUF
+3 had/PRE + nauhaudauau/STM
+3 hadne/STM + va/SUF + uthadee/STM
+1 wau/STM + wau/SUF + chu/SUF + dauhu/STM + hau/STM
+1 hana/STM + ne/SUF + edesade/STM
+3 nauuchau/STM + dau/SUF + na/SUF + tha/SUF + na/SUF
+1 nayau/STM + de/SUF + nee/SUF
+3 ha/PRE + thā/STM + e/SUF + nedauwaut/STM + hā/STM + thee/SUF
+2 nau/STM + nau/SUF + nau/SUF + chau/PRE + dau/PRE + hau/PRE + thau/STM + de/SUF
+5 hau/PRE + nau/STM + yauhaudauwauau/STM
+2 Ha/STM + dau/PRE + chu/STM + gau/STM + au/SUF + da/SUF + yau/SUF + au/SUF
+3 Nava/STM + ha/PRE + dāhe/STM + wau/SUF + nā/SUF + de/SUF
+1 hanaāe/STM + thau/SUF + wau/SUF + the/SUF + de/SUF
+3 jajaesenanedanede/STM + de/SUF
+1 Gau/STM + je/PRE + nanavanau/STM
+7 hae/PRE + the/STM + au/SUF + gu/SUF + nauau/SUF
+3 gāyethaājethauva/STM
+3 hāe/PRE + je/PRE + da/PRE + nā/STM + nā/SUF
+7 ha/PRE + thau/STM + au/SUF
+2 He/PRE + thauwu/STM + naja/STM + wau/SUF + nau/SUF + da/PRE + gau/PRE + nee/STM
+3 haud/STM + jae/STM + je/PRE + nana/STM + thee/SUF
+2 hene/STM + hā/STM
+3 je/PRE + vaa/STM + de/SUF + se/SUF + ne/SUF
+1 dauhu/STM + naa/SUF + se/SUF + dau/SUF + de/SUF
+2 Vechau/STM + chu/SUF + ne/SUF
+3 ha/PRE + wau/PRE + thā/STM + e/SUF
+2 dauuse/STM + na/SUF + de/SUF + nau/SUF
+1 vachauganane/STM + nauau/SUF
+10 He/PRE + gau/STM
+1 hae/PRE + nane/STM + nau/SUF + gu/SUF
+1 hanaāa/STM + se/SUF + nau/SUF + na/SUF + de/SUF
+4 hanā/STM + e/SUF + ne/SUF
+2 vana/STM + dau/SUF + a/SUF + nā/SUF + de/SUF
+2 Hae/STM + sayā/STM + nau/SUF + the/SUF + a/SUF + va/SUF
+2 gau/PRE + jena/STM + asaunee/STM
+2 ha/PRE + dau/PRE + wau/STM + yau/SUF + au/SUF
+3 haeau/STM + the/SUF + au/SUF + wau/SUF + nau/SUF + tha/SUF + sa/SUF + nauau/SUF
+3 hadne/PRE + jenāauguau/STM + na/SUF
+3 hada/STM + se/SUF + a/SUF
+1 na/STM + yā/STM + se/SUF + sa/SUF + ve/SUF
+2 Gauha/STM + jeve/STM + the/SUF + ne/SUF + va/SUF
+3 Hae/STM + na/SUF + ne/SUF
+2 Capernaum/STM
+4 he/PRE + denaa/STM
+3 had/PRE + nese/STM + thee/SUF
+198 ha/PRE + nau/STM
+2 hae/PRE + dau/PRE + yau/STM + hau/STM + va/SUF + nauau/SUF
+4 hāe/PRE + va/PRE + hesedu/STM + saa/STM + he/PRE + dau/PRE + nee/STM
+1 hā/STM + au/SUF + au/SUF + va/SUF + de/SUF + nee/SUF
+3 ha/PRE + dāhe/STM + vāhe/STM
+1 nehe/STM + da/PRE + duhu/STM + de/SUF
+3 dea/STM + ne/SUF + dau/SUF + de/SUF
+2 75/STM
+2 nedau/STM + thā/STM + nauau/SUF
+3 nane/STM + se/SUF + dau/SUF + nauau/SUF
+1 haeau/STM + sa/SUF + gu/SUF + de/SUF + nauau/SUF
+1 nee/STM + sau/STM + nee/SUF
+1 Hana/STM + āe/STM + nu/STM + gu/SUF + thau/SUF + thee/SUF
+3 he/PRE + nau/STM + gau/STM + chu/SUF
+4 gau/PRE + hā/PRE + je/PRE + vā/STM
+2 dau/STM + de/SUF
+2 neau/STM + chu/SUF + wau/SUF + de/SUF + nee/SUF
+1 Ja/STM + a/SUF + the/SUF + haa/STM
+3 jane/STM + authea/STM + vā/STM + nau/SUF
+5 nane/STM + the/SUF + nauwu/STM + nauau/SUF
+6 Mosase/STM + au/SUF
+1 nau/STM + dau/PRE + wu/STM + thajau/STM + dauwu/STM + na/SUF + na/SUF
+5 hadahe/STM + nau/SUF
+1 neva/STM + dau/SUF + nau/SUF + hau/PRE + duu/STM
+2 hae/PRE + nā/STM + e/SUF + de/SUF + ve/SUF + ne/SUF + nau/SUF
+4 gau/PRE + nau/STM + dauauha/STM
+4 had/PRE + nee/STM + va/SUF + se/SUF + ve/SUF + nee/SUF
+2 Nene/STM + da/SUF + he/PRE + wau/STM + de/SUF
+5 sase/STM + thauwu/STM
+75 wau/PRE + ā/PRE + the/STM
+3 had/PRE + nedauyewuwude/STM
+2 heenaededaunau/STM
+1 hayauthaun/STM + a/SUF + ne/SUF + nee/SUF
+6 haeau/STM + chu/SUF + ha/STM + nā/STM + edauwu/STM + na/SUF
+4 haeneneuva/STM + nauau/SUF
+1 nee/STM + dau/SUF + ne/SUF + se/PRE + he/PRE + nee/STM
+1 Da/STM + nā/SUF + dau/SUF + yau/SUF + au/SUF
+2 duse/STM + e/SUF
+3 hadne/PRE + sau/STM + au/SUF
+1 hae/PRE + yā/STM + na/SUF
+1 hadne/STM + dau/SUF + ve/SUF + the/SUF + nauau/SUF
+3 Hejavaneauth/STM + au/SUF + saun/STM
+20 Chris/STM
+9 da/PRE + je/PRE + chau/STM + au/SUF
+2 gau/PRE + had/STM + va/SUF + ve/SUF + se/SUF + nau/SUF + de/SUF + ne/SUF
+2 hanā/STM + gaugauana/STM + dau/STM + au/SUF
+6 wau/STM + nau/SUF + tha/SUF + nee/SUF
+3 nee/STM + the/STM + au/SUF + gu/SUF + nee/SUF
+3 nethā/STM + e/SUF + je/PRE + vaveene/STM + nethe/SUF
+2 Na/STM + da/SUF + na/SUF + de/SUF + dau/SUF + nau/SUF
+4 haeautheda/STM + nauau/SUF
+4 hautheaun/STM + au/SUF + au/SUF
+3 javaā/STM + ne/SUF + tha/SUF + de/SUF + e/SUF
+2 63/STM
+2 se/PRE + ā/PRE + gut/STM + hada/STM + gu/SUF
+19 nanaa/STM
+1 hau/STM + au/SUF + the/SUF + ne/SUF
+1 thau/STM + nau/SUF + gu/SUF + de/SUF + thee/SUF
+2 hae/PRE + chau/STM + ā/SUF + gu/SUF + janaugu/STM
+6 neethā/STM + edauwu/STM + nā/SUF + na/SUF
+3 hae/PRE + thau/STM + chu/SUF + thajau/STM + de/SUF
+2 jane/STM + nau/SUF + nau/SUF + dau/STM + au/SUF
+2 jene/STM + thau/SUF + a/SUF + yau/SUF + nau/SUF
+2 he/PRE + nau/STM + hau/PRE + wau/STM + au/SUF
+1 ha/PRE + nedau/STM + dau/SUF + na/SUF + tha/SUF + na/SUF
+12 Wau/STM + de/SUF
+1 heve/STM + the/SUF + ha/PRE + gau/PRE + nee/STM
+2 hau/STM + gu/SUF + nau/SUF + va/SUF
+3 nau/STM + ne/SUF + thau/SUF + au/SUF + nith/SUF
+2 had/PRE + nese/STM + je/PRE + dā/STM + thee/SUF
+1 had/PRE + naa/STM + se/SUF + tha/SUF + jau/STM + au/SUF + dau/SUF + nā/SUF + na/SUF
+1 Nā/STM + nau/SUF
+4 dau/PRE + chu/STM + uwuse/STM + e/SUF
+5 hae/PRE + naja/STM
+4 Dauhu/STM + dau/PRE + cha/STM + nau/SUF
+2 hā/STM + a/SUF + ne/SUF + dau/SUF + de/SUF
+2 Hā/STM + e/SUF + nauau/STM + chau/STM + nee/SUF
+5 nau/STM + nau/SUF + chu/SUF + u/SUF
+5 hene/STM + da/SUF + e/SUF + hau/STM + hau/STM
+3 He/PRE + nesau/STM + nau/SUF + ne/SUF
+2 had/PRE + naja/STM + wau/PRE + dau/STM + au/SUF
+4 hane/STM + se/SUF + da/SUF + nauwu/STM + na/SUF
+3 hae/PRE + va/PRE + nauusa/STM + nauau/SUF
+22 dā/STM + e/SUF + yau/SUF + naa/SUF
+2 vae/STM + wau/STM + au/SUF
+2 hāe/PRE + hau/PRE + wu/STM + ne/SUF + da/SUF + ne/SUF
+6 Hade/STM + au/SUF + dau/SUF + na/SUF + va/SUF
+2 hana/STM + tha/SUF + da/PRE + gau/PRE + nee/STM
+2 heau/STM + da/SUF + a/SUF
+6 Dusaa/STM + yāhe/STM
+2 je/PRE + dā/STM + nau/SUF + ha/STM
+2 nee/STM + se/PRE + da/PRE + nā/STM + de/SUF
+3 he/PRE + nesee/STM + daune/STM + ne/SUF
+11 53/STM
+3 nana/STM + se/SUF + au/SUF + wau/STM + de/SUF
+9 Gana/STM + nee/SUF
+2 had/STM + na/SUF + uchuwuha/STM + tha/SUF + ne/SUF
+2 hāe/STM + ne/SUF + sa/SUF + de/SUF + e/SUF
+13 haeadetha/STM
+11 nau/STM + ne/SUF
+9 hae/PRE + jae/STM + yehau/STM + nauau/SUF
+2 hadne/PRE + nu/STM + chau/STM + nau/SUF + de/SUF
+4 nau/STM + gusāje/STM
+6 gau/PRE + ā/PRE + nee/STM
+2 He/PRE + vada/STM + nau/SUF + wau/PRE + thauwu/STM + ne/SUF + ne/SUF
+1 had/PRE + ejedāna/STM
+1 had/PRE + nayāade/STM + e/SUF
+2 WAUNAUYAUNEE/STM
+2 da/PRE + se/PRE + ja/PRE + nese/STM + a/SUF + gu/SUF
+2 jeva/STM + nau/SUF + de/SUF + de/SUF + e/SUF
+3 hede/STM + naede/STM + dau/SUF + ne/SUF + nau/SUF
+3 hau/PRE + dau/PRE + guhu/STM + a/SUF + ne/SUF + nau/SUF
+4 had/PRE + nauau/STM + chau/STM + daune/SUF
+18 Nuu/STM
+2 he/PRE + da/PRE + nauwu/STM + nā/SUF + na/SUF + gu/SUF
+1 hāe/PRE + nase/STM + se/SUF
+8 ha/PRE + va/PRE + dau/PRE + hau/STM + de/SUF
+1 hadau/STM
+4 hau/PRE + chau/PRE + guu/STM
+2 Had/STM + duse/STM + nesau/STM
+2 na/STM + nā/SUF + e/SUF
+45 hau/PRE + nau/STM + u/SUF + de/SUF
+2 haud/STM + ne/SUF + se/SUF + hau/PRE + thee/STM
+4 hae/PRE + je/PRE + nauusa/STM + nauau/SUF
+2 hadne/STM + ja/SUF + the/PRE + chau/PRE + hā/STM + thee/SUF
+2 naje/STM + ne/SUF + thau/SUF + nā/SUF + de/SUF
+2 dau/PRE + hana/STM + de/SUF + ne/SUF
+1 he/PRE + naede/STM + dau/SUF + nau/SUF
+4 nanas/STM + uusee/STM
+1 had/PRE + the/STM + au/SUF + gu/SUF + de/SUF
+1 he/PRE + hau/PRE + wu/STM + nauuchau/STM + de/SUF + nauau/SUF
+9 hae/PRE + nese/PRE + dau/PRE + wau/STM + na/SUF
+3 haeje/STM + naede/STM
+4 vevethahe/STM + va/SUF + he/PRE + hau/STM
+1 hau/PRE + wauchudaude/STM + nau/SUF
+1 hana/STM + adauhauāneauhu/STM + thee/SUF
+2 ja/PRE + nese/STM + na/SUF + yaugaune/STM
+4 de/STM + nauusa/STM + de/SUF
+3 haud/STM + nee/SUF + du/STM + se/SUF + daune/STM
+1 jeva/STM + e/SUF + da/SUF + nau/SUF
+1 hade/PRE + gauu/STM + chu/SUF
+1 hāe/PRE + gau/PRE + hā/STM + de/SUF
+3 dau/STM + nau/SUF + a/SUF + na/SUF + duu/STM
+2 had/PRE + nau/STM + de/SUF + dau/SUF + na/SUF + tha/SUF + na/SUF
+174 he/PRE + he/PRE + thee/STM
+4 he/PRE + nauwu/STM + nau/SUF
+1 ha/STM + sa/SUF + ne/SUF + dau/PRE + nee/STM
+2 hāe/STM + na/SUF + e/SUF + sa/SUF + de/SUF
+45 NEHEDAUNAU/STM
+2 Ha/STM + va/SUF + e/SUF + ne/SUF
+2 gaugauana/STM + dauwu/STM + u/SUF
+2 ha/PRE + thā/STM + e/SUF + nauthaunee/STM
+4 he/PRE + dau/PRE + cha/STM + ve/SUF + au/SUF
+6 nethauyāsenane/STM + ne/SUF
+6 had/PRE + nau/STM + hau/PRE + wu/STM + u/SUF
+5 had/PRE + ā/PRE + edauwu/STM + nau/SUF + va/SUF
+2 haenaujaune/STM
+1 dan/STM + a/SUF + chau/STM + gu/SUF + nethe/SUF
+1 Nau/STM + nau/SUF + dau/PRE + hau/PRE + thā/STM + nauau/SUF
+1 haea/STM + nedau/STM + nauau/SUF
+46 9/STM
+2 ha/PRE + vaa/STM + u/SUF + gu/SUF + gauu/STM + se/SUF + ne/SUF
+1 had/PRE + eheenaugua/STM + na/SUF
+2 nanedaudauc/STM + hāe/STM
+6 dauyewuwu/STM + u/SUF
+2 hadavenuhu/STM + hau/STM
+1 vechaut/STM + hau/STM + au/SUF
+1 Chuza/STM
+21 49/STM
+1 da/PRE + nā/STM + dau/SUF + yau/SUF + au/SUF
+4 ne/STM + thau/SUF + cha/STM + yau/SUF + naa/SUF
+3 had/PRE + nau/STM + sā/STM + yau/SUF + de/SUF + nee/SUF
+1 haeneena/STM + je/PRE + nee/STM + thajau/STM
+3 had/PRE + jaegau/STM + hā/STM + de/SUF
+1 haud/STM + duse/STM + the/STM + au/SUF + gu/SUF + ne/SUF
+1 hae/PRE + nesā/STM + hene/STM
+2 Ne/STM + nau/SUF + hau/PRE + wau/STM + au/SUF
+6 nā/STM + da/SUF + e/SUF
+3 ha/PRE + nau/STM + hau/PRE + dauwu/STM
+3 ha/PRE + ja/PRE + denaa/STM
+4 gu/STM + jeau/STM + dau/SUF + nau/SUF + ne/SUF
+3 Hana/STM + āe/STM + yehau/STM + de/SUF + nee/SUF
+1 had/PRE + naa/STM + enauwu/STM + au/SUF + de/SUF + nau/SUF
+4 wau/STM + wau/SUF + chu/SUF + dauhu/STM + hau/STM + au/SUF
+5 haee/STM + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + nauau/SUF
+2 hae/STM + na/SUF + asaunee/STM
+1 hee/STM + ne/SUF + se/SUF + dau/SUF + hau/PRE + gau/PRE + nee/STM
+2 deejevanaa/STM
+1 hadne/STM + ne/SUF + sa/SUF + nau/SUF
+1 had/PRE + gau/PRE + chuhu/STM + vā/STM + de/SUF
+3 daun/STM + hāe/STM + ne/SUF
+3 hāe/STM + se/SUF + de/SUF + au/SUF + chau/PRE + uu/STM
+2 hathaāje/STM + thee/SUF
+2 had/PRE + wau/STM + au/SUF + wuhu/STM + de/SUF + de/SUF
+1 hadne/PRE + da/PRE + nuu/STM
+1 hā/STM + ne/SUF + thau/SUF + nā/SUF + daune/STM + ne/SUF
+1 ha/PRE + se/PRE + sā/STM
+8 nau/STM + dau/PRE + auwuu/STM
+4 Wau/STM + nee/SUF
+1 Nau/STM + dau/SUF + the/SUF + au/SUF
+3 Hena/STM + ne/SUF + nauau/SUF
+6 nauau/STM + u/SUF + tha/SUF + yau/SUF
+3 gau/PRE + ha/PRE + jae/STM + ne/SUF
+4 naene/STM + dau/PRE + cha/STM + ne/SUF + nee/SUF
+6 ha/PRE + sau/STM + nee/SUF
+15 50/STM
+1 He/PRE + thauguhādau/STM + nau/SUF
+1 haenesauu/STM + thāhe/STM + nauau/SUF
+3 hae/STM + da/SUF + sa/SUF + na/SUF
+7 deje/STM + nauhu/STM + nee/SUF
+3 hadne/PRE + thauwu/STM + nauau/SUF + chu/SUF + u/SUF
+1 hadne/PRE + hau/PRE + wu/STM + na/SUF + thau/SUF + au/SUF
+3 heva/STM + u/SUF
+2 nedau/STM + nau/SUF + de/SUF + e/SUF
+3 je/PRE + thau/STM + u/SUF + je/PRE + nee/STM
+11 hautheaun/STM
+2 haeneā/STM + na/SUF + de/SUF + nauau/SUF
+1 daun/STM + a/SUF + hagu/STM
+1 hene/STM + thau/SUF + ne/SUF
+1 dau/PRE + nauusa/STM + de/SUF
+2 nau/STM + nau/SUF + dauwu/STM + nauau/SUF
+3 hae/PRE + gau/PRE + hau/PRE + cha/STM + nauau/SUF + hauunaug/STM + a/SUF + nauau/SUF
+3 nauwu/STM + nau/SUF + na/SUF + thee/SUF
+1 nene/STM + ā/SUF + gu/SUF + de/SUF + de/SUF
+4 daune/STM + ne/SUF + he/PRE + dau/STM + au/SUF
+1 Hana/STM + āe/STM + ne/SUF + he/PRE + thee/STM
+6 he/PRE + hau/PRE + wu/STM + se/SUF + au/SUF + de/SUF
+3 haud/STM + ne/SUF + hau/PRE + wu/STM + va/SUF + ja/SUF + dauwu/SUF
+13 hede/STM
+3 jee/STM + da/SUF + ne/SUF
+2 he/PRE + dā/STM + chau/STM + ne/SUF + nau/SUF
+2 Hau/STM + u/SUF + nauga/STM + nau/SUF
+3 Hejavaneauth/STM + u/SUF + u/SUF
+6 had/PRE + nauau/STM + chau/STM + daun/STM + a/SUF
+3 hae/STM + na/SUF + thau/SUF + de/SUF
+3 dau/PRE + je/PRE + nau/STM + de/SUF + de/SUF + nau/SUF
+2 hae/STM + ne/SUF + dauwu/STM + na/SUF + nauau/SUF
+1 had/PRE + je/PRE + dā/STM + ne/SUF
+2 hadavenuhu/STM
+8 nau/STM + hau/PRE + hau/PRE + nee/STM
+3 dau/PRE + gau/PRE + hau/PRE + wune/STM
+5 haee/STM + a/SUF + dau/SUF + nau/SUF + de/SUF + daun/STM + a/SUF + nauau/SUF
+37 hāe/STM + ne/SUF
+4 hede/STM + se/SUF + ve/SUF
+13 hena/STM + ne/SUF + nau/SUF
+3 hadne/STM + thau/SUF + gu/SUF + ha/PRE + tha/STM + ne/SUF
+10 He/PRE + ja/PRE + vaa/STM
+3 ne/PRE + nese/STM + dau/SUF + nā/SUF + nauau/SUF
+3 ja/PRE + se/PRE + see/STM
+6 haeautheava/STM
+1 hana/STM + thau/SUF + gu/SUF + de/SUF
+12 naja/STM + ne/SUF + de/SUF
+12 naja/STM + nauau/SUF
+3 Nau/STM + nau/STM + dā/STM + de/SUF
+3 hade/PRE + je/PRE + jena/STM + nau/SUF + de/SUF
+1 he/PRE + hau/STM + wau/SUF + gau/STM
+2 jane/STM + na/SUF + nee/SUF
+3 hathaāhe/STM + nethe/SUF
+2 he/PRE + je/PRE + nau/STM + u/SUF + ne/SUF + thau/SUF + nā/SUF + dau/SUF + nau/SUF
+1 nedau/STM + e/SUF + ne/SUF + ne/SUF + dau/PRE + nee/STM
+2 nauau/STM + chu/SUF + u/SUF
+1 had/PRE + nau/STM + nau/SUF + ā/PRE + dau/PRE + gau/PRE + hu/STM + dau/PRE + nee/STM
+1 hae/PRE + ja/PRE + vechaut/STM + haa/STM
+6 haeneena/STM + ne/SUF + au/SUF + ne/SUF
+1 Ha/STM + se/SUF + ne/SUF + hena/STM
+1 nee/STM + wau/PRE + sau/STM + nee/SUF
+2 hade/PRE + dau/PRE + nee/STM
+11 naje/STM + sa/SUF
+4 he/PRE + thā/STM + e/SUF + nethe/SUF + yau/SUF + nau/SUF
+4 hae/PRE + gau/PRE + gauu/STM + de/SUF + dau/SUF + ne/SUF
+2 naud/STM + nee/SUF + da/PRE + je/PRE + nehe/STM + thau/SUF
+1 nane/STM + dau/SUF + va/SUF + de/SUF
+18 Vaha/STM + dāhe/STM + nith/SUF
+12 hae/PRE + yāhe/STM
+1 had/PRE + jau/STM + nith/STM
+2 ha/PRE + naa/STM + se/SUF + ne/SUF
+4 hau/PRE + wu/STM + nau/SUF + na/SUF + ne/SUF
+7 ha/PRE + thā/STM + huk/STM
+3 hase/STM + nau/SUF + nau/SUF + dau/SUF + nā/SUF + he/PRE + nauau/STM
+2 jee/STM + chau/PRE + hau/PRE + the/PRE + hā/STM + a/SUF
+3 ha/PRE + nedau/STM + nee/SUF
+3 hau/STM + gu/SUF + thau/SUF
+1 hae/PRE + nethe/STM + dusaa/STM + nā/SUF
+3 heve/STM + na/SUF + nee/SUF
+6 nane/STM + the/SUF + nau/SUF + wau/SUF
+4 heau/STM + gu/SUF + se/SUF + na/SUF + de/SUF + nau/SUF
+1 nauwu/STM + ne/SUF + nith/SUF
+1 dau/STM + nau/SUF + hau/PRE + thā/STM + de/SUF
+1 duse/STM + dau/SUF + de/SUF + ne/SUF
+1 hae/STM + chu/SUF + vā/STM
+2 Hauw/STM + a/SUF + a/SUF
+2 hau/PRE + sā/STM + yau/SUF + ne/SUF
+1 hana/STM + ne/SUF + ne/SUF
+1 ne/STM + nau/SUF + chuwu/STM + nethe/SUF
+4 hanaāe/PRE + janaugu/STM + de/SUF
+1 Wau/STM + dau/STM + au/SUF
+5 Nesethajauhu/STM + hau/STM
+2 hāe/PRE + nau/STM + da/PRE + hede/STM
+6 he/PRE + naede/STM + de/SUF
+2 had/STM + va/SUF + sau/STM + au/SUF
+11 hau/PRE + nauau/STM
+3 he/PRE + hau/PRE + wu/STM + javaā/STM + he/STM
+11 Elisabeth/STM
+2 nedauyewuwude/STM
+1 hanaāa/STM + u/SUF + na/SUF + uchuwuha/STM + de/SUF + thee/SUF
+1 had/PRE + naa/STM + dauthānauwau/STM
+2 haee/STM + jesa/STM
+1 hese/STM + naede/STM + he/PRE + hau/STM + au/SUF
+4 haeehau/STM + tha/SUF + nauau/SUF
+1 deje/STM + dā/STM + de/SUF
+1 neau/STM + sā/STM + gu/SUF + thau/SUF + de/SUF
+4 naja/STM + va/PRE + he/PRE + hau/STM + au/SUF
+5 had/STM + de/SUF + yehau/STM
+2 gau/PRE + wau/PRE + ā/PRE + the/STM
+2 gau/PRE + jau/STM + au/SUF + dāhe/STM + yaugaune/STM
+2 haeje/STM + na/SUF + ne/SUF
+1 hajese/STM + vevethahe/STM + de/SUF
+1 ja/PRE + je/STM
+1 wau/STM + chu/SUF + dau/PRE + huhau/STM + au/SUF
+18 javaā/STM + nee/SUF
+3 hadne/PRE + hau/PRE + wu/STM + na/SUF + u/PRE + da/PRE + nauwu/STM + nā/SUF
+8 hathaāhe/STM + nith/SUF
+3 ne/STM + de/SUF + chau/STM + de/SUF + ne/SUF + nee/SUF
+2 ha/PRE + jaheede/STM
+3 nau/STM + chāe/STM
+4 60/STM
+2 he/PRE + thauwu/STM + wau/PRE + thā/STM + e/SUF
+1 hana/STM + sau/STM + au/SUF
+3 ve/STM + nau/SUF + ne/SUF + gu/SUF + thau/SUF
+4 nane/STM + dau/SUF + va/SUF + thee/SUF
+3 hana/STM + sā/STM + a/SUF
+3 jaegau/STM + hā/STM + yaugaune/STM
+3 hau/PRE + nau/STM + ne/SUF + ve/SUF + thajau/STM + huk/STM
+2 ha/PRE + dau/PRE + je/PRE + dā/STM + nā/SUF
+13 he/PRE + tha/STM + de/SUF + nee/SUF
+1 gau/PRE + gau/PRE + chu/STM
+3 ha/PRE + thā/STM + e/SUF + ne/SUF + dau/SUF + va/SUF + de/SUF
+3 hena/STM + nin/STM
+1 hā/STM + a/SUF + nauusa/STM + nau/SUF + ne/SUF
+4 64/STM
+2 the/STM + au/SUF + gu/SUF + thee/SUF
+1 haeje/STM + chu/SUF + wau/SUF + dā/STM
+2 Ha/STM + nee/SUF + jau/STM + de/SUF
+1 hauunaug/STM + a/SUF + nau/SUF
+7 haevas/STM + e/SUF + nehe/STM
+4 Nā/STM + hau/PRE + wu/STM + va/SUF + dau/SUF + nethe/SUF + nau/SUF + va/SUF
+1 Nane/STM + ha/PRE + jena/STM + nau/SUF + thee/SUF
+3 73/STM
+4 haeau/STM + nau/SUF + ne/SUF + de/SUF
+4 hae/PRE + nau/STM + the/SUF + ne/SUF + he/PRE + tha/STM
+3 hae/PRE + va/PRE + daun/STM + a/SUF + u/PRE + hau/PRE + dauwu/STM
+1 Ye/STM + gau/PRE + hu/STM
+4 hana/STM + vana/STM + sau/STM + au/SUF
+2 naa/STM + da/PRE + hagu/STM
+43 7/STM
+3 nanenauguhu/STM + hau/STM
+2 hae/STM + ve/SUF + the/SUF
+1 hau/PRE + nau/STM + ne/SUF + de/SUF + huk/STM
+3 ne/PRE + chau/STM + a/SUF + nauau/SUF
+4 na/STM + vā/STM + ejethāwau/STM
+2 had/PRE + nese/STM + hā/STM + de/SUF
+1 he/PRE + hau/PRE + wu/STM + naa/SUF + dau/PRE + hau/PRE + ā/PRE + nuu/STM
+3 hādut/STM + hāe/PRE + javaā/STM + ve/SUF + nā/SUF + va/SUF
+14 Abraham/STM
+5 hau/PRE + nau/STM + u/SUF + dau/SUF + yau/SUF + gu/SUF
+2 hasayāneda/STM + nauwu/STM + nau/SUF + de/SUF + nau/SUF
+1 had/STM + na/SUF + āe/STM + nau/STM + hau/PRE + wau/STM + na/SUF
+2 Ja/STM + sa/SUF + ye/STM
+2 Nane/STM + hane/STM + hane/STM + na/SUF + yau/SUF + hade/STM + de/SUF
+1 hae/STM + nee/SUF + thau/SUF + jau/STM + de/SUF + ne/SUF
+3 gau/PRE + hana/STM + de/SUF + thā/STM + a/SUF
+5 nee/STM + na/SUF + nee/SUF
+1 hau/PRE + cha/STM + heve/STM + see/STM
+4 Ha/STM + je/PRE + se/PRE + se/PRE + nee/STM
+48 19/STM
+2 hese/STM + nee/SUF
+2 nane/STM + wau/STM + de/SUF
+2 haey/STM + eyethautheava/STM
+5 ne/PRE + jane/STM + sa/SUF + ne/SUF + nee/SUF
+5 hau/PRE + jau/STM + thau/PRE + wau/STM + au/SUF
+5 wau/STM + au/SUF + wuhu/STM + de/SUF
+2 ne/STM + dā/STM + nee/SUF
+5 hau/PRE + sā/STM + guthaugaunee/STM
+4 hā/STM + au/SUF + chau/STM + au/SUF
+2 ha/PRE + va/PRE + the/STM + gauu/STM + ha/STM
+1 he/PRE + wau/PRE + ā/PRE + the/STM
+2 java/STM + au/SUF + the/SUF + nane/STM + dau/SUF + ne/SUF + vaa/STM
+3 na/STM + nā/SUF + se/SUF + dau/SUF + nee/SUF
+12 hae/PRE + nedau/STM + wau/STM + de/SUF
+2 neda/STM + nauau/SUF
+2 heda/STM + na/SUF + va/SUF + nau/SUF + gu/SUF
+2 hea/STM + de/SUF + va/SUF + ne/SUF + hana/STM + he/PRE + dau/PRE + nau/STM
+5 ha/PRE + hagu/STM
+1 hajese/STM + gaugauana/STM + duu/STM
+5 Nau/STM + hau/PRE + vaa/STM
+3 nā/STM + hau/PRE + wu/STM + veede/STM + nau/SUF + ne/SUF
+1 hana/STM + ne/SUF + da/SUF + a/SUF
+1 dauhu/STM + nau/SUF + hau/PRE + dauwu/STM + na/SUF
+1 gau/PRE + had/STM + na/SUF + ne/SUF + ne/SUF
+1 naa/STM + se/SUF + dau/SUF + nau/SUF
+2 hane/STM + sa/SUF + hena/STM
+3 had/PRE + jae/STM + gu/STM + da/PRE + nauwu/STM + na/SUF + u/SUF + de/SUF
+5 ha/PRE + tha/STM + he/PRE + thee/STM
+1 vanenu/STM
+1 Na/STM + je/PRE + se/STM
+2 Had/STM + naasau/STM + au/SUF
+17 hae/PRE + nau/STM + hau/STM + va/SUF
+1 dauhu/STM + dau/PRE + cha/STM + nau/SUF
+3 wau/STM + thau/SUF + nau/SUF + ha/STM
+3 hae/PRE + gau/PRE + ā/PRE + hene/STM + nau/SUF
+2 haeau/STM + gau/STM + the/SUF + a/SUF
+1 nanas/STM + āe/STM
+4 he/PRE + he/PRE + the/STM
+17 Vada/STM + nau/SUF + wau/PRE + thauwu/STM
+15 he/PRE + nau/STM + ne/SUF
+3 hanā/STM + jena/STM + nau/SUF + na/SUF
+2 de/STM + ne/SUF + hena/STM
+5 Gauhā/STM + je/PRE + thau/STM + nau/SUF + hau/STM + de/SUF
+4 had/PRE + nau/STM + hau/PRE + wau/STM + na/SUF
+1 ve/STM + na/SUF + de/SUF + dau/SUF + nau/SUF
+2 nau/STM + the/SUF
+3 Lysanias/STM
+1 hadne/PRE + thauwu/STM + naasau/STM + au/SUF
+2 maus/STM + dau/SUF + de/SUF
+3 deje/STM + je/PRE + nay/STM + ā/PRE + the/STM + e/SUF
+3 have/STM + de/SUF + hew/STM
+4 ha/PRE + dau/PRE + ne/PRE + chau/STM + da/SUF + nee/SUF
+1 hāe/PRE + veehau/STM + the/SUF
+1 nau/STM + nau/SUF + yau/SUF + hau/PRE + duu/STM
+2 hae/PRE + thauwu/STM + gu/SUF + tha/SUF + a/SUF
+4 wauc/STM + hā/STM + he/STM + nethe/SUF
+3 had/PRE + veehau/STM + na/SUF
+6 nee/STM + se/SUF + vā/STM + nethe/SUF
+14 jasae/STM
+6 dau/PRE + wau/STM + thau/SUF + nauhu/STM + u/SUF
+4 hae/PRE + yehau/STM + nauau/SUF
+4 had/PRE + nae/STM + nauwu/STM + na/SUF
+46 8/STM
+1 hā/STM + hauwa/STM + sā/STM + na/SUF + vā/STM + ne/SUF
+2 Hā/STM + nau/SUF
+4 Augustus/STM
+1 hedanadedaune/STM + nau/SUF
+2 he/PRE + yā/STM + e/SUF + nau/SUF
+28 Naudu/STM
+2 ha/PRE + nee/STM + dauuse/STM + nane/STM + the/SUF
+4 nee/STM + naede/STM + nethe/SUF
+2 hene/STM + se/SUF + thau/SUF + ne/SUF + ne/SUF
+9 wau/STM + nau/SUF + yau/SUF + nee/SUF
+5 hāe/PRE + javaā/STM + dāāhe/STM + nethe/SUF
+2 hāe/PRE + va/PRE + the/STM + nay/STM + ā/PRE + the/STM + dau/SUF + de/SUF
+4 haeauwu/STM + sa/SUF
+8 nane/STM + se/SUF + au/SUF + wau/STM + de/SUF
+7 nau/STM + nau/STM + jau/STM + nee/SUF
+56 33/STM
+3 nethe/STM + nauau/SUF + gu/SUF
+1 ha/PRE + tha/STM + na/SUF + dauwu/STM + yaugaune/STM
+4 he/PRE + thau/STM + wau/PRE + dau/STM + de/SUF
+124 hena/STM
+3 hae/STM + ne/SUF + da/SUF + ne/SUF
+2 hanaāe/PRE + nehe/STM + de/SUF
+1 hau/STM + tha/SUF + se/SUF
+6 nedau/STM
+1 hana/STM + ne/SUF
+2 haee/STM + se/SUF + vāhe/STM + ne/SUF
+1 haeje/STM + da/SUF + na/SUF
+3 Gabriel/STM
+2 He/PRE + naja/STM + ne/SUF + de/SUF
+1 na/STM + nā/SUF + se/SUF + dau/SUF + thee/SUF
+2 Va/STM
+4 hehe/STM + enesedaude/STM + ne/SUF + a/SUF + gu/SUF
+3 hadne/PRE + ve/PRE + wauhu/STM + dau/PRE + nee/STM
+3 Ve/STM + dau/PRE + auwuu/STM
+4 he/PRE + gau/STM + gau/STM + nauau/SUF
+2 Gauhā/STM
+6 hae/PRE + dauyewuwu/STM + nauau/SUF
+3 dusaudee/STM
+1 hae/PRE + nau/STM + hau/STM + va/SUF + a/SUF
+1 Da/STM + dau/SUF + ne/SUF + dan/STM
+1 haeje/STM + ehedesa/STM + nauau/SUF
+2 gau/PRE + chau/PRE + chau/STM + nu/SUF
+4 hāhe/STM
+2 hanaāe/PRE + vā/STM + de/SUF
+2 had/PRE + gau/STM + nau/SUF + hau/STM + au/SUF
+3 hae/PRE + nauauhu/STM
+2 dau/PRE + je/PRE + yau/STM + the/SUF + see/STM
+2 hau/STM + au/SUF + vāhe/STM + hau/STM + au/SUF
+4 Haugau/STM
+1 hathaāhe/STM + dau/PRE + nee/STM
+3 hene/STM + nese/PRE + gau/PRE + ha/PRE + hek/STM
+3 wau/STM + cha/STM + hagu/STM
+13 ha/PRE + thā/STM + au/SUF + au/SUF + vaa/STM
+6 hanaāe/STM + nā/SUF + au/SUF + hau/STM + wau/STM + de/SUF
+2 had/PRE + na/STM + dethaude/STM
+4 heja/STM + de/SUF + ne/SUF + nau/SUF
+2 hae/PRE + hee/STM + ne/SUF + se/SUF + a/SUF
+4 heda/STM
+2 thā/STM + nauwu/STM + na/SUF + a/SUF
+3 yau/STM + thau/SUF + yau/SUF + na/SUF
+12 hau/PRE + jau/STM + nauau/SUF
+38 16/STM
+2 78/STM
+5 had/PRE + jenauahenith/STM
+2 had/STM + na/SUF + āe/STM + nau/SUF + gau/PRE + yā/STM + thee/SUF
+3 haea/STM + na/SUF + hesa/STM + de/SUF + nauau/SUF
+3 hade/STM + na/SUF + yau/SUF + hau/STM + au/SUF
+3 Gaugauana/STM + vaa/STM
+1 hae/STM + va/SUF + dau/SUF + va/SUF + sa/SUF + nau/SUF
+49 11/STM
+4 haea/STM + yā/STM + e/SUF + da/SUF + sa/SUF
+7 vevethahe/STM + e/SUF
+3 hane/STM + se/SUF + da/SUF + nauwu/STM
+3 heva/STM + sā/STM + tha/SUF + de/SUF
+5 hauāyāhe/STM
+1 haeje/STM + nethe/SUF + dusaa/STM + nā/SUF
+1 hae/STM + thau/SUF + wau/SUF + the/SUF
+3 Hejavaneathu/STM
+3 gau/PRE + hau/PRE + nau/STM + de/SUF
+63 ne/PRE + ha/PRE + yau/STM
+2 nau/STM + nau/SUF + hau/PRE + wuu/STM
+2 had/STM + va/SUF + dau/SUF + chau/PRE + auau/STM
+25 Daun/STM
+3 neethā/STM + hau/PRE + gau/PRE + nee/STM
+37 vava/STM + de/SUF
+3 hau/PRE + nauga/STM + unayaudede/STM
+2 hāe/PRE + yauhuu/STM + nee/SUF
+1 Hana/STM + āe/STM + ne/SUF
+2 dee/STM + naede/STM + ne/SUF
+4 hae/PRE + gau/PRE + gauu/STM + thajau/STM + na/SUF
+3 hae/PRE + nau/STM + ā/SUF
+3 ha/PRE + ja/PRE + se/PRE + vāhau/STM
+2 ne/STM + nauau/SUF + thee/SUF
+38 hedan/STM
+7 hae/PRE + anade/STM + tha/SUF
+1 nee/STM + tha/SUF + de/SUF + e/SUF
+7 hena/STM + yau/SUF + hā/STM + ne/SUF
+1 hae/STM + ne/SUF + ha/PRE + nauwu/STM + na/SUF + nauau/SUF
+4 haee/STM + chau/PRE + chau/STM + na/SUF + ne/SUF
+1 had/STM + na/SUF + āe/STM + jases/STM + e/SUF + ne/SUF + he/PRE + duu/STM
+1 je/PRE + nese/STM + he/STM
+1 hadne/PRE + dau/PRE + wau/PRE + dau/STM + au/SUF
+14 ja/PRE + thee/STM
+3 dau/STM + yau/SUF + dau/SUF + nau/SUF + de/SUF
+3 haud/STM + ne/SUF + nayauhu/STM
+1 had/PRE + nauau/STM + chau/STM + nee/SUF
+1 hade/STM + naa/SUF
+2 Siloam/STM
+3 wauchudaude/STM + nau/SUF
+1 hae/PRE + yehau/STM + tha/SUF + nauau/SUF
+54 1/STM
+1 Ne/STM + ja/SUF + na/SUF + nau/SUF + de/SUF
+5 61/STM
+2 he/PRE + thau/PRE + wu/STM + thajau/STM
+2 had/PRE + nese/STM + naede/STM + de/SUF
+1 ne/STM + tha/SUF + de/SUF + e/SUF
+3 haea/STM + na/SUF + se/SUF + ne/SUF + ha/PRE + nauau/STM
+1 hase/STM + ne/SUF + hese/STM + ne/SUF
+4 ha/PRE + see/STM + nau/SUF + gu/SUF
+2 Hā/STM + e/SUF + nau/SUF + wuu/STM
+4 naaheene/STM
+6 nedau/STM + wuhu/STM
+8 hau/PRE + hau/STM + de/SUF
+1 na/STM + ā/PRE + ā/PRE + edauwu/STM + nauau/SUF
+1 Hā/STM + e/SUF + nau/STM + hau/PRE + wau/STM + de/SUF
+3 hae/PRE + nauuchau/STM + ha/STM
+1 Hau/STM + dnauthedaudauwau/STM
+3 ne/PRE + veede/STM + de/SUF
+2 ja/PRE + nauhuu/STM
+2 hadne/STM + va/SUF + u/SUF + de/SUF + nee/SUF
+1 had/PRE + naa/STM + tha/SUF + he/PRE + dau/PRE + nee/STM
+3 he/PRE + je/PRE + vā/STM + daune/SUF + ne/SUF
+1 jajaesenanedanede/STM
+2 nau/STM + gu/SUF + sāg/STM + e/SUF
+4 Hadauc/STM + haa/STM
+2 nea/STM + e/SUF + nau/SUF + ne/SUF + de/SUF
+53 Wauhā/STM
+2 hadaudu/STM + gau/PRE + yā/STM + saa/STM
+2 haeje/STM + da/SUF + guu/STM
+2 69/STM
+3 hase/STM + a/SUF + da/SUF + gu/SUF
+3 hau/PRE + wu/STM + nau/SUF + na/SUF + a/SUF
+3 he/PRE + jee/STM
+1 je/PRE + authea/STM + ve/SUF + ne/SUF
+2 Nā/STM + hauwa/STM + e/SUF + ne/SUF
+1 jave/STM + sa/SUF
+2 Annas/STM
+1 jave/STM + sa/SUF + nee/SUF
+8 wau/STM + tha/SUF + nee/SUF
+4 Nese/STM + dau/SUF + nethe/SUF
+3 dau/STM + gu/SUF + the/SUF + the/STM + au/SUF + gu/SUF + de/SUF
+17 nana/STM + de/SUF + e/SUF
+3 jau/STM + au/SUF + da/SUF + ne/SUF
+3 he/PRE + hede/STM + sa/SUF + ha/PRE + gau/PRE + nee/STM
+2 Hae/STM + wau/SUF + hau/PRE + nene/STM
+6 nane/STM + the/SUF + nauau/SUF
+3 hadne/PRE + hau/PRE + wu/STM + ne/SUF + a/SUF + yā/STM + dau/SUF + nā/SUF + va/SUF
+5 hae/STM + ne/SUF + he/PRE + tha/STM + a/SUF
+7 had/PRE + janaugu/STM
+2 hau/PRE + sā/STM + nau/SUF + de/SUF
+7 haeje/STM + na/SUF + na/SUF + a/SUF
+2 ha/PRE + jane/STM + thajau/STM + dauwu/STM + na/SUF
+5 Nā/STM + sau/STM + nau/SUF
+1 hase/STM + nau/SUF + nau/SUF + de/SUF
+2 had/STM + ve/SUF + the/SUF + he/PRE + nith/STM
+2 hāe/STM + nau/SUF
+5 ha/PRE + thā/STM + e/SUF + na/SUF + va/SUF + sau/STM + au/SUF
+3 had/PRE + nese/PRE + je/PRE + dā/STM + de/SUF
+1 he/PRE + dau/PRE + the/STM + au/SUF + ne/SUF
+1 Joan/STM + na/SUF
+7 wau/STM + thau/SUF + nau/SUF + ha/STM + naa/SUF
+4 he/PRE + thau/STM + auwuu/STM
+25 Nana/STM + ne/SUF + nith/SUF
+6 nanavanau/STM
+2 he/PRE + tha/STM + ne/SUF + nau/SUF
+2 had/PRE + nau/STM + ā/PRE + nauau/STM
+3 hanaāe/PRE + ja/PRE + nesā/STM + de/SUF
+2 hese/STM + va/SUF + naa/SUF + gu/SUF
+7 jane/STM + nesau/STM + nauchauanauhuu/STM
+1 he/PRE + dā/STM + eyaun/STM + e/SUF + wau/SUF
+7 hae/STM + ve/SUF + na/SUF
+3 had/PRE + nau/STM + hau/PRE + wau/STM + de/SUF
+2 hane/STM + au/SUF + au/SUF + wu/STM + nee/SUF
+3 hau/PRE + dā/STM + sau/STM + nauau/SUF
+5 wau/STM + nau/SUF + tha/SUF + thee/SUF
+3 nane/STM + the/SUF + nuu/STM
+1 he/PRE + hau/PRE + wu/STM + nesā/STM
+20 hae/PRE + ā/PRE + edauwu/STM + na/SUF
+1 jene/STM + e/SUF + au/SUF + de/SUF + huk/STM
+8 heda/STM + na/SUF + yau/SUF + ne/SUF + ne/SUF
+8 haujaun/STM
+1 ne/STM + nau/SUF + ga/STM + ā/PRE + nuu/STM
+2 hae/PRE + veede/STM
+4 Hejavaneauth/STM + saun/STM
+1 ne/STM + ja/PRE + jae/STM + sa/SUF + ā/PRE + nuu/STM
+2 Israel/STM
+18 ja/PRE + jene/STM
+6 Caesar/STM
+2 hanaāe/STM + nau/SUF + de/SUF + hau/PRE + thee/STM
+3 vada/STM + dau/SUF + sau/STM + au/SUF
+3 haee/STM + dau/SUF + chau/SUF
+2 haeye/STM + se/SUF + nee/SUF + gau/STM
+3 hae/PRE + nauuchau/STM + de/SUF + nauau/SUF
+5 hasauwauvahehe/STM
+1 daun/STM + u/SUF + nau/SUF + thee/SUF
+3 Vāā/STM
+21 Nesethajauhu/STM + hau/STM + au/SUF
+1 haya/STM + uwuse/STM + ne/SUF + nee/SUF
+1 had/PRE + nau/STM + the/SUF + duhu/STM + nee/SUF
+2 nau/STM + nau/SUF + a/SUF + sādāe/STM
+1 ne/STM + waucha/STM + na/SUF + va/SUF + thee/SUF
+1 haud/STM + nau/SUF + de/SUF + dau/SUF + na/SUF + tha/SUF + na/SUF
+3 ha/PRE + yau/STM + auwuu/STM
+1 dau/STM + au/SUF + gau/PRE + the/PRE + thajau/STM + duu/STM
+1 hadne/STM + ja/SUF + e/SUF + gu/STM + da/PRE + nauwu/STM + na/SUF + ne/SUF
+1 he/PRE + hau/PRE + wu/STM + nau/SUF + de/SUF
+6 Hejavaneathu/STM + sau/STM
+1 he/PRE + tha/STM + dā/STM + gu/SUF
+1 had/STM + na/SUF + ne/SUF + da/SUF + ne/SUF + de/SUF
+1 hanā/STM + du/STM + de/SUF + ve/SUF + de/SUF
+2 ha/PRE + see/STM + de/SUF
+2 nau/STM + gau/STM + gau/PRE + wu/STM + huhau/STM + au/SUF
+2 vave/STM + see/STM
+1 jeau/STM + dau/SUF + nau/SUF + de/SUF
+7 neje/STM
+3 haeneena/STM + daun/STM + a/SUF + nauau/SUF
+4 the/STM + au/SUF + gu/SUF + de/SUF
+1 Hae/STM + e/SUF + da/SUF + sa/SUF
+4 vevethahe/STM + he/STM
+6 gau/PRE + jena/STM + ne/SUF
+2 hea/STM + dau/SUF + nā/SUF + dau/SUF + nau/SUF
+3 had/STM + na/SUF + e/SUF + nauau/SUF
+2 hae/PRE + ne/PRE + saudau/STM + chu/SUF + nauau/SUF
+3 ha/PRE + dau/PRE + chu/STM + se/SUF + nee/SUF
+7 ha/PRE + nau/STM + de/SUF
+2 haeje/STM + nanauwu/STM
+1 haevas/STM + e/SUF + nau/SUF + the/SUF + nane/STM + dau/SUF
+2 nane/STM + the/SUF + nu/STM
+4 na/STM + nethauyāda/STM + he/PRE + thee/STM
+3 nau/STM + hau/PRE + dau/STM
+2 ne/STM + ā/PRE + nee/STM
+1 janechuv/STM + ā/SUF + hede/STM
+1 nase/STM + sā/STM
+1 had/PRE + gau/STM + u/SUF + chau/PRE + wau/STM
+3 ha/PRE + thā/STM + e/SUF + na/SUF + thau/SUF + dā/STM + e/SUF
+3 dau/PRE + ja/PRE + hese/STM + u/SUF + hunith/STM
+2 hase/STM + hā/STM + ne/SUF
+4 had/STM + ve/SUF + e/SUF + nau/SUF + de/SUF
+3 naja/STM + a/SUF
+2 nau/STM + hau/PRE + the/STM + thau/SUF
+1 hase/STM + ne/SUF + he/PRE + nā/STM
+4 nehe/STM + de/SUF + sa/SUF + de/SUF
+3 dau/PRE + chu/STM + uwuse/STM
+1 Mar/STM + tha/SUF
+2 haeneena/STM + va/SUF + dau/SUF + nau/SUF + hau/STM + va/SUF
+3 ne/PRE + nau/STM + hau/PRE + wau/STM + thee/SUF
+1 jeva/STM + e/SUF + chau/PRE + hā/STM + a/SUF
+2 nane/STM + se/PRE + hā/STM + de/SUF
+3 hane/PRE + chau/PRE + chau/PRE + nā/STM + e/SUF
+2 hae/STM + na/SUF + nee/SUF + se/SUF + ā/SUF + de/SUF
+1 hae/PRE + jā/STM + da/SUF
+36 wauwu/STM
+2 Hanaāa/STM + uthedaunenede/STM
+2 nese/STM + hau/STM + de/SUF
+4 he/PRE + daun/STM + u/SUF + nau/SUF + ne/SUF
+1 dau/STM + a/SUF + e/SUF + nau/SUF + nau/SUF + thee/SUF
+6 hedaeyau/STM
+5 nee/STM + nau/STM + hau/PRE + wau/STM + nauau/SUF
+2 hae/PRE + nedau/STM + va/SUF
+1 ha/PRE + dāhe/STM + ne/SUF
+11 naja/STM + nau/SUF
+4 ha/PRE + dau/STM + de/SUF
+4 had/PRE + nee/STM + nau/SUF + de/SUF + dauwu/STM + huu/STM
+1 hese/STM + da/SUF + uhauk/STM
+4 deje/STM + ve/SUF + thee/SUF
+2 he/PRE + hau/STM + na/SUF + gu/SUF
+3 dā/STM + dau/PRE + nee/STM
+2 had/PRE + nau/STM + the/SUF + dau/SUF + dauwu/STM + nith/STM
+4 had/PRE + nee/STM + ne/SUF + a/SUF + ve/SUF + dau/SUF + dau/SUF + nau/SUF + wau/STM + de/SUF
+7 gau/PRE + gauu/STM + thajau/STM + de/SUF + nau/SUF
+3 nese/PRE + wau/STM + de/SUF + au/SUF + hu/STM + nee/SUF
+2 hanaāe/STM + da/SUF + nau/SUF + de/SUF
+2 nane/STM + ha/PRE + se/PRE + dau/PRE + nee/STM
+2 he/PRE + hau/PRE + wu/STM + nee/SUF + ne/SUF + se/SUF + dau/SUF + na/SUF
+2 hae/PRE + nau/STM + hau/STM + de/SUF
+1 hau/PRE + dnadethu/STM
+5 nese/PRE + thā/PRE + he/PRE + hau/STM
+70 nauguu/STM
+21 hedanadedaune/STM + ne/SUF
+1 hajese/STM + a/SUF + na/SUF + de/SUF + de/SUF
+4 he/PRE + hau/PRE + wu/STM
+2 79/STM
+2 hene/STM + da/SUF + e/SUF + hā/STM + va/SUF + de/SUF + de/SUF
+1 haenauujāda/STM
+2 ne/STM + na/SUF + yau/SUF + thā/STM + nau/SUF
+6 hāe/PRE + se/PRE + dau/PRE + thee/STM
+2 de/STM + ja/PRE + chau/STM + tha/SUF + na/SUF
+1 had/PRE + jae/STM + chu/SUF + wau/SUF + yāauau/STM
+4 neajee/STM
+1 hae/PRE + jat/STM + hā/STM + au/SUF + nauau/SUF
+1 naa/STM + thāhe/STM + nethe/SUF
+2 heda/STM + sā/STM + dau/SUF + nau/SUF
+1 Nane/STM + ha/PRE + jau/STM + thee/SUF
+1 he/PRE + dau/STM + au/SUF + de/SUF
+1 haeje/STM + na/SUF + nauwu/STM + na/SUF
+7 haeau/STM + the/PRE + daun/STM + a/SUF
+2 ha/PRE + tha/STM + na/SUF + vā/STM + a/SUF + ne/SUF
+2 haud/STM + nā/STM + e/SUF + dauwu/STM + na/SUF + tha/SUF + ne/SUF
+12 he/PRE + dau/PRE + auwuu/STM
+3 hae/PRE + naa/STM + dā/STM + de/SUF
+2 hane/STM + naede/STM + dau/SUF + nau/SUF + de/SUF
+4 neva/STM + dau/SUF + javaā/STM + naja/STM + ne/SUF + thee/SUF
+4 Dauhunauchuwuhunene/STM
+2 haee/STM + na/SUF + ne/SUF + da/SUF + ne/SUF + ne/SUF
+1 Ha/STM + se/SUF + ve/SUF + nā/SUF + nauau/SUF
+4 He/PRE + hau/PRE + wau/PRE + the/PRE + va/PRE + the/STM + hā/STM + a/SUF + nauau/SUF
+2 hana/STM + e/SUF + je/PRE + dā/STM + de/SUF
+3 he/PRE + tha/STM + hagu/STM
+1 hae/PRE + thau/STM + gu/SUF + haa/STM
+4 hae/PRE + ve/PRE + wauhu/STM + nauau/SUF
+2 nane/STM + ha/PRE + tha/STM + hena/STM
+2 hāe/STM + ne/SUF + dau/SUF + nā/SUF + de/SUF
+2 Sodom/STM
+1 had/PRE + nethe/STM + nauwu/STM
+4 ha/PRE + dau/PRE + gau/PRE + chau/PRE + cha/STM + nee/SUF
+2 He/PRE + nau/STM + na/SUF + sā/STM + hau/STM
+7 Moses/STM
+3 had/PRE + nee/STM + jae/STM + nau/SUF + tha/SUF + na/SUF
+2 had/PRE + jaegau/STM + hā/STM + thee/SUF
+1 henesaunaune/STM + nau/SUF
+11 Tyre/STM
+1 ha/PRE + thā/STM + a/SUF + se/PRE + nana/STM
+4 jena/STM + ne/SUF
+2 hadahe/STM + nau/SUF + au/SUF
+1 Hā/STM + e/SUF + dauwu/STM + na/SUF + tha/SUF + na/SUF
+3 hāe/PRE + yehau/STM + de/SUF
+7 nese/STM + de/SUF + e/SUF
+5 jena/STM + e/SUF + nese/PRE + daune/STM
+3 ne/PRE + nehe/STM + de/SUF
+1 vā/STM + ejethādu/STM + gu/SUF + thau/SUF + nau/SUF
+4 janahuu/STM
+2 neje/STM + na/SUF + nauau/SUF
+3 gau/PRE + jau/STM + au/SUF + da/SUF + he/PRE + he/PRE + hau/STM
+27 Peda/STM
+44 36/STM
+4 ha/PRE + nese/PRE + daun/STM + a/SUF
+2 heau/STM + hau/STM
+8 56/STM
+2 nau/STM + yau/SUF + de/SUF + nau/SUF
+1 he/PRE + nau/STM + de/SUF + de/SUF + e/SUF
+1 had/STM + ve/SUF + nau/SUF + de/SUF
+3 hanā/STM + na/SUF + ā/SUF + au/SUF + chu/SUF + hane/STM + he/PRE + thā/STM + na/SUF
+72 Vaha/STM + dā/STM + de/SUF
+1 gau/PRE + had/STM + ve/SUF + naa/SUF
+1 had/PRE + jaegau/STM + hā/STM + sa/SUF + na/SUF + de/SUF
+1 he/PRE + hau/PRE + wu/STM + nee/SUF + nauau/SUF
+3 hae/PRE + nau/STM + dauwu/STM
+1 nese/PRE + vā/STM + ejethāwau/STM
+2 naa/STM + se/PRE + hā/STM + nau/SUF
+1 haud/STM + gu/SUF + da/SUF + nauau/SUF
+4 jat/STM + hā/STM + au/SUF
+13 Pinade/STM
+1 had/STM + de/SUF + the/STM + au/SUF + gu/SUF + na/SUF
+1 dau/PRE + daun/STM + a/SUF
+2 had/PRE + nauusa/STM + nauau/SUF
+2 nau/STM + hau/PRE + wau/STM + de/SUF
+1 had/PRE + jee/STM + ne/SUF + chau/PRE + daune/STM
+46 25/STM
+1 He/PRE + hau/PRE + wuu/STM + ja/SUF + va/SUF + neauthu/STM + ne/SUF
+3 he/PRE + hau/PRE + wu/STM + naasau/STM
+2 ha/PRE + nee/STM + ne/SUF
+3 had/PRE + nee/STM + dusaa/STM + nā/SUF + na/SUF
+3 hanā/STM + je/PRE + chu/STM + wau/SUF + the/SUF + daune/STM + nauhu/STM + nee/SUF
+3 hāe/PRE + dau/PRE + chau/PRE + thee/STM
+2 had/PRE + naa/STM + se/SUF + dau/PRE + nee/STM
+1 haeje/STM + jenāauguau/STM
+3 nesau/STM + na/SUF
+3 Havathee/STM
+1 denausu/STM + nau/SUF + gau/PRE + huu/STM
+3 hae/PRE + veehau/STM
+5 hae/PRE + gau/PRE + hā/STM + nauau/SUF
+3 camel/STM
+3 nedau/STM + nā/SUF + nau/SUF + gu/SUF
+12 hau/PRE + jau/STM + nau/SUF
+5 hae/STM + ne/SUF + dauwu/STM + nese/STM + de/SUF
+3 hāsau/STM + nau/SUF + ne/SUF + ne/SUF
+3 hae/PRE + anade/STM + nauau/SUF
+2 hena/STM + ne/SUF + da/SUF + nau/SUF + au/SUF
+3 dau/PRE + vechaut/STM + hā/STM + de/SUF
+3 Jasaa/STM
+24 ha/PRE + yewhu/STM
+2 hase/STM + jae/STM + nau/SUF + hau/PRE + thā/STM + de/SUF
+3 Jeva/STM + e/SUF + saa/STM
+3 haeje/STM + e/SUF + da/SUF + dauwu/STM
+8 he/PRE + dau/STM + au/SUF + wune/STM + ne/SUF
+1 dau/PRE + anade/STM + thee/SUF
+5 haenesauu/STM
+7 Hauwu/STM + nau/SUF + na/SUF + de/SUF
+1 hāe/PRE + jene/STM + naede/STM + nā/SUF
+3 nau/STM + gaagu/STM
+5 gau/PRE + chuhu/STM + nee/SUF
+4 haeau/STM + thauwu/STM + vaa/STM
+4 80/STM
+1 haeje/STM + ja/PRE + nauhu/STM + sa/SUF + ne/SUF
+1 hae/PRE + he/PRE + gau/PRE + gau/PRE + gauu/STM + de/SUF + nauau/SUF
+3 neje/STM + nedau/STM + va/SUF + thee/SUF
+4 hedahaa/STM
+1 ha/PRE + thau/STM + the/SUF + dau/SUF + nā/SUF + thee/SUF
+1 hae/STM + da/SUF + jeva/STM + sa/SUF + na/SUF
+4 hae/PRE + gau/PRE + duse/STM
+3 hanaāe/PRE + jases/STM + a/SUF + hesa/STM + de/SUF + de/SUF
+6 nā/STM + edauwu/STM + na/SUF + tha/SUF + na/SUF
+49 Nana/STM + ne/SUF + nau/SUF
+4 65/STM
+5 haee/STM + va/SUF + thau/SUF + de/SUF
+52 22/STM
+1 hā/STM + hau/PRE + wu/STM + thau/PRE + wu/STM + thajau/STM
+12 Dādau/STM + ne/SUF + dan/STM
+9 hae/PRE + vaveenethedau/STM + na/SUF + nauau/SUF
+8 Nese/STM + thajuhu/STM
+6 nese/PRE + yaugaune/STM
+3 hadeehau/STM + de/SUF + nee/SUF
+1 hae/PRE + nau/STM + de/SUF + de/SUF
+4 je/PRE + chu/STM + va/SUF + hena/STM
+3 hau/PRE + nau/STM + ne/SUF + ne/SUF + chau/PRE + hude/STM
+45 38/STM
+4 had/PRE + duu/STM + naasau/STM
+1 hanaāa/STM + dethaude/STM
+12 hena/STM + ne/SUF + ne/SUF
+2 had/PRE + wau/STM + thau/SUF + nau/SUF
+12 wau/STM + thau/SUF + nau/SUF + hā/STM + he/PRE + hau/STM
+3 haud/STM + jena/STM + nauwu/STM + nethe/SUF
+2 haeau/STM + gau/STM + gu/SUF + nau/SUF + na/SUF + nauau/SUF
+4 hena/STM + yau/SUF + thāhe/STM
+3 nese/PRE + vā/STM + ejethāwau/STM + nau/SUF
+4 He/PRE + wau/PRE + nehaa/STM
+1 he/PRE + vā/STM + ejethāwau/STM
+2 vada/STM + na/SUF + yannaa/STM
+3 hae/PRE + nau/STM + na/SUF
+21 nau/STM + nau/STM + thau/SUF + au/SUF
+11 Haujau/STM
+3 had/PRE + nethe/STM + naede/STM + ve/SUF + ne/SUF
+25 nedau/STM + au/SUF
+10 nau/STM + nau/STM + dā/STM + de/SUF
+4 He/PRE + dan/STM + auwuu/STM
+1 wau/STM + nau/SUF + thā/STM + e/SUF
+3 hana/STM + thau/SUF + the/SUF + dau/SUF + nau/SUF + de/SUF
+2 hae/STM + se/SUF + de/SUF + na/SUF
+3 neheahe/STM + nauau/SUF
+3 haee/STM + dau/PRE + nauwu/STM + na/SUF
+5 ha/PRE + naa/STM + de/SUF + e/SUF
+1 ha/PRE + thā/STM + e/SUF + nauhaudauau/STM
+5 hanaāe/STM + da/SUF + nauau/SUF
+3 Jesus/STM
+5 hae/PRE + ja/PRE + jane/STM + sa/SUF + nau/SUF
+1 he/PRE + vechaut/STM + hā/STM + daune/SUF
+3 hā/STM + hau/PRE + wu/STM + thau/SUF + u/SUF + ve/SUF + ne/SUF
+1 Bethlehem/STM
+2 havae/STM + ha/PRE + yau/STM + de/SUF + nau/SUF
+1 hāe/PRE + nauuchau/STM + de/SUF + thee/SUF
+3 ha/PRE + thā/STM + au/SUF + au/SUF + va/SUF + de/SUF + e/SUF
+9 Joseph/STM
+2 Hade/STM + a/SUF + enauwu/STM
+5 ha/PRE + dau/PRE + veeyau/STM + nee/SUF
+3 Zacchaeus/STM
+4 hau/PRE + wau/PRE + hau/STM + au/SUF + wuna/STM + ne/SUF + nau/SUF
+2 dusau/STM + ne/SUF
+3 daune/STM + dau/PRE + wau/PRE + dauwu/STM + nith/SUF
+2 ne/PRE + nese/STM + de/SUF + nethe/SUF
+6 nau/STM + gau/STM + tha/SUF + nee/SUF
+2 hae/PRE + wauc/STM + hā/STM + he/STM + ne/SUF
+1 hae/PRE + nauauhu/STM + yehau/STM + nauau/SUF
+4 jeve/STM + ne/SUF
+1 Jeva/STM + e/SUF + ne/PRE + je/PRE + dā/STM + e/SUF
+14 Hena/STM + ne/SUF
+4 Jenayau/STM + nau/SUF
+23 Mar/STM + e/SUF
+1 Samaria/STM
+2 ha/PRE + je/PRE + nethe/STM + nau/SUF + wau/SUF
+1 hāsau/STM + nau/SUF + ne/SUF + nau/SUF
+7 haee/STM + se/SUF + da/SUF + ne/SUF
+6 nee/STM + thajau/STM + de/SUF
+1 nau/STM + nau/SUF + jā/STM + nau/SUF + nee/SUF
+3 nene/STM + dauwu/STM + na/SUF + tha/SUF + ne/SUF
+3 hae/PRE + wau/STM + ne/SUF + nau/STM + hau/PRE + thau/STM + ne/SUF + nau/SUF
+1 he/PRE + thā/STM + hene/STM + the/SUF
+1 hae/PRE + yehau/STM + daun/STM + a/SUF + nauau/SUF
+1 hae/STM + ve/SUF + ve/SUF + tha/SUF
+4 heda/STM + na/SUF + de/SUF + de/SUF
+3 negu/STM + da/SUF + nauau/SUF
+3 Hau/STM + nau/SUF + yauhaudauwauau/STM
+2 hāe/STM + ne/SUF + he/PRE + dau/STM + au/SUF
+6 ne/PRE + wauc/STM + hā/STM + nau/SUF + wau/SUF + thee/SUF
+2 ha/PRE + dau/PRE + chu/STM + na/SUF + ne/SUF + de/SUF
+2 dau/PRE + jau/STM + au/SUF + dau/SUF + nau/SUF + dau/STM + au/SUF
+4 thā/STM + nee/SUF
+5 hade/PRE + je/PRE + je/PRE + dā/STM + na/SUF
+23 Nana/STM + ne/SUF + na/SUF
+11 ne/PRE + saudau/STM + chu/SUF
+8 hae/PRE + wau/STM + tha/SUF + ne/SUF + nau/SUF
+4 nana/STM + vaa/STM + ve/SUF + dau/SUF + nau/SUF
+6 He/PRE + hauwa/STM + nedau/STM
+2 chau/PRE + nu/STM + wu/STM + thajau/STM + dau/SUF + nau/SUF + de/SUF
+1 haee/STM + dauwu/STM
+4 he/PRE + hau/PRE + wu/STM + nee/SUF + ja/PRE + the/PRE + chau/PRE + hau/STM
+1 Hade/STM + ve/SUF + the/SUF + hena/STM
+1 the/PRE + wau/STM + naa/SUF
+1 haee/STM + na/SUF + yau/SUF + ha/STM
+1 Se/STM + gau/PRE + ha/STM
+1 gau/PRE + had/PRE + nau/STM + tha/SUF
+11 54/STM
+3 hane/PRE + chau/PRE + wau/STM + au/SUF + nau/SUF + nauau/SUF
+7 hae/PRE + nau/STM + hau/STM + va/SUF + nauau/SUF
+2 Neau/STM + dau/SUF + nau/SUF + dau/SUF + wau/SUF
+1 hase/STM + nauusa/STM + de/SUF
+1 he/PRE + thauwu/STM + va/SUF + dau/SUF + ve/SUF + the/SUF + nau/SUF
+3 hanā/STM + na/SUF + ā/SUF + e/SUF + the/STM + au/SUF + gu/SUF + na/SUF
+2 hadne/PRE + yehau/STM + nau/SUF
+3 nae/STM + nauwu/STM + na/SUF
+1 ne/STM + vechaut/STM + hau/STM + thee/SUF
+2 hae/STM + ve/SUF + ve/SUF + the/PRE + daun/STM + a/SUF
+4 he/PRE + nedau/STM + de/SUF + vā/STM + dau/SUF + nau/SUF
+2 had/PRE + jā/STM + edauwu/STM + nau/SUF + nethe/SUF
+2 je/PRE + gau/PRE + s/STM + u/SUF + de/SUF + de/SUF
+3 Gauhaudjenesauu/STM + ja/PRE + nese/STM + nauau/SUF
+1 du/STM + gu/STM + thāhe/STM
+1 de/STM + du/STM + guhu/STM + de/SUF
+2 hanaāe/STM + nau/SUF + a/SUF + saa/STM
+3 hade/PRE + nauhaudauau/STM
+2 hanā/STM + nesau/STM + ne/SUF + de/SUF
+2 Ja/STM + u/SUF + au/SUF + nau/SUF + dau/SUF + naa/SUF
+1 daun/STM + u/SUF + de/SUF + sa/SUF + nau/SUF + nee/SUF
+2 je/PRE + va/PRE + gau/PRE + gauu/STM + thajau/STM + au/SUF
+2 had/PRE + nethe/STM + nauau/SUF
+8 hae/PRE + ja/PRE + enauwu/STM
+2 Hena/STM + ne/SUF + ne/SUF
+2 had/PRE + naa/STM + se/SUF + jena/STM + nauwu/STM + na/SUF + na/SUF
+2 hae/STM + ne/SUF + ne/SUF + se/PRE + guhu/STM + nauau/SUF
+4 haee/STM + auc/STM + hau/PRE + wu/STM
+2 Jeva/STM + nā/STM + thajau/STM + au/SUF
+3 hanaāe/STM + ve/SUF + nau/SUF + de/SUF
+1 hase/STM + thajau/STM + au/SUF + thā/STM + nā/SUF
+3 sycomore/STM
+5 vane/STM + na/SUF + tha/SUF + na/SUF
+3 had/PRE + nau/STM + gu/SUF + he/PRE + thee/STM
+4 dau/PRE + vaveenethedau/STM + nau/SUF + de/SUF
+1 he/PRE + thā/STM + e/SUF + ne/SUF + thau/SUF + nā/SUF + dau/SUF + nau/SUF
+2 je/PRE + se/PRE + da/PRE + nā/STM + na/SUF + gu/SUF
+1 hau/PRE + thau/STM + nau/SUF + hā/STM + nee/SUF
+2 Dut/STM + hāe/STM + na/SUF + nau/SUF + thau/SUF + ne/SUF
+1 hā/STM + va/PRE + the/STM + hā/STM + daune/SUF + nau/SUF
+1 gau/PRE + hau/PRE + chāe/STM
+3 thau/STM + gu/SUF + thā/PRE + he/PRE + hau/STM
+2 he/PRE + thā/STM + u/SUF + u/SUF
+2 ne/STM + nu/STM + gu/SUF + thu/STM
+1 hae/PRE + ā/PRE + nau/STM + da/SUF + ne/SUF + nau/SUF
+5 ne/PRE + authedau/STM + nau/SUF + thee/SUF
+1 hau/PRE + dau/PRE + gautheavadenenau/STM
+2 ha/PRE + thā/STM + e/SUF + nethe/SUF + nau/SUF + thee/SUF
+1 nee/STM + thajau/STM + thee/SUF
+1 had/PRE + gau/STM + u/SUF + se/PRE + vā/STM + na/SUF
+3 had/PRE + nau/STM + guhu/STM + dau/SUF + nau/SUF + na/SUF
+4 haee/STM + da/SUF + na/SUF
+6 Hauddu/STM + se/SUF + dau/SUF
+1 hanaāe/PRE + nuu/STM + sa/SUF + thee/SUF
+4 na/STM + nedauwauduu/STM
+1 hae/STM + chu/SUF + wau/SUF + dā/STM
+4 hehauwuneejeauchusanauau/STM
+3 ha/PRE + tha/STM + uhaugaunee/STM
+1 ha/PRE + thau/STM + yaugaune/STM
+1 Pontius/STM
+2 nethauyāda/STM + he/PRE + he/PRE + hau/STM
+2 he/PRE + yau/STM + thee/SUF
+2 nee/STM + se/PRE + da/PRE + nauwu/STM
+3 bau/STM
+2 Na/STM + dāhe/STM + wau/SUF + nā/SUF + de/SUF
+2 nau/STM + nau/SUF + dāhe/STM + nith/SUF
+3 hā/STM + a/SUF + e/SUF + nau/SUF + nau/SUF + de/SUF
+3 nase/STM + duhuu/STM
+7 gau/PRE + hā/PRE + je/PRE + va/PRE + the/STM + hā/STM + va/SUF
+5 nee/STM + da/SUF + nauau/SUF
+5 hauunaug/STM + a/SUF + ne/SUF
+4 hae/PRE + nedauwaut/STM + haa/STM
+3 hade/PRE + jau/STM
+9 ha/PRE + nese/PRE + thee/STM
+5 ha/PRE + thā/STM + au/SUF + nee/SUF
+3 hae/PRE + nauau/STM + ne/SUF + chau/PRE + haa/STM
+2 dau/PRE + je/PRE + nee/STM + thajau/STM + duu/STM
+2 had/PRE + nau/STM + chu/SUF + ha/PRE + nehe/STM + de/SUF
+2 ha/PRE + dau/PRE + uthadee/STM
+1 Nad/STM + ne/SUF + hau/SUF + wau/SUF + the/SUF + ve/SUF + the/SUF
+3 he/PRE + vevethahe/STM + e/SUF
+1 had/PRE + nau/STM + hau/PRE + the/STM + ha/PRE + tha/STM + na/SUF
+1 hau/PRE + wau/STM + hau/STM + au/SUF + wudan/STM
+1 Had/STM + naa/SUF + se/SUF + dau/SUF + nau/SUF
+4 haa/STM
+7 va/PRE + nehaa/STM
+3 nesau/STM + u/SUF + u/SUF
+4 nahavaa/STM
+3 haee/STM + ne/SUF + ne/SUF + hau/PRE + wau/STM + ne/SUF
+12 had/STM + ve/SUF + nā/SUF + de/SUF
+3 hau/PRE + hau/PRE + gane/STM + dau/STM + au/SUF
+2 chuwu/STM + u/SUF
+1 dau/PRE + janaugu/STM + dau/SUF + nau/SUF + de/SUF
+5 hadavenuhu/STM + ne/SUF + de/SUF
+3 vada/STM + na/SUF + yau/SUF
+5 va/PRE + dau/PRE + hau/STM
+1 hae/PRE + nauwu/STM
+1 He/PRE + wau/STM + au/SUF
+4 the/PRE + au/STM + dau/PRE + sau/STM + au/SUF
+2 hae/STM + na/SUF + āe/STM + nuu/STM + sa/SUF + thee/SUF
+1 je/PRE + va/PRE + nā/STM + thajau/STM
+1 had/PRE + janaugu/STM + duu/STM
+6 ha/PRE + thā/STM + de/SUF
+3 haeje/STM + nee/SUF + ne/SUF
+1 hanā/STM + wauwaunave/STM + de/SUF
+2 hāe/PRE + nauusa/STM + nau/SUF + nauau/SUF
+1 hadne/STM + ve/SUF + nau/SUF + de/SUF
+2 ne/STM + nau/SUF + thā/STM + de/SUF
+1 na/STM + ve/SUF + the/SUF + he/PRE + dau/PRE + naa/STM
+1 hene/STM + ve/SUF + sā/STM + nauau/SUF
+1 hae/PRE + jae/STM + ne/SUF
+2 wau/STM + ā/PRE + th/STM
+2 neva/STM + jau/STM + nau/SUF
+22 52/STM
+8 Hau/STM + nau/STM + wu/STM + thajau/STM + au/SUF
+4 ha/PRE + duu/STM + nee/SUF
+2 hae/PRE + heau/STM + the/PRE + daun/STM + a/SUF
+8 hade/STM + thau/SUF + wu/STM + thajau/STM + de/SUF
+4 he/PRE + je/PRE + thau/STM + u/SUF + nee/SUF + thau/SUF + ne/SUF + nau/SUF
+3 haud/STM + duseha/STM
+3 hadne/PRE + saanude/STM + de/SUF
+2 ha/PRE + jena/STM + nauau/SUF
+2 Hana/STM + āe/STM + da/SUF + nau/SUF + de/SUF
+2 he/PRE + hau/PRE + wu/STM + nethe/SUF + nauwu/STM
+2 hadne/PRE + hau/PRE + wu/STM + thau/SUF + wau/SUF + the/SUF + ne/SUF
+3 janechuv/STM + ā/SUF + de/SUF
+7 hae/PRE + nau/STM + hau/PRE + dauwu/STM
+14 51/STM
+1 haudduthā/STM
+4 67/STM
+2 hanaāe/PRE + jenauahenith/STM
+1 dauhu/STM + dau/PRE + chu/STM
+2 Had/STM + ve/SUF + nau/SUF + de/SUF
+5 had/STM + na/SUF + na/SUF + daune/STM + thā/STM + nethe/SUF
+5 vā/STM + e/SUF + nau/SUF
+1 hade/PRE + nauuchau/STM + dau/SUF + nau/SUF + thee/SUF
+4 ja/PRE + sā/STM + nee/SUF
+2 he/PRE + nesau/STM + nehe/STM
+4 haeje/STM + va/SUF + nauuchau/STM + de/SUF + ne/SUF
+3 Yā/STM + yau/SUF + au/SUF
+4 ne/PRE + nauuchau/STM + de/SUF + de/SUF
+3 nava/STM + ha/PRE + dāhe/STM + wau/SUF + nā/SUF + de/SUF
+9 hau/PRE + chuwu/STM + nane/STM + nau/SUF
+1 hanā/STM + thau/SUF + na/SUF
+4 hā/STM + jane/STM + sau/STM + thā/STM + de/SUF
+1 haud/STM + nae/STM + nauwu/STM + na/SUF
+5 hadeeseda/STM + nau/SUF + wau/SUF
+4 hau/PRE + hau/PRE + thau/STM + au/SUF + au/SUF
+5 hajese/STM + se/SUF + ne/SUF + nee/SUF
+2 hana/STM + va/SUF + chu/SUF + u/SUF + nau/SUF
+4 ha/PRE + yā/PRE + ja/PRE + dāhe/STM
+2 hāe/PRE + dau/PRE + gau/PRE + hau/PRE + vā/STM + nau/SUF
+3 haeau/STM + chu/SUF + ha/STM + nana/STM + de/SUF + ne/SUF
+4 je/PRE + nauhuu/STM
+3 he/PRE + wau/STM + au/SUF + naa/SUF
+4 hāe/PRE + gau/PRE + nanauwu/STM + nā/SUF + nauau/SUF
+2 hāe/PRE + sau/STM + ā/SUF + nauau/SUF
+2 da/PRE + jee/STM
+3 he/PRE + ja/PRE + vaa/STM + a/SUF
+2 je/PRE + ja/PRE + se/PRE + see/STM
+1 hanaāe/STM + chu/SUF + wau/SUF + the/SUF + thajau/STM + dau/SUF + nau/SUF + thee/SUF
+3 had/PRE + javaā/STM + na/SUF + ne/SUF + thau/SUF + au/SUF + yau/SUF + au/SUF
+1 the/STM + au/SUF + gu/SUF + dau/SUF
+5 nauau/STM + chau/STM + dau/SUF + nau/SUF + the/SUF
+1 hae/PRE + ā/PRE + edauwu/STM + nā/SUF
+6 hanā/STM + yehau/STM + nee/SUF
+5 va/PRE + dau/STM + va/SUF + u/PRE + thauhuk/STM
+1 nese/PRE + dau/STM + de/SUF + nee/SUF
+2 hae/PRE + ehedesa/STM + nauau/SUF
+2 the/STM + au/SUF + gu/SUF + u/SUF
+31 he/PRE + naja/STM + ne/SUF + daune/STM + ne/SUF
+1 had/PRE + nava/STM + the/SUF + thau/SUF + thauwu/STM + nauau/SUF + au/SUF
+1 nau/STM + dau/SUF + gu/SUF + ve/SUF + chu/SUF + de/SUF
+1 saesee/STM
+1 hau/STM + u/SUF + yau/SUF + chuwu/STM + nau/SUF
+2 had/STM + na/SUF + sā/STM + nau/SUF + wau/STM + de/SUF
+4 hanaāa/STM + u/SUF + nau/STM + wu/STM + thajau/STM + thee/SUF
+2 gau/PRE + had/PRE + wau/STM + de/SUF + au/SUF
+4 hae/PRE + janaugu/STM + de/SUF
+2 hane/STM + ne/SUF + se/SUF + nethe/SUF
+2 neje/STM + na/SUF + nau/SUF + wau/SUF
+6 hae/STM + ne/SUF + va/SUF + u/SUF + de/SUF + ne/SUF + ne/SUF
+7 ha/PRE + se/PRE + hana/STM
+6 Nenayau/STM + hau/STM + de/SUF
+5 deau/STM + chuwu/STM + nane/STM + ne/SUF + de/SUF
+5 he/PRE + sā/STM + nau/SUF
+1 hase/STM + hade/STM + nā/SUF
+3 je/PRE + gu/STM + da/PRE + nauwu/STM + ne/SUF
+2 hae/PRE + vaveene/STM
+13 ne/PRE + chau/STM
+17 hae/PRE + vaveenethedau/STM + na/SUF
+4 Hā/STM + hau/PRE + wu/STM + nee/SUF + ne/SUF
+52 Hejavaneauth/STM + u/SUF
+2 nae/STM + nauau/SUF
+1 had/PRE + jena/STM + nuu/STM
+2 dau/STM + au/SUF + gau/PRE + hu/STM + de/SUF
+15 hayew/STM
+2 hāe/PRE + je/PRE + ja/PRE + nauhu/STM + sa/SUF + thee/SUF
+1 nau/STM + nau/SUF + hau/PRE + wau/STM + au/SUF
+2 hā/STM + the/PRE + sau/STM + nauau/SUF
+2 hauāyāhe/STM + hau/STM
+1 hanaāe/PRE + nuda/STM + nau/SUF + de/SUF
+4 had/STM + va/SUF + chu/SUF + u/SUF + gu/SUF + thā/STM + ne/SUF
+3 heda/STM + ja/SUF + nau/SUF + naa/SUF
+47 43/STM
+1 vaveenethedau/STM + wuu/STM
+1 ha/PRE + dau/PRE + the/PRE + daun/STM + a/SUF + tha/SUF + va/SUF
+3 He/PRE + saa/STM + nuu/STM
+4 gau/PRE + ha/PRE + je/PRE + gau/PRE + dau/STM + va/SUF + na/SUF + de/SUF
+5 nauau/STM + hade/STM + de/SUF
+3 dau/PRE + nee/STM + nā/SUF + hede/STM
+2 gau/PRE + had/PRE + je/PRE + dau/STM + au/SUF + wau/SUF + nauau/SUF
+12 he/PRE + va/PRE + the/STM + yau/SUF + nau/SUF
+1 hau/PRE + hau/PRE + gane/STM + ne/SUF
+1 nauddu/STM + se/SUF + dau/SUF
+3 he/PRE + gau/STM + wune/STM
+1 ne/STM + da/PRE + nauwu/STM + nā/SUF + thee/SUF
+16 he/PRE + sā/STM + nauau/SUF
+5 hauunaug/STM + a/SUF
+1 jeva/STM + nau/SUF + ne/SUF + nā/SUF + the/PRE + daun/STM + a/SUF + a/SUF
+3 dau/PRE + veeyau/STM + au/SUF
+3 he/PRE + nee/STM + ne/SUF + nau/SUF + thā/STM + de/SUF
+3 he/PRE + hau/PRE + wu/STM + u/SUF + chu/SUF + vā/STM
+1 na/STM + naja/STM + wau/PRE + dau/STM + au/SUF
+1 had/PRE + nau/STM + nau/SUF + ne/SUF + hā/STM + na/SUF
+3 da/PRE + se/PRE + nau/STM + na/SUF + nau/SUF + nee/SUF
+3 hae/PRE + chau/STM + gu/SUF + sa/SUF
+1 hadne/STM + ja/SUF + u/SUF + nauau/SUF
+1 hanaāe/STM + va/SUF + dau/STM + au/SUF + dau/SUF + de/SUF
+2 hae/PRE + wau/STM + tha/SUF
+2 nā/STM + a/SUF
+2 va/STM + u/SUF + hau/PRE + nane/STM
+4 ne/PRE + naja/STM + a/SUF
+2 He/PRE + chau/PRE + hau/PRE + the/STM + thāhe/STM
+1 he/PRE + hau/PRE + wu/STM + va/SUF + the/SUF + hā/STM
+2 had/PRE + jaa/STM + nauwu/STM + na/SUF + tha/SUF + ne/SUF
+1 va/STM + chu/SUF + wau/SUF + auwuu/STM
+2 Ne/STM + he/PRE + tha/STM + tha/SUF + ne/SUF
+1 va/PRE + the/STM + yau/SUF + nau/SUF
+1 hadne/PRE + je/PRE + se/PRE + je/PRE + nauau/STM + chu/SUF + u/SUF
+5 he/PRE + sau/STM + da/PRE + vaa/STM
+4 dau/PRE + nauga/STM + ne/SUF + nee/SUF
+3 haee/STM + da/SUF + de/SUF
+2 Ne/STM + gau/PRE + dau/PRE + hau/STM + de/SUF
+2 de/STM + nau/SUF + de/SUF + de/SUF + de/SUF
+3 Nene/STM + dauwu/STM + na/SUF + tha/SUF + ne/SUF
+3 hau/STM + nau/SUF + a/SUF + hee/STM
+2 dea/STM + de/SUF + thā/STM + de/SUF
+1 hae/STM + ne/SUF + thau/SUF + naa/SUF
+13 ha/PRE + dau/PRE + gau/PRE + chau/PRE + dā/STM + e/SUF
+11 haeveeha/STM + nauau/SUF
+4 Zenautes/STM
+1 hau/PRE + chuwu/STM + nane/STM + nau/SUF + au/SUF
+2 ne/STM + u/SUF + wune/STM
+7 he/PRE + thau/STM + vaa/STM
+10 hada/STM + na/SUF + yau/SUF
+4 nana/STM + e/SUF + na/SUF
+1 hae/STM + ne/SUF + thau/SUF + yādā/STM
+2 nedau/STM + gau/PRE + hau/PRE + wau/STM + de/SUF
+4 ha/PRE + se/PRE + nehe/STM + thau/SUF + de/SUF
+3 haeechau/STM + hau/PRE + the/STM + thā/STM
+3 nesau/STM + dau/PRE + sau/STM + au/SUF
+3 hāe/PRE + wau/STM + de/SUF + au/SUF + chau/STM + de/SUF
+9 hā/STM + a/SUF + yā/STM + nauusa/STM + de/SUF
+3 he/PRE + javaāhe/STM + daune/SUF
+4 62/STM
+2 haa/STM + de/SUF + ne/SUF + na/SUF + yau/SUF + thā/STM
+8 vada/STM + dau/SUF + chu/SUF + nese/STM + nee/SUF
+2 had/PRE + waucha/STM + nau/SUF + wau/STM + de/SUF
+2 Nauguu/STM
+2 had/PRE + nese/PRE + dau/STM + de/SUF
+8 Nau/STM + chāe/STM
+1 jevaje/STM + je/PRE + dā/STM + nau/SUF + ha/STM
+6 hanaāe/PRE + nese/STM + au/SUF + de/SUF
+3 wauc/STM + hā/STM + he/STM + de/SUF
+2 nane/STM + se/SUF + dau/SUF
+9 he/PRE + hau/PRE + wu/STM + jena/STM + ne/SUF
+4 nā/STM + the/SUF + sau/STM + nauau/SUF
+3 hae/PRE + jā/STM + edauwu/STM + na/SUF + nauau/SUF
+1 haee/STM + je/PRE + thau/STM + u/SUF + nau/SUF + de/SUF
+11 haee/STM + da/SUF + sa/SUF + a/SUF
+8 hae/PRE + ja/PRE + enauwu/STM + na/SUF
+3 dā/STM + the/PRE + veehau/STM + cha/STM + ve/SUF + sau/STM
+4 wau/STM + wau/SUF + ne/SUF
+78 hena/STM + ne/SUF + da/SUF + ne/SUF + de/SUF
+33 18/STM
+4 Solomon/STM
+2 hae/STM + ne/SUF + thau/SUF + nau/SUF
+1 dau/PRE + vethe/STM + he/PRE + thee/STM
+5 haenaā/STM + a/SUF + se/SUF + na/SUF + de/SUF
+2 ne/STM + thau/SUF + wau/PRE + dauwu/STM
+8 hae/PRE + je/PRE + nauusa/STM
+1 ha/PRE + ā/PRE + jeve/STM + se/PRE + hau/STM
+1 hau/PRE + ga/STM + je/PRE + hede/STM
+1 he/PRE + thau/STM + wau/SUF + da/SUF + nee/SUF
+4 gau/PRE + hā/PRE + nau/STM + ha/STM
+4 Hana/STM + āe/STM + nau/SUF + a/SUF + he/PRE + thee/STM
+6 Jeva/STM + newuu/STM + nau/SUF + wuu/STM
+1 nane/STM + ha/PRE + je/PRE + jea/STM + u/SUF + wu/STM + sa/SUF + de/SUF
+15 hena/STM + ne/SUF + da/SUF + nau/SUF
+6 hae/PRE + nethe/STM + na/SUF
+5 hae/PRE + yau/STM + de/SUF
+1 he/PRE + hau/PRE + wu/STM + dau/SUF + sānu/STM + ne/SUF
+2 ha/PRE + thā/STM + e/SUF + the/STM + au/SUF + gu/SUF + nethe/SUF
+1 nā/STM + hau/PRE + w/STM + āe/STM + nau/SUF + nau/SUF
+4 Hana/STM + āe/STM + nehe/STM + de/SUF
+2 hanaadauc/STM + hane/STM + nee/SUF
+4 ne/PRE + gauu/STM + se/SUF + e/SUF
+1 hāhe/STM + yaugaune/STM
+1 ha/PRE + thā/STM + he/PRE + nith/STM
+6 hae/PRE + yauhuu/STM + nee/SUF
+1 nā/STM + sau/STM + nau/SUF
+1 hase/STM + na/SUF + yau/SUF + hā/STM + de/SUF
+1 hau/STM + chu/SUF + ha/PRE + nee/STM
+4 hadnaaesaanuna/STM
+2 had/STM + na/SUF + e/SUF + nauwu/STM + nethe/SUF
+1 gau/PRE + haud/STM + nau/SUF + the/PRE + daun/STM + a/SUF + tha/SUF + va/SUF
+2 nethā/STM + e/SUF + nesau/STM + ne/SUF + vā/STM + na/SUF
+5 Cyrenius/STM
+1 had/PRE + nee/STM + se/SUF + nee/SUF
+4 Hau/STM + daun/STM + a/SUF
+3 haud/STM + gau/PRE + jau/STM + au/SUF + dā/STM + de/SUF
+2 haud/STM + ne/SUF + ja/SUF + na/SUF + de/SUF + ne/SUF
+10 nese/STM + nee/SUF
+2 hae/STM + na/SUF + ne/SUF + thau/SUF + au/SUF + ne/SUF + gu/STM + da/PRE + nauwu/STM + na/SUF
+14 ve/PRE + dau/PRE + auwuu/STM
+16 Herod/STM
+2 Caiaphas/STM
+2 nava/STM + dathuwu/STM
+2 hadne/STM + au/SUF + na/SUF + thāhe/STM + thee/SUF
+3 hana/STM + thau/SUF + da/SUF + nee/SUF
+3 dava/STM + de/SUF + e/SUF + se/PRE + hee/STM
+2 haeautheda/STM + u/SUF + dauwu/STM
+2 nee/STM + da/SUF + nau/SUF + gu/SUF + dau/PRE + nee/STM
+1 dau/PRE + jae/STM + ve/SUF + e/SUF + nau/SUF + wau/SUF
+2 He/STM + se/SUF
+1 hene/STM + hana/STM + he/PRE + dau/PRE + nau/STM
+3 Nau/STM + hau/PRE + dau/STM
+4 hanaāa/STM + uthedaunenede/STM
+2 Hā/STM + hau/PRE + wu/STM + nee/STM + javaā/STM + ja/PRE + se/PRE + thā/STM + nau/SUF
+4 hae/PRE + wau/STM + thau/SUF + nauhu/STM + ne/SUF
+6 gau/PRE + jau/STM + au/SUF + da/SUF + he/PRE + he/PRE + hau/STM + au/SUF
+1 he/PRE + hau/PRE + wu/STM + u/SUF + naede/STM
+6 hae/PRE + the/STM + au/SUF + gu/SUF + ne/SUF + nau/SUF
+1 heda/STM + da/PRE + jeve/STM + ne/SUF + ve/SUF + se/SUF
+2 had/PRE + vā/STM + na/SUF
+2 he/PRE + nedau/STM + ā/PRE + nene/STM
+2 hedaeyau/STM + de/SUF
+3 haee/STM + saanude/STM + nauau/SUF
+2 Naa/STM + thau/SUF + thau/PRE + nauhuu/STM
+1 hanaāe/STM + nau/SUF + duu/STM
+2 nay/STM + ā/PRE + the/STM + ne/SUF + nee/SUF + vaa/STM
+2 hana/STM + tha/SUF + dau/SUF + va/SUF + thee/SUF
+2 jeve/STM + chau/STM + u/SUF + chau/STM + gu/SUF
+61 Heau/STM
+3 haee/STM + da/SUF + sā/STM
+3 Hade/STM + jau/STM + de/SUF
+5 He/PRE + he/PRE + thee/STM
+3 Hā/STM + e/SUF + yehau/STM + thā/STM + nā/SUF
+1 Had/STM + a/SUF + ve/SUF + chau/STM + de/SUF
+6 haeje/STM + da/SUF + na/SUF + nauau/SUF
+2 hae/PRE + nau/STM + de/SUF
+2 ne/STM + nau/SUF + de/SUF + thā/STM + de/SUF
+2 ha/PRE + naa/STM + se/SUF + e/SUF + de/SUF
+4 vevethahe/STM + he/STM + hau/STM
+2 Hā/STM + e/SUF + nauhaudauau/STM
+2 Had/STM + nethe/SUF + nayāade/STM
+2 nee/STM + nau/SUF + a/SUF + sādaa/STM
+8 nā/STM + thajau/STM + de/SUF
+2 ve/STM + he/PRE + the/STM
+3 va/PRE + se/PRE + vada/STM + nesee/STM
+4 hadne/STM + na/SUF + yau/SUF + hau/STM + de/SUF
+1 hayā/STM + chau/PRE + hau/STM + au/SUF
+2 had/PRE + nau/STM + gau/PRE + thuu/STM
+5 hau/PRE + gau/PRE + hu/STM + ne/SUF
+23 44/STM
+3 Hanā/STM + gau/PRE + chau/PRE + hana/STM
+10 hathaāhe/STM + de/SUF
+2 Hana/STM + āe/STM + je/PRE + dā/STM + de/SUF
+5 Hā/STM + hauwa/STM + e/SUF + nau/SUF + na/SUF + the/SUF
+2 hāe/STM + nau/SUF + de/SUF + dau/SUF + nā/SUF + de/SUF
+1 had/PRE + wau/PRE + thā/STM + e/SUF
+1 chu/STM + va/SUF + hagu/STM
+2 heda/STM + na/SUF + yau/SUF
+8 had/STM + na/SUF + se/SUF + ne/SUF + de/SUF
+1 ha/PRE + dau/PRE + nau/STM + dau/SUF + na/SUF + tha/SUF + ne/SUF
+4 nehe/STM + dau/SUF + nau/SUF
+3 he/PRE + jaheede/STM
+5 chau/PRE + nuvāde/STM
+8 Dāvid/STM
+3 Hana/STM + āe/STM + nauau/STM + chau/STM + au/SUF
+4 had/PRE + nau/STM + the/SUF + dau/SUF + dauwu/STM + nethe/SUF
+2 had/STM + ve/SUF + nava/STM + the/SUF
+4 haeau/STM + nau/SUF + yau/STM + hau/PRE + dauwu/STM
+4 Tiberius/STM
+2 gau/PRE + had/STM + ve/SUF + na/SUF
+20 hae/PRE + the/STM + au/SUF + gu/SUF
+98 Hanau/STM
+1 janaugu/STM + ne/SUF + na/SUF + gu/SUF
+3 nane/STM + dau/SUF + gu/SUF + vā/STM + nauau/SUF
+2 hathaāhe/STM + thee/SUF
+3 had/PRE + nane/STM + dau/SUF + nau/SUF
+4 naud/STM + nau/SUF + ā/PRE + chau/PRE + hau/PRE + nauau/STM
+1 haenauasāaune/STM + nau/SUF
+3 Nā/STM + hau/PRE + wu/STM + veede/STM + nau/SUF + ne/SUF
+3 dau/PRE + nausu/STM + vada/STM + nedau/STM + de/SUF
+3 hane/STM + jau/STM + nau/SUF
+3 gau/PRE + gau/STM + gu/SUF + yā/STM + se/SUF
+6 ha/PRE + se/PRE + nehe/STM + de/SUF
+2 haeneena/STM + nau/SUF + the/SUF + daune/STM + ne/SUF
+1 ne/STM + je/PRE + chau/STM + au/SUF
+14 wau/STM + au/SUF
+1 hae/STM + ne/SUF + nesau/STM + dauwu/STM
+6 hadjāt/STM + hau/STM + va/SUF
+2 He/PRE + thāhe/STM + ne/SUF
+2 hadne/PRE + naede/STM + duu/STM
+4 nane/PRE + ejenanauau/STM
+4 had/PRE + nauusa/STM + de/SUF
+2 he/PRE + daun/STM + ā/PRE + hene/STM
+2 hāe/STM + nee/SUF + na/SUF + wau/SUF + tha/SUF + a/SUF
+114 jea/STM
+1 he/PRE + va/PRE + dau/STM + de/SUF
+1 he/PRE + va/PRE + the/STM + hā/STM + daune/SUF + ne/SUF
+6 jaheede/STM
+2 ha/PRE + sā/STM + na/SUF + va/SUF + de/SUF + nau/SUF + gu/SUF
+1 nau/STM + gau/STM + yau/SUF + de/SUF
+2 ha/PRE + va/PRE + dathuwu/STM
+1 he/PRE + hau/PRE + wu/STM + yau/SUF
+1 hae/PRE + jane/STM + thajau/STM + de/SUF
+9 heja/STM + ve/SUF + se/SUF
+3 hae/PRE + thauwu/STM + nauau/SUF + ne/SUF
+3 nau/STM + nau/SUF + thuu/STM
+22 yesee/STM
+5 hāe/PRE + waudasa/STM + de/SUF
+59 Hejavaneauth/STM + au/SUF
+3 hae/PRE + gau/PRE + gauu/STM + nauwu/STM
+3 He/PRE + jeve/STM + nā/STM + a/SUF
+4 hāe/PRE + auc/STM + hau/STM + au/SUF
+1 yehau/STM
+10 Jonas/STM
+1 hade/PRE + t/STM + hauwa/STM + e/SUF + na/SUF + va/SUF
+60 hith/STM
+4 haenauhautheha/STM + a/SUF
+5 hana/STM + se/SUF + dau/STM + de/SUF
+4 he/PRE + dau/PRE + the/STM + au/SUF + nau/SUF
+2 de/STM + wau/SUF + tha/SUF + nethe/SUF
+3 had/PRE + nau/STM + nau/SUF + dau/PRE + nane/STM
+1 had/PRE + je/PRE + ja/PRE + nauhu/STM + sa/SUF + nauau/SUF
+1 hade/STM + ne/SUF + se/SUF + dau/SUF + na/SUF
+2 hau/PRE + ā/PRE + chau/STM + de/SUF + nee/SUF
+4 he/PRE + hau/PRE + wu/STM + u/SUF + tha/SUF + de/SUF
+2 hae/PRE + jā/STM + chau/STM + de/SUF
+2 jene/STM + nau/SUF + ā/PRE + je/PRE + tha/STM
+1 hadne/STM + ne/SUF + ne/SUF + se/PRE + gau/PRE + hu/STM + de/SUF
+3 haedu/STM + gu/SUF + daun/STM + a/SUF
+2 nane/STM + tha/SUF + dā/STM + de/SUF
+13 hau/PRE + gau/STM
+7 ha/PRE + nesā/STM + e/SUF + nee/SUF
+4 hanaāe/PRE + je/PRE + nau/STM + thau/SUF + de/SUF
+47 dau/PRE + dau/STM + se/SUF
+7 had/STM + na/SUF + asaunee/STM
+4 hadne/PRE + nane/STM + da/SUF + ne/SUF + nauau/SUF
+2 hā/STM + dau/PRE + ā/PRE + nauau/STM
+3 Hae/STM + nau/SUF + nau/SUF + de/SUF + daun/STM + a/SUF
+3 daun/STM + u/SUF + nā/SUF + nau/SUF
+2 heyew/STM
+2 hau/PRE + gau/PRE + ha/PRE + hagu/STM
+6 hau/PRE + nau/STM + dau/SUF + nauhuu/STM
+8 Haujau/STM + ne/SUF
+9 Sidon/STM
+1 hana/STM + ā/PRE + gauu/STM + ve/SUF + nau/SUF + de/SUF
+3 hae/PRE + waudasa/STM
+2 he/PRE + hau/PRE + wu/STM + se/SUF + e/SUF + nauau/SUF
+1 dut/STM + hāe/STM + e/SUF
+2 hanā/STM + da/SUF + nau/SUF + de/SUF
+2 haee/STM + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + ne/SUF + nau/SUF
+49 28/STM
+3 ne/STM + nau/SUF + chuwu/STM + thee/SUF
+1 haud/STM + ne/SUF + da/PRE + nauwu/STM + na/SUF + de/SUF
+8 hesa/STM + ve/SUF
+4 haeje/STM + na/SUF + na/SUF
+26 46/STM
+2 nesau/STM + nau/SUF + cha/STM + a/SUF
+2 nanejauwu/STM
+1 haeau/STM + chau/STM + tha/SUF + nauau/SUF
+5 hae/PRE + yehau/STM
+2 hae/PRE + nauuchau/STM + ha/STM + nauau/SUF
+4 Bethsaida/STM
+105 ja/PRE + saa/STM
+2 had/PRE + nau/STM + hau/PRE + the/STM + hā/STM + na/SUF
+2 hade/STM + thau/SUF + wune/STM + hese/STM + na/SUF
+8 ha/PRE + thā/STM + au/SUF + au/SUF
+16 Simon/STM
+1 heda/STM + nau/SUF + wau/SUF
+2 haea/STM + nedau/STM + ne/SUF
+1 Hana/STM + āe/STM + au/SUF + chau/STM + nā/SUF + de/SUF
+1 Hana/STM + āe/STM + je/PRE + nauusa/STM + de/SUF
+2 hee/STM + ne/SUF + se/PRE + thā/STM + dau/SUF + nau/SUF
+1 ha/PRE + vevethahe/STM + de/SUF
+14 hadne/PRE + da/PRE + sā/STM + na/SUF
+1 ja/STM + na/SUF + da/SUF + ne/SUF + gau/STM + a/SUF + he/PRE + yaugaune/STM
+1 he/PRE + wauchudaude/STM + nau/SUF
+30 da/PRE + see/STM
+2 wau/STM + hā/STM
+3 gau/PRE + had/PRE + nau/STM + de/SUF + ha/STM
+3 nedau/STM + va/PRE + he/PRE + hau/STM + au/SUF
+2 had/STM + na/SUF + ve/SUF + the/SUF + vā/STM + thee/SUF
+10 hau/PRE + wu/STM + nau/SUF + na/SUF + de/SUF
+2 VADAN/STM
+3 gau/PRE + had/PRE + nau/STM + u/SUF + gu/SUF + thau/SUF + va/SUF
+7 wauc/STM + hā/STM + he/STM + nith/SUF
+1 hade/PRE + gau/PRE + chuhu/STM + au/SUF + wuna/STM
+12 hena/STM + ne/SUF + da/SUF
+51 26/STM
+1 hae/PRE + wau/PRE + hau/STM + nauwu/STM + au/SUF + ne/SUF + nau/SUF
+5 wau/PRE + hau/STM + nee/SUF
+3 hae/PRE + dau/PRE + chu/STM + javaā/STM + ja/SUF + se/SUF + de/SUF + the/SUF
+4 had/PRE + je/PRE + da/PRE + nethe/STM + e/SUF
+1 hanā/STM + asānauwaude/STM
+4 hadne/STM + ja/SUF + ā/SUF + de/SUF
+5 ha/PRE + tha/STM + ve/SUF
+2 hāe/PRE + sau/STM + ā/SUF + na/STM + dethaude/STM
+2 had/PRE + nauau/STM + chau/STM + dau/SUF + de/SUF
+2 ja/STM + sa/SUF + ye/STM
+4 hāe/PRE + dauwu/STM + ne/SUF + ne/SUF
+1 jae/STM + yau/SUF + nau/SUF
+5 va/PRE + se/PRE + hade/STM + de/SUF
+1 jane/STM + ne/SUF + vaa/STM
+1 haee/STM + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + ne/SUF
+2 dava/STM + the/SUF + ja/PRE + jane/STM + au/SUF + thee/SUF
+2 vedāe/STM + ne/SUF
+4 ha/PRE + se/PRE + sā/STM + ne/SUF + nau/SUF
+3 ha/PRE + nee/STM + chuvāde/STM
+5 dā/STM + e/SUF + yau/SUF + nauau/SUF
+4 dau/PRE + ne/PRE + chau/STM + da/SUF + a/SUF
+2 nana/STM + se/SUF + au/SUF + wau/STM + au/SUF
+2 Hae/STM + yāhe/STM
+2 hae/PRE + nedau/STM + nau/SUF
+3 hae/PRE + nane/STM + dauneha/STM
+1 hae/PRE + javaā/STM + he/STM
+2 nana/STM + ne/SUF + na/SUF + u/SUF + au/SUF
+1 Nā/STM + hau/PRE + wu/STM + je/PRE + nauusa/STM
+1 hadne/PRE + dau/PRE + wau/PRE + dauwu/STM
+7 hae/PRE + authedau/STM + de/SUF
+6 hese/STM + sā/STM + ne/SUF + nau/SUF
+1 nee/STM + se/SUF + dau/SUF + de/SUF
+3 Gauha/STM + jea/STM + dau/SUF + nau/SUF
+1 chau/PRE + nauguu/STM + tha/SUF + de/SUF + e/SUF
+3 haud/STM + va/SUF + sā/STM + tha/SUF + a/SUF
+1 had/PRE + nese/STM + da/SUF + nauau/SUF
+6 Naa/STM + sau/STM + au/SUF
+1 Beelzehub/STM
+4 he/PRE + tha/STM + nau/SUF
+3 had/STM + na/SUF + uchuwuha/STM + u/SUF + na/SUF
+1 va/PRE + chau/PRE + g/STM + ā/PRE + nane/STM + nau/SUF
+3 Vada/STM + dau/PRE + sau/STM + au/SUF
+4 haevas/STM + a/SUF + ne/SUF
+1 hana/STM + na/SUF + de/SUF + de/SUF
+1 hā/STM + gau/PRE + jau/STM + au/SUF + the/SUF + dau/SUF + nā/SUF + dau/SUF + nau/SUF
+6 vasevenenaje/STM
+2 hadne/PRE + dauthānauwau/STM
+1 Hejavae/STM + neauthu/STM
+1 Va/STM + ve/SUF + e/SUF + ne/SUF + the/PRE + daun/STM + a/SUF + a/SUF
+1 hee/STM + ja/PRE + se/PRE + see/STM
+4 hane/STM + sa/SUF + a/SUF + nu/SUF + nau/SUF
+1 ja/PRE + ā/PRE + va/PRE + saa/STM
+2 he/PRE + chu/STM
+232 vahee/STM
+5 nā/STM + hau/PRE + wu/STM + naathā/STM
+3 had/PRE + ja/PRE + nese/PRE + wau/STM + de/SUF
+2 nane/STM + the/SUF + nau/SUF + de/SUF
+3 ne/PRE + authea/STM + wu/STM
+1 dau/PRE + nausu/STM + vevethahe/STM + de/SUF
+1 je/PRE + da/PRE + nā/STM + de/SUF
+2 haee/STM + se/SUF + da/SUF + nau/SUF + sa/SUF + u/SUF + de/SUF
+2 Hāsau/STM + nau/SUF + ne/SUF + ne/SUF
+5 jeva/STM
+3 nee/STM + va/SUF + ve/PRE + sā/STM + edauwu/STM + nau/SUF + de/SUF
+2 yau/STM + thau/SUF + ne/SUF + nane/STM + dau/SUF + ne/SUF + a/SUF + gu/SUF
+4 neva/STM + dau/SUF + jau/STM + thee/SUF
+3 hanaāa/STM + na/SUF + de/SUF + dau/STM + au/SUF
+3 heva/STM + e/SUF + ve/SUF + nau/SUF
+53 27/STM
+2 hadne/PRE + chau/PRE + chau/STM + na/SUF + a/SUF
+4 hajasea/STM + he/STM + auau/STM
+25 he/PRE + thauguhādau/STM + nau/SUF
+2 ha/PRE + nee/STM + jena/STM + na/SUF + de/SUF
+2 nane/STM + dau/SUF + nau/SUF + nauau/SUF
+7 he/PRE + ja/PRE + denaa/STM
+31 42/STM
+5 heja/STM + de/SUF + ne/SUF + the/SUF + dau/SUF + nau/SUF + gu/SUF
+1 jeve/STM + na/SUF
+4 nau/STM + gau/STM + auwuu/STM
+3 javaā/STM + see/STM
+6 Mar/STM + e/SUF + heau/STM
+1 Ha/STM + se/PRE + thajau/STM + nau/SUF
+2 hanaāe/PRE + yehau/STM + thee/SUF
+2 nau/STM + nau/SUF + gu/SUF + a/SUF + thee/SUF
+4 heda/STM + dau/STM + au/SUF
+1 Va/STM + ne/SUF + ve/SUF + the/SUF + dau/SUF + na/SUF + tha/SUF + ne/SUF
+2 hae/STM + ve/SUF + chau/PRE + tha/STM
+2 hau/STM + au/SUF + wu/STM
+1 nedau/STM + gu/SUF + nethe/SUF
+4 ha/PRE + se/PRE + cha/STM + uhauthehaude/STM
+1 va/STM + u/SUF + naa/SUF
+3 dau/PRE + nethauyāda/STM + u/SUF + chu/SUF + de/SUF + de/SUF
+2 Je/STM + na/SUF + yāhe/STM
+2 gau/STM + nau/SUF + a/SUF + nuu/STM
+12 ha/PRE + va/PRE + thee/STM
+6 ha/PRE + eyethautheava/STM
+3 hanaāe/STM + va/SUF + de/SUF
+2 hae/PRE + nane/STM + ne/SUF + nau/SUF
+4 negu/STM + da/SUF + nau/SUF + de/SUF
+3 ne/PRE + anedauthee/STM
+1 Je/STM + a/SUF
+2 he/PRE + nau/STM + ne/SUF + ne/SUF
+2 ha/PRE + thā/STM + e/SUF + the/STM + au/SUF + gu/SUF + de/SUF
+13 Hanese/STM + thee/SUF
+2 gau/PRE + thā/STM + ne/SUF + vasevenenaje/STM
+2 de/STM + au/SUF + sā/STM + guthaugaunee/STM
+2 had/STM + ve/SUF + e/SUF + hā/STM + de/SUF
+4 haeautheava/STM + nauau/SUF
+1 hene/STM + da/SUF + e/SUF + ha/PRE + he/PRE + nau/STM
+3 Neau/STM + dau/SUF + nau/SUF + thu/STM
+6 ha/PRE + dau/PRE + chāe/STM
+2 hese/STM + da/SUF + a/SUF
+10 hae/PRE + gaugauana/STM + dauwu/STM
+5 70/STM
+2 ne/PRE + dauwu/STM + nā/SUF + huk/STM
+1 haa/STM + u/SUF + gu/SUF + nau/SUF + na/SUF
+18 Dau/STM + dau/STM + se/SUF
+3 hau/PRE + sā/STM + gu/SUF + de/SUF + nau/SUF + the/SUF
+2 Wau/STM + thau/PRE + nauhuu/STM
+4 he/PRE + nau/STM + nau/SUF + a/SUF + de/SUF
+11 wau/PRE + sau/STM + nee/SUF
+2 ha/PRE + dau/PRE + nau/STM + wu/STM + thajau/STM
+39 ja/PRE + chau/STM
+4 Nau/STM + dau/PRE + guhu/STM + a/SUF
+4 nau/STM + nau/SUF + a/SUF + sā/STM + nauuu/STM
+1 Nau/STM + sā/STM + gu/SUF + thau/SUF + de/SUF
+2 hanā/STM + javaā/STM + ve/SUF + nauau/SUF
+1 neethā/STM + edauwu/STM + na/SUF + de/SUF
+2 Hae/STM + e/SUF + da/SUF + ne/SUF
+2 hanaāe/PRE + dau/PRE + chau/STM + de/SUF
+5 ha/PRE + va/PRE + javaāhe/STM + va/SUF
+8 nethauyāda/STM + hede/STM
+3 heja/STM + de/SUF + nau/SUF
+2 vane/STM + ve/SUF + tha/SUF + he/PRE + nā/STM
+5 he/PRE + hau/PRE + wu/STM + javaā/STM + nee/SUF
+2 had/PRE + je/PRE + nauhaudauau/STM
+7 hanaāe/PRE + nauauhu/STM + sa/SUF + thee/SUF
+5 nenu/STM + gu/SUF + thau/SUF + de/SUF
+1 ha/PRE + jaa/STM + the/SUF + hā/STM + daune/SUF + nau/SUF
+3 Hau/STM + nau/SUF + de/SUF
+3 hada/STM + de/SUF + thau/SUF + nauau/SUF
+1 He/PRE + see/STM
+4 hāe/PRE + gauu/STM + se/SUF + wau/STM + de/SUF
+1 nā/STM + e/SUF + nese/PRE + dau/STM + de/SUF
+1 hade/STM + va/SUF + veyā/STM + na/SUF
+2 nedau/STM + yau/SUF + ha/PRE + uwauthee/STM
+1 vechaut/STM + hā/STM + nau/SUF + ne/SUF
+3 haeau/STM + the/PRE + daun/STM + a/SUF + nauau/SUF
+19 haua/STM + nee/SUF
+8 hāe/STM + na/SUF + saudau/STM + chu/SUF + nesee/STM
+2 naa/STM + thā/STM + de/SUF
+2 de/STM + va/SUF + sau/STM + au/SUF
+3 he/PRE + nese/STM + de/SUF
+3 hae/PRE + heahe/STM + nauwu/STM
+4 wau/STM + wau/SUF + chu/SUF + dauhu/STM
+48 ha/PRE + nesā/STM + de/SUF
+4 hau/PRE + thasee/STM
+7 Simeon/STM
+3 haeau/STM + au/SUF + va/SUF + ne/SUF
+1 ha/PRE + nesā/STM + e/SUF
+1 haud/STM + ne/SUF + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + de/SUF
+2 hada/STM + vechaut/STM + hade/STM + de/SUF
+4 He/PRE + vada/STM + na/SUF + eyāhewau/STM
+1 jā/STM + da/SUF + nau/SUF + auwuu/STM
+3 had/STM + na/SUF + āe/STM + nehe/STM + thau/SUF + au/SUF
+6 Hāsau/STM + nau/SUF + ne/SUF + nau/SUF
+3 the/PRE + wau/STM + nau/SUF
+2 hanaāe/PRE + saanude/STM + thee/SUF
+1 Gau/STM + au/SUF + wuauau/STM
+1 de/STM + yehau/STM + nauau/SUF
+4 nejaja/STM + nesā/STM + e/SUF
+33 Hith/STM
+2 haee/STM + na/SUF + yau/SUF + hau/STM
+4 thau/STM + au/SUF + ha/PRE + nau/STM
+2 nedau/STM + dau/PRE + chu/STM
+2 hede/STM + da/SUF + nin/STM
+6 Ne/STM + ha/PRE + yau/STM
+4 haedu/STM + ne/SUF + ne/SUF + nau/SUF
+1 hanaāe/PRE + jenāauguau/STM + de/SUF
+3 hee/STM + ve/PRE + wauhu/STM + u/SUF
+3 haeneena/STM + va/SUF + daune/SUF + dau/PRE + wau/PRE + dauwu/STM
+3 he/PRE + dau/PRE + chuwu/STM + de/SUF
+55 14/STM
+2 gau/PRE + hā/PRE + jene/STM
+1 hadne/PRE + yehau/STM + nauau/SUF
+3 nauwu/STM
+3 hade/PRE + yehau/STM + nau/SUF
+4 wauc/STM + hā/STM + de/SUF
+4 haeneā/STM + sa/SUF + nau/SUF
+3 vada/STM + nau/SUF + nee/SUF
+4 had/PRE + nau/STM + de/SUF + thā/STM + de/SUF
+3 hae/PRE + nay/STM + ā/PRE + the/STM + haa/STM
+8 hae/PRE + jat/STM + hā/STM + au/SUF
+8 vane/STM + ne/SUF + naja/STM
+2 neje/STM + se/SUF + dau/SUF + na/SUF
+2 haevathasauwuna/STM + nauau/SUF
+1 hae/PRE + nesā/STM
+2 had/PRE + nese/STM + dau/SUF + nā/SUF + na/SUF
+91 hese/STM + e/SUF
+1377 Nau/STM
+3 hene/STM + dauwu/STM + sau/STM + ne/SUF
+4 nee/STM
+27 wau/STM + de/SUF
+1 hae/PRE + jaa/STM + ā/SUF + ne/SUF
+2 ja/PRE + sā/STM + sau/STM
+1 Jeva/STM + dau/SUF + duvaa/STM
+3 had/PRE + je/PRE + dā/STM + de/SUF
+1 he/PRE + thā/STM + e/SUF + ne/SUF + dau/SUF + gu/SUF + vā/SUF + dau/SUF + nau/SUF
+3 vachauganane/STM + nau/SUF
+146 daun/STM
+2 hae/STM + ve/SUF + ve/SUF + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF
+1 Wau/STM + de/SUF + naasau/STM + au/SUF
+6 waujaa/STM
+4 hane/PRE + duu/STM
+2 neda/STM + se/PRE + jave/STM + sa/SUF + thee/SUF
+1 Nana/STM + ja/SUF + wau/SUF + nau/SUF + de/SUF
+26 he/PRE + ja/PRE + vaa/STM
+9 vada/STM + dau/SUF + sau/STM + na/SUF
+2 had/PRE + ja/PRE + ā/STM + sa/SUF + ne/SUF + nee/SUF
+3 vechaut/STM + hau/STM + na/SUF + gu/SUF
+3 ha/PRE + nesā/STM + he/PRE + nethe/STM
+2 dau/PRE + nausu/STM + jau/STM + de/SUF
+6 hae/STM + ne/SUF + au/SUF
+4 ha/PRE + se/PRE + naede/STM + nethe/SUF
+1 heja/STM + va/SUF
+2 he/PRE + hau/PRE + wu/STM + j/STM + u/SUF + u/SUF + de/SUF + nauau/SUF
+2 hau/PRE + wauc/STM + hā/STM + na/STM + vā/STM + daune/SUF + nau/SUF
+3 had/PRE + nau/STM + nau/SUF + u/SUF + dau/SUF + yau/SUF + au/SUF
+1 hau/PRE + gajuh/STM + u/SUF + u/SUF
+2 hāe/PRE + jau/STM + au/SUF + gau/PRE + the/PRE + thajau/STM + nau/SUF + ne/SUF
+4 deje/STM + na/SUF + nuu/STM
+2 hae/PRE + nethe/STM + ve/SUF + the/SUF + he/PRE + wau/STM + na/SUF
+1 he/PRE + wauchudaude/STM + ne/SUF + dau/SUF + nau/SUF
+1 haeje/STM + e/SUF + da/SUF + sa/SUF
+4 hanaāe/PRE + wau/PRE + hau/STM + ne/SUF + sa/SUF + de/SUF
+2 hanā/STM + na/SUF + nee/SUF + jau/STM + na/SUF
+20 na/STM + he/PRE + thā/STM + e/SUF
+4 va/PRE + se/PRE + vada/STM + dau/SUF + sau/STM + au/SUF
+29 48/STM
+1 hadne/STM + da/SUF + na/SUF + de/SUF
+7 Naud/STM + ne/PRE + hau/PRE + wu/STM + va/SUF + ne/SUF + the/SUF + de/SUF
+2 nau/STM + gau/PRE + nee/STM
+5 hena/STM + ne/SUF + da/SUF + ne/SUF
+11 nese/PRE + thā/PRE + he/PRE + hau/STM + au/SUF
+282 nuu/STM
+2 Hanese/STM + nee/SUF
+2 Hae/STM + na/SUF + āe/STM + nehe/STM + thau/SUF + de/SUF
+4 haeje/STM + nau/SUF + u/SUF + ne/SUF + thau/SUF + na/SUF
+2 java/STM + au/SUF + thau/SUF + nau/SUF + dau/SUF + nā/SUF + the/SUF
+1 nauau/STM + chau/STM + gu/SUF
+3 hadduuje/STM + de/SUF
+3 je/PRE + va/PRE + nā/STM + thajau/STM + au/SUF
+2 nava/STM + sa/SUF + nā/SUF + de/SUF
+4 hā/STM + hau/PRE + wu/STM + je/PRE + thau/STM + wau/PRE + daun/STM + a/SUF + the/SUF
+6 haeautheda/STM
+1 Neau/STM + ne/SUF + dau/PRE + wau/STM + au/SUF
+3 had/PRE + naa/STM + thā/STM + de/SUF
+4 nene/STM + the/SUF + nauau/SUF
+4 na/STM + hā/STM + jau/STM + au/SUF
+4 ha/PRE + thā/STM + au/SUF + chau/STM + ne/SUF + na/SUF
+9 hadne/PRE + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + ne/SUF
+12 ha/PRE + nesā/STM + he/PRE + nith/STM
+3 nene/STM + nee/SUF + hau/STM + de/SUF
+2 nau/STM + na/SUF + de/SUF
+3 dau/PRE + da/PRE + jau/STM + au/SUF + ne/SUF + ne/SUF + thau/SUF + ne/SUF + na/SUF
+3 ha/PRE + vethe/STM + he/PRE + thee/STM
+1 nau/STM + yau/SUF + de/SUF
+3 gau/PRE + jau/STM + au/SUF + da/SUF + hede/STM
+2 Nineveh/STM
+4 hadne/PRE + hau/PRE + wu/STM + je/PRE + dā/STM + va/SUF
+2 he/PRE + hau/PRE + wu/STM + nesau/STM + ne/SUF
+1 hanaāe/PRE + nauusa/STM + de/SUF
+7 haeechau/STM + hau/PRE + the/STM + ha/STM
+4 Levi/STM
+3 had/PRE + jae/STM + sa/SUF + nau/SUF
+6 nedau/STM + thā/PRE + nava/STM + the/SUF
+2 nau/STM + nau/SUF + nau/SUF + the/SUF + vā/STM + a/SUF + na/SUF
+9 hase/STM + sa/SUF + na/SUF
+1 hanaāa/STM + uchuhanana/STM + de/SUF + de/SUF
+3 hae/PRE + jae/STM + yehau/STM
+2 se/PRE + gau/PRE + mau/STM
+15 hede/STM + naede/STM + de/SUF
+2 hadne/PRE + saanude/STM + ne/SUF
+6 ha/PRE + jau/STM + chau/PRE + ga/STM + de/SUF
+1 nau/STM + dau/SUF + the/SUF + dau/SUF + nā/SUF + de/SUF
+3 ha/PRE + va/PRE + se/PRE + vā/STM + e/SUF + ne/SUF
+15 vevethahe/STM + va/SUF + he/PRE + hau/STM + au/SUF
+30 Jaun/STM
+2 haeau/STM + chu/SUF + ha/PRE + nehe/STM
+2 Je/STM + au/SUF + gau/STM + na/SUF + yewhu/STM
+1 je/PRE + jae/STM + gu/SUF + da/PRE + nauwu/STM + nā/SUF + a/SUF
+3 haeje/STM + hee/STM + nauusa/STM
+2 wau/STM + ga/STM + je/STM
+2 Had/STM + authea/STM + wau/STM + au/SUF
+10 haee/STM + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF
+2 ha/PRE + naja/STM + ne/SUF + de/SUF
+1 Neau/STM + thu/STM
+9 Wau/STM + ā/PRE + the/STM
+2 Hana/STM + āe/STM + gau/PRE + nanauwu/STM + nau/SUF + de/SUF
+1 he/PRE + thā/PRE + jee/STM
+3 Yehau/STM
+6 je/PRE + thee/STM
+11 hene/STM + ne/SUF
+3 haeva/STM + hau/PRE + the/PRE + daun/STM + a/SUF + a/SUF
+225 hau/STM
+5 ha/PRE + naa/STM + ne/SUF
+3 hāe/PRE + jae/STM + nuu/STM + sa/SUF + thee/SUF
+3 Abel/STM
+1 va/STM + yau/SUF + gauu/STM + u/SUF
+4 Hana/STM + āe/STM + jave/STM + the/SUF + nau/SUF + a/SUF + nau/SUF + de/SUF
+2 hae/PRE + ja/PRE + vechaut/STM + ha/STM
+102 ha/PRE + yau/STM + huhau/STM
+1 he/PRE + hau/PRE + wu/STM + ne/SUF + au/SUF + chau/STM + na/SUF
+4 ne/STM + yau/SUF + tha/SUF + he/PRE + nauwu/STM + na/SUF
+2 hau/PRE + nauau/STM + u/SUF + tha/SUF + yau/SUF + ne/SUF + nau/SUF
+1 gau/PRE + jau/STM + au/SUF + da/SUF + he/PRE + nauau/STM + wu/STM
+39 he/PRE + sā/STM
+4 hanaāe/STM + va/SUF + dau/SUF + the/SUF + de/SUF + de/SUF
+4 Naja/STM + de/SUF + nau/SUF
+5 had/PRE + nese/PRE + da/PRE + nauwu/STM + nethe/SUF
+1 nane/STM + sa/SUF + de/SUF + e/SUF
+1 he/PRE + hau/PRE + wu/STM + nau/SUF + nee/SUF + the/SUF + dau/SUF + nā/SUF
+2 hau/PRE + wauchudaude/STM
+7 Nāchau/STM
+5 jene/STM
+13 naja/STM
+3 haenaujaune/STM + nau/SUF
+3 hanā/STM + nane/STM + nith/SUF
+1 had/PRE + thā/STM + e/SUF + gau/PRE + hau/STM + de/SUF
+1 de/STM + chau/PRE + chuwu/STM + hade/STM + thee/SUF
+4 hae/PRE + jae/STM + ve/SUF + na/SUF
+5 Nee/STM + se/SUF + je/PRE + dā/STM + de/SUF
+3 hase/STM + ne/SUF + he/PRE + nau/STM + ne/SUF
+10 hautheaun/STM + au/SUF
+2 hau/PRE + nau/STM + ne/SUF + de/SUF + nau/SUF
+1 naa/STM + the/PRE + dā/STM + e/SUF + yau/SUF + ne/SUF + ne/SUF + dau/PRE + nee/STM
+2 nee/STM + ha/PRE + uhaugaunee/STM
+3 ha/PRE + thā/STM + sa/SUF + dau/SUF + de/SUF
+4 thauguu/STM
+5 hae/PRE + nauau/STM + hā/STM
+2 gau/PRE + je/PRE + va/PRE + daune/STM + dau/SUF + wau/SUF + ne/SUF
+2 Hadje/STM + jena/STM + nau/SUF + wau/SUF
+4 had/PRE + dau/PRE + the/PRE + dau/STM + de/SUF
+9 nausu/STM + nee/SUF
+2 nee/STM + thajau/STM + dau/SUF + nau/SUF + de/SUF
+1 je/PRE + va/PRE + nay/STM + ā/PRE + the/STM + hene/STM
+1 ha/PRE + vave/STM + na/SUF
+4 haua/STM
+1 haeje/STM + nee/SUF + da/PRE + saa/STM
+3 hade/PRE + saanude/STM + va/SUF
+1 hau/PRE + dnauthedaudauwau/STM
+1 ne/PRE + dauwu/STM + sau/STM
+2 jene/STM + ejaves/STM + āhe/STM
+1 heja/STM + de/SUF
+1 hāe/STM + sa/SUF + nā/SUF + se/PRE + nehe/STM + de/SUF
+7 jave/STM + da/SUF
+3 hae/PRE + dau/PRE + chu/STM
+1 Hauddu/STM + se/SUF + ha/PRE + the/STM
+3 had/PRE + nau/STM + dau/PRE + wu/STM + thajau/STM + na/SUF
+4 hene/STM + sa/SUF + he/PRE + hau/STM
+56 24/STM
+1 ha/PRE + tha/STM + na/SUF + vā/STM + the/SUF
+5 had/PRE + thau/STM + a/SUF + yā/STM + thee/SUF
+3 Peda/STM + heau/STM
+2 heva/STM + u/SUF + de/SUF + ne/SUF + nau/SUF
+4 he/PRE + hau/PRE + wu/STM + u/SUF
+2 Vada/STM + nau/SUF + ha/STM
+1 ha/PRE + va/PRE + jau/STM + ne/SUF + nau/SUF
+3 ha/PRE + se/PRE + va/PRE + the/STM + hā/STM + nau/SUF + ne/SUF
+5 ha/PRE + thā/STM + se/SUF + wau/SUF
+1 hadne/PRE + yehau/STM + de/SUF
+7 haeae/STM + nauwu/STM
+2 Ne/STM + a/SUF + yā/STM + sa/SUF + nā/SUF + de/SUF
+3 hā/STM + thauguhādau/STM + nau/SUF + au/SUF
+1 hadne/STM + da/SUF + nau/SUF + wau/SUF
+1 duu/STM + je/PRE + he/STM
+2 Va/STM + se/PRE + naja/STM + ne/SUF
+2 na/STM + wau/SUF + neje/STM + na/SUF + nau/SUF
+3 hadne/PRE + nesau/STM + ne/SUF + wau/STM + de/SUF
+2 thā/STM + yā/STM + nauau/SUF + wu/STM
+3 haeje/STM + nau/SUF + tha/SUF + nauau/SUF
+13 hae/PRE + yā/STM + he/PRE + hau/STM + au/SUF
+2 nau/STM + waucha/STM + na/SUF + vāde/STM
+1 had/PRE + dau/PRE + gau/PRE + hu/STM + dauwu/STM + na/SUF
+1 hauddu/STM
+1 ha/PRE + nau/STM + hau/PRE + huk/STM
+2 ve/STM + au/SUF + nauau/SUF + de/SUF
+6 had/PRE + jeve/STM + nā/SUF + de/SUF
+1 dauhu/STM + auc/STM + hau/STM + au/SUF
+2 Gau/STM + naasau/STM + au/SUF
+3 Hejavaneathu/STM + saun/STM
+3 Jā/STM + se/SUF + ne/SUF
+1 ha/PRE + vā/STM + ejethāwau/STM
+7 hau/PRE + wu/STM + nau/SUF + na/SUF + de/SUF + de/SUF
+2 hae/PRE + anade/STM + tha/SUF + de/SUF + ne/SUF + nau/SUF
+7 he/PRE + thā/STM + de/SUF
+5 had/PRE + nau/STM + hau/PRE + the/STM + thā/STM
+3 hana/STM + nee/SUF + dau/PRE + chu/STM + nesee/STM
+2 He/STM + ve/SUF + naa/SUF
+2 hae/PRE + thā/STM + gu/SUF + de/SUF + ne/SUF
+2 hade/STM + thau/SUF + gu/SUF + hau/STM + va/SUF
+2 hauunaug/STM + āe/STM
+3 hae/PRE + thauwu/STM + nauau/SUF
+2 ha/STM + sa/SUF + na/SUF + de/SUF + nā/SUF
+3 nana/STM + hagu/STM
+2 haeneā/STM + nau/SUF + the/SUF + da/SUF + nauau/SUF
+3 ne/STM + na/SUF + de/SUF + thee/SUF
+2 dut/STM + ha/PRE + nau/STM
+2 hadne/PRE + wau/STM + ne/SUF
+2 had/PRE + nau/STM + hau/PRE + thau/STM + nee/SUF
+1 hāe/PRE + nauau/STM + chau/STM + nee/SUF
+4 daun/STM + a/SUF + u/PRE + hau/PRE + dauwu/STM + nethe/SUF
+1 haeje/STM + authea/STM + wau/SUF
+1 hae/PRE + wau/PRE + hau/STM + nu/STM + au/SUF
+3 Dauyuu/STM + wuu/STM
+4 vevethahe/STM + va/SUF + hew/STM
+1 gau/PRE + je/PRE + wau/STM + tha/SUF + nauau/SUF
+4 vā/STM + e/SUF + nau/SUF + nau/SUF
+3 ne/PRE + je/PRE + dā/STM + nau/SUF
+2 hae/PRE + ja/PRE + the/PRE + tha/STM + je/PRE + nā/STM + hee/STM
+8 hanaāe/PRE + yehau/STM + de/SUF
+3 had/PRE + jae/STM + ja/SUF + nau/SUF + ha/PRE + nee/STM
+5 jaegau/STM + hade/STM + ne/SUF + a/SUF + gu/SUF
+6 hau/PRE + chuwu/STM + dau/SUF + naa/SUF
+2 have/STM + nā/SUF + de/SUF
+1 dau/STM + ve/SUF + the/SUF + de/SUF
+2 Hayew/STM + nau/SUF
+1 He/PRE + se/PRE + the/STM + va/SUF
+1 jee/STM + he/STM
+1 nese/PRE + thāhe/STM + w/STM
+3 ha/PRE + dau/PRE + hau/STM + au/SUF + yau/SUF + au/SUF
+3 had/PRE + nese/STM + nau/SUF + ne/SUF + ne/SUF + chu/SUF + hude/STM
+4 hau/PRE + the/STM + dau/SUF
+5 Vada/STM + nauau/SUF
+2 Calvary/STM
+2 nauwu/STM + nau/SUF + nau/SUF + de/SUF
+21 45/STM
+3 hane/STM + sa/SUF + ne/SUF + nee/SUF
+4 hanaāe/STM + ne/SUF + ā/SUF + sa/SUF + nau/SUF + nee/SUF
+6 he/PRE + thā/STM + sa/SUF + thau/SUF
+3 dau/PRE + dau/STM + se/SUF + e/SUF
+6 haud/STM + ne/SUF + se/SUF + da/SUF + nau/SUF + de/SUF
+4 Had/STM + ā/PRE + edauwu/STM + nau/SUF + de/SUF
+4 deje/STM + na/SUF + nauwu/STM + nau/SUF + thee/SUF
+4 haeneena/STM + nau/SUF + de/SUF + haa/STM
+3 Vechau/STM + tha/SUF + a/SUF
+2 he/PRE + dau/PRE + nee/STM + de/SUF
+8 ha/PRE + thauhuk/STM
+3 je/PRE + jena/STM + nauwu/STM + nā/SUF + a/SUF + a/SUF
+2 nā/STM + e/SUF + da/PRE + yāhe/STM + de/SUF
+6 Judas/STM
+9 hena/STM + heee/STM
+4 veyā/STM + gu/SUF
+2 66/STM
+51 23/STM
+1 jene/STM + e/SUF + ne/SUF + se/SUF + dau/SUF + na/SUF + gu/SUF
+3 au/STM + ha/PRE + nau/STM
+2 wau/STM + chu/SUF + u/SUF + ne/SUF + thau/STM + au/SUF + ha/PRE + nau/STM
+4 he/PRE + nesee/STM + de/SUF
+8 he/PRE + nethe/STM + yau/SUF + nau/SUF
+3 Ha/STM + ne/SUF + sa/SUF + de/SUF + e/SUF
+3 hae/PRE + dā/STM + e/SUF + au/SUF + ne/SUF
+1 had/PRE + gau/STM + gu/SUF + u/SUF + se/PRE + nith/STM
+2 he/PRE + tha/STM + a/SUF
+1 Naaman/STM
+2 nene/STM + hane/STM + thau/SUF + na/SUF + de/SUF + de/SUF
+1 javaā/STM + ja/SUF + se/SUF + de/SUF + de/SUF
+10 wau/STM + nee/SUF
+4 had/PRE + jā/STM + da/PRE + sau/STM + au/SUF + nau/SUF + nauau/SUF
+2 Nau/STM + dau/PRE + auwuu/STM
+1 ha/PRE + vā/STM + de/SUF
+4 hae/STM + ve/SUF + enauwu/STM
+3 je/PRE + chu/STM + wau/SUF + the/SUF + he/STM
+2 naasau/STM + au/SUF
+1 heda/STM + na/SUF + yau/SUF + naa/SUF
+2 hae/PRE + nethe/STM + naede/STM + va/SUF
+5 the/STM + au/SUF + dau/PRE + chu/STM + nee/SUF
+98 nana/STM + ne/SUF + nith/SUF
+1 He/PRE + thau/STM + vaa/STM
+7 naja/STM + the/STM + au/SUF + gu/SUF + dau/SUF + nau/SUF
+6 ha/PRE + je/PRE + dā/STM + de/SUF
+2 de/STM + vechaut/STM + hade/STM
+2 he/PRE + thā/STM + e/SUF + nauau/SUF + ne/SUF + chau/PRE + hā/STM + dau/SUF + nau/SUF
+3 hā/STM + hauwa/STM + e/SUF + na/SUF + va/SUF
+1 ha/PRE + naa/STM + dā/STM + de/SUF
+2 he/PRE + thā/STM + e/SUF + e/SUF
+1 haeau/STM + nau/SUF + the/SUF + da/SUF + nauau/SUF
+1 hāe/PRE + jat/STM + hā/STM + au/SUF + de/SUF
+6 hae/PRE + ehedesa/STM
+1 hadne/PRE + hau/PRE + wu/STM + nauau/STM + chau/STM + ne/SUF
+6 had/PRE + ā/PRE + edauwu/STM + na/SUF + tha/SUF + va/SUF
+2 Esaias/STM
+3 had/STM + na/SUF + thee/SUF
+2 deje/STM + veede/STM + thee/SUF
+3 Elias/STM
+5 dee/STM + naede/STM + de/SUF
+3 neauthu/STM + ne/SUF + āhe/STM
+3 hanaāe/STM + ne/SUF + udauau/STM
+2 hena/STM + yau/SUF + thau/SUF + de/SUF
+2 hada/STM + ne/SUF + thau/SUF + de/SUF
+3 haeau/STM + ne/SUF + vā/STM
+3 hae/PRE + nauuchau/STM + daun/STM + a/SUF + nauau/SUF
+1 ne/STM + audned/STM + au/SUF + au/SUF + wu/STM + gu/SUF + thau/SUF + thee/SUF
+3 nethauyāda/STM + hagu/STM
+1 he/PRE + hau/PRE + wu/STM + ne/SUF
+2 hae/PRE + yau/STM + thau/SUF + ne/SUF
+3 haee/STM + se/SUF + vana/STM
+5 hayauthaun/STM + āe/STM
+4 he/PRE + chau/PRE + hau/PRE + the/STM + thāhe/STM
+1 da/PRE + nā/STM + a/SUF + he/PRE + the/STM
+1 nedau/STM + ve/SUF + the/SUF + he/PRE + nethe/STM
+13 vevethahe/STM + nau/SUF + auwuu/STM
+3 dau/PRE + je/PRE + dā/STM + de/SUF
+2 dau/PRE + janaugu/STM + nith/STM
+3 hāe/STM + sa/SUF + e/SUF + nauau/SUF
+1 hade/STM + nee/SUF + yau/SUF + da/SUF + ne/SUF + ne/SUF
+4 hā/STM + heenaededaunau/STM
+2 hade/STM + da/SUF + ne/SUF + nau/SUF
+2 ne/STM + wau/SUF + dā/STM + hau/STM + de/SUF
+1 he/PRE + yauhuu/STM + nee/SUF
+2 va/PRE + daun/STM + a/SUF + u/PRE + hau/PRE + dauwu/STM + nā/SUF
+8 71/STM
+1 had/PRE + nau/STM + hau/PRE + the/STM + hau/STM
+1 he/PRE + jae/STM + gu/SUF + da/PRE + nauwu/STM + yā/STM + e/SUF
+3 hae/PRE + gaugauana/STM + vaa/STM
+2 hadne/STM + thau/SUF + au/SUF + vāhe/STM + thee/SUF
+2 neau/STM + da/PRE + hene/STM + nee/SUF
+2 hena/STM + yau/SUF + hā/STM + gu/SUF
+3 hede/STM + dan/STM + e/SUF
+4 gau/PRE + chuhu/STM + chau/STM + de/SUF + de/SUF
+2 he/PRE + thauguhādau/STM + ne/SUF
+2 hau/PRE + nau/STM + ne/SUF + thau/SUF + ne/SUF + nau/SUF
+2 ne/STM + wau/STM + tha/SUF + thee/SUF
+1 haee/STM + da/SUF
+4 nane/STM + hāe/PRE + jena/STM + nau/SUF + de/SUF
+1 hae/PRE + gau/PRE + gau/PRE + chau/STM + a/SUF + gu/SUF + de/SUF
+4 nana/STM + vaa/STM + ve/SUF + de/SUF
+3 hae/PRE + gau/PRE + dau/STM + va/SUF + na/SUF + va/SUF
+3 he/PRE + chau/PRE + hau/PRE + dau/PRE + wau/PRE + huhau/STM + au/SUF
+2 had/STM + na/SUF + yā/STM + de/SUF + de/SUF
+3 dau/PRE + jae/STM + nauwu/STM
+6 nau/STM + hau/PRE + wau/STM + auau/STM
+4 dauhu/STM + da/PRE + nauwu/STM + na/SUF
+2 wau/STM + thau/SUF + nauhu/STM + u/SUF
+3 jeva/STM + ja/PRE + nauguu/STM
+26 He/PRE + thau/STM + wuu/STM
+2 Hana/STM + āe/STM + gau/PRE + hā/STM + de/SUF
+1 hadne/STM + na/SUF + yau/SUF + hau/PRE + nith/STM
+2 haeje/STM + yehau/STM
+3 ha/PRE + nedau/STM + dau/SUF + wau/SUF
+5 heve/STM + nau/SUF + nau/SUF
+1 hana/STM + saudau/STM + chu/SUF + se/SUF
+4 hese/STM + da/SUF
+2 hae/PRE + nau/STM + hau/PRE + dauwu/STM + ne/SUF + nau/SUF
+2 Haud/STM + ne/SUF + duseha/STM
+3 he/PRE + dā/STM + chau/STM + nau/SUF
+2 nane/STM + saudau/STM + chu/SUF + au/SUF + wau/STM + de/SUF
+3 ha/PRE + ne/PRE + saudau/STM + chu/SUF + nethe/SUF
+4 nethā/STM + nauau/SUF
+2 de/STM + nau/SUF + hau/PRE + the/PRE + hade/STM
+2 Nau/STM + gu/SUF + sa/SUF + je/SUF
+1 had/PRE + nane/STM + dau/SUF + thee/SUF
+1 had/PRE + ā/PRE + daun/STM + a/SUF + he/PRE + daune/STM + nau/SUF
+2 na/STM + da/SUF + na/SUF + yau/SUF
+5 haenauauhuchauhaa/STM
+2 hae/PRE + anade/STM + tha/SUF + a/SUF
+2 da/PRE + ja/PRE + nau/STM
+1 Hanaāa/STM + na/SUF + de/SUF + thā/STM + de/SUF
+5 wau/STM + wau/SUF + nau/SUF
+2 hanaāe/STM + nau/SUF + nau/SUF + de/SUF + dau/SUF + na/SUF + de/SUF + thee/SUF
+4 thau/PRE + hau/PRE + thau/STM + chau/STM + yau/SUF + au/SUF
+3 Dene/STM + au/SUF + wauhu/STM + de/SUF
+3 Ha/STM + ja/PRE + va/PRE + neauthu/STM + sau/STM
+3 nau/STM + wau/PRE + ā/PRE + the/STM
+8 gauu/STM + u/SUF
+14 Gauha/STM + nane/STM
+1 wau/STM + yau/SUF + gu/SUF
+3 nau/STM + nau/SUF + yā/STM + he/PRE + hau/STM + au/SUF
+2 hana/STM + sā/STM + e/SUF
+2 hāe/PRE + nese/PRE + dau/STM + de/SUF
+3 hae/PRE + va/PRE + the/STM + haa/STM
+38 nana/STM + ne/SUF + de/SUF
+2 hede/STM + nehe/STM + de/SUF
+2 nesau/STM + au/SUF
+2 He/PRE + da/PRE + nauwu/STM + na/SUF + a/SUF
+8 hene/STM + ve/SUF + sā/STM
+1 da/PRE + sau/STM + hau/PRE + dau/STM + au/SUF
+2 ha/PRE + yā/STM + e/SUF + ne/SUF
+1 JESUS/STM
+1 hadne/PRE + nauusa/STM + de/SUF
+9 heau/STM + the/SUF + ne/SUF
+3 hāe/STM + tha/SUF + de/SUF + nee/SUF
+2 hae/PRE + jae/STM + nauusa/STM + nauau/SUF
+4 nasau/STM
+4 hadjāt/STM + hau/PRE + nauau/STM
+7 nau/STM + hau/PRE + dau/PRE + wuu/STM
+82 Hejavaneauth/STM + u/SUF + sau/STM
+3 Nana/STM + ne/SUF + de/SUF
+1 haenauasāaune/STM
+1 hana/STM + se/SUF + dau/SUF + nith/SUF
+26 he/PRE + gau/STM
+1 nea/STM + he/PRE + auau/STM
+2 hae/PRE + je/PRE + nauusa/STM + nau/SUF
+3 hane/PRE + jau/STM + au/SUF + de/SUF
+1 hadne/PRE + nesau/STM + ne/SUF + vā/STM + thee/SUF
+5 wau/STM + thau/SUF + ne/SUF + saa/STM
+2 du/STM + nauau/SUF + gu/SUF
+2 had/STM + na/SUF + ne/SUF + wau/SUF + u/SUF + nauwu/STM + nith/STM
+3 gau/PRE + nuda/STM + nauwu/STM + na/SUF + de/SUF
+1 nausu/STM + naja/STM + wau/PRE + dau/STM + au/SUF
+6 va/PRE + hese/STM + da/SUF + nauau/SUF + gu/SUF
+3 he/PRE + dauwu/STM + ne/SUF
+58 6/STM
+1 hae/STM + ne/SUF + se/SUF + nauau/SUF
+3 Hau/STM + nau/STM + chāe/STM
+1 he/PRE + the/PRE + daun/STM + a/SUF + nauwu/STM + nā/SUF + a/SUF
+3 nā/STM + se/PRE + da/PRE + nā/STM + de/SUF
+4 ha/PRE + sā/STM + se/SUF
+3 nee/STM + se/SUF + na/SUF + uhauthehaude/STM
+5 ha/PRE + yau/STM + thau/SUF + ne/SUF + nethe/SUF
+3 nee/STM + se/SUF + ne/SUF + he/PRE + dau/PRE + nee/STM
+7 haud/STM + ne/SUF + nayauhāthee/STM
+1 jaa/STM + naa/SUF
+4 jevaje/STM + nau/SUF + ne/SUF + ve/SUF + ne/SUF
+2 hae/PRE + authea/STM + ve/SUF
+4 he/PRE + nethe/STM + sau/STM + nau/SUF
+1 nau/STM + jau/STM + dau/SUF + the/SUF + hā/STM + de/SUF
+7 haee/STM + da/SUF + sa/SUF
+1 he/PRE + wau/STM + chu/SUF + hau/PRE + chau/STM + wau/SUF + auwuu/STM
+9 dā/STM + e/SUF + yau/SUF + nauau/SUF + au/SUF
+5 ha/PRE + dāhe/STM + wau/SUF + de/SUF
+2 nethā/STM + e/SUF + ne/SUF + dau/PRE + wau/STM + de/SUF
+3 had/PRE + jena/STM + nauwu/STM + nau/SUF + thee/SUF
+1 hase/STM + nee/SUF + he/PRE + nee/STM
+3 Gauhau/STM + nau/STM + hau/PRE + wau/STM
+4 vana/STM + dau/PRE + unayaudede/STM
+1 nedauwaut/STM + hau/STM + de/SUF
+1 naja/STM + nau/SUF + chuwu/STM + nane/STM
+3 Nava/STM + dathuwu/STM
+3 had/PRE + gau/STM + na/SUF + nauwu/STM + na/SUF + de/SUF
+2 haeadetha/STM + nauau/SUF
+3 haee/STM + wau/SUF + wau/SUF + chu/SUF + vaa/STM
+3 jae/STM + yehau/STM + huk/STM
+3 nee/STM + na/SUF + deje/STM + tha/SUF + thee/SUF
+4 hae/PRE + wau/PRE + hau/STM + ne/SUF + sa/SUF + nauau/SUF
+2 vana/STM + chau/PRE + ga/STM + nith/STM
+4 hāe/PRE + se/PRE + wau/STM + de/SUF + daun/STM + a/SUF + thee/SUF
+2 hana/STM + se/SUF + dau/STM + de/SUF + ne/SUF + nee/SUF
+2 gau/PRE + je/PRE + nanavanau/STM
+3 David/STM
+1 hese/STM + ve/SUF + the/SUF + he/PRE + nau/STM + gu/SUF
+4 he/PRE + tha/STM + de/SUF + ha/STM
+1 hā/STM + chau/PRE + wuna/STM + gu/SUF
+5 ha/PRE + thā/STM + e/SUF + na/SUF + va/SUF + sau/STM + nee/SUF
+1 nane/STM + haeau/STM + daun/STM + a/SUF + de/SUF
+4 ha/PRE + dau/PRE + va/PRE + the/STM + hā/STM + ne/SUF
+2 haevathasauwuna/STM
+2 haeje/STM + a/SUF + na/SUF + de/SUF + dau/SUF + ne/SUF
+3 had/PRE + nau/STM + hau/PRE + thau/STM + de/SUF + ne/SUF + nee/SUF
+3 daun/STM + ha/PRE + yewhu/STM
+2 hau/PRE + nau/STM + chuwu/STM + hau/STM + au/SUF
+1 dusaa/STM + yā/STM + hew/STM
+7 hau/PRE + chuwu/STM + de/SUF
+2 dau/STM + au/SUF + nau/SUF + the/SUF + da/SUF + de/SUF
+5 Nana/STM + vaa/STM + ve/SUF + dau/SUF + nau/SUF
+2 ha/PRE + thā/STM + e/SUF + ja/PRE + jā/STM + esuu/STM
+16 hāe/PRE + nau/STM + hau/PRE + wau/STM + de/SUF
+1 heva/STM + dan/STM + nauau/SUF + wune/STM + ne/SUF
+4 Dusaa/STM + yā/STM
+1 he/PRE + hau/PRE + wu/STM + javaā/STM + se/SUF
+5 hae/PRE + va/PRE + the/STM + de/SUF
+3 haevas/STM + a/SUF + na/SUF + de/SUF
+3 da/PRE + ja/PRE + nau/STM + naa/SUF
+4 hau/PRE + dau/STM + au/SUF + vā/SUF + de/SUF
+1 hau/PRE + chuwu/STM + nane/STM
+1 Nane/STM + ha/PRE + dau/PRE + gau/PRE + hu/STM + thee/SUF
+2 heau/STM + the/SUF + he/PRE + wau/STM + thā/STM + daune/STM
+3 hau/PRE + the/STM + a/SUF + va/SUF + thee/SUF
+2 had/PRE + jena/STM + nau/SUF + de/SUF
+2 hae/PRE + vā/STM
+1 thau/STM + wau/SUF + da/SUF + nau/SUF + de/SUF
+2 hae/PRE + thā/STM + nau/SUF
+3 nese/STM + ne/SUF + hā/STM + de/SUF
+3 ja/PRE + jene/STM + e/SUF
+2 ha/PRE + dāhe/STM + va/SUF + hew/STM
+2 hadne/STM + ve/SUF + na/SUF + de/SUF
+4 Beelzebub/STM
+4 hae/PRE + nedau/STM + wau/PRE + dauwu/STM
+1 hae/PRE + janaugu/STM
+2 Ha/STM + je/PRE + nau/STM + hau/STM + va/SUF + thee/SUF
+6 he/PRE + dau/PRE + nau/STM
+2 hada/STM + na/SUF + de/SUF + dau/SUF + ne/SUF + nau/SUF
+2 hau/PRE + nauau/STM + haeje/STM + wau/SUF + tha/SUF + ne/SUF + nau/SUF
+1 hase/STM + a/SUF + gu/SUF
+2 Gau/STM + nanenauguhu/STM
+4 ha/STM
+4 wau/STM + wau/SUF + chu/SUF + hā/STM + na/SUF + gu/SUF
+3 gau/PRE + thā/STM + yau/SUF + au/SUF
+2 yethaagu/STM
+5 ne/PRE + dauwu/STM + nā/SUF + na/SUF + gu/SUF
+5 ne/PRE + nese/STM + de/SUF + de/SUF
+4 haeau/STM + dau/PRE + wu/STM + thajau/STM + ha/STM
+4 jaegau/STM + hade/STM + ne/SUF + yā/STM + gu/SUF
+2 Mosase/STM
+1 nā/STM + e/SUF + nau/STM + da/PRE + hede/STM
+1 hana/STM + se/SUF + jae/STM + chau/STM + wau/SUF + vāhe/STM + nethe/SUF
+1 ha/PRE + thā/STM + e/SUF + nau/STM + thau/SUF + au/SUF
+1 ha/PRE + dau/PRE + gau/STM + gu/SUF + nesā/STM + de/SUF
+5 the/STM + au/SUF + gu/SUF + nau/SUF + the/SUF
+2 jane/STM + na/SUF + na/SUF + tha/SUF + na/SUF
+1 Hana/STM + āe/STM + da/SUF + nauau/SUF
+1 Hana/STM + āe/STM + da/PRE + sā/STM + de/SUF
+6 javaā/STM + saa/STM
+2 Ne/STM + nau/SUF + chuwu/STM + sā/STM
+2 ha/PRE + yā/STM + dau/SUF + nau/SUF + de/SUF
+5 Hae/STM + va/SUF + dau/SUF + u/SUF + gau/PRE + dau/STM + de/SUF
+1 hāe/PRE + dauwu/STM + nā/SUF + dau/SUF + ne/SUF + nau/SUF
+3 jane/STM + dā/STM + de/SUF
+1 nau/STM + daun/STM + u/SUF + nau/SUF + nau/SUF
+1 ne/STM + nau/SUF + de/SUF + hane/STM
+13 hae/PRE + je/PRE + dā/STM
+6 hadne/PRE + authedau/STM + de/SUF + nee/SUF
+1 had/STM + na/SUF + va/SUF + he/PRE + tha/STM + hena/STM
+2 hanaāe/PRE + yethaagu/STM + de/SUF
+3 hane/STM + ja/PRE + nana/STM
+1 Jā/STM + de/SUF + e/SUF
+5 had/PRE + nau/STM + sā/STM + gu/SUF + thā/STM + de/SUF
+4 hede/STM + dan/STM + e/SUF + nau/SUF
+8 James/STM
+2 gau/PRE + jena/STM + yau/SUF + hau/PRE + nauau/STM
+2 had/STM + na/SUF + āe/STM + ne/SUF
+8 hae/PRE + nuchau/STM + naa/SUF
+2 hau/PRE + nau/STM + wu/STM + thajau/STM + de/SUF
+1 hae/STM + na/SUF + se/SUF + dau/SUF + u/SUF + sa/SUF
+3 had/PRE + nauau/STM + hau/STM + de/SUF
+3 de/STM + ve/PRE + chau/PRE + dauwu/STM + na/SUF
+7 Ha/STM + na/STM + ā/PRE + ā/PRE + edauwu/STM + nau/SUF + de/SUF
+6 haya/STM + uwuse/STM + nee/SUF
+25 47/STM
+4 hae/PRE + nauwu/STM + na/SUF
+3 Vadan/STM + nau/SUF + auwuu/STM
+2 da/PRE + chau/PRE + auwuu/STM
+3 hau/PRE + gajuh/STM + u/PRE + yā/STM + gu/SUF
+3 hau/PRE + wau/STM + ne/SUF + hā/STM + de/SUF
+42 hese/STM
+2 hadenaāene/STM + au/SUF + gau/PRE + hau/PRE + wu/STM
+1 hanaāe/PRE + jases/STM + a/SUF + na/SUF + de/SUF + dau/STM + au/SUF
+3 He/PRE + vada/STM + nau/SUF + wau/PRE + thauwu/STM
+2 dau/PRE + hae/PRE + nauau/STM
+2 He/PRE + ā/PRE + wau/STM + ne/SUF
+1 hadeehau/STM + nau/SUF
+1 Nejauauwuu/STM
+3 nethā/STM + e/SUF + jaa/STM + the/SUF + de/SUF + duu/STM
+2 Dut/STM + ha/PRE + nee/STM
+1 hau/PRE + hau/STM + de/SUF + e/SUF
+2 hanā/STM + e/SUF + dau/PRE + dau/STM + au/SUF + vā/STM + nauau/SUF
+1 hae/PRE + nā/STM + thajau/STM + nauau/SUF
+2 he/PRE + wau/STM + wau/SUF + ne/SUF
+3 hunauhaudee/STM
+2 devadau/STM + nau/STM + hau/PRE + wau/STM + de/SUF
+1 dau/STM + nau/SUF + hau/PRE + duu/STM
+3 had/PRE + wau/STM + wau/SUF + ne/SUF + ne/SUF + thee/SUF
+2 hadne/PRE + yauha/STM + de/SUF
+3 dau/PRE + je/PRE + dā/STM + thee/SUF
+2 hae/STM + ne/SUF + tha/SUF + ne/SUF + dau/SUF
+193 Hau/STM
+4 jau/STM + au/SUF + da/SUF + ne/SUF + nau/SUF + auwuu/STM
+3 nā/STM + da/PRE + sā/STM + de/SUF
+1 hese/STM + na/SUF + ā/SUF + na/SUF + gu/SUF
+3 vane/STM + nā/SUF + nau/SUF
+5 hae/PRE + ja/PRE + the/PRE + gau/PRE + hu/STM + nauau/SUF
+5 javaāhe/STM + huk/STM
+4 hadne/PRE + nee/STM + thajau/STM + thee/SUF
+3 dau/PRE + je/PRE + thau/STM + wau/PRE + dauwu/STM
+2 nana/STM + de/SUF + de/SUF
+2 he/PRE + jeve/STM + na/SUF + he/PRE + dau/PRE + nau/STM
+9 Jaun/STM + e/SUF + au/SUF
+3 haenauhautheha/STM
+3 jau/STM + nau/SUF + de/SUF
+1 hae/PRE + nauau/STM
+2 He/STM + tha/SUF + de/SUF + e/SUF
+2 hae/PRE + jā/STM + ve/SUF + sa/SUF
+6 jau/STM + au/SUF + jau/STM
+5 dee/STM + thauwu/STM + ne/SUF + thauyā/STM
+1 hasayāneda/STM + yau/SUF + nau/SUF
+3 ha/PRE + thā/STM + e/SUF + wau/PRE + sau/STM + nee/SUF
+2 haeau/STM + the/PRE + daun/STM + a/SUF + a/SUF
+1 Hejavae/STM + neauthu/STM + sau/STM
+1 hae/PRE + jae/STM + nau/SUF + thā/STM
+3 hāe/PRE + nedauwaut/STM + hau/STM + de/SUF
+6 da/PRE + thā/PRE + jee/STM
+1 ha/PRE + dau/PRE + cha/STM + a/SUF
+1 hae/PRE + nau/STM + de/SUF + daun/STM + a/SUF
+3 na/STM + nā/SUF + tha/SUF + dau/SUF + wau/STM + nee/SUF
+1 hae/STM + ne/SUF + se/SUF + dau/SUF + na/SUF
+2 Heau/STM + dau/SUF + naa/SUF
+3 ha/PRE + nedau/STM + thee/SUF
+8 Zacharias/STM
+7 ja/PRE + athās/STM + āe/STM
+6 hae/PRE + va/PRE + dau/STM + au/SUF + nau/SUF
+6 Nesethajauhu/STM
+3 javaā/STM + na/SUF + da/SUF + ve/SUF + nuhune/STM + de/SUF
+4 hāe/PRE + jau/STM + the/SUF
+2 thau/STM + a/SUF + yā/STM + nau/SUF + u/SUF + nauga/STM + ne/SUF
+2 dau/PRE + jases/STM + e/SUF + nauau/SUF + au/SUF
+2 nane/PRE + ujaude/STM + ve/SUF + je/PRE + chau/STM
+1 daun/STM + ha/PRE + thā/STM + he/PRE + nith/STM
+40 hau/PRE + nau/STM + de/SUF
+1 had/PRE + nau/STM + chu/SUF + na/SUF + na/SUF
+2 haee/STM + au/SUF + the/PRE + daun/STM + a/SUF + a/SUF
+4 hae/PRE + gau/PRE + jau/STM + au/SUF + dā/STM
+4 heja/STM + de/SUF + ne/SUF + ne/SUF
+1 hanaāe/PRE + jases/STM + a/SUF + na/SUF + de/SUF + thee/SUF
+2 he/PRE + ja/PRE + veede/STM
+1 hau/PRE + dau/PRE + guhu/STM + a/SUF + ne/SUF + nauau/SUF
+49 21/STM
+2 hana/STM + se/SUF + thajau/STM + thee/SUF
+2 HETHADENEE/STM
+3 hade/STM + thau/SUF + nā/SUF
+3 hau/PRE + wau/STM + au/SUF + dau/SUF + nā/SUF + dau/SUF + nau/SUF
+2 daune/STM + dau/SUF + na/SUF + tha/SUF + ne/SUF
+9 hāahe/STM + nau/SUF
+1 hanā/STM + vechaut/STM + hau/STM + de/SUF
+3 hase/STM + va/SUF + se/SUF + nau/SUF + dāhe/STM + nith/SUF
+1 hae/STM + na/SUF
+2 hadne/STM + wau/SUF + u/SUF + nauau/SUF
+1 naja/STM + wau/STM + de/SUF
+1 vane/STM + nana/STM
+1 Eliseus/STM
+2 hade/STM + dau/SUF + yau/SUF + va/SUF + nauau/SUF
+3 Va/STM + heau/STM + daun/STM + a/SUF
+4 had/PRE + nau/STM + chau/STM + wau/STM + de/SUF
+47 32/STM
+3 hana/STM + se/SUF + jā/STM + esaunee/STM
+1 hau/PRE + wu/STM + ja/PRE + nauau/STM
+2 nau/STM + dau/PRE + u/PRE + yā/STM + gu/SUF
+2 nane/PRE + ujaude/STM + nee/SUF
+16 hau/PRE + thau/STM + au/SUF + au/SUF
+2 jee/STM
+4 he/PRE + thauwu/STM + thajuhu/STM
+3 hae/PRE + da/PRE + nauwu/STM + nā/SUF + nau/SUF
+9 Hauwu/STM + nau/SUF + na/SUF + na/SUF
+3 nauauhuu/STM
+2 nana/STM + yā/STM + se/SUF + nauau/SUF + gu/SUF
+2 hade/STM + ve/SUF + the/SUF + va/SUF
+13 hena/STM + ne/SUF + da/SUF + a/SUF
+3 had/PRE + nau/STM + nauau/SUF + va/SUF
+13 55/STM
+5 nane/PRE + hā/STM + a/SUF + e/SUF + nauwu/STM + na/SUF
+7 vana/STM + sau/STM + nee/SUF
+2 Wau/STM + thau/SUF + nau/SUF + hā/PRE + he/PRE + hau/STM
+2 ja/PRE + nā/STM + dau/SUF + the/SUF + a/SUF + vā/STM + nauau/SUF
+1 nene/STM + a/SUF + na/SUF + duu/STM
+2 had/PRE + nese/STM + de/SUF + thee/SUF
+14 hanaāe/PRE + nehe/STM + thau/SUF + de/SUF
+17 he/PRE + sau/STM
+8 hade/STM + thau/SUF + wau/PRE + dau/STM + de/SUF
+6 heva/STM + e/SUF + vaa/STM
+1 he/PRE + the/STM + wau/SUF + ne/SUF + nau/SUF
+3 Dene/STM + the/SUF + naede/STM + va/SUF + tha/SUF + na/SUF
+2 hade/PRE + gaugauana/STM + u/SUF + wau/SUF + nauau/SUF
+5 nau/STM + hau/PRE + thau/STM
+3 gau/PRE + jee/STM
+3 hae/PRE + yehau/STM + ne/SUF + nau/SUF
+5 Nau/STM + ne/SUF
+3 vana/STM + daune/SUF + se/SUF + de/SUF + de/SUF
+43 15/STM
+2 hau/PRE + chuwu/STM + nane/STM + ne/SUF
+3 hāe/PRE + jae/STM + nauusa/STM + de/SUF
+2 he/PRE + gau/STM + gauuthajaudenenau/STM
+6 Hena/STM + heee/STM
+2 hadne/STM + ja/SUF + nau/STM + hau/PRE + thā/STM + thee/SUF
+3 dau/PRE + jā/STM + e/SUF + nuu/STM
+3 hadne/PRE + chau/STM + chu/SUF + au/SUF + nā/SUF + na/SUF
+3 dau/PRE + nausu/STM + nau/SUF + gu/SUF + nau/SUF + thee/SUF
+1 nese/STM + da/SUF + nuu/STM
+4 yehau/STM + the/SUF
+3 hadne/PRE + nane/STM + da/SUF + ne/SUF + dau/PRE + nee/STM
+2 hae/PRE + wau/STM + ne/SUF + ne/SUF + ā/SUF + gu/SUF + de/SUF
+4 Dau/STM
+2 hāe/PRE + je/PRE + dā/STM + thee/SUF
+1 nese/STM + nehe/STM + thau/SUF + thee/SUF
+3 he/PRE + gau/STM + au/SUF
+1 gau/PRE + hā/STM
+3 jeva/STM + he/PRE + ve/PRE + wauhu/STM + u/SUF
+2 hā/STM + a/SUF + dethaude/STM
+4 hadne/PRE + wau/STM + thau/SUF + nau/SUF + wuna/STM + tha/SUF + ne/SUF
+1 nane/STM + dau/SUF + dau/PRE + chu/STM + au/SUF + wau/STM + de/SUF
+5 hae/PRE + gaugauana/STM + dauwu/STM + ne/SUF + nau/SUF
+1 vechaut/STM + hā/STM + ne/SUF
+5 Hae/STM + nau/SUF + na/SUF + tha/SUF + ne/SUF
+6 ha/PRE + dau/PRE + chuwu/STM + nane/STM + ve/SUF + ne/SUF
+3 hae/PRE + nā/STM + thajau/STM + nau/SUF + nauau/SUF
+1 jene/STM + dau/SUF + nau/SUF + hau/PRE + gau/PRE + nee/STM
+2 ha/PRE + thau/STM + the/SUF + dau/SUF + nā/SUF + he/PRE + thee/STM
+35 je/PRE + dau/PRE + wuu/STM
+2 hae/STM + nā/SUF + au/SUF + hau/STM + va/SUF
+1 had/PRE + nee/STM + gau/STM + chu/SUF + guhu/STM + ne/SUF
+5 neve/STM + thee/SUF
+2 hadne/PRE + dauwu/STM + huu/STM
+4 hae/PRE + the/STM + au/SUF + gu/SUF + daune/SUF
+6 had/STM + ve/SUF + thee/SUF
+2 had/STM + na/SUF + ne/SUF + thau/SUF + au/SUF + na/SUF + he/PRE + dava/STM
+2 hade/STM + va/SUF + na/SUF + va/SUF
+1 jau/STM + nau/SUF + nauau/SUF
+7 he/PRE + tha/STM + de/SUF + e/SUF
+5 veeyau/STM + gu/SUF
+2 hade/PRE + dā/STM + e/SUF + wau/SUF + nauau/SUF
+1 he/PRE + nau/STM + dau/SUF + ne/SUF + nau/SUF
+2 dau/STM + nā/SUF + au/SUF + da/SUF + a/SUF
+10 Nau/STM + hau/PRE + dau/PRE + wuu/STM
+6 ha/PRE + dau/PRE + chu/STM + de/SUF
+4 ha/PRE + dau/PRE + gautheavadenenau/STM
+1 hede/STM + dan/STM
+4 Hadje/STM + janaugu/STM + daune/SUF
+2 hae/PRE + da/PRE + se/PRE + gau/PRE + gauu/STM + sa/SUF + nau/SUF
+4 haeje/STM + veede/STM + nauau/SUF
+4 va/PRE + se/PRE + sā/STM
+3 da/PRE + jau/STM + au/SUF + nee/SUF
+2 hae/PRE + ā/PRE + edauwu/STM + na/SUF + a/SUF
+43 12/STM
+1 hanaāe/PRE + veehau/STM + thee/SUF
+1 deje/STM + e/SUF + se/SUF + dau/SUF + de/SUF
+4 deje/STM + wau/SUF + ne/SUF + jaa/STM + the/SUF + hau/STM + de/SUF
+3 Wau/STM + ne/SUF + nau/SUF + hau/PRE + the/PRE + haa/STM
+2 denausu/STM + nau/SUF + the/SUF + da/SUF + de/SUF
+2 Hanā/STM + nee/SUF + ne/SUF
+2 neau/STM + nau/SUF + ne/SUF + de/SUF + nau/SUF
+3 he/PRE + hau/PRE + wu/STM + ne/SUF + da/PRE + he/PRE + vaa/STM
+1 dau/PRE + du/STM
+4 neheau/STM + daun/STM + a/SUF + de/SUF
+13 Hā/STM + e/SUF + ne/SUF
+2 hanechauhauthet/STM + hā/STM + de/SUF
+2 hanechauhauthet/STM + hā/STM + ne/SUF
+3 Vaha/STM + dāhe/STM + de/SUF
+2 hena/STM + jā/STM + thee/SUF
+2 Jeva/STM + e/SUF + da/SUF + nau/SUF + wuu/STM
+1 haeau/STM + chu/SUF + ha/STM + nana/STM + de/SUF
+3 hene/STM + thau/SUF + gu/SUF + vā/SUF + dau/SUF + nau/SUF
+2 hae/PRE + jaa/STM + nauwu/STM + na/SUF
+1 he/PRE + hau/PRE + wu/STM + thau/SUF + u/SUF + jene/STM + ne/SUF + da/SUF + ne/SUF
+2 nedau/STM + u/SUF + da/SUF + nauau/SUF
+1 Gauhā/STM + je/PRE + nee/STM + ne/SUF + se/PRE + hau/STM + va/SUF
+4 yau/STM + thau/SUF + ne/SUF + nee/SUF
+3 hadne/STM + na/SUF + yau/SUF + de/SUF + thee/SUF
+2 hau/PRE + gau/PRE + wu/STM + de/SUF
+1 hae/PRE + nau/STM + hau/PRE + vā/STM
+3 ha/PRE + thā/STM + e/SUF + jea/STM + u/SUF + ā/PRE + nuu/STM + sa/SUF + thee/SUF
+3 hayauauwun/STM
+3 he/PRE + hau/PRE + wu/STM + vechaut/STM + hau/STM
+3 nā/STM + chau/STM
+2 Hā/STM + e/SUF + dau/SUF + chau/PRE + thee/STM
+41 30/STM
+1 ha/PRE + nedau/STM + de/SUF + wau/SUF
+2 hauunaug/STM + ā/PRE + nau/STM
+1 ha/PRE + vada/STM + thu/STM + vaa/STM
+2 ha/PRE + je/PRE + chu/STM + au/SUF + thee/SUF
+28 Naa/STM
+3 gau/PRE + hāe/PRE + jau/STM
+1 hese/STM + naede/STM + huk/STM
+6 ha/PRE + thā/STM + e/SUF + nee/SUF + va/SUF + u/SUF + de/SUF + nee/SUF
+2 dau/PRE + janaugu/STM + de/SUF
+30 chau/PRE + chau/STM + nu/SUF
+1 hāe/PRE + va/PRE + the/STM + de/SUF + de/SUF
+2 hasauwauvahehe/STM + hau/STM
+3 gau/PRE + ha/PRE + javaā/STM + nee/SUF + naede/STM + va/SUF
+3 hae/PRE + nauau/STM + wuja/STM
+6 hae/PRE + wau/STM + tha/SUF + nauau/SUF
+1 hanā/STM + thauauauwuje/STM + thā/STM + nith/STM
+249 nana/STM + ne/SUF + na/SUF
+4 Ha/STM + ā/PRE + thauwu/STM + ā/PRE + vaa/STM
+3 hau/PRE + nau/STM + ne/SUF + thau/SUF + de/SUF
+1 had/PRE + je/PRE + jena/STM + nauau/SUF
+1 had/PRE + javaā/STM + ne/SUF + se/SUF + da/SUF + nauau/SUF
+1 haeauwu/STM + nau/SUF + nau/SUF
+3 hae/PRE + gau/PRE + a/PRE + da/PRE + thāhe/STM
+2 hadne/PRE + hau/PRE + wu/STM + gauu/STM + veeyau/STM
+2 Ch/STM + uwauthee/STM
+4 hau/PRE + wauwaunave/STM
+2 javaā/STM + nau/SUF + wauhu/STM + a/SUF + na/SUF
+1 ha/PRE + tha/STM + na/SUF + va/SUF + na/SUF
+2 naje/STM + ne/SUF + thau/SUF + ā/PRE + yā/STM + vā/STM + de/SUF
+1 hene/STM + ne/SUF + se/SUF
+1 ha/PRE + jesa/STM + ne/SUF + dau/SUF + dau/SUF + nā/SUF + thee/SUF
+2 he/PRE + dau/PRE + neau/STM
+4 hane/STM + se/SUF + da/SUF + nauwu/STM + nauau/SUF
+1 ne/STM + nau/SUF + chauwa/STM + ha/PRE + thee/STM
+3 ha/PRE + nethe/STM + nau/SUF + nauau/SUF
+2 hae/PRE + nau/STM + de/SUF + hau/STM + na/SUF
+4 nane/PRE + see/STM + dau/SUF + naa/SUF
+3 Nane/STM + hāe/PRE + jat/STM + hā/STM + au/SUF + de/SUF + nee/SUF
+2 jae/STM + ne/SUF + dauwu/STM + na/SUF + a/SUF
+3 haeae/STM + ne/SUF
+3 hadne/STM + va/SUF + udauau/STM
+1 he/PRE + thā/STM + hene/STM
+4 had/PRE + jaa/STM + nau/SUF + wau/SUF + va/SUF
+12 hau/STM + au/SUF + wudan/STM
+3 hanaāe/PRE + jases/STM + ā/PRE + edauwu/STM + nau/SUF + de/SUF
+3 haenauujāda/STM + u/SUF + na/SUF
+2 nava/STM + the/SUF + hā/STM + de/SUF
+2 ne/PRE + chau/STM + na/SUF + tha/SUF + thau/SUF
+3 denaa/STM + de/SUF
+4 hane/STM + se/SUF + da/SUF + nau/SUF + de/SUF
+3 heehauwunaasenu/STM
+1 ne/STM + naa/SUF + de/SUF
+3 had/PRE + va/PRE + the/STM + chau/PRE + chau/STM + na/SUF + u/SUF + de/SUF + de/SUF
+2 he/PRE + he/PRE + je/PRE + se/STM
+1 dauyewuwu/STM + the/SUF + dau/SUF + ne/SUF
+4 hāe/PRE + se/PRE + nehe/STM + de/SUF
+39 hena/STM + ne/SUF + nauau/SUF
+5 ha/PRE + thā/STM + e/SUF + wau/STM + thau/SUF + nauhu/STM + u/SUF
+5 ja/PRE + nene/STM + the/SUF + nauau/SUF
+3 hase/STM + nau/SUF + de/SUF
+2 hae/STM + ne/SUF + da/SUF + veyā/STM + wau/SUF + na/SUF
+1 hāe/PRE + da/PRE + dau/STM + au/SUF
+1 dau/STM + dau/SUF + s/STM
+1 ha/PRE + sae/STM + nau/SUF + nā/SUF + de/SUF
+1 hau/PRE + gau/STM + na/SUF + yau/SUF + hā/STM + a/SUF
+4 hau/PRE + jau/STM + ne/PRE + hae/PRE + heau/STM + gau/PRE + wu/STM
+1 hae/STM + ne/SUF + u/SUF + de/SUF
+2 he/PRE + sā/STM + naa/SUF + ve/SUF + de/SUF
+4 nau/STM + gau/STM + tha/SUF
+46 40/STM
+2 had/STM + na/SUF + ja/PRE + wau/PRE + dauwu/STM
+8 vethe/STM + wau/SUF
+13 nana/STM + nin/STM
+3 hane/STM + sa/SUF + de/SUF + nee/SUF
+5 nanedauwaudaa/STM
+3 hāe/PRE + nuu/STM
+2 heve/STM + ve/SUF + tha/SUF + saa/STM
+2 ha/PRE + ja/PRE + se/PRE + dā/STM + e/SUF + yau/SUF + nauau/SUF
+3 hae/PRE + veede/STM + nauau/SUF
+2 hade/STM + nee/SUF + hau/PRE + thee/STM
+4 ne/PRE + vethe/STM + he/PRE + thee/STM
+2 Ja/STM + nau/SUF + gu/SUF + haa/STM
+3 had/STM + na/SUF + na/SUF + se/PRE + nedau/STM + au/SUF
+3 he/PRE + dau/PRE + chu/STM + au/SUF + nau/SUF
+2 had/PRE + jaa/STM + ne/SUF + nee/SUF
+2 Na/STM + vechaut/STM + hau/STM
+1 hadne/STM + naa/SUF + thee/SUF
+23 hau/PRE + thau/STM + au/SUF
+3 hau/STM + nau/SUF + yau/SUF + hau/PRE + thā/PRE + he/PRE + hau/STM
+4 ha/PRE + naa/STM + dā/STM + ne/SUF
+2 wau/PRE + hau/STM + nauau/SUF
+2 hade/PRE + thā/STM + de/SUF
+1 y/STM + a/SUF + hee/STM
+1 hanā/STM + thau/SUF + chau/PRE + nau/STM + hau/PRE + wau/STM + de/SUF
+1 haa/STM + na/SUF + āe/STM + nauau/STM + chau/STM + au/SUF
+2 hae/STM + sa/SUF + sa/SUF + a/SUF + nauwu/STM
+5 haeehau/STM
+4 hadne/PRE + wau/STM + tha/SUF + thee/SUF
+1 hadne/STM + tha/SUF + de/SUF
+15 nauuu/STM
+1 he/PRE + tha/STM + de/SUF
+10 hau/PRE + jau/STM
+3 Je/STM + nau/SUF + hau/PRE + the/PRE + hee/STM
+3 he/PRE + hau/PRE + wu/STM + ja/PRE + ja/PRE + thau/STM + ne/SUF
+67 naa/STM
+2 va/PRE + vā/STM + au/SUF + ne/SUF
+3 the/STM + au/SUF + gu/SUF + dau/SUF + nauau/SUF
+3 ve/STM + chau/PRE + dau/STM + au/SUF
+4 hā/STM + tha/SUF + a/SUF + ne/SUF + nau/SUF
+8 hae/PRE + gaugauana/STM + de/SUF
+3 hae/PRE + va/PRE + sā/STM + na/SUF + de/SUF + dau/SUF + ne/SUF
+2 hāe/PRE + je/PRE + dā/STM + de/SUF
+2 haua/STM + ne/SUF
+1 Hae/STM + ā/PRE + edauwu/STM + na/SUF
+2 heva/STM + e/SUF + wu/STM
+3 he/PRE + dāhe/STM + ne/SUF + nau/SUF
+3 hede/STM + jee/STM
+2 ha/PRE + je/PRE + jae/STM + yehau/STM + thee/SUF
+3 hae/PRE + nauusa/STM
+2 hae/PRE + ja/PRE + je/PRE + dau/STM + au/SUF + na/SUF + ne/SUF + nau/SUF
+3 ha/PRE + nedau/STM + de/SUF
+1 hanaāe/PRE + hau/STM + de/SUF
+3 haeau/STM + chu/SUF + ha/STM + nana/STM + de/SUF + tha/SUF
+3 ha/PRE + sā/STM + na/STM + vā/STM + daune/SUF + nau/SUF
+1 hadne/STM + na/SUF + yau/SUF + hau/PRE + nethe/STM
+1 hau/PRE + nau/STM + u/SUF + dau/SUF + nā/SUF + de/SUF
+2 gau/PRE + hā/STM + a/SUF + ve/SUF + dau/PRE + daun/STM + a/SUF
+4 hā/STM + hau/PRE + wu/STM + u/SUF + tha/SUF + heva/STM
+4 Na/STM + je/PRE + saa/STM
+5 heda/STM + nau/SUF
+12 ha/PRE + ja/PRE + see/STM
+1 hae/PRE + nau/STM + nau/SUF + a/SUF + gu/SUF + nauau/SUF
+1 ne/STM + jaa/STM + nuu/STM
+4 nase/STM + se/SUF
+5 hade/STM + na/SUF + yau/SUF + hau/STM + va/SUF
+1 heve/STM + nā/SUF + dau/SUF + nau/SUF
+1 hajese/STM + thau/SUF + gu/SUF + de/SUF + thee/SUF
+3 hāe/PRE + nau/STM + hau/PRE + wau/STM + nā/SUF
+4 hāe/PRE + va/PRE + the/STM + dau/STM + de/SUF
+1 hanaāe/STM + nau/SUF + nau/SUF + ā/SUF + ne/SUF + de/SUF
+1 va/PRE + ha/PRE + dā/STM + de/SUF
+3 nana/STM + ja/PRE + thajau/STM + de/SUF
+3 Moses/STM + e/SUF
+7 he/PRE + va/PRE + dathuwu/STM
+14 dese/STM + nee/SUF
+2352 nau/STM
+3 Dajee/STM
+10 hautheaun/STM + e/SUF
+2 hau/PRE + gau/PRE + gauuthajaudenenau/STM
+2 hau/PRE + hanā/PRE + hee/STM + je/PRE + gau/PRE + dau/PRE + vāhe/STM + nethe/SUF
+3 had/PRE + thau/STM + wau/SUF + the/SUF + nith/SUF
+2 hae/PRE + asenehaa/STM
+6 sayā/STM + nee/SUF
+1 ha/PRE + nesā/STM + nith/STM
+3 ne/PRE + dauwu/STM + u/SUF
+1 wau/STM + nau/SUF + dau/PRE + nuu/STM
+2 LUKE/STM
+2 nau/STM + nau/SUF + hau/PRE + the/PRE + thā/STM + de/SUF
+2 hadne/PRE + hau/PRE + wu/STM + va/SUF + ja/PRE + dauwu/STM
+3 haud/STM + ne/SUF + hau/PRE + wu/STM + va/SUF + ne/SUF
+1 hanaāe/PRE + jae/STM + nau/SUF + dāhe/STM + de/SUF
+7 nana/STM + thee/SUF
+4 hae/PRE + nane/STM + ne/SUF
+1 hade/STM + ve/SUF + ve/SUF + the/SUF + dau/SUF + nau/SUF + de/SUF
+3 had/PRE + nau/STM + the/SUF + da/SUF + nau/SUF
+2 Jeva/STM + e/SUF + gaugauana/STM + dauwu/STM + u/SUF
+1 deje/STM + nauhuu/STM
+69 nana/STM + ne/SUF + na/SUF + u/SUF
+1 heda/STM + nauau/SUF + gu/SUF
+1 hau/PRE + wu/STM + yau/SUF
+3 haeje/STM + thau/PRE + wu/STM + thajau/STM + nauau/SUF
+4 nee/STM + e/SUF + naja/STM + ne/SUF + de/SUF
+11 hāe/PRE + nauhaudauau/STM
+3 hane/STM + se/SUF + da/SUF + nuu/STM
+2 na/STM + vechaut/STM + hau/STM
+6 hae/PRE + u/PRE + ā/PRE + nese/STM + ve/SUF
+2 hada/STM + jee/STM
+5 nejae/STM + va/SUF + u/SUF + ā/SUF + de/SUF
+15 ha/PRE + sau/STM + au/SUF
+36 17/STM
+5 hadne/PRE + nau/STM + hau/PRE + thā/STM + thee/SUF
+2 hade/PRE + gau/PRE + yā/STM + e/SUF + ja/PRE + heva/STM
+3 had/PRE + nau/STM + sā/STM + gu/SUF + tha/SUF + de/SUF
+1 he/PRE + vā/STM + e/SUF
+47 31/STM
+3 Thau/STM + gu/STM + thāhe/STM
+4 hasauwu/STM + nau/SUF + nā/SUF + de/SUF
+2 ha/PRE + dau/PRE + chu/STM + thee/SUF
+1 Hau/STM + wauchudaude/STM
+3 haeneneuva/STM
+1 va/STM + thau/SUF + nau/SUF + dauhu/STM + na/SUF + gu/SUF
+2 de/STM + na/SUF + na/SUF + de/SUF + sa/SUF + nauau/SUF
+2 na/STM + guu/STM
+14 veve/STM + nau/SUF + de/SUF + nau/SUF
+5 nana/STM + nee/SUF
+8 nese/PRE + thāhe/STM
+2 heyew/STM + nau/SUF
+3 vada/STM + thau/SUF
+2 hae/STM + ne/SUF + se/SUF + ne/SUF + nau/SUF
+3 wau/STM + wau/SUF + chu/SUF + duhu/STM
+3 hae/PRE + va/PRE + gaugauana/STM + dauwu/STM
+2 wau/STM + wau/SUF
+1 Hana/STM + āe/STM + jee/STM + dau/SUF + chau/PRE + thee/STM
+1 ne/STM + thau/SUF + wau/SUF + dau/SUF + na/SUF + de/SUF + nethe/SUF
+4 nauau/STM + dau/SUF
+2 hadne/PRE + jau/STM + au/SUF + dau/SUF + nau/SUF + thee/SUF
+2 ne/STM + nedauwauduu/STM
+2 ja/PRE + nesee/STM
+3 vana/STM + sau/STM + au/SUF
+3 hedaeyau/STM + ne/SUF + ne/SUF
+3 je/PRE + va/PRE + authenehee/STM
+4 gau/PRE + hu/STM + javaā/STM + nau/STM + hau/PRE + gane/STM + nauau/SUF
+21 Hanaa/STM
+7 he/PRE + wau/STM + chu/SUF + hau/PRE + cha/STM + ve/SUF
+3 Vaha/STM + dāhe/STM + ne/SUF
+2 hene/STM + ve/SUF + sā/STM + ne/SUF
+3 jeee/STM + ja/PRE + se/PRE + see/STM
+7 had/PRE + naasau/STM + au/SUF
+2 had/STM + gu/SUF + da/PRE + nauwu/STM + nā/SUF + nau/SUF
+2 hau/STM + va/SUF + u/SUF + ne/SUF + nau/SUF
+5 Hādu/STM + sasau/STM + hau/STM + de/SUF
+17 vada/STM + dau/SUF + chu/SUF
+2 nau/STM + gajuh/STM + u/SUF + huu/STM
+6 he/PRE + hau/PRE + wu/STM + naathā/STM
+2 gau/PRE + gau/PRE + thau/STM
+1 ne/PRE + nauuchau/STM + de/SUF + thee/SUF
+5 Hayew/STM + hu/STM
+1 hāe/PRE + hau/PRE + wu/STM + ve/SUF + ne/SUF
+4 je/PRE + nauusa/STM + hek/STM
+2 hau/PRE + ā/PRE + yau/STM + nau/SUF
+4 had/PRE + nee/STM + gau/STM + guu/STM + se/SUF + de/SUF
+3 haea/STM + sā/STM + na/SUF + va/SUF + de/SUF + nauau/SUF
+4 naja/STM + ne/SUF
+14 ha/PRE + ha/PRE + vaa/STM
+2 had/PRE + vaveenethedau/STM + nau/SUF + thee/SUF
+2 ja/PRE + hagu/STM + de/SUF
+2 nea/STM + de/SUF + tha/SUF + thee/SUF
+6 Gana/STM + nane/STM
+2 nee/STM + ne/SUF
+2 sayā/STM + ne/SUF + da/PRE + nauwu/STM + yau/SUF
+2 hese/STM + jena/STM + nau/SUF + huk/STM
+10 hāe/STM + na/SUF + u/PRE + hau/PRE + dauwu/STM + nā/SUF
+53 Hejavaneauth/STM + u/SUF + saun/STM
+4 Daudu/STM
+3 He/PRE + naede/STM + de/SUF
+5 hā/STM + hau/PRE + wu/STM + nee/STM + nese/PRE + dau/PRE + nau/STM + va/SUF
+2 va/STM + u/SUF + ā/PRE + nane/STM + nau/SUF
+1 dusaa/STM + hede/STM
+2 Andwheau/STM
+3 hadne/STM + na/SUF + yau/SUF + hā/STM + nauau/SUF
+4 hae/PRE + nau/STM + nee/SUF
+3 haeye/STM + thau/SUF + the/SUF + a/SUF + ve/SUF
+4 he/PRE + nesee/STM + dau/PRE + nin/STM
+2 haeejauwuwu/STM + de/SUF
+4 dea/STM + na/SUF + de/SUF + thā/STM + nauau/SUF
+2 de/STM + nau/SUF + a/SUF + chau/STM + au/SUF
+2 neve/STM + nā/SUF + na/SUF
+64 Nana/STM + ne/SUF + ne/SUF
+2 nā/STM + hau/PRE + wu/STM + nee/SUF + thau/SUF + wau/SUF + the/SUF
+2 hene/STM + yau/SUF + gu/SUF
+5 hae/PRE + gau/PRE + hā/STM
+3 va/PRE + dau/STM + de/SUF
+53 29/STM
+1 had/PRE + jae/STM + nau/SUF + nee/SUF
+1 hegu/STM + wau/STM + au/SUF + de/SUF
+4 nausu/STM + na/SUF + na/SUF + de/SUF + de/SUF
+1 Noe/STM
+4 hāe/PRE + je/PRE + dā/STM + nā/SUF
+1 hae/STM + dau/SUF + yānu/STM + se/PRE + nauau/STM
+3 he/PRE + hau/PRE + wu/STM + thau/SUF + u/SUF + ne/SUF
+1 he/PRE + je/PRE + chu/STM + va/SUF + hena/STM + gu/SUF
+4 na/STM + daun/STM + a/SUF + he/PRE + he/PRE + hau/STM + au/SUF
+3 hae/PRE + gau/PRE + nee/STM + gu/SUF + de/SUF + nauau/SUF
+3 hada/STM + enauwu/STM
+5 nau/STM + nau/STM + dauwu/STM + na/SUF + na/SUF
+3 Vaha/STM + dā/STM + nith/STM
+2 hae/PRE + nau/STM + nau/SUF + de/SUF + de/SUF
+1 gau/PRE + nuu/STM
+6 ha/PRE + dā/STM + e/SUF + yau/SUF + ne/SUF + wau/STM + au/SUF
+2 heee/STM + hena/STM
+1 neje/STM + na/SUF + ne/SUF + nee/SUF
+3 wau/STM + tha/SUF + yā/STM + gau/STM + ne/SUF
+2 neauthu/STM + dan/STM
+1 hāe/PRE + hau/PRE + wu/STM + ne/SUF + wau/SUF + u/SUF + na/SUF + va/SUF
+1 wauc/STM + hā/STM + he/STM + nau/SUF
+4 neda/STM + sau/STM + au/SUF + vā/STM + nethe/SUF
+1 hadne/PRE + hau/PRE + wu/STM + ne/SUF + du/STM
+1 had/PRE + nee/STM + va/SUF + ha/PRE + sā/STM + na/SUF + vāhe/STM + na/SUF
+5 nauju/STM + wau/SUF
+13 wau/STM + thau/SUF + nau/SUF + hā/STM + he/PRE + hau/STM + au/SUF
+1 hade/STM + thau/SUF + wau/SUF + the/SUF + dau/SUF + na/SUF + tha/SUF + va/SUF
+1 haeva/STM + dau/PRE + je/PRE + nana/STM
+6 hana/STM + de/SUF + dau/SUF + nau/SUF
+3 77/STM
+1 Gadarenes/STM
+1 sa/STM
+4 hae/PRE + nau/STM + hau/PRE + wu/STM
+2 hana/STM + sau/STM + nee/SUF
+19 naudu/STM
+1 had/PRE + nese/STM + de/SUF + nau/SUF
+2 had/PRE + jau/STM + thee/SUF
+4 hau/STM + au/SUF + gu/SUF + nau/SUF + na/SUF
+2 de/STM + ja/PRE + nesee/STM
+1 hae/PRE + the/STM + au/SUF + gu/SUF + dau/SUF + nā/SUF
+2 dau/PRE + je/PRE + nau/STM + hau/PRE + wau/STM + de/SUF
+2 he/PRE + jau/STM + thau/SUF + wau/SUF
+6 He/PRE + ā/PRE + hene/STM
+1 Hejavaneauth/STM + u/SUF + vada/STM + nau/SUF + wau/PRE + thauwu/STM
+1 Hau/STM + nau/STM + wu/STM + thajau/STM + nau/SUF + ha/STM
+4 ha/PRE + va/PRE + the/STM + na/SUF + yau/SUF + thau/SUF
+1 hau/PRE + wau/STM + ne/SUF + de/SUF
+2 had/PRE + jena/STM + nā/SUF + thee/SUF
+1 Hae/STM + nauwu/STM
+3 Dādau/STM + yauha/STM
+1 vave/STM + se/SUF + thau/SUF + gu/SUF + de/SUF + nau/SUF
+60 35/STM
+2 Jathāauau/STM
+3 He/PRE + sā/STM + he/PRE + dā/STM + eyaun/STM
+4 ha/PRE + jā/STM + e/SUF + au/SUF + naa/SUF
+1 had/PRE + da/PRE + yāhe/STM + ne/SUF
+1 haeauā/STM + chau/STM + de/SUF + ne/SUF
+2 had/STM + gu/SUF + da/PRE + nā/STM + de/SUF
+6 hāe/PRE + je/PRE + nauusa/STM + the/SUF
+6 hae/PRE + nese/PRE + dau/PRE + wau/STM + nā/SUF
+1 ha/PRE + deje/STM + gu/SUF + nau/SUF + hade/STM
+2 76/STM
+53 3/STM
+1 hau/STM + u/SUF + nau/SUF + chu/SUF
+9 hāe/PRE + dauwu/STM + na/SUF + tha/SUF + na/SUF
+2 Jacob/STM
+1 hene/STM + hana/STM + hede/STM
+4 ha/PRE + thauwu/STM + nane/STM
+8 vada/STM + nesee/STM
+1 thauauauwuje/STM + thā/PRE + he/PRE + hau/STM + au/SUF
+4 hae/PRE + wau/STM + thau/SUF + nau/SUF
+1 ha/PRE + thau/STM + thau/PRE + nauhuu/STM
+2 Va/STM + nee/SUF + nau/SUF + nauau/SUF
+1 Gau/STM + had/PRE + vaveene/STM
+2 he/PRE + dau/PRE + the/PRE + daune/STM + ne/SUF
+2 hanā/STM + nese/STM + de/SUF + nau/SUF
+1 Gaugauana/STM + dau/SUF + wuu/STM
+4 ja/PRE + sā/STM + nau/SUF + wau/SUF + huk/STM
+2 hesa/STM + naa/SUF
+2 hae/PRE + thauwu/STM + je/PRE + dau/PRE + naa/STM
+1 nau/STM + chau/STM + wau/SUF + thee/SUF
+3 nee/STM + se/SUF + na/SUF + yau/SUF + hade/STM
+14 ha/PRE + nese/PRE + nethe/STM
+36 ha/PRE + na/STM + ā/PRE + ā/PRE + edauwu/STM + nau/SUF + de/SUF
+5 hae/PRE + chau/STM + a/SUF + ne/SUF
+1 hadne/PRE + hau/STM + de/SUF
+1 hā/STM + a/SUF + yā/STM + e/SUF + da/PRE + dau/STM + au/SUF
+3 hana/STM + dā/STM + de/SUF
+1 hae/PRE + chuwu/STM + ye/STM + tha/SUF + ā/SUF + ne/SUF
+3 gau/PRE + had/PRE + je/PRE + janaugu/STM
+3 Hae/STM + na/SUF + āe/STM + nehe/STM + de/SUF
+3 ha/PRE + the/PRE + nava/STM + u/SUF + naa/SUF
+3 nau/STM + unauuu/STM
+3 hanaadauc/STM + hāe/STM
+2 hā/STM + au/SUF + gu/SUF + na/SUF + de/SUF
+5 hae/STM + ve/SUF + na/SUF + a/SUF
+8 hae/PRE + nauau/STM + gu/SUF
+1 ha/PRE + thā/STM + e/SUF + nau/SUF + nau/SUF + thau/SUF + wau/SUF + va/SUF + he/PRE + thee/STM
+1 nehe/STM + tha/SUF + tha/SUF + na/SUF
+4 nau/STM + the/PRE + ja/PRE + ha/PRE + thau/STM + gu/SUF
+2 hana/STM + thau/SUF + thau/SUF + nauhu/STM + nee/SUF
+11 neauthu/STM + wau/SUF + chu/SUF
+3 ja/PRE + jā/STM + vā/STM + e/SUF
+5 ha/PRE + va/PRE + javaā/STM + nethā/STM
+2 hadne/STM + au/SUF + ne/SUF + nauau/SUF + de/SUF + ne/SUF + nee/SUF
+5 had/PRE + vechaut/STM + hau/STM
+6 yau/STM + nau/SUF + thau/SUF + ne/SUF + thee/SUF
+3 gau/PRE + hāe/STM
+1 haesaese/STM + e/SUF + ne/SUF
+1 He/PRE + nesee/STM + de/SUF
+2 ne/STM + thau/SUF + the/SUF + dau/SUF + tha/SUF + nau/SUF
+3 hanaāe/PRE + jat/STM + hā/STM + au/SUF + thee/SUF
+3 ne/PRE + nese/STM + de/SUF + na/SUF
+1 dau/STM + nau/SUF + a/SUF + nau/SUF + thee/SUF
+1 Nee/STM + se/SUF + nehe/STM + thau/SUF + de/SUF
+49 5/STM
+3 javaā/STM + jena/STM + nauau/SUF
+2 nau/STM + yau/SUF + hā/STM + de/SUF
+1 haud/STM + nau/SUF + hau/PRE + the/PRE + ha/PRE + tha/STM + na/SUF
+2 havae/STM + hau/PRE + thā/STM + va/SUF
+4 68/STM
+10 Hayew/STM
+4 haeje/STM + nee/SUF + se/PRE + da/PRE + nauwu/STM
+3 he/PRE + nethe/STM + ve/SUF + the/SUF + he/PRE + vā/STM + daune/SUF
+3 hada/STM + na/SUF + yau/SUF + ne/SUF + nau/SUF
+4 hae/PRE + naa/STM + dau/STM + de/SUF
+1 had/PRE + dau/STM + de/SUF + auau/STM
+2 Simon/STM + e/SUF + au/SUF
+1 he/PRE + tha/STM + he/PRE + thee/STM
+2 hae/PRE + nau/STM + ne/SUF + ne/PRE + chau/STM + tha/SUF
+10 nethauyāsenane/STM
+1 hana/STM + de/SUF + se/SUF + ne/SUF
+3 hade/PRE + the/STM + au/SUF + gu/SUF + dauwu/STM + na/SUF
+1 ne/STM + yesegaunuhudee/STM
+3 hajese/STM + se/SUF + nee/SUF
+1 ne/PRE + chau/STM + gu/SUF + a/SUF + na/SUF + va/SUF + de/SUF + thee/SUF
+5 hajese/STM + jeve/STM + se/SUF + sa/SUF + nith/SUF
+1 haee/STM + se/SUF + da/SUF + naa/SUF
+5 Lot/STM
+1 va/PRE + the/STM + hā/STM + ne/SUF + na/SUF + gu/SUF
+2 had/PRE + gau/STM + du/STM + au/SUF + nā/SUF + na/SUF
+6 na/STM + saudau/STM + chu/SUF + nee/SUF
+5 had/PRE + chu/STM + vā/STM + he/PRE + va/PRE + the/STM
+9 57/STM
+3 hauāyāhe/STM + hau/STM + au/SUF
+1 ha/PRE + yā/STM + thajau/STM + huhau/STM
+1 hase/STM + ne/SUF + he/PRE + daune/STM + nee/SUF
+1 Jeva/STM + wau/SUF + chu/SUF + dau/STM + au/SUF
+2 He/PRE + da/PRE + nau/STM
+2 dau/STM + nau/SUF + nau/SUF + hau/PRE + the/PRE + thā/STM + de/SUF
+3 nauddu/STM + se/SUF + se/SUF + da/SUF + ne/SUF
+247 heee/STM
+2 He/PRE + saa/STM
+3 nene/STM + the/SUF + nau/SUF + de/SUF
+1 he/PRE + nau/STM + thau/SUF + ne/SUF + nee/STM + thajau/STM + au/SUF
+4 nane/STM + se/SUF + au/SUF + wau/STM + au/SUF
+4 ja/PRE + ja/PRE + nauau/STM + au/SUF
+4 nauusa/STM + de/SUF
+3 hanaāe/PRE + hau/PRE + thā/STM + de/SUF
+3 ja/PRE + se/PRE + dau/STM + au/SUF
+1 had/PRE + thauwu/STM + nau/SUF + wau/SUF
+6 ha/PRE + thā/STM + anedauthee/STM
+5 nayāade/STM + de/SUF
+1 haee/STM + ne/SUF + da/SUF + e/SUF + hā/STM + va/SUF + de/SUF + nauau/SUF
+2 Hahagu/STM
+5 Hanaāa/STM + dethaude/STM
+1 tha/STM + nā/SUF + see/STM
+4 Hayauthaune/STM + thee/SUF
+1 ha/PRE + dau/PRE + cha/STM + ne/SUF + nee/SUF
+2 hadne/PRE + nauuchau/STM + hana/STM
+4 hae/PRE + nee/STM + thajau/STM + ne/SUF
+2 het/STM + hauwa/STM + e/SUF + nau/SUF + nau/SUF + thee/SUF
+57 10/STM
+4 hā/STM + au/SUF + chau/STM + nee/SUF
+1 hāe/PRE + nauusa/STM + the/SUF
+15 haea/STM + nedau/STM
+2 nau/STM + gau/PRE + chau/PRE + da/PRE + he/PRE + hau/STM
+4 ha/PRE + je/PRE + chau/STM + u/SUF + sā/STM + ne/SUF + ne/SUF
+6 nau/STM + da/PRE + hede/STM
+13 hau/PRE + wauhu/STM + u/SUF
+2 hanā/STM + na/SUF
+2 devadau/STM + nedauwauduu/STM
+3 hāe/PRE + da/PRE + sā/STM + the/SUF
+4 haee/STM + yauhuu/STM + ne/SUF
+# Time used (secs): 0

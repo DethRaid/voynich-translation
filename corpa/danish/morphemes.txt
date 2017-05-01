@@ -1,0 +1,6277 @@
+# expandmorphsegmentations.pl, Sun Apr 30 19:06:05 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+2 lance/STM + r/SUF + e/SUF + de/SUF
+4 ned/STM + er/SUF + lag/STM
+1 undgå/STM
+1 op/PRE + lev/STM + e/SUF + de/SUF
+2 bag/STM + grund/STM + s/SUF + historie/STM
+2 ud/PRE + grav/STM + et/SUF
+2 femte/STM + del/STM
+5 frem/STM + gang/STM
+1 Varde/STM
+1 ud/PRE + løb/STM + er/SUF
+6 vest/STM
+1 WordPerfect/STM
+4 samling/STM
+1 borg/STM + erne/SUF
+1 hoved/STM + stad/STM
+2 Socialdemokr/STM + at/STM + iet/STM
+1 galt/STM
+6 se/STM
+5 luthersk/STM + e/SUF
+2 ind/PRE + drag/STM + er/SUF
+1 hånd/STM + værk/STM + s/SUF + ud/PRE + dannelse/STM + r/SUF
+1 vid/STM + er/SUF + e/SUF + udvikle/STM + t/SUF
+4 bred/STM
+1 bebo/STM + else/SUF
+1 Bo/STM + lig/SUF + mark/STM + e/SUF + det/STM
+2 be/PRE + tyde/STM + lig/SUF
+1 Michelsen/STM
+6 SE/STM
+13 næst/STM + en/SUF
+1 efter/STM + år/STM
+1 hånd/STM + fuld/STM
+1 Copenhague/STM
+1 far/STM + lige/SUF
+8 står/STM
+1 Evolution/STM + s/SUF + teori/STM + en/SUF
+2 koleraepidemi/STM
+22 Danmark/STM + s/SUF
+1 Sorte/STM + hav/STM + e/SUF + t/SUF
+1 1974/STM
+2 rytm/STM + isk/SUF
+3 firma/STM + er/SUF
+1 konkurr/STM + ent/STM
+1 spansk/STM
+1 B/STM + rundt/STM + land/STM
+2 mand/STM + ater/STM
+2 tag/STM
+2 Indtil/STM
+5 be/PRE + lig/STM + gen/STM + de/SUF
+5 Storbritannien/STM
+1 kerne/STM + t/SUF
+2 be/PRE + s/PRE + temme/STM
+1 fossil/STM
+23 blev/STM + et/SUF
+3 ind/PRE + før/STM + e/SUF
+1 samfund/STM + s/SUF + dannelse/STM + r/SUF
+2 Magdeburg/STM
+3 privilegier/STM
+1 Wiig/STM
+7 stærkt/STM
+4 Rusland/STM
+2 be/PRE + sæt/STM + ning/SUF
+1 Øst/STM + rig/STM
+1 kæ/STM + der/SUF
+14 Sjælland/STM
+1 privat/STM + liv/STM
+3 konkurr/STM + ence/STM
+2 Hessen/STM
+2 attraktioner/STM
+4 cleantech/STM
+1 plyndret/STM
+2 næst/STM + e/SUF
+1 jord/STM + s/SUF + kreds/STM + valget/STM
+1 op/STM + r/SUF + ør/STM
+3 diverse/STM
+1 Fransk/STM
+1 principper/STM + ne/SUF
+13 dem/STM
+4 for/STM + e/SUF + komme/STM + nde/STM
+1 arve/STM + de/SUF
+3 fri/STM
+4 økonomi/STM
+2 29/STM
+2 rigtig/STM + en/SUF
+1 Boldklubb/STM + er/SUF
+2 Rjukan/STM
+1 verden/STM + som/STM + s/PRE + pæn/STM + den/STM + de/SUF
+3 myndighed/STM
+2 flad/STM
+1 ask/STM
+1 Blotlaug/STM
+3 var/STM + e/SUF + tag/STM + er/SUF
+1 Schmalkald/STM + isk/SUF + e/SUF
+4 speci/STM + elt/STM
+2 Carl/STM + s/PRE + berg/STM + forkastningen/STM
+1 Konge/STM + lov/STM + en/SUF
+2 1891/STM
+18 Rasmussen/STM
+9 tog/STM
+1 dyr/STM + et/SUF
+2 Avis/STM + ens/SUF
+1 Superliga/STM
+1 orkan/STM
+2 kæreste/STM
+65 Det/STM
+1 bio/STM
+1 Lynett/STM + en/SUF
+1 Qaeda/STM
+1 revolution/STM
+2 322/STM
+1 fodbold/STM + hold/STM
+334 med/STM
+12 kendt/STM + e/SUF
+1 mand/STM
+1 bræt/STM
+2 ven/STM + n/SUF + er/SUF
+1 for/PRE + væ/STM + r/SUF + r/SUF + es/SUF
+2 koncert/STM + er/SUF
+2 Konge/STM + lige/SUF
+1 elm/STM
+1 gen/STM + etablere/STM
+1 for/PRE + hold/STM + et/SUF
+1 Engine/STM
+2 halvø/STM + en/SUF
+1 for/PRE + historie/STM
+2 for/PRE + samling/STM + er/SUF
+1 op/PRE + dag/STM + else/SUF
+2 bygge/STM + ive/STM + r/SUF
+1 lasterum/STM
+1 H/STM + alvor/STM + s/SUF + en/SUF
+2 selvstændig/STM + e/SUF
+2 ekstra/STM
+12 magt/STM
+3 syn/STM + de/SUF
+2 flotteste/STM
+1 gengæld/STM
+1 systematik/STM
+5 TV/STM
+3 berømt/STM
+1 væbnet/STM
+2 kultur/STM + elle/STM
+5 vid/STM + en/SUF + skab/STM
+5 gå/STM + et/SUF
+1 mikroskop/STM
+1 hollandsk/STM + e/SUF
+2 vinter/STM + måned/STM + er/SUF
+3 for/PRE + del/STM + e/SUF
+1 unge/STM + rne/STM
+4 aldrig/STM
+1 skud/STM + t/SUF
+1 af/PRE + sag/STM + t/SUF
+4 over/PRE + skrift/STM
+1 ind/STM + del/STM + e/SUF + s/SUF
+1 mu/STM + lige/SUF
+2 fysik/STM + ken/STM
+2 Martha/STM
+1 for/PRE + bund/STM
+3 produkt/STM + et/SUF
+1 numm/STM + er/SUF
+13 Rosa/STM
+1 be/PRE + stå/STM
+1 op/PRE + digte/STM + t/SUF
+1 dj/STM + emb/STM + er/SUF
+2 Three/STM
+1 en/STM + tal/STM + s/PRE + form/STM
+4 fys/STM + isk/SUF + e/SUF
+1 erhverv/STM + s/SUF + liv/STM + et/SUF
+3 Encyklopædi/STM + ens/SUF
+3 Området/STM
+1 Mosaic/STM
+1 1922/STM
+1 Brock/STM
+1 presse/STM + møde/STM
+1 råd/STM
+1 fokus/STM + er/SUF + er/SUF
+2 Style/STM + s/SUF
+2 typisk/STM + e/SUF
+1 Krag/STM
+3 stud/STM + er/SUF + er/SUF
+1 samtid/STM
+93 men/STM
+2 over/PRE + sætter/STM + e/SUF
+1 Krist/STM + e/SUF + lig/SUF + t/SUF
+2 over/PRE + tag/STM + e/SUF + t/SUF
+2 dom/STM
+1 fragt/STM + fartøj/STM + er/SUF
+4 Hoved/STM + stad/STM + s/PRE + område/STM + t/SUF
+4 dato/STM
+1 Guiana/STM
+1 forklaring/STM + er/SUF
+8 13/STM
+1 1795/STM
+1 modtag/STM + er/SUF
+1 Lag/STM + mand/STM
+1 stamtavle/STM
+1 for/PRE + træ/STM + n/SUF + gt/STM
+2 æst/STM + et/SUF + isk/SUF
+17 indbygger/STM + e/SUF
+4 yder/STM + lige/SUF
+2 stjerne/STM + skud/STM
+2 Motor/STM + ring/STM
+1 sidder/STM
+13 verden/STM
+1 sundheds/STM + sektor/STM + en/SUF
+1 invasionen/STM
+6 Ifølge/STM
+3 letter/STM + e/SUF
+1 by/STM + bælt/STM + e/SUF
+1 Fortje/STM + nstmedalj/STM + en/SUF
+10 ud/PRE + gør/STM
+2 vokse/STM + n/SUF
+1 digitale/STM
+3 ud/PRE + tryk/STM + s/PRE + form/STM + er/SUF
+2 Environmental/STM
+3 søg/STM + t/SUF
+1 Western/STM
+9 Kunst/STM
+2 kår/STM
+2 vend/STM + e/SUF
+1 Bagges/STM + en/SUF
+2 Flintholm/STM
+1 plan/STM + lag/STM + t/SUF
+1 matema/STM + tiske/STM
+16 samme/STM + n/SUF
+1 bil/STM + er/SUF + s/SUF
+1 fartøj/STM + er/SUF
+1 Sær/STM + lig/SUF + t/SUF
+4 Ord/STM + et/SUF
+6 tæt/STM
+1 Ko/STM + mpagni/STM
+43 andre/STM
+3 volde/STM
+1 be/PRE + s/PRE + ættelse/STM + s/SUF + år/STM
+5 1960/STM
+4 såsom/STM
+1 Sli/STM + en/SUF
+2 Forening/STM
+3 biotech/STM
+1 modtag/STM + et/SUF
+3 joint/STM
+2 aftensmad/STM
+1 KEA/STM
+1 Ulve/STM + lov/STM
+1 250/STM
+2 Lynx/STM
+1 Professional/STM
+1 hjem/STM + sted/STM
+2 plan/STM + et/SUF
+9 liv/STM
+3 Firefox/STM
+3 Han/STM + s/SUF + e/SUF + for/PRE + bund/STM + et/SUF
+3 strand/STM + e/SUF
+2 Kolding/STM
+1 mus/STM
+1 amurtigre/STM
+1 skab/STM + erne/SUF
+1 selv/STM + styr/STM + e/SUF
+2 rytm/STM + en/SUF
+1 sel/STM + skab/STM + er/SUF
+2 plan/STM + tag/STM + er/SUF
+1 guld/STM + gen/PRE + stand/STM + e/SUF
+1 Eksempelvis/STM
+1 klima/STM
+1 dyr/STM + e/SUF
+1 fra/STM + drag/STM
+2 serie/STM + rne/STM
+1 lig/STM + n/SUF + er/SUF
+1 for/PRE + side/STM + n/SUF
+2 for/PRE + syn/STM + et/SUF
+2 køller/STM
+2 1951/STM
+1 bakkeø/STM
+1 Færøsk/STM
+3 Skole/STM + n/SUF
+1 kap/STM + itel/STM
+2 punkter/STM
+1 uden/STM + rig/STM + s/SUF + for/PRE + hold/STM
+1 flyden/STM + de/SUF
+1 popu/STM + lær/STM + musik/STM
+4 11/STM
+2 Space/STM
+1 Samtidig/STM + t/SUF
+1 patent/STM
+22 sen/STM + er/SUF + e/SUF
+2 1915/STM
+3 Året/STM + s/SUF
+2 tradition/STM + elle/STM
+2 ligeså/STM
+1 ring/STM + e/SUF
+2 kraft/STM
+1 ud/PRE + peg/STM + et/SUF
+2 sang/STM + fugl/STM + e/SUF
+3 encyklopædi/STM + er/SUF
+3 flest/STM
+1 klima/STM + zone/STM
+1 hersk/STM + er/SUF
+2 detaljer/STM + e/SUF + de/SUF
+2 Bruxelles/STM
+1 lyd/STM + værdi/STM + er/SUF
+2 op/PRE + hæv/STM + et/SUF
+6 serie/STM + n/SUF
+2 Hast/STM
+1 sten/STM
+1 menneske/STM + lige/SUF
+2 måned/STM + er/SUF
+1 begyn/STM + der/SUF
+1 udvikle/STM + r/SUF
+1 sædvan/STM + lig/SUF + vis/STM
+3 browsing/STM
+2 Over/STM + flad/STM + isk/SUF
+3 alfabet/STM + er/SUF
+1 kyst/STM + nær/STM + t/SUF
+1 argumenter/STM
+4 Om/STM
+1 trin/STM + vis/STM
+1 symbol/STM
+5 dag/STM + e/SUF
+2 var/STM + er/SUF
+2 finans/STM
+1 privat/STM + iseret/STM
+4 lag/STM + de/SUF
+3 hvorfra/STM
+1 kyst/STM + er/SUF
+3 m/STM
+1 Wat/STM + er/SUF + ford/STM
+2 resulterede/STM
+2 strand/STM + skade/STM
+183 har/STM
+1 efter/STM + følge/STM + nde/STM
+1 Medlem/STM + s/SUF + land/STM + e/SUF
+1 palads/STM + er/SUF
+2 desti/STM + nation/STM
+1 til/STM + læg/STM
+1 autonomt/STM
+1 legitime/STM
+1 SSE/STM
+1 Før/STM
+1 af/PRE + s/PRE + lør/STM + et/SUF
+4 be/PRE + s/PRE + ættelse/STM + s/SUF + magt/STM
+8 begyn/STM + del/STM + s/SUF + en/SUF
+2 tab/STM
+2 reaktion/STM + erne/SUF
+19 selv/STM
+2 lev/STM + e/SUF + vis/STM
+1 egen/STM + t/SUF + lig/SUF + e/SUF
+2 Malmø/STM
+1 tur/STM + ne/SUF + ring/STM + er/SUF
+1 betegne/STM + lse/STM + r/SUF + ne/SUF
+1 okse/STM + hoved/STM
+4 funktion/STM + er/SUF
+2 dansk/STM + er/SUF + e/SUF
+2 Stu/STM + der/SUF + ende/SUF + s/SUF
+2 for/STM + e/SUF + tag/STM + e/SUF
+8 politisk/STM + e/SUF
+2 op/PRE + mærk/STM + er/SUF
+1 mellem/STM + rum/STM + men/STM + e/SUF
+2 eksempl/STM + are/STM + r/SUF
+1 red/STM + skab/STM + s/SUF + frem/STM + still/STM + ing/STM
+1 arve/STM + lig/SUF + t/SUF
+3 træ/STM
+3 respirations/STM + system/STM
+1 Grammaticus/STM
+1 komedier/STM
+4 lidt/STM
+1 Arbejds/STM + løs/STM + hed/STM + en/SUF
+2 stor/STM + magt/STM + s/SUF + rolle/STM
+4 be/PRE + mærk/STM + et/SUF
+46 år/STM
+2 frem/STM + står/STM
+3 1970/STM
+1 Telnet/STM
+2 rytm/STM + e/SUF
+1 Lütken/STM
+3 stadig/STM + væk/STM
+3 system/STM + er/SUF
+2 til/STM + byg/STM + ning/SUF + erne/SUF
+4 Anvendelse/STM
+1 velare/STM
+1 Prins/STM + en/SUF
+1 domme/STM
+1 nær/STM + igheden/STM
+2 be/PRE + tyde/STM
+1 peli/STM + kan/STM + er/SUF
+8 Han/STM + s/SUF
+1 vokal/STM
+2 ramt/STM
+5 grene/STM
+1 dynasti/STM
+2 Leopard/STM
+1 renter/STM
+2 kritik/STM
+1 hejse/STM + s/SUF
+7 januar/STM
+1 producent/STM + erne/SUF
+1 Tid/STM + lige/SUF
+1 spille/STM + s/SUF + til/STM
+3 Distri/STM + ket/STM
+2 sol/STM
+2 dynasti/STM + et/SUF + s/SUF
+1 arbejd/STM + er/SUF + parti/STM + mærk/STM + e/SUF + sag/STM + er/SUF
+1 Jazz/STM + hus/STM
+1 præsent/STM + er/SUF + e/SUF
+1 tron/STM + følge/STM
+2 tolv/STM
+1 MSDN/STM
+1 tvunget/STM
+4 grad/STM + er/SUF
+1 an/STM + lag/STM + de/SUF
+2 12/STM
+1 græns/STM + erne/SUF
+45 Anders/STM
+1 kluiv/STM + er/SUF
+22 samme/STM
+7 den/STM + s/SUF
+7 arbejd/STM + e/SUF
+8 komme/STM
+1 egen/STM + skab/STM + en/SUF
+2 Norsk/STM
+1 hvor/STM + i/PRE + mod/STM
+1 te/STM + n/SUF
+1 op/PRE + stå/STM
+1 70/STM
+1 jazz/STM
+1 ud/PRE + styr/STM
+9 kommun/STM + er/SUF
+1 dedik/STM + ation/SUF
+3 ned/STM + er/SUF + landsk/STM
+4 Så/STM
+1 standard/STM + en/SUF
+1 1816/STM
+3 centrum/STM
+1 Community/STM
+1 Slaveri/STM
+1 1907/STM
+1 hænde/STM + r/SUF
+7 tekst/STM
+2 0/STM
+4 by/PRE + område/STM
+1 stift/STM + e/SUF
+1 Udgav/STM + er/SUF
+6 Museum/STM
+1 længde/STM + n/SUF
+2 AMD/STM
+1 om/STM + verden/STM + en/SUF
+3 Magnus/STM
+5 ud/PRE + gjorde/STM
+1 elektricit/STM + et/SUF
+2 lig/STM + ning/SUF + er/SUF
+9 grund/STM
+1 skrift/STM + type/STM
+3 krydse/STM
+1 rigtig/STM + t/SUF
+1 tre/STM + t/SUF + t/SUF + en/SUF
+1 Thorvaldsen/STM
+1 sten/STM + vend/STM + er/SUF
+1 lægge/STM + s/SUF
+1 nord/STM + lig/SUF + er/SUF + e/SUF
+27 r/STM
+2 rig/STM
+1 men/STM + t/SUF
+3 tradition/STM + elt/STM
+1 velfærds/STM + samfund/STM + et/SUF
+21 ind/STM + en/SUF
+1 rumfar/STM + t/SUF
+4 S/STM
+3 effektiv/STM
+1 video/STM
+2 design/STM + er/SUF
+3 Ud/STM
+2 hed/STM
+2 forrevne/STM
+1 Tve/STM + skæg/STM
+1 Kosovo/STM
+1 sam/STM + t/SUF + lige/SUF
+2 Land/STM + skab/STM
+7 i/PRE + ndre/STM
+1 æ/STM + rkefj/STM + en/SUF + der/SUF
+1 Solohæfte/STM
+3 Karl/STM
+1 for/PRE + ure/STM + net/STM
+3 lev/STM + er/SUF
+1 samme/STM + n/SUF + hæng/STM
+1 955/STM
+1 resistent/STM
+1 Ekstra/STM
+2 nation/STM + al/STM + e/SUF
+1 for/PRE + side/STM + r/SUF
+11 tegneserie/STM + r/SUF
+3 vand/STM + t/SUF
+2 Ludvig/STM
+2 Hannah/STM
+1 Mac/STM
+3 ud/PRE + dannelse/STM
+1 1906/STM
+1 indelt/STM
+1 kong/STM + e/SUF + r/SUF + ne/SUF + s/SUF
+7 inter/STM + nation/STM + al/STM + e/SUF
+1 WOSM/STM
+2 stævn/STM
+5 op/PRE + bak/STM + ning/SUF
+1 ulydighed/STM
+1 kontrover/STM + s/SUF
+1 Jelling/STM + sten/STM + en/SUF + e/SUF
+1 Slots/STM + plads/STM
+1 in/STM + kompatibel/STM
+1 fusion/STM + en/SUF
+4 reel/STM
+2 hus/STM
+1 yngre/STM
+4 Hvis/STM
+2 Brøndby/STM
+1 tempera/STM + men/STM + t/SUF
+1 u/STM + for/PRE + andre/STM + t/SUF
+1 antibiotika/STM
+9 fem/STM
+1 get/STM
+2 Emne/STM + oversigt/STM
+1 supplement/STM + s/SUF + bind/STM
+2 nystift/STM + e/SUF + de/SUF
+31 mere/STM
+33 kun/STM
+2 af/PRE + vis/STM + t/SUF
+3 Astronomi/STM
+4 Komponister/STM
+1 tid/STM + lig/SUF + s/SUF + t/SUF
+2 valgr/STM + et/SUF
+2 Klyng/STM + eorganis/STM + ation/STM + en/SUF
+1 folk/STM + e/SUF + slag/STM
+1 maj/STM + s/SUF + dyrkning/STM
+2 Nord/STM + hav/STM + n/SUF + en/SUF
+2 Vest/STM + er/SUF + hav/STM + e/SUF + t/SUF
+1 dannes/STM
+5 det/STM + s/SUF
+2 stat/STM
+1 kom/STM + petitiv/STM
+10 Christian/STM
+1 træ/STM + ningslejre/STM
+1 ud/PRE + tømme/STM + lig/SUF
+1 for/PRE + handle/STM
+4 selv/STM + e/SUF
+1 skeptisk/STM
+8 periode/STM + n/SUF
+1 sol/STM + rigt/STM
+1 indskrænke/STM
+1 hjem/STM + met/STM
+3 Jan/STM
+1 nævn/STM + t/SUF
+4 Krig/STM
+1 bronze/STM
+7 mod/STM + stand/STM
+6 eksempel/STM + vis/STM
+1 Origin/STM + al/STM + t/SUF + itel/STM
+1 kong/STM + e/SUF + hus/STM + et/SUF + s/SUF
+3 op/PRE + rette/STM + lsen/STM
+1 Linge/STM
+2 standard/STM
+1 blad/STM + e/SUF
+2 Forskel/STM + lige/SUF
+2 tilsvar/STM + ende/SUF
+2 komponist/STM + er/SUF
+1 betegne/STM + lse/STM + r/SUF
+1 advokat/STM
+1 klag/STM + er/SUF + en/SUF
+1 yd/STM + e/SUF + del/STM + s/SUF + e/SUF + s/SUF + for/PRE + be/PRE + dring/STM + erne/SUF
+1 eksempl/STM + er/SUF
+2 Ø/STM + er/SUF
+4 liv/STM + et/SUF
+1 etablere/STM
+1 Willochs/STM
+2 brand/STM + en/SUF + e/SUF
+6 s/PRE + ær/STM + lig/SUF
+1 dinosaur/STM + er/SUF
+1 Tietgenkollegium/STM
+4 fjern/STM + var/STM + me/STM
+2 husdyr/STM
+1 Sigtryg/STM
+4 menneske/STM + r/SUF
+5 idé/STM
+2 anløbshavn/STM
+2 net/STM + t/SUF + et/SUF
+3 vekslings/STM + mekanism/STM + e/SUF
+1 stat/STM + s/SUF + finans/STM + erne/SUF
+4 organisere/STM + t/SUF
+1 Bæver/STM + løftet/STM
+1 Johan/STM + n/SUF
+3 for/PRE + tælle/STM + r/SUF
+1 land/STM + skab/STM + er/SUF
+2 bygge/STM + de/SUF
+4 oprinde/STM + lig/SUF + t/SUF
+2 Viden/STM + skab/STM + er/SUF + ne/SUF
+1 For/STM + histor/STM + isk/SUF
+2 bevæge/STM + lsen/STM
+1 Kilde/STM
+1 ud/PRE + tryk/STM + kes/STM
+2 1853/STM
+1 spørgs/STM + mål/STM
+1 MRSA/STM
+1 For/STM + uden/STM
+6 billed/STM + e/SUF
+1 Rytterstatu/STM + en/SUF
+50 han/STM
+1 ud/PRE + tal/STM + e/SUF
+3 af/PRE + stedkom/STM
+6 høj/STM + este/STM
+6 arbejd/STM + ende/SUF
+1 fodbold/STM + klubben/STM
+1 1973/STM
+7 gør/STM
+1 Tur/STM + isme/STM
+8 1949/STM
+2 for/PRE + lov/STM + et/SUF
+1 Wien/STM
+2 Mouse/STM + ton/STM
+3 J/STM
+2 Infrastruktur/STM
+1 224/STM
+2 kontinu/STM + er/SUF + lige/SUF
+100 Danmark/STM
+1 gaffel/STM + sejl/STM
+1 timen/STM
+1 Extermal/STM
+13 For/STM
+11 ældste/STM
+1 lov/STM + en/SUF
+1 hånd/STM + ter/STM + es/SUF
+17 Barks/STM
+38 mod/STM
+1 and/STM + en/SUF + s/SUF
+1 dom/STM + s/SUF + tol/STM + en/SUF
+25 for/PRE + bind/STM + else/SUF
+2 cykling/STM
+2 To/STM
+2 enklave/STM
+2 Andrea/STM + s/SUF
+1 værk/STM + et/SUF
+1 civil/STM
+1 an/PRE + vend/STM + else/SUF
+1 SSE2/STM
+4 omtr/STM + en/SUF + t/SUF
+6 Keno/STM
+2 kontinent/STM + ale/STM
+1 Udse/STM + en/SUF + det/STM
+2 område/STM + t/SUF + s/SUF
+1 613/STM
+1 grav/STM
+1 Media/STM
+4 kilde/STM + r/SUF
+1 Johan/STM
+1 narrative/STM
+28 mest/STM
+1 fejr/STM + er/SUF
+10 historie/STM + r/SUF
+1 siddende/STM
+1 hørte/STM
+1 fast/STM + gjort/STM
+1 Nationalmuseet/STM
+1 Bjarne/STM
+1 Bosporus/STM
+3 gletsjer/STM
+2 hoved/STM + stad/STM + en/SUF
+1 kald/STM + es/SUF
+5 mark/STM + e/SUF + det/STM
+1 und/STM + er/SUF + lag/STM + t/SUF
+2 Og/STM
+1 måned/STM + lige/SUF
+1 Land/STM + brug/STM
+1 337/STM
+2 Kaysø/STM
+2 felt/STM + er/SUF
+7 i/PRE + det/STM
+3 tab/STM + t/SUF
+1 Mona/STM
+4 Kattegat/STM
+1 tegneserie/STM + r/SUF + ne/SUF
+2 for/PRE + sejl/STM
+3 skrev/STM
+5 vokal/STM + en/SUF
+1 klar/STM
+21 Windows/STM
+1 for/PRE + klar/STM + e/SUF
+1 Teatret/STM
+3 System/STM
+1 golf/STM + strømm/STM + en/SUF
+3 rette/STM + n/SUF
+7 samme/STM + n/SUF + sat/STM
+6 dominer/STM + ende/SUF
+2 artikler/STM
+1 Erhverv/STM + sakademi/STM
+1 befolkning/STM + en/SUF
+1 konkurr/STM + er/SUF + ende/SUF
+1 humanist/STM
+1 demonstr/STM + ation/STM + er/SUF
+2 plan/STM + er/SUF
+1 note/STM
+3 medlem/STM + skab/STM
+3 ind/PRE + vendinger/STM
+20 kun/STM + ne/SUF
+2 Arkæologi/STM
+1 lommer/STM
+4 Litteratur/STM
+1 F/STM
+1 Fodbold/STM
+5 heraf/STM
+1 uheld/STM
+1 Chief/STM
+2 Mod/STM
+1 kulturkanon/STM
+2 Skak/STM
+2 kommun/STM + ik/STM + er/SUF + e/SUF
+4 2003/STM
+1 nord/STM + isk/SUF
+1 ud/PRE + licit/STM + er/SUF + et/SUF
+1 Handelshøjskol/STM + en/SUF
+1 Over/STM
+2 1944/STM
+2 slægt/STM
+1 Hoved/STM + bane/STM + gård/STM + en/SUF
+14 Distri/STM + kt/STM
+1 Endnu/STM
+1 andel/STM + en/SUF
+2 ind/PRE + vand/STM + ring/STM
+3 lær/STM + en/SUF
+1 Stift/STM
+4 betragte/STM + s/SUF
+1 Mjøsa/STM
+2 op/PRE + give/STM
+1 led/STM
+2 tykke/STM
+7 2007/STM
+3 gradvis/STM
+1 Helsingør/STM
+1 før/STM + t/SUF + e/SUF + s/SUF
+1 Især/STM
+1 atmos/STM + fær/STM + isk/SUF + e/SUF
+1 sympat/STM + isk/SUF
+3 oven/STM + stå/STM + ende/SUF
+1 1259/STM
+1 frivil/STM + lig/SUF
+1 musik/STM + artikler/STM
+5 almindelig/STM + t/SUF
+1 af/PRE + gjorde/STM
+2 gen/PRE + samling/STM
+3 s/PRE + ende/STM + s/SUF
+1 Dannebrog/STM + ordenen/STM
+1 universitet/STM + s/SUF + gård/STM + en/SUF
+5 Jens/STM
+2 Materiale/STM
+3 kvinde/STM + n/SUF
+1 sten/STM + ald/STM + er/SUF
+4 næb/STM
+2 matema/STM + tikken/STM + s/SUF
+1 flod/STM
+1 CyklismeI/STM
+9 1980/STM
+1 Harlem/STM
+1 Messeng/STM + er/SUF
+2 u/PRE + politisk/STM + e/SUF
+1 Burmeister/STM
+8 hold/STM + e/SUF
+2 krønike/STM + skrive/STM + r/SUF + en/SUF
+2 Bedstemor/STM
+1 spor/STM + t/SUF + s/SUF + begivenheder/STM
+1 vi/STM
+2 enge/STM
+1 distr/STM + ibu/STM + er/SUF + es/SUF
+1 Øresund/STM + s/SUF + for/PRE + bind/STM + else/SUF + n/SUF
+2 russ/STM + isk/SUF
+6 Frelsers/STM
+2 struds/STM + e/SUF + fugl/STM + e/SUF
+2 fyl/STM + der/SUF
+2 beskæftig/STM + else/SUF
+1 for/PRE + be/PRE + dring/STM
+1 Opdel/STM + ing/STM + en/SUF
+5 vores/STM
+2 nyanlagt/STM + e/SUF
+8 nord/STM + lige/SUF
+1 side/STM + n/SUF + hen/STM
+1 på/STM + stand/STM + e/SUF
+1 social/STM + demokrat/STM + isk/SUF
+1 grøn/STM + lænd/STM + er/SUF + e/SUF
+3 skab/STM + er/SUF
+1 Osbor/STM + ne/SUF
+3 base/STM + r/SUF + e/SUF + de/SUF
+3 hoved/STM + sæde/STM
+1 Fodbold/STM + klubben/STM
+3 fald/STM + t/SUF
+1 brug/STM + er/SUF + græns/STM + e/SUF + flad/STM + e/SUF
+1 enevældig/STM
+2 Micro/STM
+5 Visse/STM
+1 pro/STM
+1 Esbjerg/STM + s/SUF
+3 ind/STM + e/SUF + hold/STM + e/SUF
+4 Valdemar/STM
+1 Flyvevåbnet/STM
+8 stod/STM
+1 hoved/STM + egen/STM + skab/STM
+3 Live/STM
+9 sprog/STM
+15 tilbage/STM
+1 Folk/STM + e/SUF + blad/STM
+2 Sanger/STM
+2 datanet/STM
+2 gli/STM + strup/STM + sk/SUF
+2 Op/STM + er/SUF + a/STM + en/SUF
+1 basis/STM
+1 urbant/STM
+1 Öland/STM
+3 άστρον/STM
+3 pc/STM
+2 A/STM
+1 dedik/STM + ation/SUF + erne/SUF
+7 region/STM + er/SUF
+2 kong/STM
+1 magt/STM + hav/STM + er/SUF
+75 dansk/STM + e/SUF
+1 betjen/STM + er/SUF
+1 græns/STM + e/SUF + område/STM
+1 latin/STM + er/SUF + sejl/STM
+2 serie/STM
+1 karambolage/STM
+2 bladene/STM
+2 tje/STM + ne/SUF + ste/STM
+1 fugl/STM
+5 frem/STM + mest/STM
+1 trompeter/STM
+1 kommun/STM + ens/SUF
+1 klar/STM + e/SUF
+1 68/STM
+2 stor/STM + kreds/STM + græns/STM + erne/SUF
+2 for/PRE + vand/STM + ler/STM
+3 benytte/STM
+5 stud/STM + er/SUF + ende/SUF
+2 1868/STM
+1 kikke/STM + de/SUF
+9 generel/STM + t/SUF
+1 1658/STM
+1 Desværre/STM
+1 Rom/STM + er/SUF + rig/STM + et/SUF + s/SUF
+1 stat/STM + ens/SUF
+4 fortsat/STM
+2 Ord/STM + en/SUF
+1 af/PRE + gør/STM + es/SUF
+2 Tyrkiet/STM + s/SUF
+1 illustration/STM + s/SUF + materi/STM + ale/STM
+2 for/PRE + sinket/STM
+4 format/STM + er/SUF + ing/SUF + s/PRE + koder/STM
+2 nærori/STM + en/SUF + talsk/STM
+6 nyere/STM
+1 Konge/STM + rig/STM + et/SUF
+2 situ/STM + ation/STM + er/SUF
+5 politik/STM
+2 eksempl/STM + are/STM + rne/STM
+8 Dansk/STM
+1 Å/STM + r/SUF + sag/STM + en/SUF
+1 Montmartre/STM
+1 fokke/STM + mast/STM
+2 år/STM + bøger/STM
+1 sted/STM + e/SUF
+1 lig/STM + ne/SUF + de/SUF
+1 skånet/STM
+2 gratis/STM
+1 hav/STM
+1 dygtige/STM
+3 Vest/STM
+2 Mak/STM
+1 Book/STM
+2 instrukt/STM + ør/STM
+7 egne/STM
+1 sabotage/STM
+1 relat/STM + ion/STM
+1 Må/STM + nedshæfter/STM
+1 memo/STM
+50 And/STM
+10 popu/STM + lær/STM + e/SUF
+1 sammenkobling/STM
+1 dér/STM
+5 gen/PRE + eralsekretær/STM
+9 Man/STM
+35 2/STM
+1 Markup/STM
+2 konkurr/STM + ent/STM + en/SUF
+1 grøn/STM + ne/SUF + ste/STM
+1 hittit/STM + isk/SUF
+5 Parken/STM
+1 Argun/STM
+1 gengivelse/STM
+6 middel/STM + ald/STM + er/SUF
+1 indtæg/STM + t/SUF + s/SUF + gruppe/STM + r/SUF
+2 Andrea/STM
+2 Krist/STM + lig/SUF
+51 mellem/STM
+1 mindst/STM + e/SUF
+1 styr/STM + else/SUF
+1 eksiste/STM + n/SUF + s/SUF + en/SUF
+1 64/STM
+1 institut/STM + ion/STM + en/SUF
+1 An/STM + t/SUF + arktis/STM
+3 B/STM
+7 verden/STM + s/SUF + krig/STM
+2 domæ/STM + n/SUF + er/SUF
+2 1849/STM
+2 etablere/STM + de/SUF
+15 5/STM
+4 Egmont/STM
+2 sprængningen/STM
+2 måned/STM
+3 biologi/STM
+1 Sam/STM + e/SUF + ting/STM + et/SUF
+1 arbejd/STM + s/SUF + kraft/STM
+2 kravel/STM + teknik/STM
+1 regn/STM + e/SUF + de/SUF + s/SUF
+2 Samlet/STM
+1 ny/STM + lig/SUF
+1 markeds/STM + før/STM + er/SUF
+1 kød/STM + produkt/STM + er/SUF
+1 hen/STM + tyde/STM
+3 gennem/STM + før/STM + e/SUF
+1 Friderich/STM
+3 skuespil/STM + ler/STM
+14 navn/STM
+4 Taliaferro/STM
+2 Reeves/STM
+1 Lyd/STM
+1 vige/STM
+1 for/STM + e/SUF + still/STM + er/SUF
+1 mand/STM + lig/SUF
+1 Valuable/STM
+1 holme/STM
+1 bekym/STM + ring/STM
+2 be/PRE + sæt/STM + ning/SUF + ens/SUF
+1 definere/STM + t/SUF
+1 ud/PRE + nytte/STM
+5 flåde/STM
+1 længde/STM + kreds/STM
+1 uerfarne/STM
+8 ham/STM
+4 ind/PRE + hold/STM + et/SUF
+1 musik/STM + ken/STM
+8 Html/STM
+1 dimensionalt/STM
+1 kong/STM + e/SUF + magt/STM + en/SUF + s/SUF
+7 værk/STM
+3 fald/STM
+9 Disney/STM
+8 1536/STM
+5 dag/STM + en/SUF
+3 kup/STM + er/SUF + et/SUF
+3 Rådhus/STM
+3 dominer/STM + et/SUF
+2 planke/STM
+1 for/STM + et/SUF + e/SUF + else/SUF
+1 for/PRE + længe/STM + s/SUF
+1 Tegn/STM + e/SUF + serie/STM + hæftet/STM
+2 iværksat/STM + te/STM
+1 Kodaň/STM
+1 und/STM + er/SUF + ind/STM + del/STM + e/SUF + s/SUF
+4 endnu/STM
+2 fabrikker/STM
+1 trag/STM + isk/SUF
+1 Min/STM
+1 1984/STM
+3 henvis/STM + ning/SUF
+2 for/STM + e/SUF + tag/STM + e/SUF + n/SUF + det/STM
+2 inter/STM
+2 fok/STM
+1 ring/STM + er/SUF + e/SUF
+3 Noter/STM
+3 realiteten/STM
+1 voldte/STM
+1 bag/STM + side/STM + r/SUF
+1 mågeva/STM + de/SUF + fugl/STM + e/SUF
+1 Most/STM + er/SUF
+7 nuværende/STM
+3 politik/STM + er/SUF
+2 teknisk/STM
+2 rangord/STM + ning/SUF
+4 ud/PRE + give/STM + t/SUF
+1 hus/STM + e/SUF + ne/SUF
+2 analyse/STM
+2 koncepter/STM
+2 Værker/STM
+1 Folk/STM + e/SUF + blad/STM + et/SUF
+1 Fys/STM + isk/SUF + e/SUF
+1 Kreds/STM + for/PRE + mænd/STM
+1 dinosaur/STM
+1 Globus/STM
+8 hav/STM + n/SUF + en/SUF
+1 kommun/STM + en/SUF
+1 speci/STM + fik/STM + ke/STM
+22 først/STM
+2 endda/STM
+15 bord/STM
+1 drevet/STM
+1 ud/PRE + sted/STM + t/SUF
+2 Dan/STM + n/SUF + else/SUF
+1 over/PRE + gang/STM + sfase/STM
+1 slette/STM
+1 J/STM + er/SUF + n/SUF + ald/STM + er/SUF + en/SUF
+1 EM/STM
+2 bistand/STM
+2 hoved/STM + sagelig/STM
+2 kunst/STM + historie/STM
+3 mit/STM
+1 fing/STM + er/SUF
+1 hurtig/STM + løb/STM + ende/SUF
+6 noget/STM
+2 Camilla/STM
+2 ende/STM + lige/SUF
+7 dada/STM
+2 for/PRE + mod/STM + e/SUF
+1 sat/STM
+2 arveprins/STM
+1 arktis/STM
+1 regering/STM + s/PRE + tid/STM + er/SUF
+4 be/PRE + søg/STM + t/SUF + e/SUF
+4 ni/STM
+1 Georg/STM + e/SUF
+1 Joakim/STM + s/SUF
+2 kort/STM + er/SUF + e/SUF
+1 middel/STM + ald/STM + er/SUF + lige/SUF
+2 s/PRE + and/STM + e/SUF + de/SUF
+1 1910/STM
+1 makk/STM + er/SUF
+6 lokal/STM + e/SUF
+1 bolig/STM
+1 vikinge/STM + rne/STM
+3 Jylland/STM + s/SUF
+13 ind/STM
+4 virksomhed/STM
+1 K/STM + erne/SUF + modul/STM + et/SUF
+3 vid/STM + en/SUF + skab/STM + elig/STM + e/SUF
+1 stor/STM + fald/STM
+4 Altair/STM
+1 regulær/STM
+2 plan/STM + kerne/STM
+1 af/PRE + skår/STM + ne/SUF
+1 regn/STM + skab/STM + er/SUF
+1 dominans/STM
+2 Zhelder/STM
+5 enhed/STM + er/SUF
+2 1854/STM
+4 mængde/STM
+1 gullaschbaron/STM
+1 præsident/STM
+1 Saxo/STM
+3 Under/STM + hold/STM + ning/SUF
+1 design/STM + et/SUF
+9 begge/STM
+1 indædte/STM
+2 Louis/STM
+1 Ros/STM + kilde/STM
+3 heller/STM
+2 stå/STM + ende/SUF
+3 Hos/STM
+1 Braage/STM
+3 ærkeb/STM + iskop/STM
+4 styr/STM + e/SUF + system/STM
+9 bag/STM + grund/STM
+1 serie/STM + albums/STM
+1 Tid/STM + ende/SUF
+15 gennem/STM
+1 indvi/STM + et/SUF
+3 egen/STM + beta/STM + ling/STM
+2 Couch/STM
+27 hav/STM + e/SUF
+2 Brin/STM
+1 Drammen/STM
+1 værk/STM + tøj/STM + er/SUF
+4 musik/STM + er/SUF + e/SUF
+2 lokal/STM + plan/STM
+3 Kofod/STM
+4 Al/STM
+1 roman/STM + tikken/STM
+2 Jürgensen/STM
+1 punk/STM + t/SUF + et/SUF
+1 område/STM + r/SUF + ne/SUF
+2 gen/STM + er/SUF + alis/STM + er/SUF + er/SUF
+1 dukket/STM
+3 til/STM + pass/STM + et/SUF
+2 efter/STM + fulgt/STM
+1 Arriva/STM
+2 Bonk/STM + er/SUF + s/SUF
+2 bombar/STM + der/SUF + e/SUF + de/SUF
+1 inter/STM + ne/SUF
+1 datter/STM
+1 jævnbyrdige/STM
+3 Svalbard/STM
+5 ændre/STM + s/SUF
+1 Arnold/STM
+2 centre/STM
+1 minorit/STM + et/SUF + s/SUF + sprog/STM
+12 Don/STM
+1 betjen/STM + es/SUF
+2 1000/STM
+1 karakter/STM + træk/STM
+60 mange/STM
+2 fælles/STM + led/STM + else/SUF
+1 op/PRE + hørte/STM
+3 Blue/STM
+1 Filosofi/STM
+1 udflugts/STM + mål/STM
+1 Debian/STM
+2 for/PRE + hold/STM + s/SUF + tal/STM + s/SUF
+1 op/PRE + kald/STM + t/SUF
+9 op/PRE + rette/STM
+1 Hafnia/STM
+1 Kort/STM
+1 træ/STM + s/SUF + tolper/STM
+1 ni/STM + ende/SUF
+1 op/PRE + finde/STM + r/SUF
+1 gennem/STM + snit/STM
+1 ken/STM + de/SUF + tegn/STM + ende/SUF
+7 ord/STM
+2 Pris/STM + en/SUF
+1 gen/STM + er/SUF + e/SUF + de/SUF
+14 4/STM
+2 hvori/STM
+22 ofte/STM
+2 af/PRE + tje/STM + ne/SUF
+2 Ny/STM + t/SUF
+1 hoved/STM + regel/STM
+1 vanske/STM + lige/SUF
+1 form/STM + e/SUF
+4 kilomet/STM + er/SUF
+1 ud/PRE + dannelse/STM + r/SUF
+4 Tillæg/STM
+1 udbredt/STM + e/SUF
+2 Hærvej/STM + en/SUF
+3 fandt/STM
+5 ind/PRE + gik/STM
+1 escortpigen/STM
+1 Fund/STM
+1 af/PRE + stå/STM + else/SUF
+2 lokal/STM + redakt/STM + ion/SUF + er/SUF
+2 krise/STM
+1 fremkomsten/STM
+1 Øresund/STM + sbroen/STM
+1 OSI/STM
+3 lov/STM + er/SUF
+2 spor/STM + t/SUF
+1 jævn/STM + lig/SUF + t/SUF
+1 Hoved/STM
+2 Både/STM
+3 god/STM
+1 Christoff/STM + er/SUF
+14 pr/STM
+1 System/STM + a/STM
+1 borg/STM + er/SUF + krig/STM + e/SUF
+5 ned/STM + lægge/STM
+3 baptister/STM
+4 Yahoo/STM
+2 iskold/STM
+1 Rum/STM + organisation/STM
+1 Sø/STM
+35 und/STM + er/SUF
+1 udvikle/STM
+1 milde/STM
+10 CPU/STM
+1 Hér/STM
+4 Netscape/STM
+2 energi/STM
+13 land/STM + e/SUF
+1 tallet/STM + s/SUF
+10 mænd/STM
+4 million/STM
+1 bramgås/STM
+1 klækn/STM + ing/STM + en/SUF
+1 film/STM + ens/SUF
+1 Lange/STM + linje/STM
+1 Salmons/STM + ens/SUF
+4 8800/STM
+1 ti/STM + t/SUF
+1 elev/STM + er/SUF
+1 flyv/STM + e/SUF + både/STM
+1 ganske/STM
+6 valgt/STM + e/SUF
+1 Linné/STM
+8 encyklopædi/STM
+1 væ/STM + r/SUF + ste/STM
+1 138/STM
+1 ved/STM + lige/SUF + hold/STM + t/SUF
+7 6/STM
+8 Efter/STM
+1 Stemme/STM + rette/STM + n/SUF
+1 SMTP/STM
+2 Han/STM + s/SUF + en/SUF
+1 Lydien/STM
+1 for/PRE + mand/STM
+1 Natur/STM + ens/SUF
+1 kultur/STM
+1 lag/STM
+2 dyrket/STM
+1 web/STM + udvikle/STM + r/SUF
+2 genop/STM + byg/STM + ning/SUF + erne/SUF
+3 kopi/STM
+2 ende/STM + lig/SUF
+3 Lexicon/STM
+2 i/PRE + ota/STM
+2 be/PRE + steg/STM
+4 Mangel/STM
+2 hjemmebane/STM
+2 amtets/STM
+2 u/PRE + indskrænke/STM + de/SUF
+2 efter/STM + lod/STM
+1 Devel/STM + op/PRE + men/STM + t/SUF
+4 IE/STM
+2 Dedicated/STM
+2 und/STM + er/SUF + støtte/STM + de/SUF
+1 hen/STM + før/STM + e/SUF + s/SUF
+1 af/PRE + skedig/STM + else/SUF
+1 alpha/STM
+1 and/STM + er/SUF + ledes/STM
+1 satellitfot/STM + ografi/STM
+2 Lastbil/STM
+1 gennem/STM + brud/STM
+1 adel/STM + er/SUF
+1 samling/STM + er/SUF
+2 debian/STM
+7 lille/STM
+2 dokument/STM + er/SUF + e/SUF
+1 Skib/STM + s/SUF + type/STM + n/SUF
+1 b/STM + land/STM + et/SUF
+1 uro/STM + lig/SUF
+1 ind/STM + land/STM + s/SUF + is/STM
+1 indkomst/STM
+1 nedgang/STM + s/PRE + tid/STM
+1 totalt/STM
+1 hjulpet/STM
+2 Minni/STM + e/SUF
+2 hav/STM + n/SUF
+1 årsag/STM + en/SUF
+2 Højbro/STM
+2 over/PRE + vurdere/STM + t/SUF
+2 jagtfalk/STM
+1 årti/STM + er/SUF
+1 for/PRE + samling/STM
+1 hen/STM + blik/STM
+1 uberørt/STM
+14 fød/STM + t/SUF
+2 Atter/STM + dag/STM
+1 tilslutte/STM
+4 arkæologi/STM
+1 land/STM + jord/STM + en/SUF
+1 af/PRE + tryk/STM
+3 inddeling/STM
+1 broch/STM + er/SUF
+2 Ducklair/STM
+3 Gennem/STM
+1 biologi/STM + en/SUF
+2 af/PRE + s/PRE + ættelse/STM
+2 it/STM
+1 Næsten/STM
+1 Phillips/STM
+1 ned/STM + er/SUF + s/SUF + t/SUF
+3 Musik/STM
+1 billed/STM + kunst/STM
+1 jager/STM + fly/STM
+1 kogge/STM + r/SUF
+2 referere/STM
+1 rigtig/STM
+2 dokument/STM + et/SUF
+1 s/PRE + til/STM + art/STM
+5 figur/STM + er/SUF
+1 lukke/STM + t/SUF
+1 fred/STM + en/SUF
+17 DSU/STM
+1 180/STM
+4 historie/STM + n/SUF
+2 klyngeorganisationen/STM
+4 Quisling/STM
+1 Ulve/STM + løftet/STM
+4 Inter/STM + nation/STM + al/STM + e/SUF
+1 samtidig/STM + t/SUF
+1 klar/STM + t/SUF
+4 otte/STM
+1 Electronic/STM
+1 Otto/STM
+1 art/STM + s/SUF
+1 henvis/STM + er/SUF
+3 an/PRE + tallet/STM
+1 205/STM
+8 kvinde/STM + r/SUF
+2 samfund/STM + s/SUF + for/PRE + andring/STM + er/SUF
+1 Sjilka/STM
+1 Under/STM + tid/STM + en/SUF
+1 run/STM + er/SUF
+4 licens/STM + er/SUF
+1 rivalisering/STM
+1 op/STM + er/SUF + a/STM
+4 Margre/STM + te/STM
+1 Justice/STM
+2 matrostr/STM + øje/STM
+9 skulle/STM
+2 dansk/STM + erne/SUF
+1 tempel/STM
+2 tag/STM + e/SUF
+1 stat/STM + en/SUF
+1 Google/STM + s/SUF
+1 præcis/STM + er/SUF + es/SUF
+1 Mølle/STM + å/STM + en/SUF
+1 verden/STM + s/SUF + fred/STM + en/SUF
+2 trukket/STM
+6 Samtidig/STM
+1 varier/STM + er/SUF
+1 meticillin/STM
+1 rum/STM + forsk/STM + ning/SUF
+1 Rigs/STM + råd/STM + et/SUF
+1 Motiv/STM + erne/SUF
+5 inter/STM + nation/STM + al/STM
+1 rekordhøj/STM
+1 Sel/STM + skab/STM + et/SUF
+2 intensiv/STM
+20 musik/STM
+1 før/STM + e/SUF
+1 132/STM
+1 u/PRE + af/PRE + hæng/STM + ig/STM + e/SUF
+2 stat/STM + s/SUF + lig/SUF
+1 eks/STM + port/STM + er/SUF + e/SUF
+1 Smuthullet/STM
+1 aureus/STM
+1 tillad/STM + else/SUF
+2 indbygger/STM + ne/SUF
+1 Administrativ/STM
+2 Consortium/STM
+2 kan/STM + t/SUF
+3 reaktion/STM + er/SUF
+1 statue/STM
+1 Aktivit/STM + et/SUF + s/SUF + udvalg/STM + et/SUF
+1 detaljer/STM
+1 kalk/STM + lag/STM + et/SUF
+1 vind/STM
+6 for/PRE + bedre/STM
+2 over/PRE + tog/STM
+37 sam/STM + t/SUF
+5 karriere/STM
+2 vis/STM + t/SUF
+1 Eksempl/STM + er/SUF
+1 kritik/STM + ken/STM
+1 mask/STM + er/SUF + et/SUF
+3 linje/STM
+2 navn/STM + er/SUF + etssag/STM + en/SUF
+1 egn/STM + erne/SUF
+1 fad/STM + er/SUF + en/SUF
+1 histor/STM + ik/STM
+1 vakl/STM + en/SUF
+2 Saludos/STM
+1 skel/STM + nes/STM
+1 bovspryd/STM + et/SUF
+1 pilgrimme/STM
+87 kan/STM
+3 DOS/STM
+1 folk/STM + e/SUF + kirke/STM + med/PRE + lemm/STM + er/SUF
+5 hvilke/STM
+2 bedre/STM
+2 kæledyr/STM
+2 formelt/STM
+2 sta/STM + vns/STM + bånd/STM + et/SUF
+1 plac/STM + er/SUF + es/SUF
+2 reproduced/STM
+1 smeltev/STM + and/STM + et/SUF
+1 nyhed/STM + s/SUF + gruppe/STM + ind/STM + læg/STM
+3 Vestegn/STM + en/SUF
+1 herred/STM
+1 bygas/STM
+2 Konge/STM + række/STM + n/SUF
+1 Torso/STM
+4 web/STM
+1 veto/STM
+1 Fil/STM + mografi/STM
+1 For/STM + n/SUF
+2 tegn/STM + er/SUF
+2 kredsmandat/STM
+1 Fed/STM + er/SUF + al/STM
+1 Tr/STM + e/SUF + kan/STM + t/SUF + en/SUF
+24 den/STM + ne/SUF
+3 arbejd/STM + spladser/STM
+2 nevøer/STM + ne/SUF
+1 Efter/STM + hånd/STM + en/SUF
+1 bøger/STM
+2 fald/STM + e/SUF
+1 tid/STM + s/SUF
+1 Natur/STM + område/STM + r/SUF
+6 met/STM + er/SUF
+2 ind/STM + e/SUF
+2 Brasilien/STM
+3 allier/STM + e/SUF + de/SUF
+2 Lübeck/STM
+1 be/PRE + s/PRE + temme/STM + lser/STM
+9 Andre/STM
+1 nyttige/STM
+2 miljø/STM + plan/STM + læg/STM + ning/SUF
+1 Her/STM + efter/STM
+1 Gris/STM
+2 is/STM + en/SUF
+2 sne/STM
+1 ind/STM + lejr/STM + et/SUF
+3 Tårnby/STM
+1 75/STM
+1 Disney/STM + tegneserie/STM + forfatter/STM + en/SUF
+15 Den/STM + ne/SUF
+11 oprinde/STM + lige/SUF
+2 G/STM + er/SUF + hard/STM
+2 Middel/STM
+14 hvoraf/STM
+2 inter/STM + net/STM + søg/STM + ning/SUF
+1 over/PRE + vå/STM + gning/STM + s/SUF + samfund/STM
+4 hverken/STM
+2 brug/STM + t/SUF + e/SUF + s/SUF
+1 observ/STM + ans/STM
+16 be/PRE + tyde/STM + r/SUF
+2 koncert/STM + sted/STM
+2 Kastrup/STM
+2 samme/STM + n/SUF + sæt/STM + ning/SUF
+2 Sol/STM + en/SUF
+5 park/STM + er/SUF
+1 for/PRE + bind/STM + else/SUF + r/SUF
+4 lang/STM + s/SUF
+1 grund/STM + læg/STM + gerne/STM
+2 Flere/STM
+1 F/STM + r/SUF + aktion/STM
+2 Hamborg/STM
+1 For/STM + n/SUF + æ/STM + s/SUF
+1 ud/PRE + dan/STM + n/SUF + er/SUF
+1 Omkring/STM
+2 melodi/STM + en/SUF
+1 Taa/STM + r/SUF + bæk/STM
+2 bord/STM + plan/STM + ken/STM
+1 op/PRE + gjort/STM
+3 I/STM + s/SUF + land/STM
+3 tron/STM + en/SUF
+1 for/PRE + stad/STM
+2 V/STM + er/SUF + sion/STM
+2 copyright/STM
+2 Selection/STM
+1 L/STM + e/SUF + e/SUF
+4 lav/STM + e/SUF
+3 spille/STM + de/SUF
+4 år/STM + række/STM
+1 Problemat/STM + ikke/STM + n/SUF
+1 kanal/STM + en/SUF
+6 land/STM + skab/STM
+1 Birgitte/STM
+7 juni/STM
+6 19/STM
+1 ren/STM + s/SUF + dyr/STM + jæg/STM + erne/SUF
+4 strand/STM
+12 FDL/STM
+1 slag/STM
+11 skibsterminologi/STM
+2 Bibli/STM + otek/STM
+1 Bornholm/STM + s/SUF
+24 erne/STM
+2 mobil/STM + telefon/STM + er/SUF
+3 høsten/STM
+3 halvdel/STM + en/SUF
+5 august/STM
+1 kompon/STM + enter/STM
+1 sø/STM + slag/STM
+14 fordi/STM
+6 jyske/STM
+4 rest/STM + en/SUF
+3 København/STM + s/SUF + kreds/STM + en/SUF
+2 valgkongedømme/STM
+1 Ind/STM + fald/STM + s/SUF + vejene/STM
+4 inter/STM + nation/STM + al/STM + t/SUF
+1 Dertil/STM
+3 kirke/STM + lig/SUF + t/SUF
+5 tegnefilm/STM
+1 rummet/STM
+6 ud/PRE + over/STM
+1 ringvej/STM
+2 Gen/STM + t/SUF + ofte/STM
+2 fugl/STM + e/SUF + s/SUF
+2 magt/STM + kamp/STM
+1 Johan/STM + nes/STM
+2 lav/STM + er/SUF
+1 med/PRE + arbejd/STM + er/SUF
+15 bygge/STM + t/SUF
+2 høj/STM + borg/STM
+1 soft/STM + ware/STM
+2 be/PRE + sidder/STM
+1 offent/STM + lig/SUF + t/SUF
+11 altid/STM
+2 årti/STM
+1 Illustr/STM + er/SUF + et/SUF
+3 for/STM + e/SUF + komme/STM
+1 gammel/STM + dag/STM + s/SUF
+2 ret/STM + ning/SUF + er/SUF
+1 køb/STM + stad/STM
+1 bisp/STM + er/SUF + s/SUF
+3 sta/STM + bilit/STM + etsproblem/STM + er/SUF
+3 computer/STM + net/STM + værk/STM
+2 Inter/STM + net/STM + medie/STM
+9 gav/STM
+1 Golf/STM
+1 industri/STM + ens/SUF
+4 Asien/STM
+8 2008/STM
+1 and/STM + et/SUF + egn/STM + er/SUF + e/SUF
+1 liberal/STM
+3 embeds/STM + mænd/STM
+1 gammel/STM
+1 vel/STM + bevare/STM + t/SUF
+2 Stor/STM + mænd/STM + ene/STM + s/SUF
+2 tyde/STM + lig/SUF
+1 befolkning/STM + ens/SUF
+1 omkrans/STM + ning/SUF
+6 følge/STM + r/SUF
+1 producere/STM + r/SUF
+2 1952/STM
+2 regering/STM + s/PRE + form/STM
+2 fød/STM + er/SUF + al/STM
+4 hus/STM + e/SUF
+1 hjem/STM + mekampe/STM
+5 Peter/STM
+2 Halland/STM
+5 masse/STM
+3 træk/STM
+2 1859/STM
+1 plan/STM + lag/STM + t/SUF + e/SUF
+1 rolle/STM + n/SUF
+1 Køge/STM
+1 lyd/STM + digte/STM
+2 anakronisme/STM
+6 øer/STM
+1 institut/STM + ion/STM + er/SUF
+1 i/PRE + gennem/STM
+18 Fogh/STM
+1 Fællesråd/STM
+6 syv/STM
+2 vind/STM + er/SUF + en/SUF
+2 hvor/STM + til/STM
+1 pestepidemi/STM + er/SUF
+1 Kina/STM
+12 Region/STM
+1 hav/STM + vindmølle/STM + park/STM + er/SUF
+3 900/STM
+3 an/PRE + satte/STM
+1 kræv/STM + e/SUF + de/SUF
+4 kemi/STM
+1 mus/STM + isk/SUF
+1 omegn/STM + s/SUF + kommun/STM + er/SUF
+1 mark/STM + e/SUF + ting/STM + strategi/STM + er/SUF
+1 ustabilitet/STM
+1 Jæger/STM
+1 varmt/STM
+35 da/STM
+3 al/STM
+3 service/STM + organ/STM
+17 3/STM
+10 of/STM
+1 afstemning/STM + er/SUF
+1 pragt/STM + byggeri/STM + er/SUF
+3 almindelig/STM + vis/STM
+1 hexadecimale/STM
+1 Til/STM + lige/SUF
+1 æk/STM + vator/STM
+1 dyr/STM + er/SUF + e/SUF
+13 omfatt/STM + er/SUF
+1 frem/STM + før/STM + t/SUF + e/SUF
+1 lang/STM + s/SUF + gå/STM + ende/SUF
+1 nær/STM + mer/STM
+1 tysk/STM + præg/STM + e/SUF + de/SUF
+1 anlæg/STM
+2 NASA/STM
+3 kontakt/STM
+3 design/STM + e/SUF
+2 Toyohiro/STM
+1 Movement/STM
+4 avis/STM + er/SUF
+7 ville/STM
+7 nogen/STM
+2 stang/STM
+1 Ø/STM + kolog/STM + isk/SUF
+2 for/STM + e/SUF + skrev/STM
+1 Spejd/STM + er/SUF + lov/STM + en/SUF
+1 lod/STM + rette/STM
+2 be/PRE + ton/STM
+1 nedriv/STM + ning/SUF + en/SUF
+2 400/STM
+1 utilfredshed/STM
+1 hed/STM + e/SUF
+2 ind/STM + en/SUF + landsk/STM + e/SUF
+1 lig/STM + get/STM
+1 bo/STM + sætter/STM + e/SUF
+4 for/PRE + bund/STM + et/SUF
+1 Lisa/STM
+1 Udtrykket/STM
+1 fly/STM + gtninge/STM
+1 fugl/STM + e/SUF + sang/STM
+1 synges/STM
+1 46/STM
+1 Folk/STM + e/SUF + kirke/STM + n/SUF
+1 Har/STM + stad/STM
+1 fodbold/STM + land/STM + s/SUF + hold/STM
+1 løb/STM + ende/SUF
+4 Vigtig/STM + ste/STM
+2 bombar/STM + dement/STM
+1 ufin/STM
+1 stat/STM + s/SUF + over/STM + hoved/STM
+1 for/PRE + historie/STM + n/SUF
+4 proces/STM + sor/STM
+1 Alt/STM
+7 går/STM
+1 Strand/STM + park/STM
+1 Mexico/STM
+2 grund/STM + læg/STM + gelse/STM
+4 information/STM + er/SUF
+2 regl/STM + er/SUF
+2 Mik/STM
+1 for/PRE + blive/STM + r/SUF
+2 instrument/STM + erne/SUF
+5 medvirk/STM + e/SUF + de/SUF
+4 mail/STM
+2 dræbt/STM
+11 europæisk/STM + e/SUF
+1 over/STM + give/STM
+3 hvilke/STM + n/SUF
+2 76/STM
+1 pant/STM
+1 syre/STM
+11 mod/STM + erne/SUF
+1 frem/STM + bring/STM + es/SUF
+2 våben/STM
+1 hus/STM + er/SUF
+2 Derfor/STM
+1 barok/STM
+22 år/STM + hundrede/STM
+1 altså/STM
+1 industri/STM + er/SUF
+2 Origin/STM
+1 sen/STM + der/SUF
+4 Råd/STM
+1 Pr/STM + imært/STM
+3 demokrati/STM
+1 op/PRE + finde/STM + lser/STM
+4 OEM/STM
+1 universitet/STM + s/SUF + stud/STM + er/SUF + ende/SUF
+1 kræv/STM + et/SUF
+10 med/PRE + før/STM + t/SUF + e/SUF
+1 lys/STM + er/SUF + e/SUF
+1 ryg/STM + isk/SUF + e/SUF
+1 Analys/STM + en/SUF
+4 Darwin/STM
+2 Fil/STM + er/SUF
+3 s/PRE + ær/STM + lig/SUF + t/SUF
+1 opdeling/STM + en/SUF
+2 øje/STM
+4 behøve/STM + r/SUF
+1 Sojuz/STM
+2 1979/STM
+4 spir/STM
+5 At/STM
+3 ken/STM
+1 Hermed/STM
+2 onkel/STM
+5 konkurr/STM + ent/STM + er/SUF
+1 ud/PRE + komme/STM + r/SUF
+1 hobby/STM + brug/STM
+1 SMP/STM
+2 fartøj/STM
+1 irsk/STM
+1 Bogstav/STM + et/SUF + s/SUF
+2 baseret/STM
+1 stand/STM + fugl/STM
+1 mod/STM + arbejd/STM + e/SUF + de/SUF
+1 runeinskriptioner/STM
+1 grav/STM + sted/STM + et/SUF
+1 historie/STM + mi/STM + n/SUF + der/SUF
+1 på/STM + fund/STM
+1 luft/STM + våben/STM
+1 renæssance/STM + kong/STM + e/SUF + n/SUF
+2 selskab/STM + et/SUF
+2 grund/STM + e/SUF
+1 million/STM + by/STM
+5 adskil/STM + lige/SUF
+2 sløjfe/STM
+1 middel/STM + ald/STM + er/SUF + en/SUF + s/SUF
+1 styr/STM + t/SUF + e/SUF + de/SUF
+1 rug/STM + brød/STM
+2 hoved/STM + måltid/STM + er/SUF
+1 svine/STM + produkt/STM + ion/STM
+3 tid/STM + lig/SUF
+1 beskæftig/STM + else/SUF + s/SUF + region/STM + er/SUF
+1 Kommune/STM + kemi/STM
+2 kommun/STM + isme/STM
+236 det/STM
+1 smelteovne/STM
+2 tegn/STM + e/SUF + de/SUF
+1 hoved/STM + stad/STM + sregionen/STM
+1 fylke/STM
+2 Død/STM
+1 stift/STM + else/STM + n/SUF
+1 natur/STM + lig/SUF + t/SUF
+1 byg/STM + ning/SUF + en/SUF
+2 emne/STM + oversigt/STM
+4 for/PRE + søg/STM + t/SUF + e/SUF
+1 ter/STM
+1 at/STM + isk/SUF
+1 væ/STM + r/SUF + ne/SUF + pligt/STM
+2 L/STM
+4 Sovjet/STM + union/STM + en/SUF
+2 ud/PRE + før/STM + er/SUF
+1 lav/STM + er/SUF + e/SUF
+1 accept/STM + er/SUF + et/SUF
+2 an/PRE + bring/STM + e/SUF
+2 be/PRE + s/PRE + ættelse/STM
+2 stud/STM + er/SUF + es/SUF
+1 ind/STM + arbejd/STM + else/SUF
+1 skyl/STM + dte/STM
+1 fokus/STM + er/SUF + e/SUF + de/SUF
+1 Lidt/STM
+1 storke/STM + fugl/STM + e/SUF
+1 Skan/STM + der/SUF + borg/STM
+3 amerikansk/STM
+1 Drømmen/STM
+1 redakt/STM + ør/STM
+1 for/PRE + sump/STM + e/SUF + de/SUF
+17 område/STM + r/SUF
+2 støtte/STM + r/SUF
+1 med/STM + kong/STM + e/SUF
+1 Skandinav/STM + ien/STM + s/SUF
+4 DR/STM
+2 fatt/STM + elig/STM
+1 bemandede/STM
+2 Spejd/STM + er/SUF + løftet/STM
+1 mest/STM + er/SUF + skab/STM + er/SUF
+6 far/STM
+2 klo/STM
+8 stat/STM + s/SUF + minister/STM
+1 skrive/STM
+1 Nord/STM + sø/STM + en/SUF
+1 smukke/STM
+1 reg/STM + er/SUF + et/SUF
+1 Nyhavn/STM
+5 Øst/STM + erbro/STM
+1 ciff/STM + er/SUF
+3 krig/STM + s/PRE + før/STM + else/SUF
+1 bog/STM + en/SUF
+1 Op/STM + erativ/STM
+2 imperium/STM
+1 kæmpe/STM + mæssig/STM
+1 stud/STM + er/SUF + e/SUF
+4 service/STM + sektor/STM + en/SUF
+10 fast/STM
+2 turist/STM + attraktioner/STM
+1 shipping/STM
+2 tegneserie/STM
+1 hinduisme/STM
+2 enkelt/STM + man/STM + dstalmetoden/STM
+4 lov/STM + e/SUF
+1 syd/STM + kyst/STM + en/SUF
+1 gradvis/STM + t/SUF
+1 kommun/STM + ik/STM + ation/SUF
+1 Skandinav/STM + isk/SUF
+2 Managemen/STM + t/SUF
+4 Marshall/STM + plan/STM + en/SUF
+1 gang/STM + en/SUF
+3 sje/STM + tte/STM + plads/STM
+1 s/PRE + pæn/STM + den/STM + de/SUF
+1 s/PRE + må/STM + øer/STM
+6 mis/STM + t/SUF + e/SUF + de/SUF
+1 markeds/STM + andel/STM + e/SUF
+1 germa/STM + nske/STM
+2 af/PRE + gør/STM
+4 Herlev/STM
+1 arbejd/STM + s/SUF + kræv/STM + ende/SUF
+1 hidsig/STM + hed/STM
+1 Nupedia/STM + s/SUF
+1 råvar/STM + e/SUF
+1 række/STM + følge/STM
+3 Øst/STM + europa/STM
+4 26/STM
+1 for/STM + s/SUF + tag/STM
+1 gyngehest/STM
+4 be/PRE + græns/STM + e/SUF
+1 straffet/STM
+2 vej/STM
+1 ind/PRE + eks/STM
+5 s/PRE + træk/STM + ker/STM
+1 over/STM + trådt/STM
+1 op/PRE + bygge/STM + t/SUF
+8 million/STM + er/SUF
+9 kong/STM + e/SUF + r/SUF
+2 plan/STM + lægge/STM + r/SUF
+3 on/STM
+25 væ/STM + r/SUF + e/SUF + t/SUF
+2 kald/STM + t/SUF
+2 reklame/STM
+1 deltag/STM + er/SUF
+1 Ny/STM + e/SUF
+2 fast/STM + gør/STM + e/SUF + s/SUF
+4 ud/PRE + vid/STM + e/SUF
+3 lev/STM + er/SUF + er/SUF
+2 mål/STM + tidsmønster/STM
+4 syd/STM + lige/SUF
+1 be/PRE + vis/STM + t/SUF
+3 reg/STM + er/SUF + e/SUF + de/SUF
+3 OS/STM
+10 samled/STM + e/SUF
+1 valfar/STM + t/SUF
+2 Rapmus/STM
+1 skuespil/STM
+1 klit/STM
+1 gård/STM + e/SUF
+4 ind/PRE + ledes/STM
+1 iværksat/STM
+1 ansvar/STM
+4 bund/STM
+3 ind/PRE + tal/STM + t/SUF
+1 Søværnet/STM
+7 definitio/STM + n/SUF
+1 Vest/STM + er/SUF + vig/STM
+1 både/STM + n/SUF + s/SUF
+1 supplement/STM
+1 løs/STM
+2 glathed/STM
+5 familie/STM
+3 manden/STM
+1 sang/STM
+3 side/STM + løb/STM + ende/SUF
+1 huludfyld/STM + else/SUF
+1 s/PRE + letter/STM
+2 vest/STM + kyst/STM + en/SUF
+13 lige/STM
+2 s/PRE + pant/STM
+32 land/STM + et/SUF
+1 fly/STM + der/SUF
+11 Som/STM
+12 for/STM + t/SUF + satte/STM
+2 for/PRE + andring/STM
+5 ti/STM
+1 luft/STM + hav/STM + n/SUF + en/SUF
+4 berømt/STM + e/SUF
+1 Univers/STM + alis/STM
+1 be/PRE + sæt/STM + ningsmedlemmer/STM
+1 Middel/STM + grund/STM + en/SUF
+1 generel/STM
+1 plac/STM + er/SUF + ing/STM
+2 peg/STM + er/SUF
+1 Moritz/STM
+1 Kampen/STM
+1 bio/STM + masse/STM + produkt/STM + ion/STM
+1 øget/STM
+8 flest/STM + e/SUF
+2 s/PRE + par/STM + e/SUF
+2 ret/STM + ning/SUF
+2 parti/STM
+6 Stat/STM + ens/SUF
+2 begreb/STM + erne/SUF
+3 officiel/STM + t/SUF
+2 elektromagnetisme/STM
+1 support/STM
+1 ud/PRE + land/STM + et/SUF
+1 ød/STM + e/SUF + lag/STM + t/SUF
+1 hobby/STM
+2 stø/STM + t/SUF
+1 over/PRE + gang/STM
+2 Øresund/STM
+7 lyd/STM + er/SUF
+1 Huset/STM
+1 Molly/STM
+1 hjørner/STM + ne/SUF
+1 arkitek/STM + tur/STM + er/SUF
+1 bog/STM
+2 start/STM + er/SUF
+1 sted/STM + navn/STM + e/SUF
+2 udvikle/STM + de/SUF + s/SUF
+1 borg/STM + er/SUF + stand/STM
+2 uge/STM
+1 led/STM + ende/SUF
+1 Everett/STM
+5 inkludere/STM
+1 Ungdom/STM + s/SUF
+1 sikker/STM
+4 computer/STM + e/SUF
+3 antiphish/STM + ingfil/STM + ter/STM
+2 længe/STM
+2 kræv/STM + ende/SUF
+2 hæv/STM + er/SUF
+7 kerne/STM + r/SUF
+2 fryse/STM + punk/STM + t/SUF + et/SUF
+4 Jeg/STM
+3 modsæt/STM + ning/SUF
+1 ton/STM + e/SUF
+2 klang/STM
+10 Fra/STM
+1 Klyng/STM + erne/SUF
+2 par/STM
+2 håndbold/STM
+1 Buris/STM
+2 be/PRE + skrive/STM + s/SUF
+2 lyd/STM + e/SUF
+1 bolig/STM + lå/STM + n/SUF
+1 drog/STM
+1 men/STM + es/SUF
+1 verden/STM + s/SUF + historie/STM + n/SUF
+2 element/STM + er/SUF
+2 Jakob/STM
+2 pioner/STM + produkt/STM + et/SUF
+6 februar/STM
+2 civil/STM + e/SUF
+1 tjent/STM
+1 op/PRE + lys/STM + ning/SUF + s/PRE + tid/STM
+2 Akiyama/STM
+1 sælges/STM
+1 udnævnelse/STM
+1 Sojakagefabrik/STM
+1 Harald/STM + s/SUF
+5 syd/STM
+1 jager/STM + en/SUF
+12 Mir/STM
+1 Klampenborg/STM
+1 Bevægelsen/STM
+2 arbejd/STM + erne/SUF + s/SUF
+1 Musik/STM + hus/STM + et/SUF
+1 doctype/STM
+4 22/STM
+1 kyst/STM + område/STM + r/SUF
+1 reg/STM + en/SUF + t/SUF
+1 familie/STM + hjem/STM
+1 ko/STM + de/SUF
+1 nødvendig/STM + hed/STM
+2 politik/STM + erne/SUF
+1 adel/STM
+1 præsent/STM + er/SUF + es/SUF
+1 italie/STM + nske/STM
+7 oftest/STM
+1 all/STM + op/PRE + hon/STM + er/SUF
+7 OECD/STM
+1 for/PRE + gæng/STM + er/SUF + s/SUF
+2 Demografi/STM
+2 spektakulære/STM
+4 an/PRE + vend/STM + e/SUF
+213 de/STM
+1 kon/STM + trakt/STM
+1 High/STM + berg/STM + er/SUF
+2 Kultur/STM + en/SUF
+1 Mennesk/STM + er/SUF
+1 Californi/STM + en/SUF
+1 Jablonovy/STM
+1 konkurr/STM + ence/STM + dygtige/STM
+1 assyr/STM + isk/SUF
+4 Ørestad/STM
+3 design/STM + om/STM + kostningerne/STM
+16 nye/STM
+3 flyv/STM + ning/SUF
+1 aksiom/STM
+1 Nørre/STM + port/STM
+1 nybyg/STM
+1 rette/STM + t/SUF
+3 stjerne/STM
+2 IV/STM
+1 fæl/STM + de/SUF + s/SUF
+1 udvikling/STM + safdeling/STM
+3 ufri/STM
+1 funge/STM + r/SUF + er/SUF
+1 erhverv/STM + s/SUF + for/PRE + mål/STM
+1 be/PRE + slægt/STM + et/SUF
+1 sten/STM + en/SUF + e/SUF
+2 Skellet/STM
+2 scene/STM
+4 gruppe/STM
+1 99/STM
+2 rummer/STM
+1 Station/STM + en/SUF
+1 Afrika/STM + nske/STM
+1 forsk/STM + erne/SUF
+1 nødvendig/STM + e/SUF
+1 Ud/STM + en/SUF
+1 benytte/STM + t/SUF
+1 Glo/STM + strup/STM
+2 Forfattere/STM
+6 licens/STM + en/SUF
+6 op/PRE + gav/STM + en/SUF
+1 koble/STM + t/SUF
+7 almindelig/STM + e/SUF
+1 genop/STM + byg/STM + ning/SUF
+1 kap/STM + s/SUF + ler/STM
+2 islandsk/STM
+7 Jord/STM + en/SUF
+2 knapper/STM
+1 social/STM + istisk/STM
+2 hurtig/STM + t/SUF
+1 film/STM + instrukt/STM + ør/STM + en/SUF
+2 beskæftig/STM + e/SUF + de/SUF
+1 astronomi/STM
+1 forfatter/STM + en/SUF
+3 bolig/STM + er/SUF
+1 hellerist/STM + ning/SUF + erne/SUF
+1 prima/STM
+3 lev/STM + e/SUF + de/SUF
+1 fængslet/STM
+1 Marmara/STM + hav/STM + e/SUF + t/SUF
+1 tunge/STM
+1 film/STM + produkt/STM + ion/STM + er/SUF
+3 Mellem/STM
+4 be/PRE + græns/STM + et/SUF
+12 til/STM + hæng/STM + er/SUF + e/SUF
+6 produkt/STM
+1 stamtræ/STM
+1 frembragt/STM
+83 ved/STM
+1 Eidsiva/STM + ting/STM
+1 Lotus/STM
+1 Land/STM + skab/STM + et/SUF
+1 Fem/STM
+1 Avis/STM + strib/STM + en/SUF
+1 debut/STM
+3 af/PRE + slut/STM + t/SUF + et/SUF
+2 fuldend/STM + t/SUF
+4 W3C/STM
+3 observ/STM + ation/SUF
+1 lav/STM + tryk/STM + s/SUF + system/STM + er/SUF
+6 1947/STM
+1 sam/STM + spille/STM + t/SUF
+2 Socialdemokr/STM + at/STM + isk/SUF + e/SUF
+1 Departmen/STM + t/SUF
+1 comprehenditur/STM
+2 for/STM + lig/SUF
+3 udseende/STM + t/SUF
+1 proklam/STM + er/SUF + e/SUF + de/SUF
+3 brød/STM + tekst/STM
+5 130/STM
+2 regel/STM + sæt/STM
+1 Ko/STM + n/SUF + t/SUF + akt/STM + en/SUF
+7 40/STM
+1 land/STM + skab/STM + s/SUF + navn/STM + e/SUF
+4 Yongle/STM
+2 repræsent/STM + an/STM + ter/STM
+1 Malmö/STM
+1 pris/STM
+1 Par/STM + t/SUF + henon/STM
+5 Kilde/STM + r/SUF
+1 Sam/STM + er/SUF
+1 for/PRE + um/STM
+2 miljø/STM + teknologi/STM
+1 nå/STM + der/SUF
+2 tru/STM + s/SUF + sel/STM
+3 for/PRE + stad/STM + s/PRE + kommun/STM + erne/SUF
+1 Spani/STM + en/SUF
+2 bolig/STM + ejendom/STM + me/STM
+3 kommun/STM + erne/SUF
+1 Kommun/STM + istisk/STM + e/SUF
+1 felt/STM + et/SUF
+1 Human/STM
+1 film/STM + regl/STM + erne/SUF
+2 frank/STM + isk/SUF + e/SUF
+2 assistenterne/STM
+1 gen/STM + er/SUF + ation/STM + er/SUF
+1 Middle/STM
+1 op/PRE + finde/STM + r/SUF + en/SUF
+1 Fejde/STM
+1 tal/STM + system/STM
+1 80/STM
+2 design/STM + er/SUF + e/SUF
+1 indbygger/STM + indkomst/STM + en/SUF
+1 Company/STM
+1 fandt/STM + es/SUF
+1 anslå/STM + et/SUF
+2 evt/STM
+5 bogstav/STM + et/SUF
+3 Arena/STM
+5 sø/STM + er/SUF
+3 Skandinav/STM + ien/STM
+6 kamp/STM
+4 atom/STM + er/SUF
+2 land/STM + s/SUF + byen/STM
+3 net/STM + værk/STM
+1 web/STM + design/STM + er/SUF + e/SUF
+2 tungtvandsan/STM + læg/STM
+1 H/STM
+1 tilslutte/STM + t/SUF
+1 Israel/STM
+3 Jehovas/STM
+1 Gåga/STM + der/SUF
+1 visuelle/STM
+2 encycklopædiens/STM
+1 websted/STM + r/SUF
+1 kontor/STM + pakken/STM
+4 Free/STM
+8 hold/STM + t/SUF
+1 recentior/STM
+2 nedefra/STM
+2 regimen/STM
+5 GPL/STM
+6 kristendom/STM
+1 forsk/STM + e/SUF + lige/SUF
+1 tyrk/STM + er/SUF + e/SUF
+2 web/STM + baseret/STM
+5 ind/PRE + sat/STM + s/SUF
+1 gen/STM + bygge/STM + t/SUF
+2 still/STM + ing/STM
+3 erstat/STM + te/STM
+1 Bob/STM
+4 licens/STM
+1 ruges/STM
+1 Use/STM
+1 dokument/STM + er/SUF
+1 cykler/STM
+2 britisk/STM
+1 kystby/STM + er/SUF
+2 skille/STM
+1 hemme/STM + lige/SUF
+1 kun/STM + stig/STM
+2 Fedtmule/STM
+1 Motor/STM + vej/STM + en/SUF
+1 hav/STM + t/SUF + erne/SUF
+2 for/STM + e/SUF + slog/STM
+5 rundt/STM
+1 Krypt/STM
+1 sik/STM + r/SUF + e/SUF + de/SUF
+2 Unit/STM
+2 bælt/STM + er/SUF
+6 plads/STM
+3 Inter/STM + nation/STM + al/STM
+4 tilfælde/STM
+1 bak/STM + kede/STM
+2 inter/STM + net/STM + ud/PRE + byder/STM
+2 und/STM + er/SUF + vis/STM + ning/SUF + s/SUF + pligt/STM
+7 årene/STM
+2 Thor/STM + borg/STM
+1 monopol/STM
+2 Hoved/STM + s/PRE + til/STM + stand/STM + slinjen/STM
+21 ligger/STM
+3 koder/STM
+1 KMS/STM
+3 artikel/STM
+3 ind/PRE + bygge/STM + t/SUF
+2 af/PRE + hold/STM + e/SUF + s/SUF
+5 udvikle/STM + de/SUF
+1 ri/STM + s/SUF + dyrkning/STM
+2 lukke/STM + lyd/STM
+2 Cluster/STM
+4 væ/STM + sent/STM + lig/SUF
+1 kerneprovi/STM + n/SUF + s/SUF + er/SUF
+1 Live/STM + t/SUF
+2 vid/STM + e/SUF
+12 gik/STM
+1 jæg/STM + er/SUF + e/SUF
+1 debat/STM
+2 nation/STM + al/STM + fugl/STM + e/SUF
+1 College/STM
+1 spejder/STM + organisation/STM
+1 billed/STM + er/SUF
+3 tal/STM
+1 Domus/STM
+14 betegne/STM + lse/STM + n/SUF
+11 lang/STM
+1 1398/STM
+2 entrepr/STM + en/SUF + ør/STM
+4 sted/STM
+2 Gmail/STM
+2 und/STM + er/SUF + skrive/STM
+3 Little/STM
+1 U/STM + af/PRE + hæng/STM + ig/STM + hed/STM
+1 Dromaeosaur/STM + er/SUF
+2 Nash/STM
+2 Soft/STM
+1 Sanger/STM + s/SUF
+1 Vista/STM
+3 Hen/STM
+3 religion/STM + s/SUF + frihed/STM
+2 anskaffe/STM
+2 tusinde/STM
+1 dedik/STM + ation/SUF + er/SUF
+1 mis/STM + sion/STM + er/SUF + ende/SUF
+1 artikel/STM + skrivn/STM + ing/STM + en/SUF
+4 nok/STM
+2 åbn/STM + ing/STM + en/SUF
+1 Christian/STM + s/SUF + hav/STM + n/SUF
+1 æ/STM
+3 vasalstat/STM
+1 ECOSY/STM
+1 Vest/STM + er/SUF + vangskol/STM + en/SUF
+2 s/PRE + und/STM + e/SUF
+1 an/PRE + vend/STM + er/SUF
+1 færdigt/STM
+1 væld/STM
+1 grav/STM + e/SUF
+2 ud/PRE + sen/STM + der/SUF
+1 extend/STM
+1 udgivelse/STM + n/SUF
+1 Origin/STM + al/STM
+1 Blang/STM + strup/STM
+1 show/STM + et/SUF
+2 Ekstern/STM
+5 Indre/STM
+1 hed/STM + es/SUF + letter/STM
+1 fokke/STM + fald/STM
+1 vikinge/STM + skib/STM + en/SUF + e/SUF
+2 rejst/STM
+3 bil/STM + er/SUF
+5 led/STM + er/SUF
+1 turist/STM + er/SUF
+1 Byg/STM + ning/SUF + s/SUF + værk/STM + er/SUF
+1 Modul/STM + erne/SUF
+2 EfB/STM
+7 gæl/STM + der/SUF
+1 ko/STM + llektiv/STM
+2 an/PRE + vend/STM + e/SUF + lser/STM
+9 World/STM
+10 95/STM
+1 region/STM + ens/SUF
+2 drivend/STM + e/SUF
+3 sektor/STM
+1 Vejen/STM
+1 uden/STM + landsk/STM
+3 discipliner/STM
+3 modtag/STM + e/SUF
+1 el/STM + værk/STM
+2 Bing/STM
+2 til/STM + føje/STM + t/SUF
+2 ud/PRE + for/PRE + dring/STM + erne/SUF
+5 intet/STM
+1 fremtidige/STM
+1 Strand/STM
+16 vil/STM
+2 engelsk/STM + e/SUF
+10 ned/STM
+1 gen/STM + stand/STM
+2 badefaciliteter/STM
+3 Mus/STM + e/SUF + et/SUF
+1 arab/STM + isk/SUF + e/SUF
+1 Frederik/STM + s/SUF + s/PRE + und/STM + motorvej/STM + en/SUF
+2 Pasteur/STM
+1 ny/STM + s/SUF + gerrighed/STM
+3 data/STM
+11 Under/STM
+1 Spektr/STM
+33 skal/STM
+1 Freden/STM
+2 Inter/STM
+1 kemisk/STM
+1 steg/STM
+9 Tyskland/STM
+3 Hortensia/STM
+1 samled/STM + e/SUF + s/SUF
+5 mindst/STM
+1 Fysik/STM + er/SUF
+1 for/PRE + ret/STM + ning/SUF + s/SUF + taktik/STM + ker/STM
+1 Også/STM
+3 uden/STM + for/STM
+1 Auken/STM
+1 forsk/STM + ning/SUF + sresultater/STM
+6 dækket/STM
+2 yd/STM + et/SUF
+1 Græsk/STM
+1 relancering/STM
+5 net/STM
+1 union/STM
+1 editor/STM
+1 443/STM
+4 eksempel/STM
+1 for/PRE + årsag/STM + et/SUF
+1 und/STM + er/SUF + søg/STM + else/STM + n/SUF
+12 ting/STM
+1 wire/STM
+1 optræde/STM + n/SUF
+1 To/STM + r/SUF + m/STM
+1 græns/STM + ehindringer/STM
+1 eskadrille/STM
+1 Ural/STM + floden/STM
+2 vinger/STM
+24 dette/STM
+1 grøn/STM + landsk/STM
+2 omfatt/STM + et/SUF
+1 saakaldte/STM
+1 release/STM
+1 træ/STM + for/PRE + brug/STM + et/SUF
+2 s/PRE + tykke/STM + r/SUF
+2 licens/STM + e/SUF
+8 n/STM
+2 Andeby/STM + s/SUF
+3 dit/STM
+1 IMAP/STM
+1 1523/STM
+4 be/PRE + føje/STM + lser/STM
+2 metro/STM
+1 syn/STM + s/SUF + centret/STM
+1 rig/STM + s/SUF + råd/STM
+1 Anselmo/STM
+22 dag/STM
+2 gød/STM + ning/SUF
+4 lukke/STM + de/SUF
+3 titl/STM + en/SUF
+1 løb/STM
+3 s/PRE + noede/STM
+6 Wikipedia/STM
+1 syntes/STM
+1 Economist/STM
+6 Her/STM
+1 Ulve/STM + lov/STM + en/SUF
+2 arbejd/STM + er/SUF
+1 Middel/STM + hav/STM
+4 regi/STM + str/STM + er/SUF + et/SUF
+1 øst/STM + jyske/STM
+3 fil/STM + ialer/STM
+1 Over/STM + tur/STM + e/SUF
+6 gen/STM + er/SUF + elle/STM
+2 brug/STM + er/SUF + information/STM + er/SUF
+2 vikinge/STM + r/SUF
+12 maj/STM
+1 taksonomi/STM
+1 Arbei/STM + t/SUF + er/SUF + parti/STM + et/SUF
+1 blad/STM
+5 af/PRE + snit/STM
+3 lyd/STM + værdi/STM
+4 hardd/STM + isk/SUF
+1 myndighed/STM + er/SUF
+2 op/PRE + lev/STM + et/SUF
+1 dan/STM + n/SUF + er/SUF
+5 økonomi/STM + en/SUF
+8 du/STM
+1 Sommer/STM + en/SUF
+1 Staphylococcus/STM
+1 970/STM
+3 sydvest/STM + lige/SUF
+1 ch/STM + e/SUF + fredaktør/STM
+1 34/STM
+3 få/STM + r/SUF
+4 Disney/STM + s/SUF
+1 æld/STM + r/SUF + e/SUF
+2 web/STM + standard/STM + er/SUF
+2 røv/STM + en/SUF
+1 Politik/STM + en/SUF
+1 tag/STM + er/SUF
+2 betegne/STM + lse/STM
+3 spille/STM + s/SUF
+1 rumænsk/STM
+1 Kalmarunion/STM + en/SUF
+1 palæontolog/STM + er/SUF
+1 kloge/STM
+7 Wide/STM
+1 s/PRE + tykke/STM
+3 for/PRE + rest/STM + e/SUF
+2 Fær/STM + øerne/STM
+1 Notepad/STM
+1 stor/STM + klit/STM + t/SUF + er/SUF
+3 her/STM + i/PRE + bland/STM + t/SUF
+5 i/PRE + gen/STM
+3 deltag/STM + e/SUF
+4 Syd/STM + slesvig/STM
+3 letter/STM
+1 ambulance/STM + red/STM + der/SUF
+47 del/STM
+12 tysk/STM + e/SUF
+1 histor/STM + ik/STM + er/SUF + e/SUF
+4 flertal/STM
+1 Forfattere/STM + n/SUF
+8 Hoved/STM + stad/STM + en/SUF
+2 Martin/STM
+6 trådt/STM + e/SUF
+2 op/PRE + nå/STM
+2 kyst/STM + linje/STM
+2 prikken/STM
+2 aktion/STM
+1 bil/STM + lig/SUF + er/SUF + e/SUF
+2 be/PRE + søg/STM + ende/SUF
+4 officiel/STM
+1 indgav/STM
+1 nord/STM + kyst/STM + en/SUF
+2 tusinde/STM + r/SUF
+2 treringscirkus/STM
+3 borg/STM + er/SUF + e/SUF
+1 Utt/STM + er/SUF + slev/STM
+1 metall/STM + er/SUF
+1 far/STM + s/SUF
+1 energi/STM + mæssig/STM + t/SUF
+1 emne/STM + område/STM + r/SUF
+1 BNP/STM
+5 brug/STM + e/SUF
+1 Tyrkiet/STM
+1 Jordan/STM
+1 Hjemme/STM + væ/STM + r/SUF + net/STM
+3 varier/STM + et/SUF
+286 som/STM
+3 kong/STM + e/SUF + r/SUF + ne/SUF
+1 monopol/STM + lignende/STM
+1 vendte/STM
+1 hed/STM + e/SUF + område/STM + r/SUF
+3 med/PRE + lemm/STM + er/SUF
+1 meddelte/STM
+1 und/STM + er/SUF + skud/STM
+8 give/STM
+1 milliard/STM
+10 gjorde/STM
+1 markeds/STM + mekanism/STM + er/SUF
+4 omkom/STM
+6 side/STM
+4 Syd/STM + jylland/STM
+1 Øst/STM + er/SUF + port/STM
+1 terror/STM + isme/STM
+2 numre/STM
+2 for/PRE + tælle/STM
+1 Aristoteles/STM
+2 an/PRE + naler/STM
+3 mark/STM + e/SUF + der/SUF
+1 olie/STM + produkt/STM + ion/STM + en/SUF
+1 blæs/STM + er/SUF
+1 kilde/STM
+15 and/STM + et/SUF
+2 nem/STM + lig/SUF
+1 века/STM
+3 all/STM + er/SUF + tid/STM + lig/SUF + ste/STM
+1 divisio/STM
+1 Nutid/STM + ens/SUF
+2 indbygger/STM
+1 arbejd/STM + er/SUF + bevæge/STM + lsen/STM
+6 tårn/STM
+2 havvand/STM
+1 Mus/STM + e/SUF + er/SUF
+1 sind/STM
+1 kurs/STM
+4 for/PRE + kort/STM + else/SUF + n/SUF
+1 ud/PRE + arbejd/STM + e/SUF + de/SUF
+2 Hvidovre/STM
+1 Encyklopædi/STM
+3 dobbelt/STM + rig/STM + et/SUF
+1 and/STM + et/SUF + egn/STM + er/SUF
+4 pipelining/STM
+1 fritid/STM
+1 vælg/STM
+1 Mosquito/STM
+1 tegneserie/STM + skab/STM + er/SUF
+6 kong/STM + e/SUF + n/SUF
+3 komponist/STM
+1 kraft/STM + cent/STM + er/SUF
+1 An/STM + ne/SUF
+1 M/STM
+1 kun/STM + der/SUF + nes/STM
+1 finurlighe/STM + der/SUF
+5 s/PRE + må/STM
+2 risikoudsat/STM
+2 23/STM
+1 d/STM + isk/SUF + utabel/STM
+1 hejse/STM
+2 fulgt/STM + e/SUF
+5 social/STM
+1 koden/STM
+1 konfirm/STM + ation/SUF
+104 om/STM
+1 samme/STM + n/SUF + slut/STM + ning/SUF
+1 klyver/STM + bom/STM
+6 teori/STM
+1 begreb/STM
+1 materi/STM + ens/SUF
+2 version/STM + er/SUF
+2 hurtig/STM + er/SUF + e/SUF
+1 k/STM + r/SUF
+1 for/STM + e/SUF + bygge/STM
+6 eventyr/STM
+1 Udenrigs/STM + for/PRE + hold/STM
+1 Inden/STM + for/STM
+1 proces/STM
+2 all/STM + er/SUF + stø/STM + rste/STM
+2 syn/STM
+1 først/STM + nævn/STM + t/SUF + e/SUF
+1 Irak/STM + isk/SUF + e/SUF
+1 1665/STM
+1 Udgrav/STM + ning/SUF + er/SUF
+1 jern/STM + bane/STM + linje/STM
+16 sin/STM + e/SUF
+2 helhed/STM + s/SUF + ori/STM + enter/STM + et/SUF
+4 US/STM
+3 rnes/STM
+1 Petroleum/STM
+2 lyd/STM + begivenheder/STM
+4 Charles/STM
+4 midt/STM + en/SUF
+1 markup/STM
+1 ud/PRE + fyldt/STM
+1 hen/STM + hør/STM + er/SUF
+1 over/STM + flad/STM + e/SUF + vand/STM
+1 tøn/STM + der/SUF
+1 inddeling/STM + er/SUF
+1 zone/STM + ind/PRE + del/STM + t/SUF
+1 Kasp/STM + isk/SUF + e/SUF
+2 banker/STM
+2 fx/STM
+4 s/PRE + væ/STM + r/SUF + t/SUF
+4 udnævnelse/STM + n/SUF
+2 ansvar/STM + s/SUF + område/STM
+3 form/STM + ulering/STM
+3 1993/STM
+1 skib/STM + s/SUF + r/SUF + e/SUF + de/SUF + r/SUF
+2 Dan/STM + erne/SUF + s/SUF
+2 lokal/STM + avis/STM + er/SUF
+1 Velocity/STM
+1 baggårdskarre/STM + er/SUF
+1 indled/STM + ning/SUF + s/SUF + billed/STM + e/SUF
+6 ende/STM
+1 føje/STM + de/SUF + s/SUF
+1 ungdom/STM + safdeling/STM
+1 skel/STM + ne/SUF + de/SUF
+1 lev/STM + e/SUF
+2 fæste/STM + de/SUF
+1 op/PRE + før/STM + else/STM + n/SUF
+2 Sorte/STM
+2 kvarter/STM + er/SUF
+2 be/PRE + skrive/STM + lse/STM + n/SUF
+1 Å/STM
+4 Union/STM
+55 efter/STM
+3 Der/STM + efter/STM
+2 op/PRE + lev/STM + e/SUF
+2 dedik/STM + er/SUF + et/SUF
+13 brug/STM + t/SUF
+1 Pentium/STM
+1 frugtbare/STM
+1 C/STM
+5 yder/STM + lig/SUF + er/SUF + e/SUF
+3 timer/STM + s/SUF
+2 valgkredse/STM
+1 udryd/STM + de/SUF
+1 spredt/STM
+1 hus/STM + hold/STM + ning/SUF + s/SUF + dyr/STM
+134 I/STM
+1 bo/STM + sted/STM + er/SUF
+1 ind/STM + still/STM + e/SUF
+1 Tidal/STM
+1 så/STM + r/SUF + e/SUF + de/SUF
+1 k/STM
+2 bevare/STM + r/SUF
+4 fri/STM + give/STM + t/SUF
+2 nyhed/STM + s/SUF + gruppe/STM + r/SUF
+4 lade/STM
+1 vel/STM + ud/PRE + bygge/STM + t/SUF
+2 gift/STM + e/SUF + de/SUF
+4 Nytorv/STM
+1 bandlyste/STM
+16 periode/STM
+3 be/PRE + s/PRE + væ/STM + r/SUF
+2 hav/STM + e/SUF + t/SUF
+2 distrik/STM + t/SUF + s/PRE + organisation/STM + er/SUF
+1 copyleft/STM
+4 Fætter/STM
+1 menneske/STM + lig/SUF
+2 led/STM + et/SUF
+1 bebygg/STM + es/SUF
+2 BogoMips/STM
+2 geometri/STM + ske/STM
+2 ind/PRE + går/STM
+2 verden/STM + s/SUF + monark/STM + ier/STM
+1 vikinge/STM + kong/STM + e/SUF + r/SUF + ne/SUF
+1 om/STM + sættes/STM
+2 an/STM + er/SUF + kendt/STM
+4 fænomen/STM + er/SUF
+5 Svend/STM
+2 angivelse/STM
+2 Begreb/STM + et/SUF
+6 kræv/STM + er/SUF
+1 lov/STM + give/STM + n/SUF + de/SUF
+1 udbredelse/STM + n/SUF
+1 mod/STM + er/SUF + n/SUF + isme/STM
+2 Louis/STM + ville/STM
+1 verden/STM + s/SUF + ald/STM + r/SUF + e/SUF
+1 Ofte/STM
+1 Ko/STM + llektiv/STM
+3 repræsent/STM + er/SUF + er/SUF
+2 Skåne/STM + land/STM + ene/STM
+2 bro/STM + kvarter/STM + erne/SUF
+2 illustration/STM + er/SUF
+1 Motor/STM + ola/STM
+1 eliteidrætsklass/STM + erne/SUF
+2 dameagtigt/STM
+1 fremvis/STM + es/SUF
+3 mormon/STM
+3 produkt/STM + er/SUF
+6 frem/STM
+1 fokke/STM + n/SUF
+2 søg/STM + t/SUF + e/SUF
+1 vid/STM + und/STM + er/SUF
+1 territori/STM + er/SUF
+1 land/STM + styrker/STM
+5 social/STM + e/SUF
+1 raisonné/STM
+4 skib/STM + s/SUF + type/STM
+1 presse/STM + de/SUF
+1 bevæge/STM + r/SUF
+2 Titlen/STM
+1 film/STM + sel/STM + skab/STM + erne/SUF
+2 for/PRE + hold/STM + s/PRE + vis/STM + t/SUF
+2 højst/STM
+1 hurtig/STM
+1 op/PRE + erativ/STM + system/STM + et/SUF
+1 træ/STM + ne/SUF + de/SUF
+9 Skåne/STM
+1 hjemmebase/STM
+1 brev/STM
+1 pyntenetstokken/STM
+2 naturga/STM + s/SUF
+3 kvinde/STM
+1 krage/STM + fugl/STM + e/SUF
+1 håb/STM
+2 Finans/STM + råd/STM + et/SUF
+3 mobil/STM + telefon/STM
+4 vælg/STM + e/SUF + s/SUF
+1 Ladegårds/STM + å/STM + en/SUF
+2 bireme/STM
+1 Land/STM + et/SUF + s/SUF
+1 kebab/STM
+4 Konge/STM + n/SUF + s/SUF
+1 a/STM + be/PRE + sang/STM
+3 ad/STM
+1 anty/STM + der/SUF
+1 36/STM
+2 rum/STM
+3 for/PRE + ure/STM + ning/SUF
+1 verden/STM + s/SUF + plan/STM
+3 bud/STM
+5 kvantemekanik/STM
+2 harmoni/STM
+5 halvø/STM
+3 kirke/STM
+1 Sun/STM + der/SUF + land/STM
+2 kom/STM + et/SUF
+1 alvor/STM + lige/SUF
+1 struktur/STM + er/SUF
+8 eneste/STM
+3 Spejd/STM + erne/SUF
+6 Harald/STM
+2 cul/STM
+2 Til/STM
+1 befolkning/STM + s/SUF + rige/STM
+1 kong/STM + e/SUF + rige/STM
+7 fugl/STM + e/SUF
+2 af/PRE + hold/STM + t/SUF
+10 Med/STM
+2 endem/STM + isk/SUF
+4 bånd/STM
+2 print/STM + er/SUF
+1 Venusinus/STM
+2 be/PRE + regn/STM + et/SUF
+1 land/STM + brug/STM + er/SUF + e/SUF
+1 fisk/STM + e/SUF
+1 Gammel/STM
+1 MSN/STM
+2 1355/STM
+1 Index/STM
+5 1997/STM
+5 DSR/STM
+2 Harry/STM
+1 funktion/STM + al/STM + isme/STM
+4 organisere/STM
+3 nøjes/STM
+1 af/PRE + del/STM + ing/SUF + er/SUF + ne/SUF
+3 tempera/STM + tur/STM + en/SUF
+1 tegneserie/STM + n/SUF
+5 indtæg/STM + ter/STM
+1 Neils/STM
+1 for/STM + e/SUF + tag/STM + e/SUF + nde/STM
+4 tårn/STM + e/SUF
+2 hoved/STM + kvarter/STM
+30 han/STM + s/SUF
+2 astronaut/STM + korps/STM
+1 deleg/STM + ation/STM + en/SUF
+1 Central/STM + europa/STM
+2 format/STM + er/SUF + ing/SUF
+1 høvding/STM
+2 s/PRE + und/STM
+1 Smørre/STM + brød/STM
+3 tabbed/STM
+1 type/STM
+2 Nupedia/STM
+168 fra/STM
+15 brug/STM + e/SUF + s/SUF
+25 henvis/STM + ning/SUF + er/SUF
+1 land/STM + s/SUF + ting/STM
+2 slinjer/STM + ne/SUF
+1 med/STM + ejer/STM
+1 Nær/STM + væ/STM + r/SUF + ende/SUF
+1 muslim/STM + er/SUF
+1 irsk/STM + e/SUF
+1 radio/STM + ud/PRE + sen/STM + del/STM + s/SUF + er/SUF
+6 ind/PRE + end/STM + ør/STM + s/SUF
+3 langvarig/STM
+1 s/PRE + område/STM + t/SUF
+1 formue/STM
+1 TCP/STM
+1 regn/STM + er/SUF
+2 staved/STM + es/SUF
+3 Ungdom/STM
+2 diskussion/STM
+1 ton/STM + s/SUF
+1 alm/STM
+1 flammer/STM
+2 Lyngby/STM
+2 subskription/STM
+1 NNTP/STM
+4 emne/STM + r/SUF
+4 fund/STM + et/SUF
+1 før/STM + e/SUF + s/SUF + t/SUF
+1 Docking/STM
+2 Fri/STM + t/SUF
+1 var/STM + tegn/STM
+1 browser/STM + krig/STM + en/SUF
+1 Bov/STM + bjerg/STM
+2 efter/STM + lad/STM + t/SUF
+10 derved/STM
+1 sam/STM + arbejd/STM + e/SUF + t/SUF
+2 Sage/STM + n/SUF
+1 Bertel/STM
+1 G/STM
+2 va/STM + de/SUF + hav/STM + sø/STM + er/SUF
+2 åben/STM + t/SUF
+1 rumme/STM
+3 øverst/STM + e/SUF
+2 fod/STM
+2 386/STM
+285 for/STM
+2 adel/STM + s/SUF + mænd/STM
+2 brutto/STM + nation/STM + al/STM + produkt/STM
+3 køb/STM + enhavn/STM + ske/STM
+2 enighed/STM
+1 tromm/STM + er/SUF
+1 ekstreme/STM
+2 1900/STM
+6 FN/STM
+1 bogstav/STM + er/SUF
+1 ton/STM
+3 fejl/STM
+1 Ishockey/STM
+1 gemt/STM
+1 symbol/STM + værdi/STM
+2 værk/STM + et/SUF + s/SUF
+2 Luther/STM
+1 stor/STM + mænd/STM
+4 top/STM + ografi/STM
+2 Nordfri/STM + s/SUF + isk/SUF + e/SUF
+1 dæk/STM + sbjæl/STM + kerne/STM
+1 Tve/STM + skæg/STM + s/SUF
+3 herfra/STM
+2 Pumpehuset/STM
+2 NGO/STM
+1 Athlon/STM
+1 for/PRE + pagt/STM + er/SUF + e/SUF
+3 komme/STM + rciel/STM
+1 op/PRE + ret/STM + hold/STM + e/SUF
+20 Dette/STM
+1 skonnert/STM
+8 Frederik/STM
+1 layoutet/STM
+4 god/STM + t/SUF
+7 bet/STM + ydning/STM + er/SUF
+2 Eidsvoll/STM
+1 Sam/STM + t/SUF + lige/SUF
+1 Kløvermarken/STM
+1 FSF/STM
+2 rig/STM + s/SUF + stad/STM
+2 an/PRE + løb/STM + e/SUF
+2 spejder/STM
+5 Knud/STM
+3 selvstændig/STM
+1 kritik/STM + er/SUF + e/SUF
+1 by/STM + erne/SUF
+1 oldtid/STM
+1 nord/STM + mænd/STM + ene/STM
+2 for/PRE + stå/STM + else/SUF
+1 Organiz/STM + ation/SUF
+2 funge/STM + r/SUF + e/SUF + de/SUF
+4 dobbelt/STM
+1 CC398/STM
+3 lad/STM + er/SUF
+1 Bill/STM
+1 bombar/STM + dement/STM + er/SUF
+7 lag/STM + t/SUF
+1 høj/STM + reoriente/STM + r/SUF + e/SUF + de/SUF
+2 regel/STM
+5 central/STM
+29 Micro/STM + soft/STM
+1 publikum/STM
+2 medie/STM + hus/STM
+1 gård/STM + brug/STM
+140 også/STM
+3 genre/STM
+1 omgang/STM
+1 logos/STM
+1 typisk/STM
+1 Stolt/STM + en/SUF + berg/STM
+1 Distri/STM + ct/STM
+9 GFDL/STM
+1 Tjekkoslovakiet/STM
+2 alfabet/STM
+1 07/STM
+3 Vest/STM + jylland/STM
+13 2006/STM
+1 ambulance/STM + tje/STM + ne/SUF + ste/STM + n/SUF
+2 H/STM + e/SUF + de/SUF + by/STM
+1 Ages/STM
+1 Kgl/STM
+6 kæreste/STM + n/SUF
+1 1899/STM
+1 hard/STM + ware/STM
+1 Tid/STM + er/SUF
+1 gård/STM
+1 yngle/STM
+6 ind/STM + en/SUF + for/STM
+1 ejer/STM + e/SUF
+1 på/STM + begyndt/STM
+1 hjemmeside/STM
+1 Ingen/STM + iøruddannels/STM + erne/SUF
+3 Rumst/STM + ation/SUF
+4 op/PRE + nå/STM + e/SUF + de/SUF
+2 by/PRE + brand/STM + e/SUF
+1 spekt/STM + rum/STM
+1 kong/STM + e/SUF + s/SUF + lotte/STM
+2 samme/STM + n/SUF + læg/STM + ning/SUF
+1 bardu/STM + n/SUF + er/SUF
+1 op/PRE + summer/STM + et/SUF
+1 bevare/STM + s/SUF
+10 ændre/STM + t/SUF
+1 Blad/STM + et/SUF
+1 parti/STM + er/SUF
+1 sø/STM + erne/SUF
+2 morgenmad/STM
+2 steg/STM + et/SUF
+1 bronze/STM + n/SUF
+21 mindre/STM
+71 København/STM
+3 lev/STM + ende/SUF
+1 I/STM + r/SUF + land/STM
+3 an/PRE + lag/STM + t/SUF
+1 inter/STM + view/STM
+4 nord/STM + vest/STM + lige/SUF
+1 for/PRE + løb/STM + er/SUF
+1 geo/STM + grafisk/STM
+1 natura/STM + e/SUF
+1 Fair/STM
+1 1917/STM
+2 Falck/STM
+2 Klassiske/STM
+1 danehof/STM
+1 DTU/STM
+2 dybe/STM
+3 1975/STM
+1 sækkepib/STM + er/SUF
+5 enten/STM
+1 1919/STM
+3 Univers/STM + it/STM + et/SUF
+3 Læ/STM + s/SUF + ning/SUF
+1 sandsynlig/STM + vis/STM
+1 fag/STM + et/SUF
+3 funktion/STM
+2 skib/STM + et/SUF
+2 kon/STM + stitut/STM + ionelt/STM
+2 ejer/STM + skab/STM
+3 lov/STM
+1 Alder/STM + en/SUF
+1 folk/STM + e/SUF + afstemning/STM
+1 napoleons/STM + krigene/STM
+2 frigav/STM
+2 Ring/STM
+2 industri/STM + en/SUF
+1 pendl/STM + er/SUF + e/SUF
+1 G/STM + e/SUF + ografi/STM
+2 gennem/STM + skære/STM + s/SUF
+1 Ber/STM + n/SUF + er/SUF + s/SUF
+3 producere/STM
+5 så/STM + kald/STM + t/SUF + e/SUF
+2 adskille/STM
+2 Fæl/STM + led/STM + park/STM + en/SUF
+1 her/STM + ud/PRE + over/STM
+1 bronze/STM + fund/STM
+1 Erhverv/STM + sklynger/STM
+1 Spekul/STM + ation/SUF + erne/SUF
+2 nuanceret/STM
+1 finans/STM + i/PRE + elle/STM
+22 finde/STM + s/SUF
+4 relativ/STM + t/SUF
+17 økonomi/STM + sk/SUF
+1 identitet/STM
+1 note/STM + r/SUF
+1 Mir/STM + s/SUF
+3 60/STM
+1 Ko/STM + ntinent/STM + et/SUF + s/SUF
+1 Transport/STM
+1 Jutlandia/STM
+2 billed/STM + lige/SUF
+3 Lars/STM
+1 ud/PRE + mærk/STM + et/SUF
+3 1999/STM
+2 tætte/STM + st/STM
+1 HUR/STM
+1 kunst/STM
+10 nord/STM
+1 be/PRE + fri/STM + et/SUF
+2 her/STM + efter/STM
+3 styrker/STM
+1 stadig/STM + e/SUF
+4 Vest/STM + skov/STM + en/SUF
+7 2001/STM
+1 Lund/STM
+1 af/PRE + græns/STM + ning/SUF
+1 Træ/STM + er/SUF
+1 Måske/STM
+1 u/STM + for/PRE + ene/STM + lig/SUF
+1 andel/STM + s/SUF + bolig/STM + er/SUF
+1 tilmed/STM
+3 pct/STM
+1 Module/STM
+1 i/PRE + s/PRE + tid/STM + s/SUF + præg/STM + et/SUF
+1 Hinggan/STM
+3 klink/STM + byg/STM + ning/SUF
+1 tr/STM + op/PRE + per/STM
+4 union/STM + en/SUF
+2 med/STM + stift/STM + er/SUF
+1 øst/STM + kyst/STM
+20 få/STM
+1 nær/STM + hed/STM + en/SUF
+2 Sør/STM + ens/SUF + en/SUF
+1 familie/STM + n/SUF
+2 tradition/STM
+4 skib/STM
+3 kommun/STM + alt/STM
+1 punk/STM + t/SUF
+2 politik/STM + er/SUF + e/SUF
+1 logik/STM
+1 maskin/STM + en/SUF
+4 Ber/STM + ømte/STM
+6 ind/STM + e/SUF + hold/STM + er/SUF
+4 Stor/STM + e/SUF + bælt/STM
+3 stor/STM + mænd/STM + ene/STM + s/SUF
+8 geometri/STM
+3 Religion/STM
+1 forsk/STM + ning/SUF + s/SUF + cent/STM + er/SUF
+5 problem/STM
+1 und/STM + er/SUF + lig/STM + gen/STM + de/SUF
+1 op/PRE + før/STM + t/SUF + e/SUF
+1 knib/STM + erne/SUF
+1 ven/STM + skab/STM + s/SUF + by/STM + er/SUF
+1 søst/STM + er/SUF
+1 kortvarigt/STM
+1 Transmeta/STM
+1 pæd/STM + agog/STM
+1 tallene/STM
+2 aftensmad/STM + en/SUF
+1 efter/STM + følge/STM + r/SUF
+1 tag/STM + et/SUF
+1 Ny/STM + r/SUF + up/STM
+2 tredoblet/STM
+1 scene/STM + r/SUF
+5 rig/STM + et/SUF
+1 geden/STM
+5 tekst/STM + en/SUF
+1 Superisliga/STM + en/SUF
+7 start/STM + en/SUF
+1 kontrol/STM + cent/STM + er/SUF
+2 relativ/STM
+1 Encarta/STM
+2 58/STM
+7 udbredt/STM
+1 mumi/STM + er/SUF
+1 und/STM + er/SUF + lægge/STM
+6 hvordan/STM
+1 ke/STM
+1 Fiona/STM
+1 kalk/STM + sten/STM
+1 Organis/STM + ation/SUF
+4 ser/STM
+2 Socialist/STM
+1 støv/STM
+1 skandinav/STM + er/SUF + e/SUF
+3 αστρονομία/STM
+1 byg/STM + ning/SUF + s/SUF + værk/STM
+1 Kir/STM + sten/STM
+8 1400/STM
+1 1550/STM
+5 kerne/STM
+4 this/STM
+1 plan/STM + læg/STM + ning/SUF + s/SUF + organ/STM
+1 opvarm/STM + ning/SUF
+1 markant/STM
+1 Duck/STM + burg/STM
+1 ud/PRE + byder/STM
+2 træk/STM + ker/STM
+1 Gül/STM
+1 Vivia/STM + n/SUF
+4 Central/STM
+2 for/PRE + tøm/STM + ring/STM
+5 Midt/STM + jylland/STM
+1 phil/STM
+1 cand/STM
+9 finde/STM
+2 tid/STM + er/SUF
+3 hvormed/STM
+2 høj/STM + middel/STM + ald/STM + er/SUF
+9 skab/STM + t/SUF
+2 demand/STM
+3 tje/STM + ne/SUF + ste/STM + r/SUF
+1 lod/STM
+1 DUF/STM
+1 nødvendig/STM + vis/STM
+32 væ/STM + r/SUF + e/SUF
+14 valgt/STM
+3 i/PRE + følge/STM
+4 bonde/STM + gård/STM
+1 selv/STM + følge/STM + lig/SUF
+1 POP3/STM
+1 Definition/STM
+1 over/STM + hold/STM + t/SUF
+1 ha/STM
+1 Sun/STM
+6 grad/STM
+3 give/STM + n/SUF
+2 Øvrige/STM
+3 Finland/STM
+3 kontor/STM + program/STM
+3 økomomien/STM
+3 til/STM + knyt/STM + t/SUF + et/SUF
+2 tyde/STM
+1 be/PRE + skære/STM
+6 the/STM
+6 Fugle/STM
+1 rede/STM
+3 pen/STM
+2 s/PRE + vand/STM + t/SUF
+1 dhen/STM
+1 Middel/STM + ald/STM + er/SUF
+2 musik/STM + magasin/STM
+2 oldnord/STM + isk/SUF
+1 Udenrigs/STM + politik/STM
+1 hæv/STM + der/SUF
+6 nyt/STM
+3 Kemi/STM
+16 USA/STM
+2 modsæt/STM + ning/SUF + s/PRE + vis/STM
+1 serie/STM + ud/PRE + gav/STM + en/SUF
+1 der/STM + af/STM
+7 brug/STM + t/SUF + e/SUF
+1 tastatur/STM + er/SUF
+1 media/STM
+33 stø/STM + rste/STM
+1 ja/STM
+1 eksempl/STM + i/PRE + ficeret/STM
+2 Processing/STM
+3 nyhed/STM
+2 Intel/STM
+1 vil/STM + de/SUF
+1 Synopsis/STM
+2 strenge/STM
+6 1989/STM
+1 resistent/STM + e/SUF
+1 XHTML/STM
+2 Stallman/STM
+2 udgivelse/STM
+1 tende/STM + n/SUF + s/SUF + er/SUF
+2 idé/STM + s/SUF
+3 regl/STM + en/SUF
+1 Æggene/STM
+1 rugekasse/STM
+1 hær/STM
+2 grund/STM + lag/STM + de/SUF
+7 i/PRE + mod/STM
+1 både/STM + bro/STM + er/SUF
+2 Sankt/STM
+1 ud/PRE + råbte/STM
+3 blot/STM
+2 valget/STM
+1 Bremen/STM
+2 Fasanvej/STM
+1 Court/STM
+2 raketter/STM
+3 år/STM + lig/SUF + t/SUF
+4 stift/STM + ende/SUF
+1 tal/STM + en/SUF + t/SUF
+4 journalist/STM
+7 sam/STM + arbejd/STM + e/SUF
+2 idé/STM + t/SUF
+3 udtalte/STM
+3 skrev/STM + et/SUF
+9 Blandt/STM
+1 å/STM + erne/SUF
+2 chaud/STM
+1 Dagblad/STM + et/SUF
+5 midler/STM
+1 adskil/STM + lig/SUF + t/SUF
+1 and/STM + e/SUF + historie/STM + r/SUF
+1 Vi/STM
+1 ond/STM + skab/STM + s/SUF + fuld/STM
+1 arbejd/STM + e/SUF + de/SUF
+2 sidst/STM
+1 hoved/STM + redakt/STM + ør/STM + er/SUF
+2 hale/STM
+1 K/STM
+56 sig/STM
+1 Inter/STM + net/STM + ord/STM + bøger/STM
+1 Maastricht/STM
+1 vis/STM + e/SUF
+1 1751/STM
+1 flytte/STM
+2 M/STM + r/SUF
+1 1913/STM
+1 renæssance/STM
+1 struktur/STM + reform/STM + en/SUF
+1 vis/STM + t/SUF + e/SUF
+13 før/STM
+1 Han/STM + s/SUF + e/SUF + for/PRE + bund/STM + et/SUF + s/SUF
+1 Network/STM
+1 Akse/STM + magt/STM + erne/SUF
+1 Greve/STM
+1 ud/PRE + trukket/STM
+4 død/STM
+5 Søn/STM + der/STM + jylland/STM
+1 fugtige/STM
+4 stig/STM + ende/SUF
+1 absolut/STM
+5 struktur/STM
+2 ry/STM
+1 ord/STM + et/SUF
+1 Jazz/STM + klubben/STM
+2 Lille/STM + bælt/STM
+1 bevare/STM
+1 kval/STM + t/SUF
+3 Land/STM + et/SUF
+1 redigere/STM
+1 und/STM + er/SUF + grund/STM
+3 slog/STM
+1 lå/STM + n/SUF + t/SUF
+1 ff/STM
+1 motorvej/STM + en/SUF
+2 Schwalbe/STM
+1 standard/STM + op/PRE + slag/STM + s/SUF + værk/STM
+6 Sheet/STM + s/SUF
+1 ministre/STM
+1 lov/STM + givn/STM + ing/STM + en/SUF
+1 af/PRE + græns/STM + et/SUF
+2 benytte/STM + s/SUF
+1 for/STM + e/SUF + komme/STM + t/SUF
+2 legal/STM
+1 Tim/STM
+2 are/STM
+1 folk/STM + e/SUF + ne/SUF
+5 juli/STM
+1 Hill/STM + er/SUF + ød/STM + motorvej/STM + en/SUF
+1 I/STM + de/SUF + en/SUF
+1 definere/STM + s/SUF
+2 frem/STM + sættes/STM
+3 december/STM
+1 Superliga/STM + en/SUF
+3 ude/STM
+1 brit/STM + erne/SUF
+1 Kunst/STM + en/SUF
+1 følsomme/STM
+1 slipknot/STM
+3 Ramsussen/STM
+1 be/PRE + s/PRE + temme/STM + lse/STM
+2 Christian/STM + ia/STM
+2 fly/STM
+1 Amager/STM + bro/STM
+1 Europ/STM + æ/STM + isk/SUF + e/SUF
+1 Elben/STM + s/SUF
+4 der/STM + efter/STM
+6 evangelisk/STM
+1 bord/STM + et/SUF
+1 sundheds/STM + mæssig/STM
+11 kald/STM + et/SUF
+1 384/STM
+10 Anders/STM + ine/STM
+2 Parti/STM
+7 a/STM
+1 administr/STM + ation/SUF
+2 lance/STM + ret/STM
+1 fodbold/STM + land/STM + s/SUF + hold/STM + et/SUF
+1 skæb/STM + ne/SUF
+5 kontrol/STM
+1 privat/STM + liv/STM + et/SUF + s/SUF
+5 lignende/STM
+2 indehav/STM + erne/SUF
+7 milliard/STM + er/SUF
+1 liv/STM + s/SUF + grund/STM + lag/STM
+2 Cascading/STM
+1 omfavn/STM
+2 ustabilt/STM
+3 hvor/STM + for/STM
+1 V/STM
+1 tron/STM + e/SUF
+18 ud/STM
+1 fisk/STM + er/SUF + folk/STM + et/SUF
+4 tryk/STM + ning/SUF
+4 hånd/STM + fæstn/STM + ing/STM + en/SUF
+1 fast/STM + e/SUF
+1 1479/STM
+17 der/STM + es/SUF
+4 2015/STM
+1 tillad/STM + t/SUF
+1 GangI/STM
+2 musene/STM
+3 trosret/STM + ning/SUF + er/SUF
+1 Astronaut/STM
+6 websted/STM
+2 latin/STM + ske/STM
+1 så/STM + kald/STM + t/SUF
+2 indskrænke/STM + t/SUF
+3 hænde/STM + lser/STM
+1 vælg/STM + er/SUF
+2 grund/STM + fjeld/STM
+1 ind/PRE + eks/STM + er/SUF + er/SUF
+1 totalt/STM + e/SUF
+1 Arabiya/STM
+11 byg/STM + ning/SUF + er/SUF
+1 fast/STM + an/PRE + satte/STM
+1 tognet/STM
+1 stamme/STM
+63 man/STM
+3 virk/STM + er/SUF
+2 drivkraften/STM
+1 PGA/STM
+1 af/PRE + lejr/STM + ing/STM + er/SUF
+2 samme/STM + n/SUF + hold/STM
+1 enevælden/STM + s/SUF
+1 for/PRE + s/PRE + var/STM + s/SUF + ud/PRE + gift/STM + erne/SUF
+1 fundamental/STM + istisk/STM + e/SUF
+1 ud/PRE + sig/STM + t/SUF + er/SUF
+3 bjerg/STM + e/SUF
+9 græsk/STM
+1 spi/STM + dsen/STM
+8 bor/STM
+1 for/PRE + be/PRE + hold/STM + er/SUF
+1 mill/STM
+9 må/STM + de/SUF
+2 sejl/STM
+1 Jaromar/STM
+15 norsk/STM + e/SUF
+1 afstemning/STM + svilk/STM + årene/STM
+1 person/STM + lige/SUF
+3 31/STM
+1 Socialdemokr/STM + at/STM + er/SUF
+1 Nørre/STM + jylland/STM
+8 Histori/STM + e/SUF
+1 be/PRE + hold/STM + t/SUF
+14 blive/STM + r/SUF
+2 1992/STM
+1 Hertil/STM
+1 te/STM
+3 styr/STM + et/SUF
+1 Margre/STM + the/STM
+1 voksne/STM
+1 ved/STM + r/SUF + ør/STM + ende/SUF
+1 luft/STM + sluse/STM
+1 1146/STM
+1 angribe/STM
+1 serie/STM + r/SUF
+3 syd/STM + græns/STM + e/SUF
+1 stor/STM + sejl/STM
+1 u/STM + muligt/STM
+5 via/STM
+1 færdsel/STM
+1 gen/STM + er/SUF + ation/SUF
+3 be/PRE + grund/STM + e/SUF + de/SUF + s/SUF
+2 golf/STM
+1 iranere/STM
+11 NATO/STM
+1 und/STM + er/SUF + gang/STM
+4 stjerne/STM + r/SUF
+3 kæmpe/STM + de/SUF
+1 ord/STM + n/SUF + en/SUF
+1 politicum/STM
+6 Firmaet/STM + s/SUF
+2 koncert/STM + sted/STM + er/SUF
+4 Lige/STM + ledes/STM
+2 for/PRE + kort/STM + else/SUF
+1 spor/STM + e/SUF
+1 menighed/STM
+2 Hydro/STM
+4 hidtidige/STM
+2 skandinav/STM + isk/SUF + e/SUF
+3 station/STM + en/SUF
+1 timer/STM
+1 af/PRE + gør/STM + ende/SUF
+1 Ekof/STM + isk/SUF
+2 finans/STM + ier/STM + er/SUF
+11 15/STM
+7 2005/STM
+2 original/STM + sprog/STM
+1 jul/STM
+8 figur/STM
+2 kæntre/STM
+17 større/STM
+1 Tur/STM + ning/SUF
+4 algebraisk/STM
+1 W/STM
+1 bø/STM + de/SUF
+1 anti/STM
+2 brand/STM
+1 Estr/STM + i/PRE + dsen/STM
+1 jagt/STM + område/STM + r/SUF
+1 Alle/STM + r/SUF + s/SUF
+7 markeds/STM + andel/STM
+42 De/STM
+2 valgkongedømme/STM + t/SUF
+802 i/STM
+3 brød/STM
+2 Teglholmen/STM
+3 vis/STM + er/SUF
+2 sikrer/STM
+1 begivenheder/STM
+4 ejendom/STM + me/STM + n/SUF
+2 37/STM
+3 Anch/STM + er/SUF
+6 Privathospital/STM
+181 var/STM
+1 Kierke/STM + gaard/STM
+3 høj/STM + de/SUF + drag/STM
+466 en/STM
+1 Arn/STM + e/SUF
+8 25/STM
+1 Torgau/STM
+15 Esbjerg/STM
+2 sjældent/STM
+3 slut/STM + ning/SUF
+1 øge/STM
+1 ressourc/STM + er/SUF
+1 vind/STM + er/SUF
+7 måtte/STM
+4 film/STM
+12 direkte/STM
+1 for/PRE + mand/STM + s/SUF + skab/STM
+1 Ted/STM
+3 krig/STM + en/SUF
+1 xhtml/STM
+2 Parret/STM
+1 ekstra/STM + ord/STM + i/PRE + nær/STM + t/SUF
+1 byzone/STM
+1 Ved/STM + bæk/STM
+3 1998/STM
+2 reklame/STM + r/SUF
+2 hjemmeside/STM + r/SUF
+2 Gear/STM + løs/STM
+2 mand/STM + slinjen/STM
+2 ejendom/STM
+1 hoved/STM + kvarter/STM + et/SUF
+1 bordbredden/STM
+1 K/STM + endte/STM
+2 længst/STM
+1 somali/STM + er/SUF + e/SUF
+4 kon/STM + stant/STM
+1 regionaltog/STM
+1 taktik/STM
+4 Omegn/STM
+2 navn/STM + e/SUF + ord/STM + et/SUF
+1 karakter/STM + en/SUF
+4 organisation/STM + er/SUF
+1 Stæng/STM + erne/SUF
+1 løb/STM + er/SUF
+1 kraven/STM + e/SUF
+9 and/STM + en/SUF
+1 pueril/STM
+1 Produkter/STM
+3 del/STM + t/SUF
+4 Senere/STM
+2 Storbritanien/STM
+2 alvor/STM + lig/SUF + t/SUF
+1 Rid/STM + der/SUF
+1 af/PRE + hold/STM + e/SUF
+1 Land/STM + brug/STM + et/SUF + s/SUF
+2 ITEK/STM
+8 nogle/STM
+2 referere/STM + r/SUF
+1 miljø/STM + ven/STM + lige/SUF
+2 termod/STM + ynamik/STM
+2 bo/STM
+2 vurdere/STM
+2 rumfar/STM + t/SUF + sag/STM + entur/STM + er/SUF
+1 aktiv/STM
+1 ud/PRE + bud/STM + t/SUF
+9 1800/STM
+1 lykkedes/STM
+2 regn/STM + et/SUF
+1 for/STM + e/SUF + ne/SUF + de/SUF
+3 1740/STM
+1 andel/STM + sboligmarked/STM
+3 rigt/STM
+1 tid/STM + en/SUF + s/SUF
+1 Stor/STM + ting/STM + et/SUF
+1 Dannebrog/STM
+1 stabil/STM + e/SUF
+1 lægge/STM + r/SUF
+1 kong/STM + e/SUF + rig/STM + et/SUF
+2 Medicon/STM
+1 enhed/STM
+1 ny/STM + op/PRE + rette/STM + de/SUF
+1 virksomhed/STM + s/SUF + et/SUF + ik/STM
+2 stær/STM + kere/STM
+1 1892/STM
+14 html/STM
+1 Udg/STM
+12 sted/STM + er/SUF
+1 flamske/STM
+9 ud/PRE + gav/STM + e/SUF
+2 øgedes/STM
+1 bane/STM + de/SUF
+2 guano/STM
+1 Sydafrika/STM
+1 kandidat/STM
+10 følge/STM + nde/STM
+2 MIPS/STM
+2 kultur/STM + el/STM
+5 død/STM + e/SUF
+1 rov/STM + fugl/STM + e/SUF
+2 Hjemme/STM + kamp/STM + ene/STM
+1 Områd/STM + erne/SUF
+4 nord/STM + isk/SUF + e/SUF
+2 bag/STM + erste/STM
+2 af/PRE + gør/STM + else/SUF
+4 ind/STM + e/SUF + hold/STM + t/SUF
+1 Ewald/STM
+1 be/PRE + grund/STM + else/SUF
+1 Med/STM + lemm/STM + er/SUF + ne/SUF
+1 N/STM + i/PRE + else/STM + n/SUF
+2 ne/STM
+3 år/STM + s/PRE + tid/STM + er/SUF
+1 Haakon/STM
+7 enkelt/STM
+7 30/STM
+4 avisstribe/STM
+1 hundrede/STM
+2 krig/STM + s/PRE + før/STM + ende/SUF
+13 Rap/STM
+1 periferi/STM + en/SUF
+1 gjaldt/STM
+5 nå/STM
+1 år/STM + tusinde/STM + r/SUF
+1 fød/STM + sel/STM + s/SUF + dag/STM
+1 Øst/STM + jylland/STM
+1 600/STM
+3 1349/STM
+1 igangsætte/STM
+1 fag/STM + mænd/STM
+1 irakere/STM
+2 Valley/STM
+1 pass/STM + er/SUF
+2 logging/STM
+1 årsag/STM
+2 1845/STM
+2 bombar/STM + dement/STM + et/SUF
+8 be/PRE + dste/STM
+3 selskab/STM + elig/STM
+13 i/PRE + s/PRE + ær/STM
+1 penge/STM + tank/STM
+2 kæmpe/STM + værk/STM + et/SUF
+1 illustre/STM + ret/STM
+11 haft/STM
+1 Kalmarunion/STM
+1 hertugdømmerne/STM
+3 endte/STM
+1 før/STM + er/SUF
+3 trappespir/STM
+5 procent/STM
+1 und/STM + er/SUF + en/SUF + den/STM
+1 Dedica/STM + tions/STM
+15 Sverige/STM
+1 vand/STM
+1 AltiVec/STM
+1 bog/STM + handle/STM + r/SUF + for/PRE + hold/STM
+1 bil/STM + trafik/STM + ken/STM
+4 inkludere/STM + r/SUF
+3 fælles/STM
+1 enkelt/STM + person/STM + er/SUF
+1 såvel/STM
+2 rock/STM + musik/STM + er/SUF + e/SUF
+1 modtag/STM + ne/SUF
+1 fød/STM + sel/STM + safdeling/STM
+1 port/STM + ugis/STM + isk/SUF
+1 nordsøhavn/STM
+7 betød/STM
+1 drøm/STM
+1 uvur/STM + der/SUF + lige/SUF
+2 repræsent/STM + er/SUF + e/SUF
+1 Fame/STM
+1 kogge/STM + rne/STM
+5 arkitek/STM + tur/STM
+1 ud/PRE + stød/STM + ning/SUF
+1 monarki/STM + s/SUF
+1 interesse/STM + r/SUF + er/SUF
+1 Hoved/STM + stad/STM + s/SUF + råd/STM + et/SUF
+1 op/PRE + sen/STM + der/SUF
+1 skurk/STM + e/SUF
+4 følge/STM
+1 påvirk/STM + er/SUF
+2 for/PRE + skel/STM + lig/SUF
+1 guld/STM
+1 1969/STM
+1 om/STM + handle/STM + r/SUF
+1 ud/PRE + vand/STM + r/SUF + e/SUF + de/SUF
+1 besked/STM + net/STM + værk/STM + et/SUF
+1 bebygg/STM + else/SUF
+1 Tegn/STM + e/SUF + serie/STM + figur/STM + en/SUF
+1 Tr/STM + e/SUF + e/SUF
+1 bakterier/STM
+1 femte/STM + stø/STM + rste/STM
+1 middel/STM + ald/STM + er/SUF + latin/STM
+2 finans/STM + krise/STM + n/SUF
+10 her/STM + und/STM + er/SUF
+3 spille/STM
+107 ikke/STM
+1 kong/STM + e/SUF + lig/SUF
+3 afledte/STM
+1 grund/STM + en/SUF
+1 opvarm/STM + e/SUF + de/SUF
+2 nation/STM
+5 komme/STM + r/SUF
+1 Tron/STM + følge/STM + r/SUF
+1 mure/STM
+1 Arktis/STM
+1 erstat/STM + ning/SUF
+1 arbejd/STM + er/SUF + for/STM + e/SUF + ning/SUF
+1 høne/STM
+2 Folk/STM + e/SUF + ting/STM + s/SUF + med/PRE + lemm/STM + er/SUF + ne/SUF
+1 madlav/STM + ning/SUF
+1 497/STM
+1 uden/STM + land/STM + s/SUF
+3 magasin/STM + er/SUF
+3 Bornholm/STM
+1 Gade/STM
+11 begyndt/STM + e/SUF
+1 ι/STM
+8 computer/STM
+1 Hol/STM + bæk/STM + motorvej/STM + en/SUF
+1 Eurasia/STM
+1 distrik/STM + t/SUF
+4 Micro/STM + soft/STM + s/SUF
+8 industri/STM
+1 Lawrence/STM
+1 handel/STM + s/SUF + mæssig/STM
+1 ugen/STM + t/SUF + lige/SUF
+2 vej/STM + e/SUF
+8 brug/STM + er/SUF
+4 Cybernet/STM
+2 Biolog/STM
+2 fokus/STM
+1 sen/STM + e/SUF
+2 tid/STM + erne/SUF
+12 lige/STM + ledes/STM
+1 Poul/STM
+1 nord/STM + vest/STM + europæisk/STM + e/SUF
+2 mangle/STM + r/SUF
+1 citering/STM
+1 N/STM + e/SUF + der/SUF + land/STM
+2 Caballeros/STM
+2 omfatt/STM + ende/SUF
+1 felt/STM
+1 fred/STM
+3 liste/STM + n/SUF
+1 u/STM + bemandede/STM
+1 Dan/STM + er/SUF
+5 tætte/STM
+7 all/STM + e/SUF + r/SUF + e/SUF + de/SUF
+1 und/STM + er/SUF + vis/STM + e/SUF
+1 enig/STM
+1 volde/STM + ne/SUF
+2 sikker/STM + hed/STM
+2 Afghanistan/STM
+1 til/STM + føje/STM + lser/STM
+1 Syddanmark/STM
+2 køl/STM
+2 region/STM + ale/STM
+1 Endorsements/STM
+8 hos/STM
+3 projekt/STM + er/SUF
+46 København/STM + s/SUF
+2 øje/STM + blikket/STM
+1 virkelighed/STM
+1 variant/STM
+2 tegnefilm/STM + ene/STM
+1 Encyclo/STM + pedia/STM
+1 omkr/STM
+1 hånd/STM
+16 side/STM + n/SUF
+1 ud/PRE + give/STM + r/SUF + en/SUF
+11 bind/STM
+4 Sorø/STM
+1 Lykketoft/STM
+1 bebo/STM + et/SUF
+1 melodi/STM + ske/STM
+2 serie/STM + skab/STM + er/SUF
+1 lyd/STM
+3 Dansk/STM + e/SUF
+1 bebygg/STM + e/SUF + de/SUF
+3 Kommune/STM + rne/STM
+1 Kirke/STM + n/SUF
+4 der/STM + i/PRE + mod/STM
+1 dukker/STM
+3 arkitek/STM + tur/STM + en/SUF
+2 dyrkning/STM
+1 Middel/STM + ald/STM + er/SUF + ens/SUF
+1 sam/STM + arbejd/STM + ende/SUF
+1 Boog/STM
+1 Julia/STM
+2 kreds/STM + løb/STM
+1 skyl/STM + led/STM + e/SUF
+1 Afdel/STM + ing/STM + en/SUF
+1 red/STM + der/SUF
+1 brand/STM + stig/STM + erne/SUF
+1 550/STM
+1 klint/STM
+2 1994/STM
+2 måltid/STM
+2 s/PRE + væ/STM + r/SUF
+5 bet/STM + ydning/STM
+1 Famili/STM + en/SUF
+2 land/STM + e/SUF + ne/SUF
+1 kvali/STM + ficeret/STM
+1 firma/STM + et/SUF + s/SUF
+2 koncent/STM + r/SUF + er/SUF + et/SUF
+2 grund/STM + læg/STM + gen/STM + de/SUF
+1 god/STM + s/SUF + bane/STM + område/STM
+2 Tallene/STM
+1 Publishing/STM
+11 ret/STM
+2 beskæftig/STM + et/SUF
+1 be/PRE + lejr/STM + et/SUF
+1 Pr/STM + ikke/STM + n/SUF
+1 bag/STM + grund/STM + sfarve/STM
+17 Jylland/STM
+2 98/STM
+1 virk/STM + e/SUF + de/SUF
+1 stud/STM + enter/STM + bar/STM + en/SUF
+2 mesanmast/STM
+37 all/STM + e/SUF
+3 Tekniske/STM
+1 be/PRE + ret/STM + ning/SUF + en/SUF
+1 introduce/STM + r/SUF + e/SUF + de/SUF
+1 for/STM + e/SUF + tag/STM + e/SUF + s/SUF
+1 arrest/STM + er/SUF + et/SUF
+1 jord/STM
+3 tværs/STM
+1 En/STM + er/SUF + gi/STM
+2 bilateral/STM
+1 for/PRE + trin/STM + s/PRE + vis/STM
+2 Nettet/STM
+1 hungersnød/STM
+2 Reimer/STM
+6 tid/STM + lig/SUF + e/SUF
+3 for/PRE + stand/STM
+3 1905/STM
+5 histor/STM + isk/SUF + e/SUF
+1 roman/STM + tiske/STM
+1 b/STM + land/STM + e/SUF
+1 rekrutt/STM + er/SUF + et/SUF
+3 tegnefilm/STM + en/SUF
+1 frokost/STM + be/PRE + væ/STM + r/SUF + tning/STM
+1 fjerdragt/STM
+3 løftet/STM
+1 religiøse/STM
+3 høj/STM + er/SUF + e/SUF
+1 af/PRE + slut/STM + ning/SUF
+1 kugleform/STM + et/SUF
+2 stat/STM + s/SUF + religion/STM
+1 Høj/STM + e/SUF
+1 folk/STM + s/SUF
+13 The/STM
+2 Forum/STM
+35 så/STM
+4 nevøer/STM
+1 1604/STM
+2 Stille/STM + hav/STM + e/SUF + t/SUF
+22 von/STM
+1 op/PRE + grad/STM + er/SUF + ing/STM
+1 Finnmarks/STM + lov/STM + en/SUF
+5 kår/STM + et/SUF
+2 tag/STM + s/SUF
+8 latin/STM
+1 Storme/STM
+5 støtte/STM
+3 gas/STM
+16 Han/STM
+2 Politik/STM
+1 und/STM + er/SUF + bygge/STM + t/SUF
+5 park/STM
+1 kreds/STM
+4 1934/STM
+1 tema/STM + er/SUF
+2 grund/STM + lov/STM
+2 nem/STM + t/SUF
+1 rum/STM + vand/STM + ring/STM + er/SUF
+1 L/STM + e/SUF + der/SUF + e/SUF
+5 seks/STM
+1 bevæge/STM
+2 sektor/STM + en/SUF
+1 eksperim/STM + enter/STM + et/SUF
+2 vægt/STM
+1 palæontolog/STM
+3 spir/STM + e/SUF + de/SUF
+1 hånd/STM + ter/STM + ing/STM
+2 1403/STM
+1 Ka/STM + r/SUF + p/STM
+2 sangsvane/STM
+1 Origin/STM + al/STM + s/SUF
+1 norm/STM + ale/STM
+2 samling/STM + s/PRE + punk/STM + t/SUF
+3 Inden/STM
+1 ro/STM + et/SUF
+2 midler/STM + e/SUF
+17 Joakim/STM
+1 Scrooge/STM
+1 mindre/STM + år/STM + ige/STM
+1 lokal/STM + s/SUF + e/SUF + ktion/STM
+1 bil/STM
+2 kejser/STM
+1 Svensk/STM + er/SUF + en/SUF
+3 ud/PRE + gav/STM + er/SUF
+3 erk/STM + lær/STM + e/SUF + de/SUF
+5 England/STM
+6 dyr/STM
+13 øvrig/STM + e/SUF
+1 original/STM + t/SUF
+3 nå/STM + e/SUF + de/SUF
+5 firma/STM + et/SUF
+3 Hotel/STM
+2 person/STM + lig/SUF + hed/SUF
+1 Størstedel/STM + en/SUF
+1 sø/STM + folk/STM
+1 still/STM + ing/STM + en/SUF
+3 egen/STM + skab/STM + er/SUF
+3 kolde/STM
+1 land/STM + s/SUF + ting/STM + e/SUF
+1 III/STM
+14 stadig/STM
+1 projekt/STM + erne/SUF
+1 klassi/STM + ficeret/STM
+3 and/STM + e/SUF
+2 sk/STM
+5 klasse/STM
+2 encyklopædi/STM + en/SUF
+1 nørre/STM + jyske/STM
+2 ekskrementer/STM
+3 Fogh/STM + s/SUF
+1 høj/STM + tryk/STM
+1 del/STM + er/SUF
+1 Duchamps/STM
+9 sø/STM + n/SUF
+2 ud/PRE + død/STM
+2 god/STM + e/SUF
+1 universitet/STM + et/SUF + s/SUF
+3 af/PRE + del/STM + ing/SUF + er/SUF
+1 ud/PRE + styr/STM + et/SUF
+3 repræsent/STM + er/SUF + et/SUF
+2 For/STM + år/STM + et/SUF
+3 konsekvens/STM
+3 Mozilla/STM
+3 fane/STM + blad/STM
+1 Histori/STM + æ/STM
+1 de/STM + central/STM + t/SUF
+3 regering/STM + er/SUF
+1 introduce/STM + ret/STM
+1 ben/STM
+3 over/PRE + lær/STM + er/SUF
+5 euro/STM
+1 per/STM
+1 op/PRE + mærk/STM + som/STM + hed/STM
+1 jord/STM + en/SUF + s/SUF
+10 tv/STM
+5 udvikling/STM
+1 deltog/STM
+1 kultur/STM + liv/STM + et/SUF
+1 fest/STM
+2 Viden/STM + skab/STM + er/SUF
+1 snæv/STM + r/SUF + er/SUF
+3 hoved/STM + sagelig/STM + t/SUF
+1 fød/STM + e/SUF + var/STM + e/SUF
+2 Alder/STM
+9 løb/STM + et/SUF
+1 presse/STM + t/SUF
+1 histor/STM + iograf/STM
+1 Tim/STM + es/SUF
+3 angre/STM
+1 fatt/STM + ige/STM
+1 træk/STM + ket/STM
+1 s/PRE + ær/STM + lig/SUF + e/SUF
+1 nøja/STM + gtig/STM
+1 amerikan/STM + er/SUF + e/SUF
+1 Urne/STM + hoved/STM
+7 desuden/STM
+1 publicere/STM + t/SUF
+3 encyclo/STM + pæd/STM + isk/SUF
+1 Prøvest/STM + en/SUF + en/SUF
+2 strid/STM
+38 fler/STM + e/SUF
+1 jurid/STM + isk/SUF + e/SUF
+2 adskille/STM + r/SUF
+1 Dyrets/STM
+4 vand/STM + kvali/STM + t/SUF + et/SUF + en/SUF
+2 annoncer/STM
+2 saying/STM
+1 optræde/STM
+18 Der/STM
+1 HTTP/STM
+5 halvdel/STM
+2 Japan/STM
+1 Средние/STM
+1 dal/STM + e/SUF
+1 region/STM + alt/STM
+1 10500/STM
+1 sættes/STM
+1 arbejd/STM + s/SUF + op/PRE + gav/STM + er/SUF
+1 indad/STM
+1 repressali/STM + er/SUF
+2 enevælden/STM
+2 vinter/STM + en/SUF
+4 Sjak/STM
+1 1441/STM
+1 design/STM
+1 Funktional/STM + analyse/STM
+12 ISS/STM
+6 Andeby/STM
+6 Office/STM
+2 Organis/STM + ation/STM + en/SUF
+13 tre/STM
+3 stru/STM + be/PRE + lyd/STM
+1 fuld/STM + før/STM + er/SUF
+1 kra/STM + n/SUF + ium/STM
+15 præg/STM + et/SUF
+5 ses/STM
+1 i/PRE + s/PRE + tid/STM
+1 AdSense/STM
+13 EU/STM
+1 af/PRE + stand/STM
+2 aktion/STM + er/SUF
+3 papegøjer/STM
+1 ekspert/STM + en/SUF
+1 kosmonaut/STM
+1 niveau/STM + er/SUF
+1 for/PRE + ret/STM + ning/SUF + s/SUF + udvalg/STM + et/SUF
+1 s/PRE + restauranter/STM
+1 all/STM + e/SUF + der/SUF + e/SUF
+1 mis/STM + brug/STM + t/SUF
+2 nødvendig/STM + gjort/STM
+1 film/STM + instrukt/STM + ør/STM + er/SUF
+3 for/PRE + mål/STM
+1 struktur/STM + en/SUF
+38 km/STM
+4 inter/STM + net/STM
+4 mængde/STM + r/SUF
+2 optræde/STM + r/SUF
+1 Bugt/STM
+2 Clementine/STM
+1 eg/STM
+2 appeldomstol/STM
+1 farm/STM
+1 stabil/STM
+3 Plads/STM
+1 Middel/STM + eeuw/STM + en/SUF
+2 for/PRE + ende/STM
+1 1894/STM
+1 monark/STM + er/SUF + s/SUF
+1 regul/STM + er/SUF + et/SUF
+1 køre/STM
+1 Kansas/STM
+1 Vest/STM + amag/STM + er/SUF
+2 in/STM
+1 omkrans/STM + er/SUF
+1 be/PRE + s/PRE + temme/STM + s/SUF
+1 web/STM + browser/STM
+5 Stor/STM + e/SUF
+1 først/STM + eklasses/STM
+2 for/PRE + billed/STM + e/SUF
+3 normalt/STM
+5 nation/STM + er/SUF
+2 deri/STM
+1 Der/STM + es/SUF
+1 Fag/STM + lig/SUF
+1 Della/STM
+2 god/STM + s/SUF + et/SUF
+24 tallet/STM
+2 Regn/STM
+1 masse/STM + produkt/STM + ion/STM
+29 række/STM
+2 be/PRE + skrive/STM + lse/STM
+2 stø/STM + de/SUF
+1 bjælk/STM + er/SUF
+1 deltag/STM + er/SUF + land/STM
+2 Kunst/STM + er/SUF
+1 buddhisme/STM
+1 1867/STM
+1 skol/STM + e/SUF + lær/STM + er/SUF + e/SUF
+1 Vest/STM + kyst/STM + en/SUF
+1 efter/STM + følge/STM + r/SUF + en/SUF
+1 pizza/STM
+6 netop/STM
+5 1807/STM
+1 ned/STM + stamme/STM + de/SUF
+1 und/STM + er/SUF + ste/STM
+1 Udenrigs/STM + politisk/STM
+1 musik/STM + er/SUF
+1 milit/STM + ær/STM + tje/STM + ne/SUF + ste/STM
+1 1901/STM
+1 Musik/STM + genre/STM + r/SUF
+1 Akademi/STM
+1 Gode/STM
+10 2002/STM
+1 tonean/STM + give/STM + n/SUF + de/SUF
+2 potenti/STM + ale/STM
+4 status/STM
+3 Guds/STM
+2 aften/STM
+2 forvirrer/STM
+2 hidsig/STM
+1 Mølle/STM + r/SUF
+1 rige/STM + ste/STM
+5 art/STM + er/SUF
+1 pass/STM + e/SUF + de/SUF
+1 produkt/STM + iv/STM
+1 eventuelt/STM
+2 dominer/STM + er/SUF
+2 bred/STM + este/STM
+1 hornene/STM
+4 mast/STM
+1 lev/STM + e/SUF + tid/STM
+1 flyv/STM + e/SUF
+1 flagskib/STM
+2 derhos/STM
+2 undgår/STM
+3 børn/STM
+3 problem/STM + er/SUF
+1 in/STM + fra/STM + struktur/STM
+1 arbejd/STM + s/SUF + løs/STM + hed/STM
+2 spir/STM + ende/SUF
+2 FLOPS/STM
+1 be/PRE + styr/STM + else/SUF + s/SUF + for/PRE + mand/STM
+1 s/PRE + pæn/STM + dt/STM
+3 detaljer/STM + et/SUF
+1 midterste/STM
+1 øst/STM + ud/PRE + vid/STM + e/SUF + lsen/STM
+2 føl/STM + er/SUF
+6 udvikle/STM + t/SUF
+1 Ural/STM + bjerg/STM + e/SUF + ne/SUF
+1 byg/STM + ning/SUF + s/SUF + fred/STM + ning/SUF
+6 Seri/STM + en/SUF
+6 adel/STM + en/SUF
+2 ud/PRE + gav/STM
+1 inkl/STM
+2 Havfrue/STM
+2 krig/STM + ens/SUF
+2 år/STM + lige/SUF
+4 IBM/STM
+3 Slesvig/STM + ske/STM
+1 ans/STM + et/SUF
+1 jøde/STM + dom/STM
+3 ud/PRE + givn/STM + e/SUF
+1 svag/STM
+1 CP/STM
+1 sejl/STM + skib/STM
+1 spejder/STM + e/SUF
+1 over/PRE + lap/STM
+1 artikler/STM + ne/SUF
+2 be/PRE + grund/STM + es/SUF
+1 anled/STM + ning/SUF
+3 hoffet/STM
+2 hidsig/STM + prop/STM
+4 micro/STM + computer/STM
+2 Cartoons/STM
+1 beta/STM + ling/STM
+1 lag/STM + er/SUF
+1 ud/PRE + øv/STM + er/SUF + e/SUF
+5 Konversations/STM
+3 officiel/STM + le/STM
+1 indvi/STM + e/SUF + de/SUF + s/SUF
+5 samlet/STM
+1 ubem/STM + and/STM + et/SUF
+1 knyt/STM + t/SUF + er/SUF
+1 Zentropa/STM
+3 hør/STM + er/SUF
+3 præg/STM + e/SUF + de/SUF
+1 Nerode/STM
+7 København/STM + s/SUF + område/STM + t/SUF
+6 ud/PRE + gang/STM + s/PRE + punk/STM + t/SUF
+1 Pro/STM + jekter/STM
+3 For/STM + andring/STM + er/SUF
+4 hed/STM + der/SUF
+3 stad/STM + fæste/STM
+1 QDOS/STM
+1 forsk/STM + ning/SUF + s/SUF + projekt/STM + er/SUF
+1 fisk/STM + er/SUF + leje/STM
+7 Af/STM
+6 tid/STM + s/PRE + punk/STM + t/SUF
+5 20/STM
+5 fod/STM + s/SUF
+1 Autumn/STM
+2 sag/STM + de/SUF
+1 violin/STM
+3 miljø/STM
+1 be/PRE + handle/STM + r/SUF
+1 Glücks/STM + burg/STM
+3 Paris/STM
+4 tid/STM + lig/SUF + t/SUF
+2 op/PRE + fund/STM + et/SUF
+4 bydele/STM
+1 oldtid/STM + s/SUF + fund/STM
+1 Syri/STM + en/SUF
+1 flertal/STM + s/PRE + form/STM
+2 arkitek/STM + ter/STM
+4 verden/STM + s/SUF
+4 fjord/STM + e/SUF
+4 sang/STM + en/SUF
+1 menighed/STM + er/SUF
+1 begyn/STM + del/STM + s/SUF + e/SUF
+1 ændre/STM
+4 vigtig/STM + e/SUF
+1 1340/STM
+1 af/PRE + give/STM + t/SUF
+6 Kirke/STM
+2 pris/STM + er/SUF
+1 løb/STM + e/SUF
+1 an/PRE + lag/STM + t/SUF + e/SUF
+3 over/PRE + tag/STM + e/SUF
+6 Distri/STM + kt/STM + er/SUF
+12 efter/STM + hånd/STM + en/SUF
+5 cirka/STM
+1 far/STM + t/SUF
+4 100/STM
+4 Amalienborg/STM
+12 7/STM
+1 pass/STM + age/STM + r/SUF + er/SUF
+8 ideer/STM
+1 for/PRE + stå/STM
+10 længe/STM + re/STM
+1 hjemmebase/STM + n/SUF
+2 romersk/STM
+1 vrøvle/STM + digte/STM
+1 ind/PRE + sat/STM
+1 Angantyr/STM
+1 Goth/STM + er/SUF + s/SUF + ga/STM + de/SUF
+1 Explorer/STM + s/SUF
+1 Agency/STM
+3 Canada/STM
+10 hjælp/STM
+2 for/PRE + kort/STM + et/SUF
+3 Nasjonal/STM
+1 lig/STM + eværdig/STM + e/SUF
+2 popu/STM + lær/STM
+6 hver/STM + t/SUF
+2 motorvej/STM + en/SUF + e/SUF
+3 ø/STM
+1 brug/STM + er/SUF + en/SUF
+1 Inform/STM + ation/SUF
+1 instrument/STM
+1 u/PRE + af/PRE + hæng/STM + ig/STM + hed/STM
+3 Barokkens/STM
+355 til/STM
+1 spilkonsoll/STM + en/SUF
+6 side/STM + r/SUF
+3 litteratur/STM
+1 Tøn/STM + der/SUF
+1 punk/STM
+1 McDuck/STM
+2 install/STM + ation/SUF
+2 tysk/STM + erne/SUF + s/SUF
+9 hver/STM
+1 indtje/STM + ning/SUF
+3 købte/STM
+1 by/STM + mæssig/STM
+1 kulmine/STM + r/SUF + e/SUF + de/SUF
+1 Muhammed/STM + krise/STM + n/SUF
+1 Musikalsk/STM
+1 bød/STM
+1 Klima/STM
+2 Kunst/STM + erne/SUF
+1 Assuwa/STM
+2 d/STM
+2 Means/STM
+2 notice/STM
+2 mailing/STM + liste/STM + n/SUF
+1 gåga/STM + de/SUF
+6 væk/STM
+1 projekt/STM
+1 ord/STM + n/SUF + er/SUF
+5 land/STM + brug/STM + et/SUF
+1 Taa/STM + strup/STM
+2 wiki/STM
+8 større/STM + lse/STM
+1 Hvor/STM + i/PRE + mod/STM
+1 mis/STM + brug/STM
+1 af/PRE + hold/STM + e/SUF + r/SUF
+1 Inter/STM + net/STM + t/SUF + et/SUF + s/SUF
+1 helst/STM
+10 ind/PRE + til/STM
+3 ærke/STM + bispesæd/STM + et/SUF
+1 1902/STM
+1 energi/STM + ens/SUF
+1 anmod/STM + e/SUF + de/SUF
+7 18/STM
+4 ud/PRE + før/STM + e/SUF
+1 Sysl/STM + erne/SUF
+4 Nord/STM + jylland/STM
+1 kommando/STM
+1 for/PRE + ord/STM + et/SUF
+1 trakt/STM + ater/STM
+1 poesi/STM
+4 forsk/STM + ning/SUF
+1 kravel/STM + byg/STM + ning/SUF
+1 med/STM + regn/STM + et/SUF
+4 spor/STM
+1 extinguish/STM
+2 krydstogtskibe/STM
+1 vægt/STM + løs/STM + e/SUF
+3 Sibirien/STM
+1 egrav/STM + e/SUF
+2 Solvognen/STM
+1 barkenti/STM + ne/SUF
+1 Sheet/STM
+1 summer/STM
+2 bjerg/STM + e/SUF + ne/SUF
+2 stat/STM + er/SUF
+2 Monark/STM
+3 Norge/STM + s/SUF
+2 Roklub/STM
+5 privat/STM + e/SUF
+1 udgivelse/STM + r/SUF
+1 dal/STM
+1 Ansgar/STM
+9 blive/STM
+1 for/PRE + mod/STM + en/SUF + t/SUF + lig/SUF
+2 koste/STM + de/SUF
+2 begyndt/STM
+5 be/PRE + reg/STM + ning/SUF + erne/SUF
+2 s/PRE + toppede/STM
+3 Skole/STM
+2 fys/STM + isk/SUF
+3 bispesæd/STM + et/SUF + s/SUF
+1 yngl/STM + ende/SUF
+1 209/STM
+4 levned/STM + s/PRE + middel/STM
+27 uden/STM
+2 eier/STM
+10 vest/STM + lige/SUF
+2 efter/STM + søg/STM + e/SUF
+2 arve/STM
+2 Tivoli/STM
+2 nedad/STM
+2 redistribution/STM
+1 Jelling/STM + e/SUF + sten/STM
+1 Børs/STM + en/SUF
+4 1987/STM
+1 europæisk/STM
+1 Så/STM + ledes/STM
+1 mod/STM + be/PRE + vis/STM + t/SUF
+2 harmoni/STM + k/STM
+12 form/STM
+1 lag/STM + t/SUF + ing/STM
+2 for/PRE + kort/STM + es/SUF
+1 spidst/STM
+1 strategi/STM + en/SUF
+2 speci/STM + fik/STM + t/SUF
+5 kong/STM + e/SUF + n/SUF + s/SUF
+2 over/PRE + lap/STM + ning/SUF
+1 anklag/STM + er/SUF
+4 Ståland/STM + en/SUF
+1 kollega/STM + er/SUF
+3 fugl/STM + e/SUF + art/STM + er/SUF
+7 dækker/STM
+1 P/STM + e/SUF + sten/STM
+1 bragt/STM + e/SUF
+4 be/PRE + tyde/STM + lig/SUF + t/SUF
+1 grund/STM + vand/STM
+3 des/STM
+1 ene/STM + kong/STM + e/SUF
+1 ork/STM + ideer/STM
+1 grund/STM + moræne/STM + land/STM + skab/STM
+3 værk/STM + er/SUF
+1 trakt/STM + at/STM + en/SUF
+1 1962/STM
+7 gjort/STM
+3 vekslings/STM + kurs/STM + en/SUF
+1 op/PRE + hør/STM
+1 kong/STM + e/SUF + r/SUF + s/SUF
+1 omfavn/STM + e/SUF
+12 stor/STM + t/SUF
+1 sciences/STM
+1 folk/STM + et/SUF
+1 komik/STM
+1 Tobak/STM + s/SUF + ko/STM + mpagni/STM
+3 Kunsthall/STM + en/SUF
+5 gå/STM
+1 russ/STM + erne/SUF
+1 Berlingske/STM
+1 astronaut/STM + er/SUF
+4 central/STM + e/SUF
+2 for/PRE + bud/STM + t/SUF
+50 Norge/STM
+4 græsk/STM + e/SUF
+1 af/PRE + hæng/STM + ig/STM
+2 af/PRE + løs/STM + es/SUF
+2 Hen/STM + r/SUF + ik/STM
+1 pro/STM + fess/STM + ionelt/STM
+1 chymeia/STM
+5 april/STM
+2 Richard/STM
+1 bevare/STM + nde/STM
+1 medie/STM + virksomhed/STM + er/SUF
+2 øverst/STM
+24 både/STM
+1 kyst/STM + område/STM
+1 værd/STM
+5 Co/STM
+3 fjerde/STM
+1 Gen/STM + er/SUF + elt/STM
+5 ét/STM
+1 vej/STM + en/SUF
+2 Thrane/STM
+48 dog/STM
+1 trekan/STM + t/SUF + et/SUF
+9 vigtig/STM
+2 Mellem/STM + øst/STM + en/SUF
+51 hav/STM + de/SUF
+1 film/STM + art/STM
+1 G4/STM
+1 bevare/STM + lse/STM
+3 oversigt/STM
+1 kreative/STM
+1 by/STM + for/PRE + nyelse/STM + s/SUF + projekt/STM + er/SUF
+3 råsejl/STM
+1 gift/STM
+4 be/PRE + skrev/STM + et/SUF
+2 bagud/STM
+8 gang/STM + e/SUF
+8 10/STM
+1 MMX/STM
+1 EUC/STM
+2 bogstav/STM
+1 Emily/STM
+1 77/STM
+3 kong/STM + e/SUF + række/STM
+1 Ska/STM + der/SUF + ne/SUF
+3 objekter/STM
+4 om/PRE + give/STM + n/SUF + de/SUF
+2 gen/PRE + stand/STM + e/SUF
+5 200/STM
+2 Bremen/STM + s/SUF
+2 op/PRE + stå/STM + et/SUF
+3 Grund/STM + lov/STM + en/SUF
+1 Mose/STM
+1 grå/STM
+2 Tegn/STM + erne/SUF
+1 forfatter/STM + ne/SUF
+1 bebo/STM + r/SUF
+17 GNU/STM
+1 stud/STM + enter/STM + sekretariat/STM
+4 liberal/STM + iseringer/STM
+2 Inspir/STM + er/SUF + et/SUF
+1 Folk/STM
+1 Nybo/STM + der/SUF
+1 Bill/STM + und/STM
+1 indkomst/STM + område/STM + r/SUF
+12 helt/STM
+1 MVP/STM
+1 Thy/STM
+15 vis/STM + s/SUF + e/SUF
+1 h/STM + i/PRE + lsen/STM
+1 for/PRE + bryd/STM + else/STM + r/SUF
+1 ramm/STM + er/SUF
+2 erhverv/STM
+4 nyeste/STM
+1 for/PRE + s/PRE + var/STM
+2 gen/PRE + give/STM + t/SUF
+2 vis/STM + es/SUF
+979 og/STM
+3 Dog/STM
+1 ISAF/STM
+2 Når/STM
+1 Region/STM + er/SUF
+1 skibsværf/STM + t/SUF
+1 Efter/STM + krig/STM + s/SUF + tid/STM + en/SUF
+17 sidst/STM + e/SUF
+4 betegne/STM
+1 KFOR/STM
+2 Had/STM + er/SUF + slev/STM
+2 skrift/STM + lige/SUF
+1 Sekundære/STM
+3 Strøget/STM
+2 Page/STM
+1 Elben/STM
+3 Formål/STM + et/SUF
+1 skille/STM + s/SUF
+2 Earth/STM
+1 Aalborg/STM
+1 DNA/STM
+2 folk/STM + et/SUF + s/SUF
+2 nation/STM + al/STM + t/SUF
+2 Hal/STM
+3 nazist/STM
+1 styr/STM + e/SUF + de/SUF
+2 transport/STM + sk/SUF + æden/STM
+1 Brutto/STM + nation/STM + al/STM + produkt/STM
+1 solcellepanel/STM
+4 spor/STM + t/SUF + s/SUF + grene/STM
+3 CBS/STM
+1 eks/STM
+1 School/STM
+2 af/PRE + hæng/STM + er/SUF
+6 kong/STM + e/SUF + magt/STM + en/SUF
+2 fisk/STM + er/SUF + i/STM
+1 over/STM + vintr/STM + ing/STM + en/SUF
+3 pingviner/STM
+1 Vandtårnet/STM
+2 be/PRE + stod/STM
+3 Frem/STM
+3 bogstav/STM + e/SUF + lig/SUF + t/SUF
+2 led/STM + else/SUF
+1 for/STM + e/SUF + tag/STM + e/SUF + r/SUF
+35 fik/STM
+1 evolution/STM
+1 arne/STM
+1 Skulle/STM
+1 ind/PRE + del/STM + t/SUF
+1 kluif/STM
+1 K/STM + vind/STM + er/SUF
+6 s/PRE + til/STM
+1 drengen/STM
+1 frem/STM + s/SUF + at/STM
+1 høvding/STM + e/SUF
+1 karakter/STM + istisk/STM
+3 Finans/STM + ier/STM + ing/STM + en/SUF
+1 Per/STM
+2 år/STM + hundrede/STM + t/SUF
+4 MS/STM
+2 regering/STM
+1 bytte/STM + s/SUF
+1 ud/PRE + fly/STM + tning/STM
+3 reform/STM + er/SUF
+1 F/STM + logging/STM
+2 Hahn/STM
+1 ejus/STM
+1 metro/STM + en/SUF
+1 tilfredse/STM
+2 medie/STM + t/SUF
+2 materi/STM + ale/STM
+4 finde/STM + r/SUF
+1 Sydsverige/STM
+1 stemt/STM + e/SUF
+1 Tid/STM
+2 Januar/STM
+2 mål/STM
+1 grund/STM + lov/STM + ens/SUF
+2 Efter/STM + følge/STM + r/SUF + en/SUF
+1 brugbar/STM + t/SUF
+1 græns/STM + en/SUF
+1 Konsistorie/STM + hus/STM + et/SUF
+1 for/STM + t/SUF + sætter/STM
+1 fri/STM + s/SUF + en/SUF
+3 nyhed/STM + s/SUF + kan/STM + al/STM
+11 be/PRE + står/STM
+1 fag/STM
+2 mælke/STM + produkt/STM + er/SUF
+2 almindelig/STM + hed/STM
+1 hertugdømmerne/STM + s/SUF
+1 fri/STM + t/SUF
+2 For/STM + bund/STM + et/SUF
+1 Ved/STM + lige/SUF + hold/STM + else/SUF + Der/STM
+15 ²/STM
+1 For/STM + s/PRE + var/STM + s/SUF + minister/STM + iet/STM
+1 kronologi/STM + sk/SUF
+2 søg/STM + ning/SUF + er/SUF
+2 ud/PRE + give/STM + r/SUF
+2 medlem/STM + s/SUF + land/STM + e/SUF
+68 elle/STM + r/SUF
+21 lang/STM + t/SUF
+1 Encyclo/STM + pédie/STM
+1 hør/STM + ende/SUF
+2 plan/STM + en/SUF
+1 om/STM + byg/STM + ning/SUF + en/SUF
+1 transport/STM + er/SUF
+1 op/PRE + sendt/STM
+1 over/STM + alt/STM
+2 prote/STM + stant/STM + ismen/STM
+1 Red/STM + skab/STM + erne/SUF
+2 TrackMeNot/STM
+2 Jakob/STM + s/SUF + en/SUF
+1 social/STM + demokrat/STM + isk/SUF + e/SUF
+1 s/PRE + lør/STM + es/SUF
+10 2009/STM
+2 Odense/STM
+1 fød/STM + der/SUF
+1 ud/PRE + før/STM + t/SUF
+2 af/PRE + løs/STM + t/SUF
+1 udvikle/STM + rne/STM
+2 op/PRE + rette/STM + t/SUF
+1 emb/STM + e/SUF + der/SUF
+1 jæg/STM + er/SUF + folk/STM
+2 gård/STM + ejer/STM
+19 dansk/STM
+2 biologi/STM + ens/SUF
+7 Vest/STM + erbro/STM
+1 telefon/STM + er/SUF
+2 Limf/STM + jord/STM + en/SUF
+1 moræne/STM
+4 paa/STM
+1 snarere/STM
+2 aktuelt/STM
+1 dyrking/STM
+1 for/PRE + bud/STM + det/STM
+1 CPU/STM + er/SUF
+3 for/PRE + histor/STM + isk/SUF + e/SUF
+1 brug/STM + erne/SUF
+2 enhver/STM
+2 London/STM
+3 Mayen/STM
+2 konkurs/STM
+3 præsent/STM + ation/SUF
+1 implementere/STM
+4 liste/STM + r/SUF
+1 1986/STM
+13 Explorer/STM
+1 for/STM + e/SUF + ning/SUF + ens/SUF
+1 skrå/STM + ning/SUF + erne/SUF
+2 opblomstring/STM
+2 ga/STM + de/SUF + optræde/STM + n/SUF + er/SUF
+1 samme/STM + n/SUF + hæng/STM + ende/SUF
+2 be/PRE + yder/STM
+3 æta/STM + s/SUF
+3 krediteres/STM
+1 1047/STM
+4 for/PRE + tol/STM + ker/STM
+2 krise/STM + situ/STM + ation/STM + er/SUF
+4 Irak/STM
+1 Grane/STM
+4 forklaring/STM + erne/SUF
+3 kong/STM + e/SUF + række/STM + n/SUF
+1 Turist/STM + erne/SUF
+1 miðaldir/STM
+1 okse/STM
+1 kommun/STM + ik/STM + er/SUF + er/SUF
+1 rang/STM + følge/STM + n/SUF
+1 civil/STM + is/STM + er/SUF + e/SUF + de/SUF
+3 beskæftig/STM + er/SUF
+2 opdeling/STM
+2 bus/STM
+6 Øresund/STM + sregionen/STM
+1 kendskab/STM
+1 Socialist/STM + s/SUF
+1 påtegning/STM + er/SUF
+2 til/STM + samme/STM + n/SUF
+2 Græ/STM + n/SUF + s/SUF + en/SUF
+2 risikerede/STM
+7 gruppe/STM + r/SUF
+1 sandsynlig/STM
+1 besat/STM
+5 arbejd/STM + et/SUF
+1 revolution/STM + erne/SUF
+1 handel/STM + sblokad/STM + en/SUF
+1 fast/STM + hold/STM + e/SUF
+4 500/STM
+4 etablere/STM + t/SUF
+1 kamp/STM + en/SUF
+4 Tegn/STM + et/SUF
+1 Bronze/STM + ald/STM + er/SUF + en/SUF
+21 der/STM + for/STM
+1 lev/STM + er/SUF + es/SUF
+1 bibel/STM
+7 By/STM
+1 for/PRE + val/STM + tning/STM
+1 hus/STM + et/SUF
+1 format/STM
+2 sen/STM
+21 historie/STM
+1 S/STM + ne/SUF
+1 instrukt/STM + ion/STM + er/SUF
+1 958/STM
+1 fast/STM + elavn/STM
+1 Georg/STM + ia/STM
+12 Google/STM
+1 romersk/STM + be/PRE + satte/STM
+2 stumt/STM
+2 kultur/STM + historie/STM
+3 Firmaet/STM
+1 e/STM + en/SUF
+1 indså/STM
+2 Blåtand/STM
+5 pga/STM
+1 und/STM + er/SUF + stø/STM + t/SUF + else/STM + r/SUF
+4 ind/PRE + før/STM + else/STM + n/SUF
+1 Oslo/STM
+1 komme/STM + nde/STM
+1 påvirk/STM + ning/SUF
+21 men/STM + s/SUF
+2 tur/STM
+2 kvinde/STM + r/SUF + ne/SUF
+18 Frederik/STM + s/PRE + berg/STM
+1 organ/STM + isme/STM + r/SUF
+2 klasse/STM + r/SUF
+2 station/STM
+1 englænderne/STM + s/SUF
+6 Et/STM
+7 år/STM + et/SUF
+1 by/STM + for/PRE + bund/STM
+3 16/STM
+2 Latinamerika/STM
+2 organ/STM + isme/STM
+1 1500/STM
+1 Evolution/STM
+1 ringvej/STM + e/SUF
+2 s/PRE + plan/STM
+1 hoved/STM + manden/STM
+1 und/STM + er/SUF + skrev/STM + et/SUF
+1 person/STM + al/STM + union/STM
+2 P/STM + op/PRE + gruppe/STM + r/SUF
+1 af/PRE + fald/STM
+1 Søn/STM + der/SUF + borg/STM
+2 Her/STM + i/PRE + bland/STM + t/SUF
+3 1848/STM
+4 for/PRE + søg/STM
+2 Inter/STM + net/STM + portale/STM + n/SUF
+1 øst/STM + er/SUF + sørige/STM
+656 af/STM
+1 blok/STM + er/SUF + e/SUF + de/SUF
+2 fjord/STM
+2 notice/STM + s/SUF
+1 Atlanta/STM
+2 Malaysias/STM
+1 gyldne/STM
+10 land/STM
+7 8/STM
+1 Acknowledgements/STM
+2 Red/STM + ning/SUF + sbered/STM + skab/STM + et/SUF
+1 fyrst/STM
+2 høj/STM + e/SUF
+1 indbygger/STM + tal/STM
+1 trafik/STM
+1 stor/STM + drift/STM
+1 kultur/STM + land/STM + skab/STM
+2 Sergey/STM
+1 mulighed/STM
+2 periodisk/STM
+1 Inter/STM + i/PRE + met/STM
+42 omkring/STM
+1 fil/STM
+2 Kasp/STM + er/SUF
+1 hård/STM + er/SUF + e/SUF
+3 stift/STM
+1 ind/PRE + fald/STM
+6 and/STM
+4 Tryk/STM + reg/STM + ulerede/STM
+2 doctype/STM + kontakt/STM
+1 ud/PRE + still/STM + ing/STM + er/SUF
+5 samtidig/STM
+1 s/PRE + and/STM + strand/STM + e/SUF
+1 kvali/STM + t/SUF + et/SUF
+1 Pro/STM + gress/STM
+5 Her/STM + und/STM + er/SUF
+4 Jack/STM
+4 olie/STM
+1 sekundært/STM
+1 må/STM + der/SUF
+3 til/STM + føje/STM
+2 op/PRE + stod/STM
+1 luthersk/STM
+1 Inform/STM + ation/SUF + s/SUF + vid/STM + en/SUF + skab/STM + elig/STM + e/SUF
+1 tavshed/STM
+1 IBM/STM + s/SUF
+1 stække/STM
+34 ca/STM
+1 EØS/STM
+2 Kaos/STM + teori/STM
+4 jord/STM + en/SUF
+4 historie/STM + r/SUF + ne/SUF
+3 Nord/STM + slesvig/STM
+4 handel/STM + s/SUF + flåde/STM + s/SUF
+1 turist/STM
+1 missionærbi/STM + ografi/STM + en/SUF
+1 skat/STM
+9 regn/STM + es/SUF
+2 kommun/STM + e/SUF
+1 und/STM + er/SUF + skrivn/STM + ing/STM
+10 land/STM + et/SUF + s/SUF
+2 frihed/STM + en/SUF
+1 mørke/STM
+2 Imidlertid/STM
+1 M/STM + er/SUF + e/SUF
+1 I/STM + s/SUF + lam/STM
+1 lighed/STM
+3 organisere/STM + de/SUF
+17 tid/STM
+2 is/STM + r/SUF + and/STM + en/SUF
+1 1876/STM
+2 grøn/STM + ne/SUF
+32 stor/STM
+1 4000/STM
+1 Enevoldsarveregeringsakt/STM + en/SUF
+1 by/STM + r/SUF + de/SUF
+7 mest/STM + e/SUF
+1 fuld/STM
+2 Hel/STM + en/SUF
+8 sådan/STM
+8 ny/STM
+2 Damhus/STM + sø/STM + en/SUF
+1 Linux/STM
+1 und/STM + er/SUF + støtte/STM + lse/STM
+1 Amur/STM
+3 eng/STM
+1 samme/STM + n/SUF + slut/STM + ning/SUF + er/SUF
+2 program/STM + mer/STM
+1 Metro/STM + en/SUF
+2 gymnastik/STM
+2 retsta/STM + vningen/STM
+1 Muhammed/STM + t/SUF + eg/STM + ning/SUF + erne/SUF
+2 plac/STM + er/SUF + et/SUF
+1 1830/STM
+2 for/PRE + blev/STM
+6 osv/STM
+1 ved/STM + blev/STM
+3 fordøjelses/STM
+1 tolket/STM
+1 ind/STM + lægge/STM + r/SUF
+1 lav/STM + e/SUF + ste/STM
+1 Desig/STM + n/SUF + skol/STM + e/SUF
+2 renæssance/STM + s/PRE + til/STM
+1 Gnupa/STM
+1 gør/STM + e/SUF + s/SUF
+1 tid/STM + er/SUF + s/SUF
+2 tron/STM + følge/STM + lov/STM
+1 Op/STM + r/SUF + ind/STM + e/SUF + lig/SUF + t/SUF
+4 spille/STM + r/SUF
+2 Document/STM
+3 Afrika/STM
+1 ønske/STM + de/SUF
+1 tradition/STM + el/STM
+3 1920/STM
+8 dokument/STM
+1 for/STM + s/SUF + vundet/STM
+2 parlam/STM + en/SUF + ta/STM + r/SUF + isme/STM
+1 frem/STM + drift/STM
+20 bland/STM + t/SUF
+7 gang/STM
+2 skrog/STM
+1 produkt/STM + ion/STM + svilk/STM + årene/STM
+1 post/STM
+1 be/PRE + handle/STM + s/SUF
+2 s/PRE + ær/STM + præg/STM
+1 bom/STM + be/PRE + fly/STM
+3 hvor/STM + vid/STM + t/SUF
+1 MNF/STM
+2 sætter/STM
+2 Sydkoreas/STM
+2 respekt/STM
+2 vid/STM + t/SUF
+1 grov/STM
+1 op/PRE + hold/STM + er/SUF
+3 Navne/STM
+3 mad/STM
+1 burg/STM + er/SUF
+12 Gorm/STM
+1 næst/STM + stø/STM + rste/STM
+1 slukk/STM + er/SUF
+1 begyn/STM + der/SUF + e/SUF
+1 Karavell/STM + en/SUF
+1 fan/STM + s/SUF
+1 nævn/STM + eværdig/STM + t/SUF
+1 Skovlunde/STM
+1 fremvis/STM + er/SUF
+1 Udgivelser/STM
+2 ASK/STM
+3 Document/STM + ation/SUF
+2 Skotland/STM
+1 resolution/STM
+3 1100/STM
+2 luft/STM
+1 1548/STM
+1 system/STM + et/SUF
+3 hals/STM
+1 flirter/STM
+1 bygge/STM
+1 enhed/STM + er/SUF + Det/STM
+5 teori/STM + er/SUF
+1 skrift/STM + et/SUF
+1 Stadig/STM
+3 service/STM
+1 Kourou/STM
+7 2012/STM
+1 ugen/STM
+2 studium/STM
+2 ebbe/STM
+1 almindelig/STM
+10 Ved/STM
+2 regering/STM + s/PRE + tid/STM
+2 Jelling/STM
+5 Udover/STM
+1 Kommune/STM + r/SUF
+1 omgivels/STM + erne/SUF
+1 uden/STM + rig/STM + s/SUF + minister/STM
+2 træk/STM + kes/STM
+1 ned/STM + efter/STM
+2 konstruktion/STM + s/SUF + skel/STM + et/SUF
+1 s/PRE + til/STM + en/SUF
+1 mister/STM
+4 BASIC/STM
+2 Carl/STM + s/PRE + berg/STM
+1 histor/STM + ia/STM
+1 Vid/STM + eværdig/STM + ste/STM
+2 by/STM + er/SUF
+1 ene/STM + stå/STM + ende/SUF
+2 King/STM
+1 dæk/STM
+2 hvil/STM + er/SUF
+1 anbefalet/STM
+18 by/STM
+4 hastigheden/STM
+1 Compaq/STM
+1 end/STM + er/SUF
+1 contain/STM + er/SUF + e/SUF
+2 undtagelse/STM + n/SUF
+1 und/STM + er/SUF + ind/PRE + del/STM + t/SUF
+1 Grundtvig/STM
+2 englænderne/STM
+1 Sikkerheds/STM + udvalg/STM
+1 Trediveår/STM + s/SUF + krig/STM + en/SUF
+36 byen/STM
+1 Nord/STM
+2 kalk/STM + forsk/STM + ydning/STM
+1 skridt/STM
+4 monarki/STM
+2 links/STM
+1 ramm/STM + ende/SUF
+1 dår/STM + lig/SUF + er/SUF + e/SUF
+3 nedlagt/STM
+2 kultur/STM + er/SUF
+1 Storkors/STM
+2 hånd/STM + fæstn/STM + ing/SUF + er/SUF
+2 for/PRE + histor/STM + isk/SUF
+1 figur/STM + er/SUF + s/SUF
+1 billet/STM + pris/STM + er/SUF
+2 badminton/STM
+9 Rip/STM
+6 primært/STM
+2 Hækk/STM + er/SUF + up/STM
+3 Venstre/STM
+1 koble/STM
+9 CSS/STM
+1 bortkomne/STM
+2 120/STM
+2 fald/STM + er/SUF
+1 Enhed/STM + erne/SUF
+205 blev/STM
+1 Venstre/STM + social/STM + istisk/STM
+2 Avis/STM
+1 somre/STM
+2 bolig/STM + boble/STM
+1 aktuelle/STM
+1 1397/STM
+1 gen/STM + op/PRE + rette/STM + r/SUF
+1 lev/STM + er/SUF + e/SUF
+2 karakter/STM + istisk/STM + e/SUF
+1 und/STM + er/SUF + støtte/STM + r/SUF
+1 stoppe/STM
+1 for/PRE + syn/STM + ing/STM + er/SUF
+1 klausul/STM
+1 pro/STM + ject/STM
+1 neutral/STM
+1 Royal/STM
+2 milit/STM + ær/STM
+2 form/STM + er/SUF
+2 tal/STM + e/SUF
+2 Bag/STM + grund/STM
+1 abstrakte/STM
+6 op/PRE + havsret/STM
+1 masse/STM + frem/STM + still/STM + es/SUF
+1 den/STM + gang/STM
+3 knopskydningsløs/STM + ning/SUF + er/SUF
+1 gentag/STM + ne/SUF
+1 grund/STM + lægge/STM
+3 Region/STM + erne/SUF
+1 fulgt/STM
+2 modul/STM + arkitek/STM + tur/STM
+2 i/PRE + s/PRE + tid/STM + s/SUF + r/SUF + and/STM
+2 hendes/STM
+1 hved/STM + e/SUF
+10 ud/PRE + kom/STM
+2 sild/STM
+3 søfar/STM + ende/SUF
+2 Viborg/STM
+1 land/STM + e/SUF + vej/STM
+1 In/STM + de/SUF
+1 distrik/STM + s/SUF + valgt/STM + e/SUF
+1 vurdere/STM + t/SUF
+1 adelspalæ/STM + er/SUF
+1 for/PRE + uden/STM
+1 ind/STM + tag/STM + e/SUF
+1 miljø/STM + et/SUF
+1 rigtig/STM + e/SUF
+1 nde/STM
+27 end/STM
+6 person/STM + er/SUF
+7 rum/STM + station/STM + en/SUF
+2 kong/STM + e/SUF + værd/STM + igheden/STM
+3 markant/STM + e/SUF
+4 External/STM
+2 samme/STM + n/SUF + lig/SUF + nes/STM
+5 Byen/STM
+7 bes/STM + luttede/STM
+2 und/STM + er/SUF + hold/STM + ning/SUF
+1 protokoll/STM + er/SUF
+3 op/PRE + fatt/STM + es/SUF
+7 for/STM + e/SUF + går/STM
+1 1883/STM
+2 atom/STM + våben/STM
+4 kemiske/STM
+2 rs/STM
+3 νόμος/STM
+1 dysse/STM
+1 Be/STM + mærk/STM
+4 Kvant/STM
+6 lagret/STM
+2 ballettrupper/STM
+9 1945/STM
+4 bet/STM + ydning/STM + en/SUF
+1 313/STM
+1 Sol/STM + bjerg/STM
+2 Kentucky/STM
+8 muligt/STM
+1 Rand/STM + er/SUF + s/SUF
+1 s/PRE + and/STM + strand/STM
+2 redigere/STM + t/SUF
+23 Europa/STM
+2 ud/PRE + bud/STM
+14 fire/STM
+1 1551/STM
+1 und/STM + er/SUF + udvalg/STM
+1 Kimbr/STM + er/SUF
+1 galease/STM
+1 vokse/STM + nde/STM
+1 comeback/STM
+2 Spyglass/STM
+1 sig/STM + naler/STM
+5 kon/STM + gress/STM + en/SUF
+2 ud/PRE + bedre/STM
+1 af/STM + s/SUF + kår/STM + et/SUF
+2 angivelse/STM + r/SUF
+1 Præsent/STM + ation/SUF
+2 sydvest/STM
+1 Kvæsthu/STM + sbroen/STM
+1 marginale/STM
+4 hin/STM + and/STM + en/SUF
+1 Adapter/STM + modul/STM + et/SUF
+1 Pretty/STM
+1 notor/STM + isk/SUF + e/SUF
+3 andel/STM
+1 milit/STM + ær/STM + styr/STM + ke/STM
+1 definitio/STM
+1 vintr/STM + e/SUF
+1 1728/STM
+1 ryle/STM
+1 jord/STM + be/PRE + sidder/STM + e/SUF
+1 Lau/STM + en/SUF + borg/STM
+1 Hall/STM
+38 stor/STM + e/SUF
+2 plenarforsamlingen/STM
+1 op/PRE + gav/STM + er/SUF
+1 Å/STM + r/SUF + hus/STM
+1 syd/STM + øst/STM + lig/SUF + ste/STM
+1 tjent/STM + e/SUF
+1 væ/STM + r/SUF + t/SUF
+1 Suez/STM
+1 udvikle/STM + s/SUF
+1 hjemmeside/STM + n/SUF
+1 2011/STM
+2 himmellegeme/STM
+1 Bellevue/STM
+3 fransk/STM
+2 Nogle/STM
+1 Hær/STM + en/SUF
+2 be/PRE + mærk/STM + ning/SUF
+4 Bruges/STM
+1 ud/PRE + byg/STM + ning/SUF + en/SUF
+6 område/STM + t/SUF
+1 handling/STM
+2 boble/STM
+1 rest/STM + er/SUF
+1 hellerist/STM + ning/SUF
+3 faktor/STM
+3 Øst/STM + er/SUF + sø/STM + en/SUF
+12 sit/STM
+1 åben/STM
+50 hvor/STM
+1 for/PRE + hindre/STM
+1 nes/STM
+4 natur/STM
+2 vend/STM + er/SUF
+3 Metal/STM
+1 tje/STM + ne/SUF + ste/STM + n/SUF
+1 universitet/STM + s/SUF + by/STM + er/SUF
+4 principper/STM
+1 værdi/STM + en/SUF
+5 browser/STM + en/SUF
+1 Hav/STM
+1 Kriti/STM + kerne/STM
+2 restauranter/STM
+1 muslimske/STM
+2 unge/STM
+1 åbn/STM + e/SUF
+1 Svagheden/STM
+1 Grøn/STM + land/STM
+1 tradition/STM + en/SUF
+5 øst/STM
+1 skab/STM + else/SUF + s/SUF + dag/STM + e/SUF
+5 Folk/STM + e/SUF + ting/STM + et/SUF
+1 yngste/STM
+1 be/PRE + nævn/STM + t/SUF
+6 rettigheder/STM
+2 Den/STM + s/SUF
+4 sig/STM + e/SUF
+1 op/PRE + fatt/STM + e/SUF + de/SUF + s/SUF
+1 Rap/STM + t/SUF + us/STM
+1 tomast/STM + et/SUF
+3 Arealet/STM
+2 løste/STM
+3 sjældne/STM
+3 Konge/STM + rne/STM
+1 Bjørneb/STM + and/STM + en/SUF
+1 K/STM + erne/SUF + n/SUF
+3 begyn/STM + den/STM + de/SUF
+10 gør/STM + e/SUF
+1 Frank/STM + isk/SUF + e/SUF
+1 kendes/STM
+1 accel/STM + er/SUF + er/SUF + e/SUF
+1 ˡjɔð/STM
+1 karakter/STM + iseret/STM
+7 Web/STM
+1 geolog/STM + isk/SUF
+2 elle/STM
+5 projekt/STM + et/SUF
+2 spærre/STM + græns/STM + e/SUF
+3 plag/STM + et/SUF
+2 bord/STM + plan/STM + kerne/STM
+31 sin/STM
+2 Travbane/STM
+1 dom/STM + kirke/STM + by/STM
+1 St/STM + ud/PRE + enter/STM + samfund/STM + et/SUF
+6 21/STM
+4 forfatter/STM
+11 byen/STM + s/SUF
+1 Vi/STM + kinge/STM + tid/STM + en/SUF
+1 tag/STM + e/SUF + ne/SUF
+6 med/PRE + før/STM + t/SUF
+1 Natur/STM + en/SUF
+2 Tokyo/STM
+1 1700/STM
+1 vs/STM
+1 monark/STM
+1 Pro/STM + blem/STM + er/SUF
+2 appellere/STM
+1 by/STM + s/SUF + aneringer/STM
+3 ind/PRE + drog/STM
+1 beta/STM
+1 land/STM + område/STM + t/SUF
+1 historie/STM + forsk/STM + ning/SUF
+1 floden/STM
+1 Ansvar/STM + et/SUF
+1 hærge/STM + de/SUF
+1 fjern/STM + var/STM + me/STM + r/SUF + ør/STM
+1 røg/STM
+20 for/PRE + hold/STM
+3 så/STM + ledes/STM
+5 1991/STM
+2 alphab/STM + et/SUF + isk/SUF
+1 is/STM + vintr/STM + e/SUF
+1 af/PRE + satte/STM
+8 For/STM + mænd/STM
+1 for/PRE + be/PRE + hold/STM + en/SUF + e/SUF
+1 kong/STM + e/SUF + række/STM + s/SUF
+3 til/STM + lige/SUF
+2 vand/STM + stær/STM
+4 hav/STM + n/SUF + e/SUF
+8 s/PRE + temme/STM
+1 by/STM + midt/STM + en/SUF
+3 land/STM + brug/STM
+2 mast/STM + er/SUF
+1 frem/STM + skridt/STM
+2 bland/STM + ing/STM
+1 Fisch/STM + er/SUF
+1 35/STM
+1 akti/STM + e/SUF + spekul/STM + ation/SUF
+1 for/PRE + æld/STM + r/SUF + e/SUF + fugl/STM + e/SUF + ne/SUF
+2 koordin/STM + at/STM + system/STM
+1 mod/STM + stå/STM
+2 tilhør/STM + er/SUF
+4 egen/STM + t/SUF + lig/SUF
+3 britisk/STM + e/SUF
+1 skøn/STM + t/SUF
+1 Found/STM + ation/SUF
+1 Dardanell/STM + erne/SUF
+2 stærke/STM
+1 ga/STM + ne/SUF + lyd/STM
+49 En/STM
+1 rette/STM + r/SUF
+1 døgn/STM + et/SUF
+2 Bæver/STM + lov/STM + en/SUF
+20 Carl/STM
+1 ed/STM + der/SUF + fugl/STM
+1 ou/STM
+1 høj/STM + de/SUF + punk/STM + t/SUF + et/SUF
+5 an/PRE + vend/STM + e/SUF + s/SUF
+7 periode/STM + r/SUF
+1 CPU/STM + en/SUF
+294 den/STM
+2 kyst/STM
+1 Oplag/STM
+1 regale/STM
+1 Denis/STM
+9 oktober/STM
+1 støtte/STM + s/SUF
+1 Op/STM + byg/STM + ning/SUF + en/SUF
+6 Hun/STM
+2 Per/STM + s/SUF + on/STM + er/SUF
+1 nødvendig/STM + t/SUF
+3 Lufthavn/STM
+2 ovenpå/STM
+2 Blåtand/STM + s/SUF
+2 for/PRE + ret/STM + ning/SUF + er/SUF
+5 KFUM/STM
+1 udklækkes/STM
+3 Life/STM
+1 lokal/STM + bane/STM + r/SUF
+1 lig/STM + gen/STM + de/SUF
+3 egen/STM
+3 toppede/STM
+9 sted/STM + et/SUF
+1 sensor/STM + er/SUF
+17 del/STM + s/SUF
+1 køb/STM + ekraftsparitet/STM
+1 Амур/STM
+7 par/STM + t/SUF + n/SUF + er/SUF + e/SUF
+2 deltag/STM + et/SUF
+1 for/PRE + bryd/STM + erne/SUF
+1 ungdom/STM + s/PRE + organisation/STM
+2 improvis/STM + er/SUF + et/SUF
+1 tabloid/STM
+2 grund/STM + et/SUF
+2 lå/STM + n/SUF
+19 tid/STM + lig/SUF + er/SUF + e/SUF
+2 karaktar/STM + istisk/STM + e/SUF
+2 element/STM + byggeri/STM
+1 ureg/STM + er/SUF + lige/SUF
+1 Portugal/STM
+4 rationering/STM
+1 stad/STM + ion/STM
+1 History/STM
+4 levn/STM
+1 aktivitet/STM
+2 stift/STM + erne/SUF
+1 Region/STM + s/PRE + kommun/STM + e/SUF
+2 land/STM + brug/STM + s/SUF + støtte/STM
+1 2013/STM
+1 fotomon/STM + tag/STM + er/SUF
+2 Nautral/STM
+2 hustru/STM
+1 idræt/STM
+1 nå/STM + et/SUF
+3 Pinse/STM + bevæge/STM + lsen/STM
+2 start/STM + et/SUF
+1 af/PRE + tal/STM + e/SUF
+1 år/STM + s/SUF
+1 neutral/STM + itetspoli/STM + tikken/STM
+1 langsomme/STM
+3 Trondheim/STM
+1 information/STM
+1 nov/STM + emb/STM + er/SUF
+2 Sjov/STM
+2 Ferdinand/STM
+2 norsk/STM
+2 outsourcing/STM
+1 primære/STM
+1 1918/STM
+2 Hel/STM + lige/SUF
+1 SSU/STM
+4 brug/STM
+1 kontinent/STM + alt/STM
+1 Tryggvason/STM
+1 Harre/STM + strup/STM
+1 for/PRE + s/PRE + var/STM + s/SUF + minister/STM
+1 miljø/STM + lov/STM
+2 brændte/STM
+6 angreb/STM
+22 Kommune/STM
+1 sten/STM + art/STM + er/SUF
+2 Dels/STM
+2 Frederik/STM + s/SUF + stad/STM + en/SUF
+5 Europ/STM + ean/STM
+3 forklaring/STM
+9 kirke/STM + n/SUF
+1 dada/STM + istisk/STM + e/SUF
+1 Fri/STM + gang/STM
+1 bolig/STM + hus/STM
+1 Sachs/STM + en/SUF
+4 transport/STM
+5 stamme/STM + r/SUF
+1 skyl/STM + de/SUF + s/SUF
+1 interesse/STM
+1 flygt/STM + et/SUF
+1 ordene/STM
+3 parti/STM + et/SUF
+1 Petri/STM
+1 IUSY/STM
+1 levned/STM
+4 før/STM + t/SUF + e/SUF
+2 af/PRE + hæng/STM + ig/STM + hed/STM
+1 Xbox/STM
+1 meldte/STM
+2 med/PRE + arbejd/STM + er/SUF + e/SUF
+1 dag/STM + lig/SUF + t/SUF
+2 licens/STM + en/SUF + s/SUF
+3 søg/STM + er/SUF
+3 venture/STM
+9 medlem/STM
+1 våd/STM + område/STM + t/SUF
+1 stand/STM
+1 PC/STM
+1 hjelm/STM
+3 vælg/STM + e/SUF
+2 for/PRE + stæder/STM
+2 ud/PRE + print/STM + ning/SUF
+1 tal/STM + enter/STM
+1 distr/STM + ibu/STM + tions/STM + net/STM
+1 befolkning/STM + s/SUF + tilvækst/STM
+1 1898/STM
+1 enklave/STM + n/SUF
+2 hoved/STM + kontor/STM
+1 fast/STM + lag/STM + t/SUF
+1 øgle/STM
+32 1/STM
+4 u/PRE + af/PRE + hæng/STM + ig/STM
+2 ind/PRE + før/STM + t/SUF + es/SUF
+3 øerne/STM
+7 modul/STM + er/SUF
+1 klyver/STM + en/SUF
+1 minimale/STM
+2 for/PRE + tov/STM + e/SUF
+4 ud/PRE + vid/STM + e/SUF + de/SUF
+5 Desuden/STM
+2 Nyere/STM
+1 stenfundamenter/STM
+5 Station/STM
+3 DRM/STM
+1 Be/STM + skrive/STM + lse/STM
+1 speci/STM + el/STM + produkt/STM + ion/STM
+2 Lille/STM
+2 energi/STM + post/STM + er/SUF
+2 ud/PRE + tryk/STM
+2 copies/STM
+3 nedgang/STM
+2 Amigos/STM
+1 råd/STM + et/SUF + s/SUF
+1 ud/PRE + tryk/STM + ket/STM
+1 AAUE/STM
+2 bor/STM + t/SUF + s/SUF + et/SUF
+1 X2/STM
+1 net/STM + værk/STM + et/SUF
+5 28/STM
+38 s/STM
+1 intelligente/STM
+1 ekspert/STM + er/SUF
+1 Bag/STM + grund/STM + en/SUF
+2 gennem/STM + gå/STM
+4 succes/STM
+1 gen/STM + åbn/STM + e/SUF
+1 hav/STM + n/SUF + ebade/STM
+1 blad/STM + et/SUF
+1 Glasgow/STM
+6 engelsk/STM
+1 af/PRE + løste/STM + s/SUF
+1 Frygt/STM + en/SUF
+9 Rup/STM
+1 allianc/STM + en/SUF
+4 ud/PRE + vid/STM + et/SUF
+1 b/STM + år/STM + et/SUF
+2 abonnementer/STM
+2 Aqua/STM
+2 tegn/STM + er/SUF + en/SUF
+2 tennis/STM
+3 speci/STM + ficeret/STM
+1 næst/STM + høj/STM + este/STM
+1 magt/STM + fuld/STM + e/SUF
+3 monark/STM + en/SUF
+2 over/PRE + skud/STM
+1 A/STM + r/SUF + go/STM
+1 at/STM + t/SUF + en/SUF
+1 Illustr/STM + ation/STM + er/SUF
+4 17/STM
+2 Larry/STM
+1 fær/STM + ing/STM + er/SUF
+1 Padborg/STM
+1 navn/STM + givn/STM + e/SUF
+1 sent/STM
+1 Nord/STM + vest/STM
+1 bann/STM + er/SUF + reklame/STM
+2 Histori/STM + kere/STM
+1 still/STM + e/SUF + de/SUF
+3 atmos/STM + fær/STM + en/SUF
+3 aktivt/STM
+2 sen/STM + middel/STM + ald/STM + er/SUF
+5 én/STM
+1 Lyngby/STM + motorvej/STM + en/SUF
+1 over/STM + vej/STM + ende/SUF
+2 be/PRE + skrev/STM + en/SUF
+1 Demokrati/STM
+2 S/STM + n/SUF + art/STM
+1 tælle/STM + r/SUF
+1 islam/STM
+2 privat/STM
+3 intellektuelt/STM
+1 frem/STM + tid/STM + en/SUF + s/SUF
+7 License/STM
+8 areal/STM
+5 kogge/STM
+2 Georg/STM
+3 Nord/STM + en/SUF
+5 trods/STM
+1 browser/STM + ne/SUF
+1 Mog/STM + ens/SUF
+2 offshore/STM
+2 sig/STM + er/SUF
+1 dygtige/STM + r/SUF + e/SUF
+1 bord/STM + eauxr/STM + ød/STM + e/SUF
+1 Linné/STM + s/SUF
+3 tilby/STM + der/SUF
+2 system/STM
+6 24/STM
+1 korps/STM + lejr/STM
+3 forsk/STM + er/SUF + e/SUF
+1 bæv/STM + er/SUF + lov/STM + en/SUF
+1 er/STM + nær/STM + e/SUF + de/SUF
+5 ens/STM
+4 amerikansk/STM + e/SUF
+2 fænomen/STM
+1 omdøbte/STM
+1 histor/STM + icisme/STM
+5 Inter/STM + net/STM + t/SUF + et/SUF
+5 be/PRE + s/PRE + ættelse/STM + n/SUF
+1 mod/STM + e/SUF
+1 Valut/STM + af/PRE + ond/STM
+2 Bogstav/STM + et/SUF
+1 kultur/STM + plante/STM
+2 Chuck/STM
+2 varme/STM
+3 stø/STM + rste/STM + del/STM + en/SUF
+1 wiki/STM + pedia/STM
+6 aktivitet/STM + er/SUF
+5 nå/STM + r/SUF
+2 for/PRE + vand/STM + ling/STM
+1 Krænkelser/STM
+1 Trier/STM
+9 nu/STM
+1 speci/STM + alis/STM + er/SUF + e/SUF + de/SUF
+1 industri/STM + elle/STM
+3 raffinerede/STM
+1 man/STM + gfoldighed/STM
+1 Bibli/STM + ografi/STM
+3 begreb/STM + er/SUF
+1 C/STM + enter/STM
+9 Gamle/STM
+1 be/PRE + satte/STM
+1 Dybbølsbro/STM
+1 pakken/STM
+3 Gen/STM + stand/STM + e/SUF
+1 dag/STM + lig/SUF
+2 dom/STM + kirke/STM
+1 pæn/STM
+1 invariant/STM
+1 FNSU/STM
+1 mor/STM + s/SUF
+2 forsk/STM + jel/STM + lige/SUF
+1 1818/STM
+2 Løkke/STM
+4 27/STM
+1 koordin/STM + er/SUF + ing/STM + en/SUF
+1 Most/STM
+1 Woman/STM
+30 først/STM + e/SUF
+1 Øst/STM
+1 D/STM
+1 kulmine/STM + r/SUF + ende/SUF
+4 1748/STM
+1 Vindmøll/STM + erne/SUF
+1 op/PRE + erativ/STM + system/STM
+1 problem/STM + still/STM + ing/STM
+1 Nidarosdomen/STM
+9 reform/STM + ation/STM + en/SUF
+1 del/STM + t/SUF + e/SUF
+1 blå/STM
+2 Youth/STM
+32 disse/STM
+3 skiftende/STM
+1 Tjekkiet/STM
+3 ske/STM
+1 Spejd/STM + er/SUF + arbejd/STM + et/SUF
+3 give/STM + r/SUF
+2 omtal/STM + es/SUF
+2 bevare/STM + de/SUF
+1 benytte/STM + r/SUF
+1 uklarhed/STM
+2 tid/STM + en/SUF
+10 9/STM
+2 Frue/STM
+1 Klyng/STM + en/SUF
+2 kandidat/STM + ur/STM
+1 For/STM + historie/STM
+1 bloktilskud/STM
+1 land/STM + fast/STM
+6 HTML/STM
+1 format/STM + er/SUF + ing/SUF + en/SUF
+4 penge/STM
+1 jellingsten/STM
+1 olie/STM + maleri/STM + er/SUF
+1 sten/STM + ald/STM + er/SUF + en/SUF
+3 Holberg/STM
+2 Calisota/STM
+1 HTTPS/STM
+1 Dagen/STM
+2 bag/STM
+6 mart/STM + s/SUF
+3 WTO/STM
+1 1976/STM
+2 industri/STM + alis/STM + er/SUF + ing/SUF
+1 spor/STM + es/SUF
+1 region/STM + er/SUF + s/SUF
+1 teknisk/STM + e/SUF
+4 differential/STM + geometri/STM
+1 ud/PRE + grav/STM + ning/SUF
+1 Almeennyttigt/STM
+1 social/STM + demokrat/STM + en/SUF
+1 nær/STM + mest/STM
+2 fler/STM + mast/STM + et/SUF
+5 tegn/STM + er/SUF + e/SUF
+1 174/STM
+2 vigtig/STM + t/SUF
+9 middel/STM + ald/STM + er/SUF + en/SUF
+1 Diderot/STM
+1 tjekk/STM + isk/SUF
+2 gennem/STM + snit/STM + s/SUF + tempera/STM + tur/STM + en/SUF
+2 Bøger/STM
+382 at/STM
+2 stak/STM
+2 for/PRE + æld/STM + r/SUF + e/SUF
+1 skade/STM + r/SUF
+1 møde/STM + sted/STM
+1 kejser/STM + ens/SUF
+1 Suhm/STM
+7 ligesom/STM
+2 regn/STM
+1 ulov/STM + lig/SUF
+1 middel/STM
+1 HTX/STM
+2 Lexikon/STM
+3 løs/STM + ning/SUF + er/SUF
+1 lappedykk/STM + er/SUF + e/SUF
+3 rap/STM + port/STM + er/SUF + et/SUF
+4 frihed/STM
+1 dør/STM
+1 køb/STM + stæder/STM + ne/SUF
+1 vokse/STM
+1 uenighe/STM + der/SUF
+1 level/STM
+1 Over/STM + lev/STM + ende/SUF
+3 god/STM + s/SUF + transport/STM
+167 et/STM
+4 semitiske/STM
+1 hvalsang/STM
+2 vel/STM + etablere/STM + de/SUF
+4 s/PRE + yng/STM + er/SUF
+1 etaper/STM
+2 Soft/STM + ware/STM
+1 Central/STM + t/SUF
+1 ordenen/STM
+1 Miljø/STM
+1 halvmåne/STM
+1 DSB/STM
+4 mv/STM
+2 op/PRE + tag/STM + er/SUF
+1 tank/STM + er/SUF
+6 lang/STM + e/SUF
+1 feminisme/STM
+1 bonde/STM + stand/STM + en/SUF
+2 astronaut/STM
+1 Short/STM
+2 fjern/STM + syn/STM + s/SUF + side/STM + n/SUF
+1 betragte/STM
+1 deltag/STM + else/SUF
+3 Astronomi/STM + en/SUF
+1 ud/PRE + tal/STM + t/SUF
+4 rige/STM
+1 nær/STM + t/SUF
+1 af/PRE + slut/STM + t/SUF + e/SUF + de/SUF
+1 Kaukasus/STM
+1 ændre/STM + de/SUF
+1 frem/STM + træ/STM + den/STM + de/SUF
+1 Kaupmannahöf/STM + n/SUF
+1 Kejs/STM + er/SUF
+1 søg/STM + e/SUF
+1 41/STM
+11 hun/STM
+2 Unge/STM
+2 Vega/STM
+5 vikinge/STM + tid/STM + en/SUF
+1 jubilæum/STM
+2 glæde/STM
+2 nordpå/STM
+242 der/STM
+1 Vital/STM + t/SUF
+3 op/PRE + trådt/STM + e/SUF
+3 Christian/STM + s/SUF + borg/STM
+1 offent/STM + ligheden/STM
+1 koloni/STM + erne/SUF
+1 opild/STM + ne/SUF + de/SUF
+1 taliban/STM
+1 sysl/STM + er/SUF
+1 oldtid/STM + en/SUF
+4 800/STM
+1 ud/PRE + lænd/STM + ing/STM
+6 rolle/STM
+1 for/PRE + fatn/STM + ing/STM + en/SUF
+24 hele/STM
+1 held/STM + ige/STM
+1 Kirke/STM + lig/SUF
+1 Lammef/STM + jord/STM
+2 spekul/STM + er/SUF + et/SUF
+2 helhed/STM
+4 Olav/STM
+1 Mærsk/STM
+1 dater/STM + er/SUF
+5 vis/STM
+1 times/STM
+1 ud/PRE + brud/STM
+2 geo/STM + grafisk/STM + e/SUF
+2 plejer/STM
+4 presse/STM
+1 Schø/STM + ning/SUF
+2 Sharman/STM
+2 frokost/STM
+1 700/STM
+2 pileskafter/STM
+2 sag/STM + søg/STM + t/SUF
+2 menneske/STM
+2 efter/STM + mid/STM + dag/STM
+4 atmos/STM + fær/STM + e/SUF
+2 96/STM
+1 hoved/STM + et/SUF
+2 estim/STM + ater/STM
+1 med/STM + før/STM + er/SUF
+1 tyde/STM + lig/SUF + t/SUF
+1 genop/STM + før/STM + e/SUF + s/SUF
+1 mod/STM + stand/STM + sbevæg/STM + else/SUF
+1 prisca/STM
+5 Siden/STM
+18 kom/STM
+6 krone/STM + r/SUF
+1 ud/PRE + vid/STM
+1 be/PRE + tyde/STM + lige/SUF
+1 Rødovre/STM
+4 vedtag/STM + et/SUF
+1 fuld/STM + t/SUF
+1 Mest/STM
+4 åbn/STM + e/SUF + de/SUF
+1 Gallien/STM
+1 kom/STM + patible/STM
+3 religion/STM
+1 Kalfatring/STM
+2 samme/STM + n/SUF + brud/STM
+1 medvirk/STM + ende/SUF
+2 definere/STM
+1 ud/PRE + smykkede/STM
+1 rette/STM
+1 mags/STM + vej/STM + r/SUF
+6 september/STM
+3 Project/STM
+2 grev/STM
+8 vigtig/STM + ste/STM
+2 erstat/STM + te/STM + t/SUF + s/SUF
+2 nær/STM
+1 hen/STM + de/SUF
+5 Kommune/STM + kontakt/STM + råd/STM
+3 etruskisk/STM
+3 Musik/STM + gruppe/STM + n/SUF
+7 Style/STM
+2 Brejner/STM
+2 oprinde/STM + lse/STM
+1 russ/STM + isk/SUF + e/SUF
+2 museum/STM
+1 Wain/STM
+3 ønsk/STM + er/SUF
+1 alvor/STM + lig/SUF
+1 produkt/STM + ud/PRE + bud/STM
+2 religion/STM + er/SUF
+1 Bogstav/STM + navn/STM
+2 930/STM
+9 kendt/STM
+2 varm/STM
+1 undtagelse/STM
+1 Socialdemokr/STM + at/STM + erne/SUF
+1 af/PRE + led/STM + ning/SUF
+1 handel/STM + s/SUF + flåde/STM
+3 Håkon/STM
+2 samling/STM + s/PRE + punk/STM + t/SUF + er/SUF
+1 Siðr/STM
+1 medvirk/STM + ning/SUF
+6 Slesvig/STM
+2 Nord/STM + ens/SUF
+1 fisk/STM + er/SUF + e/SUF
+1 Greve/STM + n/SUF + s/SUF
+1 dan/STM + s/SUF
+1 illustre/STM + r/SUF + e/SUF + de/SUF
+8 mio/STM
+1 Gro/STM
+8 må/STM
+1 op/PRE + del/STM + e/SUF
+2 over/PRE + leveringer/STM
+2 Musik/STM + ken/STM + s/SUF
+1 held/STM
+1 Frue/STM + s/SUF
+14 hvis/STM
+1 Abdullah/STM
+1 Europa/STM + s/SUF
+5 forfatter/STM + e/SUF
+1 ud/PRE + ford/STM + r/SUF + e/SUF + de/SUF
+1 Ring/STM + sted/STM
+36 for/PRE + skel/STM + lig/SUF + e/SUF
+1 udryd/STM
+4 14/STM
+2 Skuespilhuset/STM
+2 Aftal/STM + en/SUF
+3 nåden/STM
+1 sten/STM + byg/STM + ning/SUF
+1 krig/STM
+1 samme/STM + n/SUF + hæng/STM + e/SUF
+1 lang/STM + tid/STM + s/SUF + be/PRE + sæt/STM + ningsmedlemmer/STM
+2 fjern/STM + syn/STM
+1 by/STM + mæssig/STM + t/SUF
+1 vidste/STM
+8 adgang/STM
+1 1864/STM
+2 B/STM + en/SUF + chmark/STM
+3 skab/STM + t/SUF + e/SUF
+1 maksimale/STM
+1 kronologi/STM
+1 ukrist/STM + elig/STM
+1 teori/STM + en/SUF
+24 op/STM
+2 læs/STM + er/SUF + e/SUF
+1 ud/PRE + kom/STM + met/STM
+1 Gymnasium/STM
+3 vid/STM + n/SUF + er/SUF
+1 stamme/STM + nde/STM
+1 post/STM + en/SUF
+1 License/STM + n/SUF
+1 Limerick/STM
+2 fremad/STM
+1 90/STM
+3 1863/STM
+1 Kirke/STM + gaard/STM
+2 borg/STM + mest/STM + er/SUF
+1 136/STM
+7 ken/STM + der/SUF
+1 Nathanael/STM
+1 Ny/STM
+3 til/STM + trådt/STM + e/SUF
+4 hvem/STM
+4 klassi/STM + ske/STM
+1 Han/STM + s/SUF + ens/SUF
+3 sorte/STM
+1 fan/STM
+3 Tid/STM + lig/SUF + er/SUF + e/SUF
+3 Fyn/STM
+1 blæs/STM + ende/SUF
+3 IT/STM
+1 snæv/STM + er/SUF
+1 Jean/STM
+2 1940/STM
+1 BBC/STM
+1 1948/STM
+2 Faarvang/STM
+1 for/STM + e/SUF + gik/STM
+2 motorvej/STM
+1 base/STM
+2 rumfærge/STM
+2 jongl/STM + ør/STM
+1 for/PRE + ret/STM + ning/SUF + sklynger/STM
+3 Samling/STM
+1 pr/STM + e/SUF
+1 Speci/STM + elt/STM
+1 zigzag/STM
+3 Alle/STM
+2 Business/STM
+3 bovspryd/STM
+3 Haandbog/STM
+14 befolkning/STM
+1 tæt/STM + bebygg/STM + et/SUF
+3 udbredelse/STM
+1 Sch/STM + weiz/STM
+1 Sel/STM + skab/STM
+1 le/STM
+2 rne/STM
+1 takke/STM
+1 ns/STM
+1 disse/STM + rtatio/STM
+3 krone/STM
+3 et/STM + n/SUF + isk/SUF + e/SUF
+7 henhold/STM + s/PRE + vis/STM
+2 angreb/STM + et/SUF
+1 handel/STM
+16 kong/STM + e/SUF
+2 stemt/STM
+3 Wat/STM + er/SUF
+1 over/STM + skæg/STM
+6 program/STM
+2 tilbage/STM + slag/STM
+5 ind/PRE + før/STM + t/SUF
+3 køb/STM + enhavn/STM + er/SUF + e/SUF
+560 er/STM
+22 hvilke/STM + t/SUF
+3 Lars/STM + en/SUF
+1 vindmølle/STM
+1 op/STM + r/SUF + ørene/STM
+1 spejder/STM + lov/STM + en/SUF
+2 vid/STM + en/SUF + skab/STM + elig/STM
+1 bidrag/STM
+1 Willibrords/STM
+3 Har/STM + de/SUF + knud/STM
+2 omstødt/STM
+1 kong/STM + e/SUF + sæde/STM
+1 ind/PRE + hold/STM
+1 jern/STM + ald/STM + er/SUF
+2 Stan/STM + ford/STM
+1 indo/STM + europæisk/STM
+1 ud/PRE + give/STM + r/SUF + ens/SUF
+2 endvid/STM + er/SUF + e/SUF
+1 bord/STM + en/SUF + e/SUF
+2 forsk/STM + er/SUF
+4 ets/STM
+1 mødte/STM
+7 2000/STM
+1 land/STM + sdækk/STM + ende/SUF
+3 Begreb/STM + er/SUF
+2 Video/STM
+1 eje/STM + de/SUF
+2 Fordel/STM + ene/STM
+3 dannet/STM
+1 radiokomik/STM + er/SUF + en/SUF
+30 meget/STM
+1 grundigste/STM
+1 ind/PRE + før/STM + e/SUF + lse/STM
+2 Bovspryd/STM + et/SUF
+2 disney/STM + figur/STM + er/SUF
+5 browser/STM + e/SUF
+1 katol/STM + sk/SUF
+11 alt/STM
+1 Lumsk/STM
+1 lod/STM + træk/STM + ning/SUF
+3 stor/STM + kreds/STM + ene/STM
+1 kunst/STM + museum/STM
+1 Møre/STM
+4 alvor/STM
+2 lystig/STM + t/SUF
+1 flora/STM
+1 distrik/STM + er/SUF
+3 start/STM + e/SUF + de/SUF
+2 Arternes/STM
+9 Da/STM
+1 be/PRE + grav/STM + et/SUF
+1 straks/STM
+1 side/STM + r/SUF + ne/SUF
+1 lejr/STM + en/SUF
+1 tegn/STM
+4 instrument/STM + er/SUF
+1 embrace/STM
+5 ændring/STM + er/SUF
+5 søg/STM + emaskin/STM + er/SUF
+4 udseende/STM
+2 Ævne/STM
+2 Award/STM
+2 Formand/STM
+2 å/STM + er/SUF
+2 Peter/STM + s/SUF + en/SUF
+6 jøde/STM + r/SUF
+1 masse/STM + ød/STM + elægg/STM + else/SUF + s/SUF + våben/STM
+1 menneske/STM + t/SUF + s/SUF
+2 alternativ/STM
+5 reelle/STM
+1 Af/STM + græns/STM + ning/SUF
+1 skeptisk/STM + e/SUF
+1 fri/STM + e/SUF
+2 Amt/STM
+1 del/STM + e/SUF + s/SUF
+2 show/STM
+1 særskilt/STM
+1 hollandsk/STM
+1 definere/STM + de/SUF
+2 neutral/STM + t/SUF
+1 dollar/STM
+4 knyt/STM + t/SUF + et/SUF
+5 handle/STM + r/SUF
+1 offent/STM + lige/SUF
+1 Tow/STM + er/SUF
+2 And/STM + s/SUF
+1 separ/STM + ation/SUF
+13 Disse/STM
+1 frustr/STM + ation/STM + er/SUF
+1 Viden/STM + skab/STM + en/SUF
+1 1711/STM
+17 Inter/STM + net/STM
+1 udenom/STM
+1 Augs/STM + burg/STM
+1 Dublin/STM
+4 skov/STM + e/SUF
+5 politisk/STM
+7 område/STM
+11 Men/STM
+3 både/STM + n/SUF
+4 i/PRE + agt/STM + tag/STM + e/SUF + lser/STM
+1 websted/STM + et/SUF
+2 i/PRE + midler/STM + tid/STM
+2 Gladsaxe/STM
+1 tov/STM
+8 slut/STM + ning/SUF + en/SUF
+5 2010/STM
+1 standard/STM + er/SUF
+2 Juno/STM
+1 ud/PRE + led/STM + ning/SUF
+2 Gjenstanden/STM
+1 regn/STM + e/SUF
+6 omfang/STM
+1 plus/STM
+1 bibliotekar/STM
+1 betragte/STM + t/SUF
+3 s/PRE + var/STM + er/SUF
+4 type/STM + r/SUF
+1 op/PRE + fatt/STM + else/SUF
+2 bogstav/STM + erne/SUF
+2 vikinge/STM + tid/STM
+1 betegne/STM + s/SUF
+1 behov/STM
+1 Krig/STM + en/SUF
+1 central/STM + t/SUF
+1 tab/STM + ende/SUF
+1 Tr/STM + e/SUF
+2 Dick/STM
+18 navn/STM + et/SUF
+2 Jelling/STM + dynasti/STM + et/SUF
+2 sandsynlig/STM + hed/STM
+2 Nørre/STM + bro/STM
+14 dermed/STM
+1 stor/STM + s/SUF + lå/STM + e/SUF + de/SUF
+1 Ertholmene/STM
+1 grafisk/STM
+6 skab/STM + e/SUF
+1 Scout/STM
+1 kvalific/STM + er/SUF + er/SUF
+2 diplomat/STM
+1 over/PRE + gang/STM + en/SUF
+3 dvs/STM
+3 katol/STM + icisme/STM
+1 knap/STM
+1 Sam/STM + arbejd/STM + e/SUF
+1 1971/STM
+1 simpelt/STM
+1 kombin/STM + ation/SUF
+2 ind/STM + en/SUF + rig/STM + s/SUF + politisk/STM + e/SUF
+1 sæt/STM + ning/SUF
+8 ESA/STM
+5 inter/STM + net/STM + t/SUF + et/SUF
+2 iske/STM
+1 iron/STM + isk/SUF
+4 af/PRE + brud/STM + t/SUF
+1 tillad/STM + er/SUF
+1 for/PRE + æld/STM + et/SUF
+31 e/STM
+1 biotek/STM
+3 elle/STM + r/SUF + s/SUF
+1 Kultur/STM
+1 Un/STM + i/PRE + form/STM + erne/SUF
+1 amurleopar/STM + der/SUF
+1 universitet/STM
+1 by/PRE + område/STM + t/SUF
+1 kirke/STM + gård/STM + en/SUF
+1 over/STM + byg/STM + ning/SUF
+2 publicere/STM
+2 kvinde/STM + lige/SUF
+2 knyt/STM + t/SUF + e/SUF + de/SUF
+1 brugbar/STM
+1 op/PRE + før/STM + e/SUF
+3 bidrog/STM
+1 inspirations/STM + kilde/STM + n/SUF
+2 ret/STM + ning/SUF + slinjer/STM
+1 At/STM + traktioner/STM
+1 klyver/STM
+1 hav/STM + bund/STM + en/SUF
+2 Leguan/STM
+1 høj/STM
+1 miljø/STM + minister/STM + ium/STM
+2 Højben/STM
+2 be/PRE + stå/STM + ende/SUF
+1 ud/PRE + arbejd/STM + et/SUF
+1 skib/STM + e/SUF
+4 tilsku/STM + er/SUF + e/SUF
+1 væsk/STM + er/SUF
+2 be/PRE + søg/STM + t/SUF
+2 elek/STM + tron/STM + isk/SUF
+1 Kog/STM + gerne/STM
+1 kombin/STM + er/SUF + es/SUF
+6 ene/STM
+1 estim/STM + er/SUF + es/SUF
+3 Kirke/STM + s/SUF
+1 liden/STM
+2 service/STM + erhverv/STM
+1 kulde/STM + periode/STM
+1 spændstig/STM
+1 ko/STM + medie/STM
+1 munding/STM
+1 Land/STM + s/SUF + styr/STM + e/SUF + for/PRE + mand/STM
+3 kontinent/STM
+3 lytte/STM
+1 benytte/STM + de/SUF
+2 jern/STM + bane/STM + n/SUF
+1 Ældre/STM
+3 Leksikon/STM
+3 1600/STM
+1 vej/STM + r/SUF
+1 bag/STM + grund/STM + sfarve/STM + n/SUF
+1 bevare/STM + t/SUF
+1 styr/STM + e/SUF + s/SUF
+2 frem/STM + hæv/STM + er/SUF
+1 AU/STM
+1 Skib/STM + en/SUF + e/SUF
+7 liste/STM
+1 alternativ/STM + e/SUF
+7 Mange/STM
+4 omfatt/STM + e/SUF + de/SUF
+1 ud/PRE + vid/STM + e/SUF + lser/STM
+2 150/STM
+1 for/STM + n/SUF + emme/STM
+3 over/STM + s/SUF
+1 Und/STM + tag/STM + et/SUF
+3 Bor/STM + gerne/STM
+1 med/STM + tag/STM + e/SUF
+2 klo/STM + n/SUF
+3 fysik/STM
+1 inves/STM + to/STM + r/SUF + er/SUF
+2 Guf/STM
+1 for/PRE + ventes/STM
+1 Ikke/STM
+3 mark/STM
+3 spejder/STM + gruppe/STM
+1 handle/STM + s/SUF
+1 dictionnaire/STM
+2 1660/STM
+2 i/PRE + mellem/STM
+73 Den/STM
+1 an/STM + e/SUF
+1 storm/STM
+24 Se/STM
+1 sundheds/STM + af/PRE + gift/STM
+14 del/STM + e/SUF
+3 fugl/STM + e/SUF + ne/SUF
+4 Har/STM + e/SUF + skov/STM + en/SUF
+1 top/STM + post/STM
+1 land/STM + satte/STM
+1 udvikling/STM + en/SUF
+23 Ekstern/STM + e/SUF
+1 Mosskonventionen/STM
+1 Glyptotek/STM
+3 søstr/STM + e/SUF
+2 Creative/STM
+2 sommer/STM + en/SUF
+2 farvand/STM + e/SUF
+1 invariant/STM + e/SUF
+1 spurve/STM + fugl/STM + e/SUF
+1 fugl/STM + e/SUF + ne/SUF + s/SUF
+4 grund/STM + lag/STM + t/SUF
+1 inves/STM + t/SUF + er/SUF + ing/STM + er/SUF
+1 lokal/STM + trafik/STM + område/STM
+2 Cleantech/STM
+1 Vest/STM + norge/STM
+1 qva/STM
+1 Alle/STM + r/SUF
+3 bowsprit/STM
+1 hjørner/STM
+1 byg/STM + ning/SUF + s/SUF + høj/STM + de/SUF
+2 Lauritzen/STM
+1 Selv/STM
+1 for/PRE + s/PRE + var/STM + s/SUF + an/STM + læg/STM
+1 ing/STM + en/SUF + ting/STM
+1 1981/STM
+1 var/STM + e/SUF + tag/STM + e/SUF + s/SUF
+3 fjern/STM + e/SUF + s/SUF
+1 Rudersdal/STM
+2 teame/STM + t/SUF
+1 u/STM + ende/SUF + lig/SUF + t/SUF
+1 FTP/STM
+2 1943/STM
+2 Spørgs/STM + mål/STM + et/SUF
+1 Teori/STM + erne/SUF
+1 Priroda/STM
+2 brug/STM + en/SUF
+2 potenti/STM + elt/STM
+1 om/STM + dannet/STM
+2 ansvar/STM + et/SUF
+1 roman/STM
+4 Holsten/STM
+1 Be/STM + grund/STM + else/STM + n/SUF
+1 hen/STM
+4 fund/STM
+1 Anders/STM + en/SUF
+2 Grå/STM
+1 referenc/STM + er/SUF
+1 konfliktfyldte/STM
+13 ind/PRE + fly/STM + del/STM + s/SUF + e/SUF
+2 melodi/STM
+1 1712/STM
+1 bund/STM + ling/STM
+5 nævn/STM + es/SUF
+2 ans/STM + es/SUF
+4 delvist/STM
+1 ing/STM + en/SUF
+1 titl/STM + er/SUF
+1 For/STM + handling/STM + erne/SUF
+1 Prins/STM
+1 Tid/STM + en/SUF
+1 klassi/STM + sk/SUF
+1 Erhard/STM
+1 relat/STM + er/SUF + e/SUF + de/SUF
+3 Gamle/STM + s/SUF
+3 ambitiøse/STM
+8 1996/STM
+2 Bag/STM + s/SUF + værd/STM
+3 bugt/STM
+1 Aabenraa/STM
+1 eksiste/STM + r/SUF + e/SUF + de/SUF
+1 rejse/STM
+1 snæv/STM + r/SUF + er/SUF + e/SUF
+2 Ejderen/STM
+2 skrive/STM + r/SUF
+2 Maade/STM
+1 Spit/STM + fire/STM
+2 musik/STM + kon/STM + s/SUF + er/SUF + vator/STM + ium/STM
+2 for/PRE + handle/STM + de/SUF
+1 forfatter/STM + ens/SUF
+2 Mickey/STM
+1 Rumst/STM + ation/SUF + en/SUF
+1 læs/STM + es/SUF
+5 Der/STM + ud/PRE + over/STM
+1 frikadelle/STM
+1 browser/STM
+9 græns/STM + er/SUF
+3 svenske/STM
+2 arkæologi/STM + ske/STM
+1 lemm/STM + er/SUF
+2 virksomhed/STM + er/SUF
+2 opad/STM
+1 kunst/STM + form/STM + er/SUF
+2 DsU/STM
+1 ind/PRE + fald/STM + s/SUF + vej/STM + e/SUF
+1 ud/PRE + brød/STM
+1 Krist/STM + all/STM
+2 terror/STM + be/PRE + kæmpe/STM + lsen/STM
+2 SIMD/STM
+2 Charlottenlund/STM
+3 lå/STM
+1 Clarence/STM
+1 døgn/STM
+2 kopi/STM + er/SUF
+1 vundet/STM
+2 Broadcasting/STM
+1 Konservative/STM
+2 skrift/STM + er/SUF
+7 Frank/STM + rig/STM
+2 om/PRE + handle/STM + s/SUF
+1 navn/STM + e/SUF + ne/SUF
+2 Franske/STM
+3 udsat/STM
+2 brødre/STM
+1 smi/STM + der/SUF
+1 Rond/STM
+3 smalle/STM
+1 Elin/STM
+1 tje/STM + ne/SUF + ste/STM + yd/STM + else/STM + r/SUF
+52 over/STM
+1 monsun/STM
+1 fag/STM + lig/SUF + t/SUF
+1 In/STM + variant/STM + e/SUF
+1 vest/STM + lig/SUF
+1 genkendes/STM
+1 Statistik/STM
+1 togsel/STM + skab/STM + er/SUF
+2 from/STM
+1 En/STM + del/STM + s/SUF + en/SUF
+2 Kommune/STM + n/SUF + s/SUF
+1 Øst/STM + jyske/STM
+1 form/STM + ulerede/STM
+2 online/STM
+1 lov/STM + e/SUF + de/SUF
+3 Adam/STM
+1 nation/STM + al/STM + roman/STM + tiske/STM
+1 adfærd/STM
+1 méti/STM + er/SUF + s/SUF
+8 Vor/STM
+3 Wise/STM
+6 50/STM
+1 Minnesota/STM
+2 Grund/STM + lag/STM + t/SUF
+1 bogstav/STM + navn/STM
+2 blotte/STM
+2 fald/STM + et/SUF
+1 mu/STM + ligheden/STM
+2 Speci/STM + es/SUF
+1 Ungdom/STM + s/SUF + hus/STM + et/SUF
+4 jagt/STM
+1 nem/STM + mere/STM
+1 be/PRE + tyde/STM + t/SUF
+2 modtog/STM
+3 drastiske/STM
+6 boede/STM
+5 satte/STM
+1 for/PRE + hindre/STM + de/SUF
+1 kommando/STM + s/SUF + oldat/STM + er/SUF
+1 folk/STM + e/SUF + skol/STM + e/SUF
+2 sæt/STM
+2 agt/STM + erste/STM
+4 konstruktion/STM
+3 ven/STM
+5 Hav/STM + n/SUF + en/SUF
+6 minutter/STM
+2 lav/STM + et/SUF
+3 distrik/STM + t/SUF + er/SUF
+1 af/PRE + grø/STM + der/SUF
+2 Unca/STM
+2 kinesiske/STM
+6 s/PRE + eneste/STM
+1 tilbage/STM + hold/STM + else/SUF
+11 version/STM
+1 aleph/STM
+1 Pressurised/STM
+2 Commons/STM
+3 regering/STM + en/SUF
+1 af/PRE + slut/STM + ning/SUF + en/SUF
+1 let/STM
+2 Stu/STM + der/SUF + ing/STM
+2 plante/STM
+4 få/STM + et/SUF
+1 nævn/STM + er/SUF
+1 telegraf/STM
+2 museunivers/STM
+2 Hugo/STM
+3 sygdommen/STM
+2 orkes/STM + tre/STM
+3 Nord/STM + isk/SUF
+1 ud/PRE + dannelse/STM + n/SUF
+1 Belgi/STM + en/SUF
+4 Bog/STM + samling/STM
+1 billet/STM + system/STM
+1 over/PRE + vå/STM + get/STM
+2 Arbei/STM + der/SUF + parti/STM + et/SUF
+1 DJ/STM
+1 blok/STM + fløjter/STM
+2 strømm/STM + er/SUF
+20 På/STM
+1 for/PRE + brug/STM
+1 Jacobs/STM + en/SUF
+1 vedtag/STM + e/SUF + de/SUF
+1 skattepro/STM + cent/STM + er/SUF
+2 for/PRE + rest/STM
+1 fred/STM + e/SUF + lige/SUF
+1 skov/STM
+3 Rosa/STM + s/SUF
+2 By/STM + r/SUF + der/SUF
+1 In/STM + kompatibel/STM
+1 Økonomi/STM
+1 Fing/STM + er/SUF + plan/STM + en/SUF
+3 navn/STM + give/STM + t/SUF
+4 ramt/STM + e/SUF
+1 inspirator/STM
+1 1695/STM
+1 Serieforlaget/STM + s/SUF
+1 stå/STM
+3 Folk/STM + e/SUF + parti/STM
+2 Serieforlaget/STM
+1 kong/STM + e/SUF + løs/STM + e/SUF
+4 enkelt/STM + e/SUF
+1 Geolog/STM + isk/SUF
+1 Selvom/STM
+3 sam/STM + handle/STM + n/SUF
+2 bornholmsk/STM
+2 applies/STM
+1 regn/STM + bring/STM + ende/SUF
+2 byggeri/STM
+1 af/PRE + sat/STM
+1 Gal/STM + op/PRE + bane/STM
+1 be/PRE + s/PRE + væ/STM + r/SUF + lig/SUF + gjort/STM
+1 person/STM + al/STM + union/STM + en/SUF
+2 Nikolai/STM
+1 1050/STM
+1 Skagen/STM
+2 vejret/STM
+2 teknologi/STM
+1 fælles/STM + skab/STM
+3 for/PRE + nyelse/STM
+9 1995/STM
+1 Young/STM
+1 85/STM
+1 gennem/STM + gå/STM + ende/SUF
+2 avl/STM
+1 Altona/STM
+1 ændring/STM
+1 industri/STM + alis/STM + er/SUF + e/SUF + de/SUF
+1 galeon/STM
+3 Brockhaus/STM
+1 konsekvens/STM + er/SUF
+1 ud/PRE + jævn/STM + et/SUF
+1 for/PRE + side/STM + illustration/STM
+1 el/STM
+2 ejer/STM
+5 unikt/STM
+2 Mænd/STM
+1 Holmen/STM
+2 bosiddende/STM
+1 sne/STM + s/SUF
+2 stift/STM + er/SUF
+1 institut/STM + t/SUF + et/SUF
+6 øvrig/STM + t/SUF
+1 Kravel/STM + byg/STM + ning/SUF
+1 Marshall/STM
+1 Architect/STM
+1 hjemmeside/STM + design/STM + er/SUF + e/SUF
+2 Må/STM + n/SUF + en/SUF
+2 John/STM
+1 be/PRE + folk/STM + et/SUF
+1 modul/STM + es/SUF
+3 rig/STM + dommen/STM
+1 Ward/STM
+1 St/STM + ud/PRE + enterorganis/STM + ation/STM + en/SUF
+2 DI/STM
+4 navn/STM + e/SUF
+1 tekst/STM + baseret/STM
+1 kummer/STM + lige/SUF
+2 Men/STM + s/SUF
+1 stud/STM + enterorganis/STM + ation/STM + en/SUF
+1 tysk/STM + er/SUF + e/SUF
+1 over/STM + s/PRE + ættelse/STM
+2 fjern/STM + et/SUF
+1 Høj/STM + hus/STM + e/SUF
+1 mindre/STM + tal/STM
+42 to/STM
+9 her/STM
+1 ønske/STM
+2 tryllekunstner/STM
+1 klima/STM + ændring/STM
+1 Ble/STM + kinge/STM
+2 all/STM
+2 reaktion/STM
+1 regel/STM + mæssig/STM + t/SUF
+2 op/PRE + hæv/STM + else/SUF
+3 MSNBC/STM
+2 den/STM + ne/SUF + s/SUF
+3 Fodnoter/STM
+5 tysk/STM
+1 be/PRE + slut/STM + ning/SUF + s/SUF + for/PRE + slag/STM
+4 materi/STM + elle/STM
+1 våben/STM + in/STM + spekt/STM + ør/STM + er/SUF
+1 vand/STM + tæt/STM
+1 ulve/STM + lov/STM + en/SUF
+2 1982/STM
+1 dogme/STM + bevæge/STM + lsen/STM
+2 mark/STM + er/SUF
+1 nær/STM + mere/STM
+2 hånd/STM + ter/STM + ing/STM + en/SUF
+1 høj/STM + de/SUF
+2 arbejd/STM + spladser/STM + ne/SUF
+1 bange/STM
+2 Først/STM
+3 kirke/STM + god/STM + s/SUF + et/SUF
+1 klassi/STM + fik/STM + ation/SUF + smeto/STM + der/SUF
+4 skatter/STM
+2 s/PRE + var/STM + e/SUF + de/SUF
+2 begreb/STM + et/SUF
+4 magt/STM + en/SUF
+1 Hav/STM + ne/SUF + aktivitet/STM + er/SUF
+1 Reg/STM + er/SUF + ing/STM + en/SUF
+3 flad/STM + e/SUF
+2 rejse/STM + be/PRE + skrive/STM + lse/STM + n/SUF
+1 her/STM + for/STM
+4 Referencer/STM
+2 Ahrensburg/STM
+1 tilfælde/STM + t/SUF
+3 fjern/STM + e/SUF
+1 Mette/STM
+1 1967/STM
+5 Konge/STM + n/SUF
+1 Dogme/STM
+1 øst/STM + lige/SUF
+1 JydskeVest/STM + kyst/STM + en/SUF
+2 Nuller/STM
+1 med/STM + tag/STM + er/SUF
+3 stor/STM + mænd/STM + ene/STM
+3 Conversations/STM
+1 Roberts/STM
+1 for/PRE + voldte/STM
+1 Fri/STM + e/SUF + drich/STM
+1 UNIX/STM
+1 be/PRE + skrive/STM + r/SUF
+1 For/STM + bryd/STM + er/SUF + e/SUF
+1 regn/STM + e/SUF + kraft/STM
+2 spille/STM + film/STM
+1 Jon/STM
+1 995/STM
+5 Copenhagen/STM
+4 Navigator/STM
+3 skel/STM + n/SUF + er/SUF
+1 anonyme/STM
+1 afstemning/STM
+1 regering/STM + s/SUF + periode/STM
+1 respekt/STM + ive/STM
+7 selvom/STM
+5 Amager/STM
+2 au/STM
+1 Folk/STM + evandrings/STM + tid/STM + en/SUF
+6 2004/STM
+2 terræn/STM
+2 1953/STM
+8 1990/STM
+1 byg/STM + dyrking/STM
+1 Ud/STM + give/STM + t/SUF
+3 Vidkun/STM
+1 nr/STM
+6 gamle/STM
+268 på/STM
+7 set/STM
+1 frem/STM + gang/STM + en/SUF
+1 bring/STM + er/SUF
+1 gen/STM + for/STM + en/SUF + et/SUF
+4 dannelse/STM
+1 Itali/STM + en/SUF
+2 Univers/STM + ity/STM
+2 solsor/STM + t/SUF
+1 Valdemar/STM + s/SUF
+4 Mouse/STM
+1 collag/STM + er/SUF
+1 Dan/STM
+1 1619/STM
+3 Nikolaj/STM
+1 doven/STM
+1 tur/STM + ismen/STM
+1 folk/STM + e/SUF + kirke/STM
+1 Radikale/STM
+1 Wave/STM
+1 skattepro/STM + cent/STM + en/SUF
+1 for/PRE + s/PRE + var/STM + sbudget/STM
+2 rum/STM + station/STM
+1 skikkelser/STM
+3 Mennesk/STM + et/SUF
+1 eje/STM
+1 1733/STM
+2 Sør/STM + en/SUF
+3 NBC/STM
+1 office/STM
+7 flad/STM + t/SUF
+3 AOL/STM
+1 Lufthavn/STM + e/SUF
+3 Tokio/STM
+1 Ko/STM + penhagen/STM
+1 tørklæd/STM + erne/SUF
+1 Ö/STM + resundskomite/STM + en/SUF
+2 borg/STM + er/SUF + skab/STM
+1 Stor/STM + køb/STM + enhavn/STM
+1 vend/STM + t/SUF
+1 op/PRE + lys/STM + ning/SUF
+3 vid/STM + en/SUF
+1 83/STM
+2 behøve/STM
+2 SGML/STM
+4 1930/STM
+1 brand/STM + væ/STM + s/SUF + en/SUF + er/SUF
+1 Figur/STM + er/SUF
+2 England/STM + s/SUF + krigene/STM
+2 Browser/STM
+4 give/STM + t/SUF
+2 fraktal/STM
+# Time used (secs): 0

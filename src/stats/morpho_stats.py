@@ -55,6 +55,8 @@ def _read_wiki_data(corpus_filename):
             for unicode_chunk in codecs.iterdecode(binary_chunks, 'utf-8'):
                 raw_data += unicode_chunk
                 count += 1
+                if count % 10000 == 0:
+                    _log.info('Read in %s characters' % count)
                 # 32K words * 10 characters per word = 320000 characters total
                 # This is a super high estimate, but all well.
                 if count >= 320000:
@@ -99,9 +101,9 @@ def _read_corpus_file(corpus_filename):
     """
     raw_data = ''
     with open(corpus_filename, 'r') as corpus_file:
-        for line in corpus_filename:
+        for line in corpus_file:
             raw_data += line
-            raw_data += '\\n'
+            raw_data += '\n'
 
     return raw_data
 
@@ -134,7 +136,7 @@ def _get_n_words(raw_data, num_words):
     :param num_words: The number of words to acquire
     :return: An array of all the sentences we want to deal with. Each sentence is an array of words
     """
-    lines = raw_data.split('\\n')
+    lines = raw_data.split('\n')
     usable_data = []
     cur_num_words = 0
 
@@ -149,7 +151,7 @@ def _get_n_words(raw_data, num_words):
         if line[0][0] == '[':
             # The line starts with a [, which means it's probably an article header. We don't want that
             continue
-        usable_data.append(line)
+        usable_data.append([x for x in line if x.isalnum()])
         cur_num_words += len(line)
 
     return usable_data
@@ -202,10 +204,14 @@ def _extract_info(line):
     """
     tokens = line.split()
     count = int(tokens[0])
+    morphtokens = [x for x in tokens[1:] if x != '+']
 
-    tokens_in_word = [x[0:x.index('/')] for x in tokens if x[0].isalpha()]
+    tokens_in_word = []
+    for morph in morphtokens:
+        slashpos = morph.find('/')
+        tokens_in_word.append(morph[0:slashpos])
 
-    return count, ''.join(tokens_in_word)
+    return count, ''.join(tokens_in_word), morphtokens
 
 
 class LanguageStats:
@@ -244,17 +250,8 @@ class LanguageStats:
             self._language_data = load_compressed_wikipedia(wiki_filename, 30278)
 
         self.segmentations = {}
-        self.generate_morphed_corpus()
-
-        words = _morfessor_iterator_from_list(self._language_data)
-
-        self._model = morfessor.BaselineModel()
-        self._model.train_online(words)
         self._created_morphed_corpus = False
-        self._all_morphs = list()
-
-        for segmentation in self._model.get_segmentations():
-            self._all_morphs.append(segmentation[2])
+        self._all_morphs = []
 
         try:
             with open('all_data.json', 'r') as jsonfile:
@@ -274,11 +271,15 @@ class LanguageStats:
 
         self._prepare_words_for_catmap(catmap_input_filename)
 
-        # The commands for the makefile which runs the CatMAP software
-        commandline = 'make --makefile=morfessor_catmap0.9.2/train/Makefile GZIPPEDINPUTDATA=%s BINDIR=morfessor_catmap0.9.2/bin' % catmap_input_filename
+        self._log.info('Segmenting words...')
         import subprocess
-        subprocess.Popen(commandline)
+        returncode = subprocess.call('make --makefile=morfessor_catmap0.9.2/train/Makefile GZIPPEDINPUTDATA=%s BINDIR=morfessor_catmap0.9.2/bin' % catmap_input_filename, shell=True)
+        if returncode != 0:
+            self._log.fatal('Could not generate morphs')
+            exit(returncode)
+
         self._log.info('Segmented words')
+        word_counts = {}
 
         # Copy the segmentations to a better place, and save them internally
         with gzip.open('segmentation.final.gz', 'rt') as segmentations_file:
@@ -286,14 +287,16 @@ class LanguageStats:
                 segments = segmentations_file.read()
                 segmentations_output.write(segments)
 
-                for line in segments.split():
-                    if line[0] == '#':
-                        continue
+                for line in segments.split('\n'):
+                    if len(line) > 0:
+                        if line[0] == '#':
+                            continue
 
-                    count, word = _extract_info(line)
+                        count, word, morphs = _extract_info(line)
+                        self.segmentations[word] = morphs
+                        word_counts[word] = count
 
-        subprocess.Popen(['rm', '*.gz'])
-        subprocess.Popen(['rm', 'alphabetprobs'])
+        subprocess.call('./cleanup.sh', shell=True)
         self._log.info('Cleaned up intermediate data')
 
         with open(self._language_dir + 'corpus_morphemes.txt', 'w') as morpheme_corpus:
@@ -301,9 +304,12 @@ class LanguageStats:
             for line in self._language_data:
                 for word in line:
                     wordcount += 1
-                    morphemes = self._model.viterbi_segment(word)[0]
-                    for morpheme in morphemes:
-                        morpheme_corpus.write(morpheme + ' ')
+                    morphemes = self.segmentations[word]
+                    morpheme_corpus.write('[')
+                    morpheme_corpus.write(' '.join(morphemes))
+                    morpheme_corpus.write('] ')
+
+                    self._all_morphs += morphemes
 
                 morpheme_corpus.write('\n')
 
@@ -318,6 +324,7 @@ class LanguageStats:
         with gzip.open(catmap_input_filename, 'wt') as catmap_input:
             for word, frequency in word_frequencies.items():
                 catmap_input.write('%s %s\n' % (frequency, word))
+        self._log.info('CatMAP input data in file %s' % catmap_input_filename)
 
     def calc_ngram_frequencies(self, n):
         """Examines the n-grams in the corpus and generates a graph of their frequencies. The frequencies are sorted
@@ -419,8 +426,8 @@ class LanguageStats:
     :param morphemes_per_word: A map from word to all the morphemes in that word
     '''
         num_morphemes_per_word = dict()
-        for segments in self._model.get_segmentations():
-            num_morphemes_per_word[segments[1]] = len(segments[2])
+        for word, morphs in self.segmentations.items():
+            num_morphemes_per_word[word] = len(morphs)
 
         num_morphemes_per_word = list(num_morphemes_per_word.values())
         average_morphemes_per_word = _average(num_morphemes_per_word)

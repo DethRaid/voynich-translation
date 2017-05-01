@@ -1,0 +1,5839 @@
+# expandmorphsegmentations.pl, Sun Apr 30 19:14:19 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+1 fruit/STM
+1 Chalcidice/STM
+4 ge/PRE + word/STM + en/SUF
+1 zinken/STM
+1 Balkhi/STM
+2 moon/STM
+7 buiten/STM
+1 beperk/STM + te/STM
+2 over/STM + lijden/STM
+2 Chalkis/STM
+2 lang/STM
+2 Heden/STM
+4 Albert/STM
+5 se/STM
+2 recht/STM + spers/STM + oon/STM
+1 klimaat/STM + scheiding/STM
+1 be/PRE + ëdig/STM + d/SUF
+7 toe/STM + nemen/STM + de/SUF
+1 fiets/STM + ers/SUF
+3 onmogelijk/STM
+1 associatie/STM
+3 middel/STM
+1 regel/STM + ing/SUF
+6 land/STM + bouw/STM
+2 conflict/STM
+1 warmte/STM + ver/PRE + deling/STM
+3 vond/STM
+2 ver/PRE + lengd/STM
+2 waar/STM + heid/STM
+1 month/STM
+2 s/PRE + om/PRE + mige/STM
+5 bijna/STM
+2 Publ/STM + icaties/STM
+4 ervan/STM
+2 Leem/STM + straat/STM
+2 kleur/STM + rijk/STM + e/SUF
+4 ogen/STM
+1 gans/STM
+4 onmiddellijk/STM
+1 correct/STM + e/SUF
+1 be/PRE + stuurd/STM
+2 slecht/STM
+1 neoplaton/STM + isten/STM
+4 politiek/STM
+1 gehucht/STM
+3 koude/STM
+2 leg/STM + de/SUF
+1 januari/STM + temperatur/STM + en/SUF
+1 ski/STM + gebied/STM + en/SUF
+2 munten/STM
+3 bracht/STM + en/SUF
+2 Boskalis/STM
+1 inwoner/STM + aan/PRE + tal/STM
+1 PS/STM
+3 bei/STM
+2 Ru/STM + s/SUF + land/STM
+1 binnen/STM + ste/SUF
+2 sleuf/STM
+1 reeds/STM
+1 ge/PRE + letter/STM + de/SUF
+1 onder/PRE + afdeling/STM
+1 BNA/STM
+1 stadia/STM
+1 Janoff/STM
+1 70/STM
+1 ontwikke/STM + ling/STM + s/SUF + programm/STM + a/STM
+4 regime/STM
+25 0/STM
+3 raken/STM
+1 ongerepte/STM
+5 diverse/STM
+1 vreem/STM + de/SUF
+1 water/STM + gas/STM
+1 gereed/STM + schap/STM + pen/STM
+3 Ongeveer/STM
+2 werk/STM + elijk/SUF + e/SUF
+1 Vecht/STM + streek/STM
+1 Be/STM + wapen/STM + ing/SUF
+7 zeggen/STM
+1 water/STM + bouw/STM
+2 zuid/STM + kust/STM
+2 1784/STM
+3 civiel/STM
+1 handhaaf/STM + t/SUF
+1 ijl/STM
+3 Vallei/STM
+2 wet/STM + en/SUF
+1 geschot/STM + en/SUF
+1 Hoogoven/STM + s/SUF
+1 ver/PRE + ordonn/STM + eerd/SUF
+9 vorm/STM + t/SUF
+3 berg/STM + en/SUF
+1 saus/STM
+1 engagement/STM
+12 meest/STM
+2 ge/PRE + plan/STM + de/SUF
+113 werd/STM
+1 ge/PRE + ografi/STM + e/SUF
+1 resulteert/STM
+1 uit/PRE + kwam/STM
+1 322/STM
+5 klank/STM
+1 ge/PRE + zag/STM
+1 Land/STM
+1 vaklie/STM + den/SUF
+1 Noor/STM + se/SUF
+1 Nederland/STM + ers/SUF
+1 humaan/STM
+32 ongeveer/STM
+10 zelf/STM + s/SUF
+1 lucht/STM + ballonnen/STM
+1 Camille/STM
+1 Don/STM
+1 weer/STM + s/SUF + zij/STM + den/SUF
+1 Engine/STM
+1 Gravenhage/STM
+4 ver/PRE + band/STM
+2 lucht/STM + vaart/STM + maatschapp/STM + ij/STM
+2 koepel/STM
+3 niveau/STM
+2 60057/STM
+5 opgraving/STM + en/SUF
+2 ver/STM + de/SUF + dig/STM + en/SUF
+1 in/PRE + een/STM
+2 stapte/STM
+1 San/STM
+1 263233/STM
+1 minor/STM
+1 mede/STM + werk/STM + ers/SUF
+1 tribale/STM
+5 be/PRE + lang/STM
+2 beleggings/STM + fonds/STM
+1 Y/STM
+1 Wereld/STM + wijd/STM
+1 und/STM
+1 in/PRE + door/STM
+1 Daar/STM + bij/STM
+4 biomen/STM
+2 kandidat/STM + en/SUF
+19 oceanen/STM
+2 lat/STM
+1 in/PRE + ge/PRE + slag/STM + en/SUF
+2 buiten/STM + planeten/STM
+1 te/STM + s/SUF + t/SUF + en/SUF
+1 Urgell/STM
+3 ge/PRE + volg/STM + en/SUF
+2 architect/STM + uur/STM
+2 Ban/STM
+2 voer/STM + t/SUF
+1 Lijst/STM + trekk/STM + er/SUF
+1 Talrijk/STM
+1 citadel/STM + kerk/STM
+1 Pasjtoe/STM
+1 belast/STM + ing/SUF + parad/STM + ijs/STM
+2 ge/PRE + arrest/STM + eerd/SUF
+1 geïnterpret/STM + eerd/SUF
+2 Ludo/STM
+1 krill/STM
+1 Lijst/STM + en/SUF
+1 mens/STM + elijk/SUF + heid/SUF
+2 ware/STM
+2 ver/PRE + moord/STM
+2 be/PRE + reken/STM + ing/SUF + en/SUF
+1 Terrestri/STM + sche/SUF
+4 Basis/STM
+1 enk/STM
+2 1922/STM
+4 propeller/STM
+1 1946/STM
+1 promotie/STM
+1 metingen/STM
+3 levensbeschouwing/STM
+6 bouw/STM
+1 moleculaire/STM
+4 be/PRE + vele/STM + n/SUF
+2 1942/STM
+1 ste/STM + den/SUF + bouw/STM
+1 Duw/STM + vaart/STM + kanaal/STM
+1 regering/STM + s/SUF + be/PRE + sluit/STM
+4 Amerika/STM + an/STM + se/SUF
+4 oppervlak/STM
+1 aard/STM + be/PRE + v/STM + ing/SUF
+1 ge/PRE + kolo/STM + nis/STM + eerd/SUF
+3 13/STM
+1 dialog/STM + en/SUF
+7 neer/STM + slag/STM
+1 Proto/STM
+1 E/STM
+1 ziel/STM
+1 ver/PRE + gletsjer/STM + ing/SUF
+1 gebergte/STM + s/SUF
+7 Ten/STM
+5 oppervlak/STM + te/STM
+5 Frans/STM + e/SUF
+1 buiten/STM + land/STM
+1 men/STM + ing/SUF
+1 heerst/STM
+1 33/STM
+4 zwaar/STM + gewicht/STM
+3 over/STM + heid/STM
+5 noem/STM + t/SUF
+2 claim/STM
+1 Caribi/STM + sche/SUF
+2 toegang/STM
+1 voltijdse/STM
+2 ge/PRE + zet/STM
+1 f/STM
+1 Automatic/STM
+1 gegroeid/STM + e/SUF
+1 district/STM + s/SUF + raad/STM
+1 uit/STM + er/SUF + ste/SUF
+1 overheerst/STM
+6 energie/STM
+2 rigide/STM
+3 mogelijk/STM + heid/STM
+2 even/STM + t/SUF + uele/STM
+2 stabilis/STM + eert/STM
+2 Mittal/STM
+3 Germany/STM
+17 waarin/STM
+1 oud/STM + heid/STM
+3 vooraf/STM
+1 biologi/STM + sche/SUF
+76 uit/STM
+1 E/STM + e/SUF + uw/STM
+1 250/STM
+1 mee/STM + gedaan/STM
+6 werkloz/STM + en/SUF
+3 kader/STM
+1 geïnvest/STM + eerd/SUF
+1 sta/STM + ge/STM
+3 1644/STM
+2 produc/STM + er/SUF + en/SUF
+1 uit/PRE + zetten/STM
+1 reus/STM
+1 ernstig/STM
+1 diep/STM + gaan/STM + de/SUF
+1 onder/PRE + steun/STM + ing/SUF
+1 meld/STM + de/SUF
+1 be/PRE + hoeft/STM + en/SUF
+1 Cult/STM + uur/STM
+2 oorspronk/STM + elijk/SUF + e/SUF
+5 Zwitser/STM + land/STM
+1 Toe/STM + komst/STM
+1 Hierna/STM
+1 1951/STM
+1 sprake/STM
+10 4/STM
+1 schroef/STM + den/SUF
+1 gra/STM + niet/STM
+3 dra/STM + stisch/STM
+1 duizend/STM + en/SUF
+2 analytische/STM
+3 wel/STM + licht/STM
+5 11/STM
+1 architect/STM + en/SUF + regi/STM + ster/STM
+1 Space/STM
+13 natuur/STM + lijk/STM + e/SUF
+3 ge/PRE + stegen/STM
+9 inwoner/STM + s/SUF
+2 Kunduz/STM
+15 gemiddeld/STM + e/SUF
+11 vorm/STM
+2 301766/STM
+1 buiten/STM + wereld/STM
+1 in/PRE + ge/PRE + richt/STM
+1 Klimaat/STM + scheiding/STM
+2 over/STM + gaat/STM
+2 Macedonië/STM
+2 Tele/STM
+2 wereld/STM + wij/STM + d/SUF
+2 zuid/STM + elijk/SUF
+8 staan/STM
+3 model/STM
+1 Diamond/STM
+2 be/PRE + houdt/STM
+2 principe/STM
+3 voor/PRE + op/STM
+1 op/PRE + nemen/STM
+2 goud/STM + en/SUF
+4 permanent/STM + e/SUF
+3 width/STM
+1 Evenement/STM + en/SUF
+1 Narcotics/STM
+1 energeti/STM + sche/SUF
+2 Opper/STM + vlakte/STM + water/STM
+3 Entscheidungs/STM + problem/STM
+2 metamorfe/STM
+8 der/STM + ge/PRE + lijk/STM + e/SUF
+1 Kelt/STM + en/SUF
+9 Afgha/STM + anse/STM
+1 West/STM + en/SUF
+2 afmetingen/STM
+3 neder/STM + laag/STM
+20 m/STM
+1 beroep/STM + en/SUF
+2 zonne/STM + dagen/STM
+2 Austral/STM + ia/STM + n/SUF
+9 elke/STM
+1 ver/STM + s/SUF + per/STM + den/SUF
+2 met/STM + e/SUF + oren/STM
+5 Socrates/STM
+1 bouw/STM + kunst/STM
+1 Biomen/STM
+3 eerst/STM
+1 groot/STM + sche/SUF + eps/STM
+6 klassieke/STM
+1 genoot/STM
+2 constructeur/STM
+1 Meded/STM + ogen/STM
+1 sein/STM
+1 exo/STM + planeet/STM
+1 slaven/STM
+2 her/STM + pakken/STM
+1 ruim/STM + e/SUF
+1 aan/PRE + ge/PRE + gaan/STM
+4 burg/STM + er/SUF + oorlog/STM
+1 vrij/STM + ge/PRE + pleit/STM
+1 vrijwillig/STM
+1 Copernicus/STM
+2 Prix/STM
+2 effen/STM
+3 aan/PRE + gepast/STM
+5 vegetatie/STM
+2 be/PRE + weer/STM + d/SUF
+3 ander/STM + en/SUF
+6 zuurstof/STM
+1 Te/STM + ge/PRE + lijk/STM + e/SUF + r/SUF + tijd/STM
+3 19e/STM
+1 stelling/STM
+3 blijven/STM
+2 biograaf/STM
+1 instanties/STM
+4 wind/STM
+1 op/PRE + zwellen/STM
+1 31/STM
+4 1970/STM
+2 artikel/STM
+3 dia/STM + meter/STM
+1 Church/STM
+1 experiment/STM
+3 gamma/STM + straling/STM
+1 bere/STM + kent/STM
+1 onsystemati/STM + sche/SUF
+4 waar/STM + voor/STM
+6 Neur/STM + en/SUF + berg/STM
+5 ver/PRE + ant/STM + woord/STM + elijk/SUF
+1 alpen/STM + den/SUF
+14 fonds/STM + en/SUF
+6 nam/STM
+2 Badachsjan/STM
+1 Karpat/STM + en/SUF
+9 maken/STM
+2 Hans/STM
+2 quo/STM
+1 R/STM
+1 gas/STM + vormig/STM + e/SUF
+4 dacht/STM
+2 parlement/STM + s/PRE + verkiezing/STM + en/SUF
+3 logo/STM
+1 nuts/STM + bedrij/STM + ven/STM
+3 heen/STM
+2 hasj/STM
+1 York/STM
+1 offer/STM + bereid/STM + heid/STM
+5 bruggen/STM
+4 Plesman/STM
+3 vereist/STM
+1 geh/STM + echt/STM
+1 film/STM + hits/STM
+1 hisab/STM
+2 heden/STM
+1 gas/STM + reus/STM
+3 Dubrulle/STM
+1 Verbond/STM
+1 12/STM
+7 Anders/STM
+2 Russia/STM
+1 beoogd/STM
+2 hypotheekmarkt/STM
+1 Buit/STM + en/SUF + land/STM + se/SUF
+1 Turkmeen/STM + s/SUF
+2 Monaco/STM
+22 ten/STM
+1 zuid/STM + er/SUF + breedte/STM
+2 Damrak/STM
+1 Aan/STM + hang/STM + ers/SUF
+2 toernooi/STM + en/SUF
+8 ste/STM + den/SUF
+1 op/PRE + en/STM
+2 spijkers/STM
+3 ge/PRE + bouw/STM
+1 slecht/STM + s/SUF + t/SUF
+1 buiten/STM + ge/PRE + won/STM + e/SUF
+2 graven/STM
+4 1816/STM
+7 centrum/STM
+4 ringweg/STM
+1 schoon/STM
+2 duikers/STM
+1 Onze/STM
+3 simpele/STM
+1 staat/STM + skas/STM
+1 WTA/STM
+1 Museum/STM
+1 be/PRE + zien/STM + s/SUF + waardig/STM + heden/STM
+1 nation/STM + aliteit/STM
+1 buig/STM + en/SUF
+1 boord/STM
+3 milieu/STM
+1 hant/STM + eerde/STM
+1 aangeworpen/STM
+1 tuin/STM
+1 ruim/STM + er/SUF + e/SUF
+7 tevens/STM
+2 toonde/STM
+2 excentriciteit/STM
+7 zonder/STM
+2 ge/PRE + zorg/STM + d/SUF
+2 bo/STM + om/PRE + grens/STM
+3 Burger/STM + lijk/STM
+2 S/STM
+2 boegbeeld/STM
+2 mengel/STM + ing/SUF
+1 teles/STM + coop/STM
+1 tegelzetter/STM
+3 men/STM + en/SUF
+2 Left/STM + bank/STM
+2 erf/STM + ge/PRE + namen/STM
+1 In/STM + n/SUF
+1 tornooi/STM
+3 woord/STM + en/SUF
+2 vlakker/STM + e/SUF
+1 glacial/STM + is/STM
+1 ver/PRE + ander/STM + lijk/STM + er/SUF
+1 الخوارزمي/STM
+4 platte/STM
+1 elektrici/STM + en/SUF
+1 Vrouw/STM + e/SUF + kathedraal/STM
+2 ijzer/STM
+1 af/STM + gedrukt/STM
+2 gestuw/STM + d/SUF
+1 zoutlag/STM + en/SUF
+1 aan/PRE + ge/STM + duid/STM
+1 Maatschappij/STM
+1 etc/STM
+1 regel/STM + matig/STM
+13 aard/STM + oppervlak/STM
+1 dien/STM + overeen/STM + komst/STM + ig/STM
+1 kolomm/STM + en/SUF
+14 Oceaan/STM
+2 seks/STM + e/SUF
+1 1906/STM
+1 Onder/STM + scheiding/STM + en/SUF
+2 Vedior/STM
+4 kunst/STM
+4 wanneer/STM
+1 De/STM + s/SUF + ondanks/STM
+14 gebied/STM + en/SUF
+1 moeras/STM + s/SUF + ige/STM
+10 maakt/STM + e/SUF
+34 haar/STM
+5 Soms/STM
+2 KV/STM
+2 voldoen/STM
+1 mukhtasar/STM
+2 Arno/STM
+4 be/PRE + richt/STM + en/SUF
+2 29/STM
+1 water/STM + oppervlak/STM
+2 method/STM + e/SUF
+2 beïnvloed/STM
+5 mogelijk/STM
+12 Tot/STM
+3 duid/STM + en/SUF
+1 function/STM
+1 Grijze/STM
+1 59/STM
+7 geeft/STM
+1 maquette/STM
+1 4808/STM
+4 grenzen/STM
+1 Weten/STM + schap/STM + s/SUF + richt/STM + ing/SUF + en/SUF
+3 Europe/STM + anen/STM
+3 verkozen/STM
+3 Democrat/STM + en/SUF
+2 194073/STM
+7 opzichte/STM
+1 weg/STM + en/SUF
+1 inhoud/STM
+1 doorgedrongen/STM
+1 dicht/STM + er/SUF + bij/STM
+1 Pold/STM + er/SUF
+1 Evangeli/STM + sche/SUF
+2 lapis/STM
+4 liefst/STM
+2 bedrijf/STM + s/SUF + voer/STM + ing/SUF
+2 Antarct/STM + isch/SUF
+1 geleverd/STM
+7 be/PRE + staan/STM
+1 Tibhirine/STM
+2 note/STM + ring/STM
+1 zwavel/STM
+1 ver/PRE + over/STM + d/SUF
+1 Steden/STM
+1 Tonantzin/STM
+2 essentieel/STM
+1 zoek/STM + toch/STM + t/SUF
+1 feesten/STM
+4 bleek/STM
+4 banen/STM
+1 Oost/STM + zee/STM
+2 Tr/STM + om/PRE + penburg/STM
+1 schamele/STM
+2 Portugezen/STM
+1 Teni/STM + ers/SUF
+10 kust/STM
+2 pollution/STM
+1 Technik/STM
+1 water/STM + bouw/STM + kundig/STM + e/SUF
+1 Cauw/STM + elaert/STM
+2 toe/STM + ge/PRE + ge/PRE + ven/STM
+1 zure/STM
+2 helling/STM + s/SUF + hoek/STM
+4 kern/STM
+1 18/STM + 9733b/STM
+2 ver/PRE + nietigd/STM
+2 lengte/STM
+3 formeel/STM
+2 gesteente/STM
+65 bar/STM
+4 vrouw/STM + en/SUF
+1 1973/STM
+1 Moraal/STM
+2 krijg/STM + t/SUF
+3 ver/PRE + handel/STM + en/SUF
+1 Guang/STM
+1 ver/PRE + dubbel/STM + en/SUF
+1 breedte/STM
+2 Spirit/STM
+8 trad/STM + itionele/STM
+1 J/STM
+2 zoet/STM + water/STM
+1 blij/STM + spel/STM
+1 uit/PRE + gelegd/STM
+2 be/PRE + kijkt/STM
+2 baden/STM
+2 be/PRE + lang/STM + rijk/STM
+3 tussen/STM + tijd/STM + s/SUF
+3 VS/STM
+4 jaarlijks/STM + e/SUF
+1 Overig/STM
+1 Cult/STM + urele/STM
+7 be/PRE + zit/STM
+3 7300/STM
+1 Euraziati/STM + sche/SUF
+2 black/STM
+2 stolde/STM
+1 322058/STM
+2 Zowel/STM
+1 8/STM + e/SUF
+1 Geven/STM
+2 mugo/STM
+11 terug/STM
+2 oftewel/STM
+2 ge/PRE + relat/STM + eerd/SUF
+18 Turing/STM
+1 uit/PRE + voer/STM + en/SUF
+1 P/STM
+1 op/PRE + en/STM + ge/PRE + val/STM + len/STM
+5 Hiermee/STM
+16 moet/STM + en/SUF
+1 voor/PRE + dat/STM
+4 auto/STM + snel/STM + weg/STM
+2 ontspringen/STM
+43 text/STM
+1 III/STM
+1 in/PRE + formele/STM
+1 Minaret/STM
+1 mails/STM
+1 ver/PRE + zevenvoudigd/STM
+2 gebleken/STM
+1 ver/PRE + handel/STM + d/SUF
+1 wogen/STM
+2 evolutie/STM
+1 binnen/STM + zeeën/STM
+9 oktober/STM
+2 schaal/STM
+2 onder/PRE + werpen/STM
+3 hellen/STM + de/SUF
+3 Stonehenge/STM
+4 hoeveel/STM + heden/STM
+1 Chwarizmi/STM
+1 oorlog/STM + s/SUF + in/PRE + spann/STM + ing/SUF
+1 Karel/STM + s/SUF
+1 koning/STM + en/SUF
+1 op/PRE + komst/STM
+1 ver/PRE + sch/STM + ijnsel/STM
+2 Marca/STM
+1 verdwijn/STM + ing/SUF + en/SUF
+3 Egypte/STM
+2 VAC/STM
+2 M/STM + e/SUF + e/SUF + stal/STM
+2 ander/STM + s/SUF
+5 be/PRE + weg/STM + ing/SUF + en/SUF
+1 astron/STM + om/STM + isch/SUF
+9 aardas/STM
+3 poëziebundel/STM
+1 water/STM + beleid/STM
+2 gordel/STM
+1 droge/STM + re/STM
+3 onder/PRE + zoek/STM
+1 Persoon/STM + lijk/STM
+1 vast/STM
+1 chef/STM
+5 net/STM
+1 kolo/STM + nie/STM
+1 Jaïn/STM + isme/STM
+7 commissie/STM
+1 kort/STM + weg/STM
+2 post/STM + material/STM + ist/STM + isch/STM + e/SUF
+2 NAVO/STM
+1 Leven/STM + s/SUF + loop/STM
+2 Dietrich/STM
+1 manier/STM + en/SUF
+1 nucleoti/STM + de/SUF
+10 regering/STM
+1 introduc/STM + eert/STM
+1 in/PRE + ter/STM + ste/SUF + llaire/STM
+1 780/STM
+4 Politiek/STM + e/SUF
+132 aan/STM
+1 tabula/STM
+3 warme/STM
+1 hoorn/STM
+2 tarwe/STM
+4 haven/STM
+1 500000/STM
+1 Tauern/STM
+2 kennen/STM
+3 helpen/STM
+3 hele/STM + maal/STM
+4 invloed/STM
+9 2003/STM
+1 Empire/STM
+5 aan/PRE + be/PRE + ste/STM + ding/STM
+1 k/STM + om/PRE + isch/STM + e/SUF
+1 haalt/STM
+5 n/STM
+2 Ap/STM + en/SUF + n/SUF + ijn/STM + en/SUF
+1 stichtings/STM + congres/STM
+7 school/STM
+1 combinatie/STM
+2 eventueel/STM
+1 strand/STM + de/SUF
+1 Como/STM + meer/STM
+3 economi/STM + sche/SUF
+2 stroom/STM + de/SUF
+2 motief/STM
+1 etymo/STM + logisch/STM
+7 2007/STM
+1 Cools/STM
+1 Khattak/STM
+1 goed/STM + er/SUF + en/SUF + station/STM + s/SUF
+3 archeol/STM + ogen/STM
+1 onder/PRE + handel/STM + ing/SUF + en/SUF
+1 be/PRE + land/STM + en/SUF
+1 gegroeid/STM
+1 Bouw/STM + be/PRE + sluit/STM
+2 ge/PRE + ring/STM + e/SUF
+1 Taal/STM
+2 kust/STM + lijn/STM
+2 1974/STM
+1 inductie/STM + ve/STM
+1 Twee/STM
+1 inductie/STM
+1 Gravenlandseveer/STM
+2 tot/STM + aliteit/STM
+10 slecht/STM + s/SUF
+3 Patrick/STM
+2 precessie/STM
+4 1980/STM
+1 discussies/STM
+3 14/STM
+1 bekend/STM + staat/STM
+1 jaïn/STM + isme/STM
+3 ver/PRE + keer/STM
+1 commun/STM + ica/STM + tie/STM
+1 zich/STM + t/SUF + baar/STM
+1 noem/STM + en/SUF
+3 letter/STM + lijk/STM
+3 noord/STM + oost/STM + en/SUF
+2 Cyclische/STM
+2 samen/STM + horig/STM + heid/STM
+1 Onder/STM + zoek/STM
+5 aard/STM + se/SUF
+1 Gawah/STM
+2 ge/PRE + bruik/STM + t/SUF + en/SUF
+1 muqabala/STM
+1 aristotel/STM + isme/STM
+1 Torkham/STM
+4 Beers/STM + chot/STM
+100 word/STM + t/SUF
+1 huur/STM + soldaten/STM
+1 lokaal/STM
+4 Vroege/STM + r/SUF
+1 hier/STM + boven/STM
+3 probleem/STM
+1 voor/PRE + komen/STM + s/SUF
+1 professionalise/STM + ring/STM
+4 ver/PRE + loor/STM
+1 glacial/STM + en/SUF
+1 Foucauld/STM
+1 Bouw/STM + beurs/STM
+3 bouw/STM + kundig/STM
+2 mee/STM + werkte/STM
+2 volop/STM
+1 brood/STM + nodig/STM + e/SUF
+1 lijfarts/STM
+4 theorie/STM
+7 basis/STM
+1 mont/STM + eur/STM + op/PRE + leiding/STM
+1 άστρον/STM
+7 paar/STM
+4 Anthony/STM
+1 bots/STM + ing/SUF
+4 koning/STM
+2 grond/STM + en/SUF
+2 Washington/STM
+1 Graf/STM
+12 oorlog/STM
+1 1100/STM
+2 kenden/STM
+16 Aristo/STM + teles/STM
+2 over/STM + ste/SUF + ek/STM
+10 daar/STM + boven/STM
+4 helling/STM + en/SUF
+2 toe/STM + komst/STM + ige/STM
+1 bouw/STM + fysi/STM + cus/STM
+1 aan/PRE + trekk/STM + elijk/SUF + er/SUF
+1 hulp/STM + geld/STM + en/SUF
+1 decoderings/STM + apparaat/STM
+1 ge/PRE + her/STM + waar/STM + d/SUF + eerd/SUF
+1 12500/STM
+2 aan/PRE + trekk/STM + ing/STM + s/SUF + kracht/STM
+2 kerkpor/STM + talen/STM
+4 Belg/STM + isch/STM + e/SUF
+3 Schen/STM + genzone/STM
+2 gang/STM
+2 kilometer/STM + s/SUF
+4 enzo/STM + voor/STM + t/SUF
+1 1912/STM
+5 offic/STM + ieel/STM
+1 lente/STM
+3 pleit/STM
+1 Ziri/STM + den/SUF
+1 bos/STM + produc/STM + ten/STM
+1 sediment/STM + air/STM
+1 kie/STM + s/SUF + kanton/STM
+2 vlucht/STM + en/SUF
+1 door/STM + gaat/STM
+2 Ad/STM
+3 Salut/STM
+2 Bevolking/STM
+1 Vecht/STM
+1 smelten/STM + de/SUF
+1 Gebie/STM + den/SUF
+3 ers/STM
+1 ING/STM
+79 was/STM
+1 emoties/STM
+1 BarData/STM
+76 jaar/STM
+3 uit/PRE + loper/STM + s/SUF
+1 on/STM + bekend/STM + e/SUF
+1 hard/STM
+1 ver/PRE + getelheid/STM
+2 Plato/STM
+1 overeen/STM + komt/STM
+2 uit/PRE + een/STM + lopende/STM
+8 Daar/STM + door/STM
+3 lag/STM
+3 verklaring/STM
+2 ge/PRE + boorte/STM + stad/STM
+3 genaamd/STM
+1 Vrij/STM + heid/STM
+1 Maria/STM + burg/STM
+1 krui/STM + s/SUF
+1 klink/STM + en/SUF
+1 inhoud/STM + elijk/SUF
+3 renaissance/STM
+1 stroom/STM + richt/STM + ing/SUF
+3 ge/PRE + borg/STM + en/SUF
+2 eed/STM
+1 Arctis/STM
+6 Twee/STM + de/SUF
+4 benoemd/STM
+1 Mesopotam/STM + ië/STM
+2 statistiek/STM + en/SUF
+1 om/PRE + zetten/STM
+3 ver/PRE + laat/STM
+2 lekvrije/STM
+2 ge/PRE + boorte/STM
+1 be/PRE + zoek/STM
+25 vorm/STM + en/SUF
+1 ontwerp/STM + en/SUF + de/SUF
+2 Hamid/STM
+1 we/STM
+4 enorme/STM
+1 ethi/STM + sche/SUF
+1 oorspronk/STM + elijk/SUF
+2 staan/STM + de/SUF
+2 hang/STM + en/SUF
+4 groep/STM
+1 ge/PRE + bruik/STM + elijk/SUF
+3 2/STM
+1 Amstel/STM + brug/STM
+1 ontwerp/STM + visie/STM
+2 scheve/STM
+1 DNR/STM
+2 grond/STM + water/STM
+1 onder/PRE + broken/STM
+1 sto/STM + om/PRE + machine/STM
+1 ver/PRE + simpe/STM + ling/STM
+2 Haven/STM
+2 pompeuze/STM
+1 Riza/STM
+2 bocht/STM
+1 IJ/STM + s/SUF + zee/STM
+8 be/PRE + weg/STM + ing/SUF
+4 gen/STM + eraal/STM
+1 index/STM + be/PRE + reken/STM + ing/SUF
+3 expeditie/STM
+1 Om/STM + schrijving/STM
+2 motiver/STM + ing/SUF
+2 Vermoed/STM + elijk/SUF
+1 Aannem/STM + er/SUF
+2 nevels/STM
+5 nemen/STM
+1 ge/PRE + plaat/STM + s/SUF + t/SUF
+1 demon/STM + stratie/STM
+16 5/STM
+16 dag/STM
+1 zodanig/STM
+2 Uit/STM + spraak/STM + regel/STM + s/SUF
+2 distributie/STM
+2 Euronext/STM
+2 om/PRE + ge/PRE + komen/STM
+1 Bouw/STM + meest/STM + er/SUF
+2 nation/STM + alist/STM
+1 ver/PRE + be/PRE + ter/STM + de/SUF
+1 duur/STM + zame/STM
+2 stijl/STM
+1 Mauritius/STM
+12 mee/STM
+1 Leona/STM
+5 vlak/STM
+2 ver/PRE + taal/STM + d/SUF
+1 beëindi/STM + ging/STM
+1 ver/PRE + dween/STM
+3 Londen/STM
+1 Stadion/STM
+4 tracht/STM + en/SUF
+3 werk/STM + wijze/STM
+1 winstgevender/STM
+2 erkend/STM
+2 Grieken/STM
+2 Turkmen/STM + istan/STM
+2 bisdom/STM
+6 richt/STM + ing/SUF
+6 Batavia/STM
+1 ver/PRE + drie/STM + t/SUF
+2 sluit/STM + en/SUF
+9 korst/STM
+9 dagen/STM
+1 be/PRE + toging/STM + en/SUF
+1 Ge/STM + durend/STM + e/SUF
+1 foto/STM + sfeer/STM
+1 conclud/STM + eerde/STM
+1 klaar/STM
+2 afhank/STM + elijk/SUF
+691 het/STM
+1 Stro/STM + om/PRE + op/PRE + waarts/STM
+4 in/PRE + ge/PRE + deel/STM + d/SUF
+1 U/STM
+1 burchtkerk/STM
+2 stamm/STM + en/SUF
+1 voor/STM + t/SUF + durend/STM + e/SUF
+2 be/PRE + eld/STM
+2 wind/STM + sterk/STM + te/STM
+2 Kleine/STM
+6 stond/STM
+2 be/PRE + eld/STM + en/SUF
+1 misschi/STM + en/SUF
+3 hele/STM
+2 Momenteel/STM
+12 Uit/STM
+1 Aeroplanbau/STM
+3 Vloeibaar/STM
+1 Stageira/STM
+2 ruwweg/STM
+1 sneeuw/STM + bal/STM + aar/STM + de/SUF
+1 Safi/STM
+3 eenmaal/STM
+1 eind/STM + produc/STM + t/SUF
+2 dollar/STM
+1 Rijk/STM + s/SUF + propaganda/STM + leiding/STM
+1 op/PRE + gesteld/STM
+1 direct/STM + ie/STM + voer/STM + ing/SUF
+3 groot/STM + vader/STM
+1 her/STM + in/PRE + richt/STM + ing/SUF
+2 regering/STM + sdeelnames/STM
+1 bezig/STM
+3 snel/STM
+1 dominante/STM
+1 Lieve/STM
+1 apart/STM + e/SUF
+1 Noor/STM
+2 over/STM + leven/STM + de/SUF
+1 zo/STM + ge/PRE + het/STM + en/SUF
+5 aspect/STM + en/SUF
+1 aarts/STM + dekenaat/STM
+4 houden/STM
+1 besteed/STM + de/SUF
+1 Television/STM
+2 gedempte/STM
+2 Gold/STM + en/SUF
+1 type/STM + ring/STM
+2 be/PRE + slecht/STM + en/SUF
+2 ver/PRE + stand/STM
+2 kenmerk/STM + en/SUF
+3 natuur/STM
+1 ho/STM + op/PRE + vol/STM
+2 granen/STM
+3 1932/STM
+2 waait/STM
+1 De/STM + mocrat/STM + isch/STM + e/SUF
+1 ver/PRE + woest/STM + ijn/STM + ing/SUF
+2 zorg/STM + t/SUF
+1 Herinne/STM + r/SUF + ing/SUF + en/SUF
+1 Idrija/STM
+94 Het/STM
+1 muurklimm/STM + en/SUF
+3 zee/STM
+1 drugs/STM + ge/PRE + bruik/STM + ers/SUF
+4 Wever/STM
+4 sterk/STM + e/SUF
+2 Orde/STM
+1 ge/PRE + ken/STM + d/SUF
+1 kans/STM
+1 Rond/STM
+1 Andries/STM
+4 valt/STM
+1 Dicht/STM
+1 laat/STM
+1 Budget/STM
+2 steun/STM + t/SUF
+1 Boumédienne/STM
+11 bekend/STM + e/SUF
+1 astron/STM + om/STM + isch/STM + e/SUF
+8 heelal/STM
+1 sticht/STM + er/SUF
+1 criter/STM + ium/STM
+3 smelten/STM
+1 macht/STM + hebb/STM + ers/SUF
+6 behoren/STM
+1 Zelfs/STM
+1 Derviş/STM
+3 be/PRE + schrijving/STM
+4 Engels/STM + e/SUF
+1 gevoelig/STM
+1 overeen/STM
+12 Als/STM
+18 éé/STM + n/SUF
+6 wetenschap/STM + pen/STM
+1 ge/PRE + deel/STM + te/STM
+1 langlaufen/STM
+1 Tizi/STM
+1 schoot/STM
+2 onderhoud/STM
+1 beroep/STM + s/SUF + titel/STM
+2 ge/PRE + mont/STM + eerd/SUF
+27 miljoen/STM
+5 getrokken/STM
+3 voor/STM + t/SUF
+2 Omval/STM
+1 wet/STM + matig/STM + heden/STM
+2 ver/PRE + plaat/STM + s/SUF + t/SUF
+1 vrouw/STM
+2 CBS/STM
+3 Al/STM
+3 acht/STM + er/SUF
+6 binnen/STM
+1 huid/STM
+7 Veel/STM
+3 qua/STM
+5 prijs/STM
+1 baan/STM + vlak/STM
+2 Bollywood/STM
+1 We/STM + er/SUF
+1 Holland/STM + e/SUF
+2 interne/STM
+1 ge/PRE + had/STM
+1 huis/STM
+1 reliëf/STM
+4 ver/PRE + keer/STM + schaos/STM
+1 subtr/STM + op/PRE + en/STM
+6 punt/STM
+1 Afgha/STM + n/SUF
+5 zag/STM
+1 anorgan/STM + isch/SUF
+1 Zonnenevel/STM
+1 Fi/STM + nanc/STM + iële/STM
+2 1000/STM
+1 In/STM + voer/STM + ing/SUF
+7 dood/STM
+1 ge/PRE + bezig/STM + de/SUF
+2 Planten/STM
+3 Pluto/STM
+1 onder/STM + sche/SUF + idt/STM
+2 Machsike/STM
+1 Strategy/STM
+2 dagelijk/STM + se/SUF
+4 keer/STM + de/SUF
+1 beslis/STM + s/SUF + ing/STM + s/SUF + macht/STM
+2 spectra/STM
+1 dicht/STM + er/SUF + s/SUF
+2 fragmenten/STM
+4 dikte/STM
+2 feliciteerde/STM
+5 uur/STM
+2 be/PRE + dekk/STM + ing/SUF
+2 act/STM + iviteit/STM
+2 elz/STM + en/SUF
+2 belon/STM + ing/SUF
+1 nor/STM + maal/STM
+1 eeuw/STM + se/SUF
+1 schakelen/STM
+1 dermate/STM
+2 catalogisering/STM
+1 kilometer/STM
+1 Baba/STM
+2 stapel/STM + wolk/STM
+3 gewogen/STM
+1 produc/STM + tie/STM + proces/STM + s/SUF + en/SUF
+3 Broer/STM
+2 aan/PRE + melden/STM
+1 stromen/STM
+1 Meer/STM
+2 computer/STM + programm/STM + eur/STM
+6 regel/STM + s/SUF
+1 voor/PRE + lopig/STM
+1 waar/STM + uit/STM
+6 oost/STM + elijk/SUF + e/SUF
+1 stoffen/STM
+1 werk/STM + plan/STM + n/SUF + ing/SUF
+4 zouden/STM
+1 1633/STM
+5 drag/STM + en/SUF
+1 sport/STM
+9 zich/STM + zelf/STM
+1 her/STM + komst/STM
+1 Beloetsji/STM
+1 1842/STM
+3 be/PRE + wezen/STM
+3 Dari/STM
+1 L/STM + in/PRE + ker/STM + oever/STM
+1 klimaat/STM + type/STM + n/SUF
+1 1833/STM
+3 leef/STM + tijd/STM
+1 plaat/STM + s/SUF + vind/STM + en/SUF
+1 voor/STM + t/SUF + ge/PRE + bracht/STM
+1 Ammianus/STM
+2 veelal/STM
+1 natur/STM + alisatie/STM
+1 wel/STM + bepaald/STM + e/SUF
+7 alfabet/STM
+1 aan/PRE + nem/STM + er/SUF + s/SUF
+1 inclinatie/STM
+1 Desalniettemin/STM
+2 nadruk/STM
+6 koers/STM + uit/PRE + slag/STM + en/SUF
+4 eind/STM + elijk/SUF
+1 166/STM
+3 Engeland/STM
+4 Tracker/STM
+1 pers/STM
+6 Grieks/STM + e/SUF
+2 hoopt/STM
+1 Byron/STM
+10 lithosfeer/STM
+1 محمد/STM
+3 ge/PRE + bouw/STM + d/SUF
+2 uit/PRE + werkte/STM
+1 ver/PRE + duid/STM + elijk/SUF + en/SUF
+1 wikkel/STM
+1 jaar/STM + gemiddeld/STM + e/SUF
+1 op/PRE + tie/STM + handel/STM
+2 aard/STM + atmosfeer/STM
+1 racket/STM
+9 mantel/STM
+1 Pius/STM
+2 ver/PRE + liez/STM + en/SUF
+1 op/PRE + ge/PRE + hev/STM + en/SUF
+1 r/STM + om/PRE + anti/STM + sche/SUF
+1 zwaar/STM
+3 Driehoek/STM
+1 voor/PRE + voeg/STM + s/SUF + el/STM
+2 128/STM
+1 computer/STM + simulatie/STM
+4 Goud/STM + en/SUF
+2 vijf/STM + de/SUF
+1 histor/STM + isch/SUF
+1 KerkDe/STM
+4 Hazara/STM
+2 in/PRE + schakelen/STM
+2 fysi/STM + sche/SUF
+2 acht/STM + er/SUF + land/STM
+4 plekken/STM
+1 kanaäniti/STM + sche/SUF
+1 ve/STM + en/SUF + gebied/STM
+3 eigen/STM + aar/STM
+2 Begrip/STM + sbepaling/STM
+1 ervaring/STM
+3 Beieren/STM
+3 vóór/STM
+1 zeildoek/STM
+4 mei/STM
+4 toe/STM + gepast/STM
+1 president/STM + s/PRE + verkiezing/STM + en/SUF
+2 machine/STM + s/SUF
+1 en/STM + tre/STM + e/SUF
+8 orga/STM + nisatie/STM
+1 oorsprong/STM
+3 wegens/STM
+2 increment/STM
+1 jaarlijks/STM
+6 jpg/STM
+2 bodem/STM
+3 archaeol/STM + ogical/STM
+2 denken/STM
+2 ver/PRE + wezen/STM + lijk/STM + en/SUF
+5 zodat/STM
+5 Die/STM
+1 beurt/STM
+3 zogenaamde/STM
+3 wereld/STM + wij/STM + de/SUF
+5 minste/STM
+1 in/PRE + zich/STM + t/SUF + en/SUF
+1 fiat/STM
+1 profeet/STM
+6 daarvan/STM
+1 telde/STM + n/SUF
+14 zuid/STM + en/SUF
+3 Enquist/STM
+15 vrijwel/STM
+2 ge/PRE + lijk/STM + e/SUF
+2 fractie/STM + voorzitter/STM
+2 Boeckenberg/STM
+1 Bollettieri/STM
+5 be/PRE + vond/STM
+1 klein/STM + zoon/STM
+3 Christa/STM
+1 Genis/STM + s/SUF + at/STM
+3 eind/STM + resultaat/STM
+6 zomer/STM
+1 martel/STM + ing/SUF + en/SUF
+2 de/STM + den/SUF
+1 rijk/STM + ste/SUF
+3 streek/STM
+1 fi/STM + nanc/STM + iële/STM
+1 poolnacht/STM
+1 althans/STM
+1 Harvard/STM
+1 ge/PRE + deel/STM + de/SUF
+4 400/STM
+2 bouw/STM + plaat/STM + s/SUF
+2 International/STM + e/SUF
+2 praat/STM
+6 ge/PRE + ge/PRE + ven/STM
+1 conventies/STM
+1 arts/STM
+1 afge/STM + vaardigd/STM + e/SUF
+4 God/STM + skerk/STM
+1 ant/STM + ropologie/STM
+1 parochie/STM
+1 raakt/STM
+1 zwak/STM
+1 afst/STM + udeer/STM + richt/STM + ing/SUF + en/SUF
+1 Helmand/STM
+1 kooldi/STM + oxide/STM
+4 ge/PRE + faal/STM + d/SUF
+4 Aken/STM
+2 jong/STM + er/SUF + en/SUF
+1 direct/STM + ie/STM
+1 spann/STM + ing/SUF + en/SUF
+1 موسى/STM
+1 Ahold/STM
+1 fixatie/STM
+1 tempel/STM
+2 staten/STM
+1 sleutel/STM + begrip/STM + pen/STM
+1 Demòcrates/STM
+2 volg/STM + de/SUF
+28 werd/STM + en/SUF
+1 op/PRE + en/STM + bare/STM
+2 1952/STM
+1 OBE/STM
+3 opvallend/STM + e/SUF
+2 environment/STM
+1 berg/STM + rivier/STM + en/SUF
+5 minister/STM
+5 konden/STM
+1 citadel/STM
+1 6000/STM
+1 schieten/STM
+65 hij/STM
+1 hemelgewelf/STM
+2 tech/STM + nische/STM
+1 Portugees/STM
+2 People/STM
+3 AKC/STM
+4 kant/STM
+1 zegt/STM
+3 bloot/STM
+2 zit/STM
+2 Andorrese/STM
+1 speel/STM + ster/STM
+6 offic/STM + iële/STM
+1 Jans/STM + zoon/STM
+1 op/PRE + richtte/STM
+2 reeks/STM
+17 echt/STM + er/SUF
+1 Steeds/STM
+1 199/STM
+2 169112/STM
+13 Hitler/STM
+1 onder/PRE + scheiding/STM
+3 DEGPA/STM
+2 macht/STM
+1 meteoriet/STM + en/SUF
+1 visu/STM + aliseren/STM
+1 Philips/STM
+2 control/STM
+1 naam/STM + s/SUF + bekend/STM + heid/STM
+3 in/PRE + direct/STM
+2 Vondsten/STM
+3 middel/STM + eeuw/STM + en/SUF
+3 Naast/STM
+21 kan/STM
+6 warme/STM + r/SUF
+1 geli/STM + eerd/SUF
+1 toe/STM + stond/STM
+1 ex/STM + centri/STM + sche/SUF
+1 sterkte/STM
+2 bevolking/STM + s/SUF + groei/STM
+1 ver/PRE + zame/STM + laar/STM
+2 geloofd/STM + en/SUF
+1 web/STM
+2 1278/STM
+1 Wie/STM
+1 re/STM + publiek/STM
+3 water/STM + kracht/STM
+1 1911/STM
+3 buien/STM
+3 Morbihan/STM
+1 Q/STM
+5 ofwel/STM
+1 op/PRE + geë/STM + ist/STM
+2 voor/PRE + afgaan/STM + d/SUF
+1 Zoals/STM
+2 acht/STM + er/SUF + grond/STM + sterren/STM
+6 Toen/STM
+1 Bin/STM
+3 Rijk/STM
+3 genot/STM + eerd/SUF
+16 meter/STM
+1 kort/STM
+10 namelijk/STM
+1 Andre/STM
+1 parad/STM + e/SUF + veld/STM
+1 Armé/STM
+1 alle/STM + s/SUF
+8 gemeen/STM + te/STM
+1 75/STM
+11 80/STM
+1 Jimmy/STM
+1 in/PRE + gevoerd/STM
+2 Tirol/STM
+2 ver/PRE + damp/STM + ing/SUF
+2 Mozart/STM
+6 slotte/STM
+1 gas/STM + s/SUF + en/SUF
+1 sto/STM + r/SUF + ing/SUF + en/SUF
+1 op/PRE + le/STM + ver/PRE + den/STM
+1 congres/STM
+2 Alan/STM
+1 Rooms/STM
+2 Willem/STM
+1 priorij/STM
+1 sneeuw/STM + grens/STM
+16 lang/STM + s/SUF
+1 aan/PRE + vullen/STM + de/SUF
+1 St/STM + atistiek/STM
+1 Sandwich/STM + eiland/STM + en/SUF
+1 adequate/STM
+1 2400/STM
+7 nooit/STM
+5 sloot/STM
+1 oorlog/STM + s/SUF + verklaring/STM
+1 op/PRE + era/STM
+4 uitsl/STM + uit/PRE + end/STM
+1 Vanweg/STM + e/SUF
+2 Florida/STM
+1 Laag/STM + vlakte/STM
+1 ge/PRE + op/PRE + end/STM
+4 acteur/STM
+1 ge/PRE + duur/STM + d/SUF
+3 satelliet/STM
+1 religie/STM + us/STM
+4 winter/STM + s/SUF
+2 Jood/STM + se/SUF
+1 lijmkruid/STM
+1 volwaardig/STM + e/SUF
+1 bèta/STM
+3 soberheid/STM
+1 geleid/STM
+1 woon/STM + plaat/STM + s/SUF
+9 juni/STM
+4 Islamique/STM
+1 gekanteld/STM
+2 aan/PRE + slag/STM + en/SUF
+1 slag/STM
+3 loop/STM + tijd/STM
+4 groep/STM + en/SUF
+1 ijzer/STM + be/PRE + werk/STM + ing/SUF
+1 Numico/STM
+1 ontginn/STM + en/SUF
+2 oudste/STM
+3 onafhank/STM + elijk/SUF + e/SUF
+2 min/STM + eraal/STM + water/STM
+1 alpenwei/STM + den/SUF
+1 PPR/STM
+1 godin/STM
+1 Salz/STM
+2 rest/STM + en/SUF
+1 Nederland/STM + en/SUF
+2 trogdal/STM
+1 Libér/STM + ation/STM
+2 ATBS/STM
+1 Assyri/STM + sche/SUF
+6 mandje/STM
+1 Columbus/STM
+1 Noor/STM + d/SUF + zee/STM
+3 Wereld/STM
+1 land/STM + massa/STM
+1 geë/STM + xploit/STM + eerd/SUF
+3 helium/STM
+1 beperk/STM + ing/SUF + en/SUF
+4 be/PRE + weg/STM + en/SUF
+4 Architect/STM + uur/STM
+1 zat/STM + en/SUF
+1 Erz/STM
+1 Todt/STM
+6 and/STM + erzijds/STM
+4 begin/STM + t/SUF
+1 afge/STM + rond/STM
+6 midden/STM
+1 weer/STM + gaf/STM
+6 ge/PRE + schiedenis/STM
+1 thermo/STM + sfeer/STM
+6 nodig/STM + e/SUF
+1 activ/STM + er/SUF + en/SUF
+1 omvat/STM + ten/STM
+2 sprek/STM + ers/SUF
+1 Partij/STM + en/SUF
+1 negenti/STM + en/SUF + de/SUF
+1 Commun/STM + ist/STM + isch/STM + e/SUF
+1 Delaware/STM
+1 re/STM + aliseren/STM
+8 Sommige/STM
+1 Christopher/STM
+9 groot/STM
+1 stevige/STM
+1 vice/STM + president/STM + en/SUF
+4 procedure/STM
+1 bloe/STM + men/STM
+1 Aphrodisias/STM
+4 Golf/STM
+4 debut/STM + ant/STM
+2 bez/STM + ware/STM + n/SUF
+1 in/PRE + gesteld/STM
+22 2008/STM
+1 sneeuw/STM + wan/STM + delen/STM
+3 back/STM
+1 method/STM + en/SUF
+1 left/STM
+3 cultuur/STM
+1 def/STM + en/SUF + sie/STM
+1 بن/STM
+1 Slechts/STM
+3 visie/STM
+4 1830/STM
+1 voet/STM + gang/STM + ers/SUF
+1 G/STM
+1 social/STM + ist/STM + isch/STM + e/SUF
+5 professionele/STM
+1 filoso/STM + fen/STM
+2 fabriek/STM + en/SUF
+1 vliegveld/STM + en/SUF
+1 typi/STM + sche/SUF
+1 uit/PRE + ge/PRE + vond/STM + en/SUF
+2 aquatische/STM
+1 salarisverho/STM + ging/STM
+4 Bergen/STM
+7 Tasman/STM
+1 1576/STM
+2 Paul/STM
+4 op/PRE + genomen/STM
+1 koers/STM + manipulatie/STM
+2 nabur/STM + ige/STM
+2 problem/STM + en/SUF
+1 tilde/STM
+4 vulka/STM + nische/STM
+3 Djadoplateau/STM
+1 900/STM
+4 1856/STM
+1 ge/PRE + schrift/STM + en/SUF
+3 grond/STM + wet/STM
+1 op/PRE + wekk/STM + ing/SUF
+1 structur/STM + en/SUF
+1 Holland/STM
+5 Arab/STM + isch/SUF + e/SUF
+1 Veertien/STM
+6 UNDP/STM
+1 ver/PRE + ander/STM + en/SUF
+3 gesubsidieerde/STM
+1 uit/PRE + ge/PRE + roepen/STM
+3 3/STM
+1 lood/STM + recht/STM
+1 marktkapit/STM + alisatie/STM
+3 vliegtuig/STM
+1 Zygalski/STM
+1 Scale/STM + Minor/STM
+1 paar/STM + s/SUF
+2 alsmede/STM
+1 centrum/STM + link/STM + s/SUF + e/SUF
+1 Craeybeckx/STM
+2 autowrakken/STM
+2 Cannon/STM
+7 zeer/STM
+1 Cambri/STM + sche/SUF
+1 weken/STM
+1 Kam/STM + er/SUF + lid/STM
+3 Catbavrienden/STM
+2 224012/STM
+2 ecliptica/STM
+1 geo/STM + logisch/STM
+1 eiland/STM + groep/STM + en/SUF
+1 1913/STM
+1 ambitie/STM + s/SUF
+1 trompet/STM + signalen/STM
+1 act/STM + er/SUF + en/SUF
+4 1866/STM
+8 doen/STM
+2 JPG/STM
+1 Jam/STM
+2 Hadas/STM
+1 intens/STM + ieve/STM
+2 snelle/STM
+2 koele/STM
+1 Appie/STM
+1 grens/STM + ver/PRE + vaging/STM
+1 ont/PRE + eigen/STM + d/SUF
+1 Mexico/STM
+1 zacht/STM
+3 ge/PRE + bruik/STM + t/SUF + e/SUF
+3 samen/STM + werk/STM + ing/SUF
+2 kartel/STM
+1 Koloni/STM + ën/STM
+1 Sloveense/STM
+1 ge/PRE + dat/STM + eerd/SUF
+3 stijg/STM + en/SUF
+1 Colors/STM
+1 Social/STM + ist/STM + isch/STM + e/SUF
+1 ge/PRE + get/STM + en/SUF
+1 hemel/STM + lichamen/STM
+1 gew/STM + even/STM
+2 acties/STM
+1 pictogrammen/STM
+1 geplunder/STM + d/SUF
+1 tennis/STM + school/STM
+3 moderne/STM
+2 geplooid/STM
+5 top/STM
+2 cm/STM
+1 gere/STM + geld/STM
+1 Bevolking/STM + s/SUF + groei/STM
+49 eerst/STM + e/SUF
+4 Parijs/STM
+1 ver/PRE + nieuw/STM + ing/SUF
+10 nodig/STM
+2 nazicht/STM
+2 streep/STM
+2 regio/STM + n/SUF + en/SUF
+1 kuss/STM + en/SUF + vormig/STM
+12 temperatuur/STM
+6 gemeen/STM + te/STM + n/SUF
+2 Azoren/STM
+7 Sint/STM
+1 get/STM + ijden/STM + werk/STM + ing/SUF
+39 tussen/STM
+1 analyses/STM
+1 dikke/STM
+2 1979/STM
+1 Moorse/STM
+1 ontvangt/STM
+1 decenn/STM + ia/STM
+1 partij/STM + bestuur/STM
+2 miljoen/STM + en/SUF
+1 hygri/STM + sche/SUF
+1 op/PRE + merk/STM + elijk/SUF + e/SUF
+1 mee/STM + nemen/STM
+1 grossbürgerlich/STM
+1 Mazar/STM
+6 hand/STM
+2 Blauwbrug/STM
+1 moslim/STM
+1 Laatst/STM + genoemd/STM + e/SUF
+1 heel/STM
+3 140/STM
+1 duur/STM + de/SUF
+1 hal/STM + en/SUF
+2 lemige/STM
+1 nood/STM + hulp/STM
+1 formule/STM + r/SUF + en/SUF
+1 Hariroed/STM
+2 maandag/STM
+37 index/STM
+2 rijk/STM + e/SUF
+1 dalen/STM + de/SUF
+7 gletsjer/STM + s/SUF
+1 Nooitgenoeg/STM
+1 bevat/STM
+2 Later/STM
+1 be/PRE + ken/STM + tenissen/STM
+10 ter/STM
+1 plaat/STM + s/SUF + ge/PRE + vond/STM + en/SUF
+1 uitsterven/STM
+9 C/STM
+1 ho/STM + n/SUF + ing/SUF
+1 natuur/STM + beh/STM + oud/STM
+1 L/STM
+1 kiez/STM + er/SUF
+7 gebon/STM + den/SUF
+1 keten/STM
+4 doet/STM
+1 ge/PRE + goed/STM + e/SUF
+1 Zodoen/STM + de/SUF
+1 Hierin/STM
+2 woon/STM + acht/STM + ig/STM
+8 volg/STM + t/SUF
+2 trok/STM
+2 oever/STM + s/SUF
+6 afstand/STM
+6 Nieuw/STM + e/SUF
+1 diepst/STM
+2 daarbij/STM
+1 Kosmas/STM
+3 Zwitser/STM + se/SUF
+1 uit/PRE + ge/PRE + oefend/STM
+16 zou/STM
+2 ver/PRE + blijf/STM + plaat/STM + s/SUF + en/SUF
+1 viskeu/STM + s/SUF
+1 gekwalific/STM + eerd/SUF
+1 liberale/STM + n/SUF
+1 le/STM + er/SUF + de/SUF
+4 uit/PRE + voer/STM + t/SUF
+7 direct/STM + eur/STM
+1 synodi/STM + sche/SUF
+1 Jakarta/STM
+2 da/STM
+1 stengelloze/STM
+2 Eker/STM + en/SUF
+1 reptiel/STM + en/SUF
+2 oe/STM
+1 lijk/STM + t/SUF
+54 meer/STM
+1 massa/STM + toerisme/STM
+51 grote/STM
+1 roer/STM + en/SUF + de/SUF
+2 naïef/STM
+1 be/PRE + eld/STM + ver/PRE + werk/STM + ing/SUF + ste/SUF + chnieken/STM
+6 bereikt/STM
+2 reparatie/STM
+1 oerwoud/STM
+2 ster/STM
+1 progress/STM + ief/STM
+1 stomm/STM + e/SUF
+2 Jamaica/STM
+1 prauw/STM + en/SUF
+2 Rembrandt/STM
+2 USG/STM
+1 water/STM + stof/STM
+1 ve/STM + e/SUF
+2 leiden/STM
+6 lang/STM + durig/STM
+2 ge/PRE + zich/STM + t/SUF + en/SUF
+1 vor/STM + en/SUF
+2 ver/PRE + gelek/STM + en/SUF
+4 dal/STM
+1 T/STM
+3 land/STM + goed/STM
+1 Sunier/STM
+2 gerst/STM
+1 lo/STM + s/SUF
+1 wethouder/STM + s/SUF
+1 rangeerterrein/STM
+2 gig/STM + anti/STM + sche/SUF
+2 Hari/STM
+2 erg/STM
+2 begin/STM + stand/STM
+5 alfabet/STM + ten/STM
+1 Jord/STM
+1 ver/PRE + nieuw/STM + de/SUF
+3 26/STM
+3 Computing/STM
+1 Plaat/STM + s/SUF + elijk/SUF
+1 73/STM
+8 iets/STM
+3 Schönberger/STM
+6 straling/STM
+6 ver/PRE + dwen/STM + en/SUF
+3 speel/STM + de/SUF
+5 in/PRE + ge/PRE + zet/STM
+7 object/STM + en/SUF
+3 Rijk/STM + s/SUF + dien/STM + s/SUF + t/SUF
+6 laagst/STM + e/SUF
+1 beslis/STM + s/SUF + ing/STM + s/SUF + probleem/STM
+4 ver/PRE + volg/STM + en/SUF + s/SUF
+11 de/STM + zelf/STM + de/SUF
+1 Arrestatie/STM
+2 nabij/STM
+1 akoesti/STM + sche/SUF
+9 ontwerp/STM
+1 regio/STM + n/SUF + aal/STM
+5 ver/PRE + ander/STM + ing/SUF + en/SUF
+1 koers/STM + dal/STM + ing/SUF + en/SUF
+4 1890/STM
+5 hoofd/STM + zakelijk/STM
+1 Socio/STM
+3 Antoni/STM + e/SUF
+3 Westerterp/STM
+1 originele/STM
+2 regio/STM + n/SUF + al/STM + isme/STM
+1 Eind/STM + ecker/STM
+5 astron/STM + om/STM + en/SUF
+1 Ver/STM + hofstadt/STM
+4 FIS/STM
+1 wor/STM + t/SUF + els/STM
+3 klein/STM + er/SUF
+3 voer/STM
+1 gediversifi/STM + eerd/SUF
+3 Naar/STM
+7 Nieuw/STM
+1 Wijken/STM
+2 Melkweg/STM
+1 woon/STM + huiz/STM + en/SUF
+3 thermische/STM
+4 ijs/STM
+2 ver/PRE + sleutel/STM + de/SUF
+1 Amerika/STM + an/STM + s/SUF
+3 Agassi/STM
+1 vriend/STM
+1 gat/STM + en/SUF
+6 hier/STM
+1 er/STM + om/PRE + heen/STM
+2 boog/STM
+1 Mojstrana/STM
+3 Atlas/STM
+1 ge/PRE + komen/STM
+1 opgraving/STM + sresultaten/STM
+3 gepaard/STM
+1 rotte/STM
+1 herweg/STM + ing/SUF
+8 Spanje/STM
+1 stukadoor/STM
+1 rasa/STM
+6 Berlijn/STM
+1 fi/STM
+1 accretis/STM + er/SUF + en/SUF
+1 Aperam/STM
+4 continent/STM + aal/STM
+2 ste/STM + den/SUF + bouw/STM + kundig/STM + e/SUF
+1 op/PRE + tie/STM + s/SUF
+1 ver/PRE + strekt/STM
+14 Noor/STM + d/SUF
+1 wijz/STM + en/SUF
+2 Moritz/STM
+2 ver/PRE + gunning/STM
+1 partij/STM + voor/PRE + zit/STM + ster/STM
+1 bases/STM
+1 ACM/STM
+1 ge/PRE + sprek/STM + s/SUF + leider/STM
+2 ondanks/STM
+3 ver/PRE + telt/STM
+1 Po/STM + elaert/STM
+1 versneld/STM
+5 op/PRE + tie/STM
+2 1607/STM
+1 Vaak/STM
+1 Oued/STM
+1 breid/STM + en/SUF
+1 Steffi/STM
+4 afgelo/STM + pen/STM
+1 Afrika/STM + anse/STM
+1 ijzer/STM + in/PRE + dustrie/STM
+1 reputatie/STM
+48 ander/STM + e/SUF
+1 maan/STM
+1 Agustasc/STM + hand/STM + aal/STM
+2 schilder/STM + s/SUF
+1 buss/STM + en/SUF
+2 Bei/STM + de/SUF
+1 psych/STM + oanalyse/STM
+1 AC/STM
+2 future/STM
+1 Decker/STM + s/SUF
+1 Tadzjieken/STM
+1 land/STM + oppervlak/STM
+1 handicap/STM
+6 b/STM
+1 bouw/STM + bedrijf/STM
+9 vind/STM + t/SUF
+2 Lutjegast/STM
+6 bio/STM + sfeer/STM
+1 ver/PRE + afschuw/STM + t/SUF
+2 complex/STM
+1 aller/STM + eerst/STM
+1 gemeen/STM + te/STM + n/SUF + Er/STM
+2 re/STM + de/SUF + lijk/STM + e/SUF
+3 bezig/STM + houden/STM
+1 Background/STM + Colors/STM
+1 vlees/STM
+10 vanweg/STM + e/SUF
+1 1649/STM
+7 organis/STM + men/STM
+1 gest/STM + icht/STM + e/SUF
+1 programm/STM + er/SUF + en/SUF
+2 bereid/STM + heid/STM
+1 ingewikkelde/STM + re/STM
+1 provincie/STM + raden/STM
+3 waar/STM + onder/STM
+1 Erinnerungen/STM
+1 voltallig/STM + e/SUF
+1 textiel/STM
+5 duid/STM + elijk/SUF
+5 hoogte/STM + punt/STM
+1 ge/PRE + heim/STM
+2 gep/STM + ublic/STM + eerd/SUF
+2 duur/STM
+1 permanent/STM
+1 gang/STM + bare/STM
+2 inhoud/STM + elijk/SUF + e/SUF
+2 appel/STM
+3 22/STM
+1 Föhn/STM
+2 vulka/STM + n/SUF + isme/STM
+4 hoofd/STM
+5 sneeuw/STM
+2 ge/PRE + schoven/STM
+1 ge/PRE + schikt/STM
+1 uit/PRE + ge/PRE + vaardigd/STM
+1 der/STM + de/SUF
+1 ver/PRE + werkte/STM
+2 regering/STM + s/SUF + leider/STM
+1 bestek/STM + teken/STM + ing/SUF + en/SUF
+1952 de/STM
+2 Literat/STM + uur/STM
+1 om/PRE + wille/STM
+2 toe/STM + neemt/STM
+1 CIPRA/STM
+17 zo/STM
+3 biologi/STM + e/SUF
+1 gemeen/STM + schap/STM + pelijke/STM
+2 aard/STM + korst/STM
+2 ze/STM + s/SUF
+2 ver/PRE + plicht/STM
+2 systeem/STM + filoso/STM + of/STM
+2 co/STM + de/SUF + s/SUF
+1 jeug/STM + dige/STM
+1 burg/STM + e/SUF + meest/STM + er/SUF + s/SUF
+1 Perz/STM + isch/SUF + e/SUF
+3 Koningen/STM
+1 termen/STM
+6 Toch/STM
+1 cons/STM + en/SUF + s/SUF + us/STM
+1 trac/STM + er/SUF + en/SUF
+2 onder/PRE + uit/STM
+2 medaille/STM
+2 gebergte/STM + vorm/STM + ing/SUF
+1 gelegd/STM
+3 be/PRE + seffen/STM
+1 astron/STM + om/STM + ia/STM
+94 word/STM + en/SUF
+72 dan/STM
+2 warmte/STM + reservoir/STM
+2 1933/STM
+3 district/STM + en/SUF
+2 uit/PRE + groei/STM + en/SUF
+169 door/STM
+7 Naties/STM
+1 bekroond/STM
+1 constructie/STM + ve/STM
+1 den/STM + ker/STM + s/SUF
+1 ernstig/STM + e/SUF
+1 Bestuur/STM + lijk/STM + e/SUF
+2 ver/PRE + kenden/STM
+1 Kruis/STM
+7 proces/STM
+3 leven/STM + s/SUF + kwaliteit/STM
+1 noord/STM + oost/STM + elijk/SUF + e/SUF
+3 positie/STM
+2 hemel/STM
+1 op/PRE + ium/STM + produc/STM + en/SUF + t/SUF
+1 geë/STM + er/SUF + d/SUF
+1 ABN/STM
+1 modeltrein/STM
+1 gaan/STM + de/SUF
+5 gemeen/STM + te/STM + raad/STM + s/PRE + verkiezing/STM + en/SUF
+1 II/STM
+1 Nadat/STM
+8 daar/STM
+1 Johannisthal/STM
+1 Leuven/STM
+3 Zeeland/STM
+1 gelovigen/STM
+2 benoemd/STM + e/SUF
+3 Persoon/STM
+2 plannen/STM
+1 G/STM + er/SUF + maan/STM + s/SUF
+1 paste/STM
+1 Jacob/STM + s/SUF
+5 toen/STM + malige/STM
+1 eind/STM + ejaarsrally/STM
+1 sediment/STM + en/SUF
+1 Heiligdom/STM
+1 top/STM + tennis/STM + ster/STM
+2 Alpen/STM + toppen/STM
+1 teken/STM
+7 Daar/STM + naast/STM
+2 Antwer/STM + pen/STM + aar/STM + s/SUF
+90 naar/STM
+2 verdr/STM + even/STM
+2 beleid/STM
+1 geïntroduc/STM + eerd/SUF
+1 massa/STM + al/STM
+2 kampioen/STM
+2 staat/STM + s/SUF + ge/PRE + heim/STM + en/SUF
+4 fusie/STM
+3 40/STM
+1 slot/STM + en/SUF
+3 zware/STM
+1 over/STM + be/PRE + graz/STM + ing/SUF
+3 schijf/STM
+4 Martí/STM
+1 Arche/STM + ologie/STM + de/SUF + creet/STM
+2 ont/PRE + stond/STM + en/SUF
+4 US/STM
+2 Logical/STM
+1 Mohammed/STM
+3 Ver/STM + enigd/STM
+1 waarschuw/STM + de/SUF
+2 her/STM + haalt/STM
+4 orthodoxe/STM
+1 Rupsje/STM
+1 Lijn/STM
+10 zorg/STM + en/SUF
+1 over/STM + grote/STM
+1 Dejima/STM
+1 Maria/STM + n/SUF
+2 hand/STM + teken/STM + ing/SUF + en/SUF + lijst/STM
+3 barrière/STM
+4 best/STM + udeer/STM + t/SUF
+1 wett/STM + en/SUF
+2 individu/STM + ele/STM
+2 architect/STM + en/SUF + bureau/STM
+1 nikkel/STM
+42 AEX/STM
+11 zowel/STM
+1 Olympi/STM + sche/SUF
+1 H/STM
+24 groot/STM + ste/SUF
+7 welke/STM
+1 gletsjer/STM + ranonkel/STM
+3 even/STM + eens/STM
+1 le/STM + er/SUF + stof/STM
+2 ver/PRE + voer/STM
+4 Fron/STM + t/SUF
+2 soevereiniteit/STM + s/SUF + claim/STM + s/SUF
+2 102761/STM
+1 recht/STM + s/SUF + ver/PRE + houding/STM
+3 waarnem/STM + ing/SUF + en/SUF
+2 ingehuldigd/STM
+3 in/PRE + stelling/STM + en/SUF
+1 ant/STM + woord/STM
+5 België/STM
+3 stilte/STM
+1 bergketen/STM
+8 materiaal/STM
+1 afwijk/STM + en/SUF + de/SUF
+1 toe/STM + getrokken/STM
+1 dik/STM
+2 reken/STM + aar/STM
+8 Na/STM
+1 versnelling/STM
+2 ver/PRE + eisen/STM
+5 ver/PRE + trok/STM
+1 Bob/STM
+1 c/STM + en/SUF + s/SUF + uur/STM
+1 slaan/STM
+1 toeristen/STM
+1 vloog/STM
+1 leider/STM
+2 haardo/STM + s/SUF
+1 ge/PRE + zocht/STM
+1 Farnese/STM
+1 archipel/STM
+4 kastanje/STM
+14 enkel/STM + e/SUF
+1 ge/PRE + bracht/STM
+3 Konink/STM + lijk/STM + e/SUF
+1 vier/STM + duizend/STM + er/SUF
+1 prille/STM
+3 International/STM
+4 toerisme/STM
+1 be/PRE + ken/STM
+3 silicat/STM + en/SUF
+1 360/STM
+2 middel/STM + bare/STM
+2 exact/STM
+1 Priesterbroeder/STM + schap/STM
+9 moet/STM
+2 ruim/STM
+1 koers/STM + indices/STM
+3 ge/PRE + val/STM + len/STM
+1 re/STM + alisatie/STM
+5 rest/STM
+1 Aard/STM + wetenschap/STM + pen/STM
+4 Zuid/STM + oost/STM
+16 meest/STM + e/SUF
+2 Endsieg/STM
+1 Zandvliet/STM
+1 scheikun/STM + de/SUF
+1 B/STM + en/SUF + jamin/STM
+4 daarom/STM
+3 liever/STM
+1 God/STM
+9 voor/PRE + komen/STM
+1 mis/STM + sioneerde/STM
+1 anda/STM
+1 fen/STM + om/PRE + een/STM
+8 name/STM
+1 voor/PRE + loper/STM
+2 Vikingen/STM
+3 letter/STM + s/SUF
+7 programm/STM + a/STM
+1 buig/STM + t/SUF
+3 strikte/STM
+1 Der/STM + de/SUF
+1 geïmplement/STM + eerd/SUF
+1 plotseling/STM
+1 onder/PRE + druk/STM + ken/STM
+1 61/STM
+2 rijk/STM
+2 levensbeschouwing/STM + en/SUF
+33 hebb/STM + en/SUF
+2 Gaan/STM
+1 strato/STM + sfeer/STM
+2 ver/PRE + werk/STM + en/SUF
+1 onder/PRE + zoek/STM + ers/SUF
+1 Jidd/STM + isch/SUF
+1 silic/STM + ium/STM
+2 Oostenrijk/STM + se/SUF
+4 ver/PRE + vuiling/STM
+1 fonet/STM + isch/STM + e/SUF
+6 Externe/STM
+3 droge/STM
+1 religie/STM + uze/STM
+1 an/STM + de/SUF + sie/STM + t/SUF
+1 Boven/STM
+1 breedte/STM + n/SUF
+1 gewoonte/STM
+1 grond/STM + stoffen/STM
+1 strat/STM + en/SUF
+2 Besie/STM + n/SUF
+2 pijl/STM + er/SUF
+1 meningsuit/STM + ing/SUF
+1 ver/PRE + scheiden/STM + heid/STM
+4 lang/STM + zaam/STM
+1 speci/STM + ale/STM
+11 ca/STM
+1 broeikasef/STM + fect/STM
+1 ge/PRE + speci/STM + fic/STM + eerde/STM
+4 Turing/STM + s/SUF
+3 note/STM + er/SUF + de/SUF
+1 wolfraam/STM
+1 hemel/STM + se/SUF
+11 gelegen/STM
+9 Mars/STM
+1 voet/STM + licht/STM
+2 mee/STM + gevoerd/STM
+2 Hispan/STM + ica/STM
+2 homo/STM + seks/STM + uele/STM
+1 reken/STM + en/SUF
+1 Ouzou/STM
+1 Newton/STM
+3 bloei/STM
+2 World/STM
+1 vis/STM + s/SUF + en/SUF
+2 95/STM
+3 intelligent/STM
+4 eiland/STM + en/SUF
+6 om/PRE + hoog/STM
+1 Bati/STM + bouw/STM
+2 ge/PRE + ologie/STM
+1 gedefinieerd/STM
+1 district/STM
+4 B/STM + in/PRE + nen/STM
+7 Zijn/STM
+3 weg/STM
+1 Germinal/STM
+6 VN/STM
+1 Hasselt/STM
+1 aan/PRE + dacht/STM
+4 kijken/STM
+2 leef/STM + milieu/STM
+2 oppervlak/STM + te/STM + water/STM
+1 winter/STM + sport/STM + voor/PRE + zien/STM + ing/SUF + en/SUF
+1 bezochte/STM
+7 juist/STM
+3 talloze/STM
+1 schatte/STM
+1 data/STM
+5 hoek/STM
+4 voorzitter/STM
+3 Ariana/STM
+1 pianiste/STM
+1 resultaat/STM
+2 sector/STM
+1 trad/STM
+1 Jorda/STM + en/SUF + s/SUF
+2 Think/STM
+1 Sinaït/STM + isch/SUF
+2 ver/PRE + ander/STM + t/SUF
+2 be/PRE + reiken/STM
+1 zuid/STM + verbinding/STM
+2 behoord/STM + e/SUF
+2 Benelux/STM
+2 in/PRE + slaan/STM
+35 waar/STM
+5 half/STM + rond/STM
+1 ijskappen/STM
+1 lijm/STM + den/SUF
+1 ieder/STM + e/SUF
+1 Isaac/STM
+1 berg/STM + streken/STM
+2 zon/STM
+1 voor/PRE + werpen/STM
+1 het/STM + geen/STM
+1 carrièr/STM + isten/STM
+1 president/STM + ieel/STM
+7 wil/STM
+7 hoe/STM
+1 kan/STM + alisatie/STM
+2 uit/PRE + breken/STM
+2 vrijwillig/STM + ers/SUF
+1 draagt/STM
+1 tekto/STM + nische/STM
+8 precies/STM
+1 gulden/STM
+1 Catalaans/STM + e/SUF
+2 blauwe/STM
+54 dit/STM
+1 toe/STM + s/SUF + tellen/STM
+2 Inmiddel/STM + s/SUF
+2 droog/STM
+5 Pak/STM + istan/STM
+2 Schuld/STM + en/SUF
+3 rondom/STM
+2 partij/STM + raden/STM
+2 voor/PRE + tijdig/STM
+4 45/STM
+2 gouverneur/STM
+4 g/STM
+1 overheersen/STM + de/SUF
+3 Misvattingen/STM
+2 mandatarissen/STM
+1 1936/STM
+1 zakte/STM
+2 Hier/STM
+2 afboog/STM
+2 ont/PRE + moet/STM + ing/STM + s/SUF + centrum/STM
+1 zuid/STM + föhn/STM
+1 Kiel/STM
+24 vooral/STM
+1 toe/STM + kennen/STM
+1 Ontwikkeling/STM + s/SUF + programm/STM + a/STM
+1 ver/PRE + sch/STM + ilde/STM
+1 Panno/STM + nische/STM
+2 compl/STM + iceer/STM + den/SUF
+3 du/STM
+1 onder/PRE + zoek/STM + s/SUF + station/STM
+2 Kwik/STM
+1 sch/STM + er/SUF + pe/STM
+2 00/STM
+2 ver/PRE + tegen/STM + woordig/STM + t/SUF
+1 afhank/STM + elijk/SUF + e/SUF
+2 cult/STM + ureel/STM
+23 ge/PRE + volg/STM
+2 Innsbruck/STM
+2 185021/STM
+1 on/STM + ver/PRE + hoopt/STM + e/SUF
+1 grand/STM + slam/STM + titel/STM
+7 19/STM
+1 grove/STM
+1 Daarna/STM
+1 afwijk/STM + t/SUF
+1 Vele/STM
+1 Toponymie/STM
+13 Volgens/STM
+1 ver/PRE + zorg/STM + en/SUF
+1 vaker/STM
+1 acht/STM + er/SUF + grond/STM + straling/STM
+1 positie/STM + ve/STM
+3 gebas/STM + eerd/SUF
+3 ver/PRE + der/STM + e/SUF
+2 helft/STM
+4 stam/STM
+3 ding/STM + en/SUF
+2 willen/STM
+3 betek/STM + en/SUF + is/STM
+2 hoofd/STM + aan/PRE + nem/STM + er/SUF
+1 industr/STM + iële/STM
+2 prob/STM + eert/STM
+1 Ro/STM + n/SUF + de/SUF
+3 continent/STM + ale/STM
+6 Spaans/STM + e/SUF
+1 zinkerts/STM
+1 Adelbert/STM
+1 gek/STM
+123 In/STM
+1 instructie/STM
+1 Kwartair/STM
+3 zuid/STM
+1 afscheid/STM
+16 elkaar/STM
+4 cult/STM + urele/STM
+2 spel/STM + ling/STM
+1 Adolf/STM
+1 Sociaalde/STM + mocrat/STM + isch/STM + e/SUF
+5 zee/STM + niveau/STM
+2 Ver/STM + tegen/STM + woordig/STM + er/SUF
+1 oever/STM
+50 heeft/STM
+2 laagst/STM + gelegen/STM
+1 Różycki/STM
+1 Belg/STM
+4 houdt/STM
+1 ver/PRE + toont/STM
+2 be/PRE + grijpen/STM
+3 Tjerk/STM
+1 onder/PRE + gaan/STM
+1 53/STM
+1 Rejewski/STM
+2 indices/STM
+4 Moeder/STM
+1 Cup/STM
+1 behalve/STM
+1 winkels/STM
+1 genummerd/STM
+3 Prestatietabel/STM
+1 diaconie/STM
+1 onder/PRE + klasse/STM
+1 Insecta/STM
+1 Edo/STM
+2 wel/STM + stand/STM + s/PRE + commissie/STM
+1 kosmos/STM
+1 land/STM + klimaat/STM
+1 vloei/STM + baar/STM
+1 Rub/STM + en/SUF + s/SUF
+1 Whoopi/STM
+1 humanitaire/STM
+1 spoor/STM
+5 in/PRE + slag/STM
+2 Romeinen/STM
+1 slacht/STM + ing/SUF + en/SUF
+1 2100/STM
+3 be/PRE + staan/STM + de/SUF
+24 atmosfeer/STM
+2 Geïmporteerd/STM
+1 speci/STM + alist/STM + en/SUF
+1 Schijnpoort/STM
+1 Termijn/STM
+1 kleur/STM + en/SUF
+1 schijn/STM + en/SUF
+1 tal/STM + rijk/STM + e/SUF
+1 Liechtenstein/STM
+2 Meeuwen/STM
+1 uniek/STM + e/SUF
+3 zagen/STM
+26 stad/STM
+2 bestek/STM
+2 Machine/STM
+4 ooit/STM
+2 dien/STM + en/SUF
+2 overeen/STM + komst/STM
+2 401/STM
+1 M/STM
+1 be/PRE + nader/STM + de/SUF
+1 ge/PRE + dacht/STM
+1 aminozur/STM + en/SUF
+1 winter/STM + sport/STM + gebied/STM
+10 23/STM
+1 Dumond/STM
+1 hobby/STM
+1 Pazhwak/STM
+1 administrat/STM + eur/STM
+82 om/STM
+1 kamp/STM
+2 Münch/STM + en/SUF
+8 diepte/STM + punt/STM
+3 wie/STM
+1 aan/PRE + duid/STM + ing/SUF
+1 Ligging/STM
+1 alvast/STM
+2 uit/STM + er/SUF + aard/STM
+1 barokke/STM
+1 National/STM
+1 constantheid/STM
+1 act/STM + ing/SUF
+2 stad/STM + s/SUF + deel/STM
+1 inw/STM + en/SUF + dige/STM
+1 Maria/STM + nen/STM + trog/STM
+1 slot/STM + stand/STM
+14 bevolking/STM
+4 1947/STM
+3 beurz/STM + en/SUF
+3 afval/STM
+1 alpen/STM + gebied/STM
+1 voor/PRE + stand/STM + er/SUF
+1 Jerzy/STM
+1 conserv/STM + at/STM + ieve/STM
+2 Punt/STM
+1 licht/STM + spel/STM
+1 coprins/STM + en/SUF
+2 Charles/STM
+1 aspiraties/STM
+1 leven/STM + s/SUF + ver/PRE + wacht/STM + ing/SUF
+19 hoogte/STM
+2 oer/STM + continent/STM
+1 Roal/STM + d/SUF
+1 autonom/STM + e/SUF
+1 etni/STM + sche/SUF
+2 dieper/STM + e/SUF
+1 water/STM + kracht/STM + centrale/STM + s/SUF
+1 slot/STM
+1 leg/STM + e/SUF
+1 in/PRE + dien/STM
+1 Zee/STM + vaart/STM + school/STM
+2 islam/STM + iti/STM + sche/SUF
+9 bij/STM + zonder/STM
+1 Andere/STM + n/SUF
+8 Zie/STM
+1 A9/STM
+1 aan/PRE + boden/STM
+1 equivalente/STM
+1 schimmels/STM
+2 1993/STM
+2 kalk/STM + steen/STM
+1 Mount/STM
+1 wis/STM + t/SUF
+1 meisjes/STM
+1 Stuur/STM + groep/STM
+8 hoofd/STM + stad/STM
+1 Mathilde/STM
+1 rits/STM + systeem/STM
+1 gelegen/STM + heid/STM
+1 partij/STM + raad/STM
+1 relat/STM + ie/STM + s/SUF
+1 parròquia/STM
+1 Bekken/STM
+1 meest/STM + er/SUF
+5 uit/PRE + voer/STM + ing/SUF
+3 campagne/STM
+2 Airways/STM
+1 Chris/STM + t/SUF + us/STM
+1 slacht/STM + offer/STM + s/SUF
+3 uit/PRE + zich/STM + t/SUF
+1 akk/STM + oord/STM
+1 Nog/STM
+1 Kerk/STM
+4 instrument/STM + en/SUF
+2 ongeken/STM + de/SUF
+1 UL/STM
+3 04/STM
+20 Op/STM
+3 I/STM
+1 spoor/STM + lijn/STM
+3 jaïn/STM + tempel/STM
+2 Alle/STM + en/SUF
+7 ging/STM
+1 terreurda/STM + den/SUF
+2 gebeur/STM + tenissen/STM
+3 president/STM
+3 op/PRE + gepikt/STM
+1 Samen/STM
+2 be/PRE + weer/STM + de/SUF
+4 kreeg/STM
+2 Tristan/STM
+11 periode/STM
+2 uit/PRE + een/STM + dreef/STM
+2 grand/STM
+1 William/STM
+1 met/STM + amorfose/STM
+1 pasta/STM
+3 over/STM + genomen/STM
+1 zout/STM + baden/STM
+2 Oprichting/STM
+3 groen/STM
+1 om/PRE + gerekend/STM
+1 fabriek/STM
+1 auto/STM + trof/STM + e/SUF
+4 uit/PRE + zonder/STM + lijk/STM + e/SUF
+4 begon/STM
+2 onafhank/STM + elijk/SUF
+1 sleutel/STM + woord/STM + en/SUF
+1 Scandinavië/STM
+2 verklaren/STM
+4 Vlaams/STM
+4 St/STM
+1 Parti/STM + t/SUF
+1 in/PRE + voer/STM
+1 overwegend/STM
+4 in/PRE + deling/STM
+1 Hectare/STM
+2 voor/PRE + gesteld/STM
+1 christ/STM + en/SUF + en/SUF
+1 SETI/STM
+2 V2/STM
+3 specifiek/STM
+1 bezig/STM + houdt/STM
+1 ontleend/STM
+3 land/STM + schap/STM + pen/STM
+2 PlotData/STM
+3 fen/STM
+1 kunst/STM + en/SUF
+1 lev/STM + er/SUF + en/SUF
+1 ultraviolet/STM
+4 social/STM + e/SUF
+4 bepaald/STM
+2 gemeen/STM + te/STM + raad/STM + sleden/STM
+1 in/PRE + ge/PRE + kocht/STM
+5 leek/STM
+2 sche/STM + t/SUF + s/SUF + ontwerp/STM
+3 op/PRE + zet/STM
+1 Niño/STM
+2 bre/STM + de/SUF
+2 1616/STM
+1 beschouw/STM + en/SUF
+1 Dord/STM + recht/STM
+3 genomen/STM
+3 gew/STM + oonlijk/STM
+1 deugd/STM
+2 Bay/STM
+2 Bij/STM + voor/PRE + be/PRE + eld/STM
+1 oud/STM + heid/STM + kunde/STM
+1 merk/STM
+1 reconstru/STM + er/SUF + en/SUF
+2 archeol/STM + ogisch/STM
+1 curiosa/STM
+2 draai/STM + en/SUF
+3 Duits/STM + ers/SUF
+2 onstabiel/STM
+5 filoso/STM + fi/STM + e/SUF
+1 Schel/STM + demon/STM + ding/STM
+1 trek/STM + vogels/STM
+1 dekk/STM + end/STM
+1 bouw/STM + meest/STM + er/SUF
+3 Duits/STM + talige/STM
+1 bouw/STM + proces/STM
+2 viridis/STM
+4 succes/STM + volle/STM
+1 Adria/STM
+2 Oost/STM
+1 slee/STM
+1 orogenese/STM
+1 wieler/STM + rond/STM + e/SUF
+4 Amsterdam/STM + se/SUF
+2 wieler/STM + piste/STM
+2 pass/STM + en/SUF
+1 schad/STM + elijk/SUF + e/SUF
+1 327/STM
+1 float/STM
+3 Demografie/STM
+1 krijg/STM + s/SUF + her/STM + en/SUF
+2 Sluwe/STM
+1 megalomane/STM
+1 ge/PRE + sch/STM + en/SUF + ken/STM
+1 kriti/STM + sche/SUF
+1 Hubble/STM
+1 Neptunus/STM
+2 Band/STM
+31 genoemd/STM
+1 boeddh/STM + isme/STM
+1 op/PRE + leiding/STM + en/SUF
+2 oms/STM + in/PRE + ge/PRE + ling/STM
+3 formele/STM
+2 Verdrag/STM
+10 beurs/STM
+1 Jami/STM
+5 komet/STM + en/SUF
+1 Won/STM + ing/SUF + en/SUF
+2 ge/PRE + plan/STM + d/SUF
+1 Onbewogen/STM
+4 plek/STM
+1 Jood/STM
+1 draag/STM + kracht/STM
+1 Unicef/STM
+2 Dua/STM
+2 oorlog/STM + s/SUF + jaren/STM
+6 vrij/STM
+1 ge/PRE + dacht/STM + e/SUF + goed/STM
+1 leverancier/STM
+2 castratie/STM
+48 deze/STM
+1 op/PRE + ge/PRE + wekt/STM
+5 Tussen/STM
+1 Politiek/STM
+3 bescherm/STM + ing/SUF
+1 onder/STM + ste/SUF
+2 top/STM + ografi/STM + sche/SUF
+14 aan/PRE + delen/STM
+1 plan/STM + etesi/STM + maal/STM
+1 Be/STM + reken/STM + ing/SUF
+1 stabilis/STM + er/SUF + en/SUF + de/SUF
+6 mag/STM
+20 Er/STM
+1 del/STM + e/SUF
+2 54969/STM
+1 4810/STM
+1 Klasse/STM
+2 hoogheem/STM + raad/STM + schap/STM
+2 regen/STM
+5 polen/STM
+1 congres/STM + s/SUF + eert/STM
+1 Naam/STM
+1 Voor/STM + malige/STM
+1 orkest/STM
+4 ton/STM
+2 Jong/STM
+1 American/STM
+13 ver/PRE + der/STM
+1 vijan/STM + den/SUF
+3 afleiden/STM
+2 vallei/STM
+196 voor/STM
+1 terug/STM + gerekend/STM
+5 bedrij/STM + ven/STM
+2 weids/STM
+2 ver/PRE + dacht/STM
+10 Onder/STM
+4 komen/STM + de/SUF
+9 gevormd/STM
+1 free/STM
+1 neutrale/STM
+2 Po/STM
+4 specifiek/STM + e/SUF
+1 formatie/STM
+1 Justus/STM
+1 Verwer/STM + ing/SUF
+2 tijd/STM + schrift/STM
+1 graf/STM + felflanken/STM
+72 zich/STM
+1 ge/PRE + mis/STM + t/SUF
+1 gezond/STM + heid/STM + s/SUF + zorg/STM
+2 Mair/STM + e/SUF
+1 op/PRE + gevuld/STM
+1 hygiëne/STM
+3 uit/PRE + straling/STM
+1 magnesium/STM + rijk/STM + e/SUF
+4 plat/STM
+1 zeil/STM + en/SUF
+3 Cult/STM + ureel/STM
+3 koers/STM + ontwikke/STM + ling/STM
+2 temperatuur/STM + schommel/STM + ing/SUF + en/SUF
+4 beslis/STM + s/SUF + en/SUF
+2 plat/STM + en/SUF + tekto/STM + niek/STM
+1 verga/STM + de/SUF + r/SUF + ing/SUF + en/SUF
+1 Ver/STM + dien/STM + s/SUF + t/SUF + en/SUF
+1 graf/STM + eem/STM
+1 social/STM + isten/STM
+4 dien/STM + s/SUF
+1 on/STM + ver/PRE + wacht/STM + e/SUF
+1 Sinds/STM + dien/STM
+1 her/STM + bouw/STM
+2 Cambri/STM + dge/STM
+1 Evolutie/STM
+2 ontsnappen/STM
+1 aan/PRE + ge/PRE + richt/STM
+1 regel/STM
+2 Alpen/STM + gebied/STM
+2 auteur/STM
+4 blijf/STM + t/SUF
+1 Sovjet/STM + over/STM + heer/STM + s/SUF + ing/SUF
+2 300/STM
+4 functie/STM
+1 Haar/STM
+5 in/PRE + clus/STM + ief/STM
+3 discip/STM + lines/STM
+1 height/STM
+3 wijd/STM + ver/PRE + breid/STM
+2 be/PRE + eld/STM + houwer/STM
+1 middel/STM + grote/STM
+7 2006/STM
+22 steeds/STM
+2 drugs/STM
+2 esthetische/STM
+22 shift/STM
+1 rollen/STM
+1 2014/STM
+6 beide/STM + n/SUF
+1 onafhank/STM + elijk/SUF + heid/STM
+2 Korfbal/STM
+1 onderhoud/STM + s/SUF + werk/STM + zaam/STM + heden/STM
+6 Afgha/STM + nen/STM
+1 machine/STM
+1 informatica/STM
+3 bescherm/STM + t/SUF
+2 steun/STM + de/SUF
+1 ge/PRE + schatte/STM
+1 uit/PRE + gerekend/STM + e/SUF
+1 vloei/STM + den/SUF
+1 brand/STM + tech/STM + nische/STM
+1 New/STM
+1 Morfogenese/STM
+2 renovatie/STM
+1 trend/STM
+2 chaotische/STM
+2 56/STM
+1 reken/STM + model/STM
+5 1961/STM
+1 55/STM
+1 Roig/STM
+1 Assistent/STM + ie/STM
+1 inwoner/STM + tal/STM
+1 metselaar/STM
+1 Berbers/STM
+85 of/STM
+2 temperatuur/STM + ver/PRE + sch/STM + illen/STM
+1 bewijs/STM
+2 ge/PRE + dicht/STM + en/SUF
+1 leven/STM + de/SUF
+1 in/PRE + ter/STM + view/STM
+1 nood/STM + lijden/STM + de/SUF
+1 fysica/STM
+1 Ver/STM + leden/STM
+1 wind/STM + en/SUF
+2 Arische/STM
+2 grondig/STM
+2 eenvoudig/STM + e/SUF
+2 eindig/STM + t/SUF
+5 ontwerp/STM + en/SUF
+2 omvat/STM
+2 1919/STM
+1 massa/STM + le/STM
+2 pelagische/STM
+1 rug/STM
+1 astron/STM + om/STM + e/SUF
+1 Aan/STM + ge/PRE + zien/STM
+1 Zuid/STM + pool/STM
+4 cultur/STM + en/SUF
+27 eigen/STM
+1 bos/STM + gebied/STM
+6 ons/STM
+3 Religie/STM
+2 jong/STM + ste/SUF
+1 werk/STM + gelegen/STM + heid/STM
+1 be/PRE + vriend/STM
+1 Plato/STM + nische/STM
+3 pseud/STM + oniem/STM
+1 bouwhekken/STM
+1 lei/STM + gesteente/STM + n/SUF
+2 vitale/STM
+1 alpen/STM + vogels/STM
+1 in/PRE + voer/STM + apparaat/STM
+4 IJ/STM
+2 Gist/STM
+1 vlag/STM
+4 diep/STM
+6 rivier/STM + en/SUF
+1 Beurz/STM + en/SUF
+1 535/STM
+1 bouw/STM + stoffen/STM
+4 60/STM
+7 Open/STM
+2 christ/STM + elijk/SUF + e/SUF
+1 stratificatie/STM
+1 materiaal/STM + keuze/STM
+1 gouverneur/STM + s/SUF
+3 mens/STM
+3 Italia/STM + anse/STM
+3 Air/STM
+2 Sikopi/STM
+1 Wall/STM
+1 water/STM + ver/PRE + ontreini/STM + ging/STM
+1 in/PRE + ter/STM + nation/STM + ale/STM
+1 12/STM + e/SUF
+7 ge/PRE + bouw/STM + en/SUF
+1 Ro/STM + de/SUF
+1 Regel/STM + ing/SUF
+1 1959/STM
+5 2001/STM
+7 vind/STM + en/SUF
+2 Lange/STM
+7 west/STM + en/SUF
+1 w/STM + eiland/STM
+1 rest/STM + er/SUF + en/SUF + de/SUF
+2 multi/STM
+1 buiten/STM + ste/SUF
+1 krant/STM
+1 veenwerk/STM + ers/SUF + gehucht/STM
+4 zuid/STM + verbinding/STM + en/SUF
+1 aan/PRE + tallen/STM
+12 dien/STM + s/SUF + t/SUF
+1 samen/STM + werk/STM + ing/SUF + s/SUF + ver/PRE + band/STM + en/SUF
+2 enig/STM + szins/STM
+1 Fenici/STM + sch/STM
+2 224543/STM
+1 op/PRE + boks/STM + en/SUF
+1 richt/STM + en/SUF
+1 stel/STM + de/SUF
+1 meegeteld/STM
+1 Ti/STM + t/SUF + els/STM
+1 nauwkeurig/STM
+2 partij/STM + dagen/STM
+1 Christendom/STM
+1 ver/PRE + sterkte/STM
+6 situatie/STM
+1 Proces/STM
+3 uit/PRE + spraak/STM
+30 al/STM
+2 buiten/STM + kern/STM
+1 graad/STM + meter/STM
+1 transpor/STM + tabel/STM
+2 vrij/STM + heid/STM
+1 Marcellinus/STM
+11 dus/STM
+9 daar/STM + door/STM
+17 staat/STM
+1 Onder/STM + weg/STM
+1 licht/STM + ing/SUF
+1 HD/STM
+2 onder/PRE + verdeeld/STM
+1 1958/STM
+4 breder/STM
+4 c/STM
+4 burg/STM + e/SUF + meest/STM + er/SUF
+6 aard/STM + mantel/STM
+1 ve/STM + en/SUF
+2 tek/STM + s/SUF + t/SUF + en/SUF
+1 scheld/STM + woord/STM
+26 Hij/STM
+1 gel/STM + eerde/STM
+1 58/STM
+1 aller/STM + hand/STM + e/SUF
+1 ro/STM + de/SUF
+3 be/PRE + sluit/STM
+1 privéleraar/STM
+1 proto/STM + plan/STM + etaire/STM
+5 ont/PRE + staan/STM
+3 produc/STM + tie/STM
+15 vaak/STM
+5 principe/STM + s/SUF
+1 onder/PRE + aan/PRE + nem/STM + er/SUF + s/SUF
+1 duur/STM + zaam/STM
+3 ver/PRE + sch/STM + en/SUF + en/SUF
+1 αστρονομία/STM
+1 radio/STM + straling/STM
+2 Slam/STM
+2 1400/STM
+2 west/STM + kust/STM
+2 religie/STM + s/SUF
+1 shogun/STM
+1 Pierre/STM
+4 evenaar/STM
+1 score/STM
+1 uit/PRE + groei/STM + den/SUF
+9 astron/STM + om/STM + ie/STM
+1 Won/STM + ing/SUF + wet/STM
+2 klimaat/STM + ver/PRE + ander/STM + ing/SUF
+1 zust/STM + ers/SUF
+1 Stad/STM + t/SUF
+2 welzijn/STM
+1 resp/STM + ectiev/STM + elijk/SUF + e/SUF
+1 ver/PRE + werk/STM + t/SUF
+1 muzikale/STM
+1 her/STM + berg/STM
+1 Shaha/STM
+1 dat/STM + er/SUF + en/SUF
+1 Daar/STM + om/PRE + heen/STM
+3 in/PRE + ter/STM + e/SUF + s/SUF + se/SUF
+2 Ludwig/STM
+2 binnen/STM + land/STM + se/SUF
+2 kalkige/STM
+1 vliegtuig/STM + fabriek/STM
+4 Fortuyn/STM
+2 Atheners/STM
+8 stukken/STM
+22 geen/STM
+1 China/STM
+1 acht/STM + er/SUF + volg/STM + d/SUF
+13 eeuw/STM
+4 Ecolo/STM
+1 dialoog/STM + cultuur/STM
+2 graf/STM
+2 Berucht/STM
+2 experiment/STM + ele/STM
+1 hier/STM + voor/STM
+1 hoven/STM
+1 delta/STM + vliegen/STM
+2 socio/STM + logisch/STM
+10 naam/STM
+1 bo/STM + er/SUF + de/SUF + rij/STM + en/SUF
+5 ocea/STM + nische/STM
+1 procedure/STM + s/SUF
+1 Ge/STM + wonnen/STM
+25 aan/PRE + tal/STM
+1 apart/STM
+1 wis/STM + kundig/STM + e/SUF + n/SUF
+1 Salomon/STM
+1 125/STM
+1 aan/PRE + bleef/STM
+1 mandaat/STM
+1 eeuw/STM + en/SUF
+2 haven/STM + s/SUF
+1 vries/STM + punt/STM
+1 kracht/STM
+1 staal/STM
+1 zenders/STM
+4 the/STM
+2 aan/PRE + pass/STM + ing/SUF + en/SUF
+1 ontv/STM + ing/SUF
+1 Lauredia/STM + na/STM
+2 eisen/STM
+2 Wim/STM
+1 prob/STM + eerde/STM
+3 diepe/STM
+5 Kalkalpen/STM
+1 pieken/STM
+1 sider/STM + isch/SUF
+2 if/STM
+2 Virginia/STM
+1 winter/STM + sport/STM
+1 Lucht/STM + transpor/STM + t/SUF + Afgha/STM + nistan/STM
+2 noem/STM + de/SUF
+1 veertienjarige/STM
+12 delen/STM
+1 Vella/STM
+6 oost/STM + en/SUF
+1 produc/STM + tie/STM + per/STM + soneel/STM
+1 62500/STM
+1 deel/STM + s/SUF
+2 steun/STM
+4 Guinea/STM
+1 UNESCO/STM
+1 op/PRE + hield/STM
+6 telt/STM
+3 afgenomen/STM
+4 nation/STM + ale/STM
+1 Randstad/STM
+3 aan/PRE + genomen/STM
+5 ont/PRE + dekt/STM
+1 filoso/STM + of/STM
+8 continent/STM
+1 noord/STM + grens/STM
+2 enz/STM
+7 Geschiedenis/STM
+1 biflora/STM
+3 volg/STM + en/SUF + de/SUF
+1 district/STM + scollege/STM
+1 evenement/STM
+5 2002/STM
+4 ver/PRE + klaar/STM + de/SUF
+4 er/STM + voor/STM
+1 betek/STM + en/SUF + en/SUF
+1 godsdienst/STM + vrij/STM + heid/STM
+1 overheersen/STM
+2 provincie/STM + gouverneur/STM
+1 Proxenus/STM
+2 Sankt/STM
+1 klank/STM + en/SUF
+1 Radikal/STM + en/SUF
+8 het/STM + zelf/STM + de/SUF
+3 bouw/STM + de/SUF
+1 binnen/STM + planeten/STM
+1 op/PRE + komen/STM
+1 begin/STM + toe/STM + stand/STM
+2 Z/STM
+10 waarbij/STM
+2 werk/STM + groep/STM + en/SUF
+3 Andere/STM
+2 berg/STM + den/SUF + nen/STM
+5 link/STM + s/SUF
+1 be/PRE + ste/STM + ding/STM
+2 hield/STM
+1 Führer/STM
+2 s/PRE + paar/STM + zame/STM
+6 opdracht/STM + ge/STM + ver/STM
+1 Turkmen/STM + en/SUF
+2 aan/PRE + kleding/STM
+1 Ivan/STM
+1 we/STM + e/SUF + fsel/STM
+2 andersglobalisering/STM
+1 reguliere/STM
+1 Kaap/STM
+2 Oostenrijk/STM
+1 aspect/STM
+1 ge/PRE + zin/STM
+3 UAV/STM
+1 parròquies/STM
+2 rijst/STM
+2 K/STM
+2 Maatstaf/STM
+1 Ei/STM + land/STM + en/SUF
+9 januari/STM
+1 technol/STM + ogisch/STM + e/SUF
+17 tijd/STM
+1 paragli/STM + ding/STM
+1 Hier/STM + door/STM
+1 buur/STM + t/SUF
+1 O/STM
+1 hoge/STM + scholen/STM
+4 steen/STM + eik/STM
+2 function/STM + eel/STM
+2 buur/STM + land/STM + en/SUF
+1 Wereld/STM + erf/STM + goed/STM
+1 burg/STM + ers/SUF
+2 mogen/STM
+4 katholiek/STM + e/SUF
+6 bepaald/STM + e/SUF
+2 zonnew/STM + en/SUF + de/SUF
+2 film/STM + s/SUF
+17 aan/PRE + nem/STM + er/SUF
+1 Wanneer/STM
+1 klimatol/STM + ogie/STM
+1 ge/PRE + drag/STM + s/SUF + wetenschap/STM
+1 daad/STM + werk/STM + elijk/SUF
+1 Milieuproblematiek/STM
+1 ont/PRE + staat/STM
+1 spel/STM + er/SUF
+2 weggekwijnd/STM
+1 Canadez/STM + en/SUF
+2 om/PRE + vang/STM
+2 bruik/STM + bare/STM
+2 op/PRE + volg/STM + er/SUF
+1 ont/PRE + voer/STM + ing/SUF
+1 cultuur/STM + grond/STM
+1 dungeon/STM
+2 Zonne/STM + stelsel/STM
+2 FLN/STM
+2 kort/STM + er/SUF
+1 inflatie/STM
+2 verkiezing/STM
+1 Wim/STM + bledon/STM
+1 arbeid/STM + ers/SUF
+9 wetenschap/STM
+1 Regel/STM + geving/STM
+1 toevals/STM + vondst/STM + en/SUF
+1 saam/STM + horig/STM + heid/STM
+11 miljard/STM
+3 tegen/STM + over/STM
+10 juli/STM
+1 rotatie/STM + as/STM
+1 begin/STM + selverkla/STM + r/SUF + ing/SUF + en/SUF
+1 onder/PRE + zoek/STM + s/SUF + station/STM + s/SUF
+1 twee/STM + jaarlijks/STM + e/SUF
+1 nauw/STM + elijk/SUF + s/SUF
+1 Werk/STM + proces/STM
+2 Wouter/STM
+6 ver/PRE + liet/STM
+2 wolk/STM + en/SUF
+3 aan/PRE + gevuld/STM
+1 Gold/STM + berg/STM
+1 installateur/STM
+1 werkte/STM
+1 universum/STM
+6 over/STM + leven/STM
+1 op/STM + s/SUF + tellen/STM
+7 a/STM
+2 streng/STM + e/SUF
+1 weggesling/STM + er/SUF + de/SUF
+1 ander/STM + szins/STM
+1 aan/PRE + leg/STM
+12 begin/STM
+1 natuur/STM + kundig/STM + e/SUF
+2 op/PRE + waarts/STM + e/SUF
+2 Pim/STM
+1 moderne/STM + r/SUF
+2 publiek/STM
+2 ver/PRE + vangen/STM
+13 ver/PRE + sch/STM + illen/STM + de/SUF
+1 V/STM
+16 liggen/STM
+2 Cuba/STM
+4 actieve/STM
+1 Cypher/STM
+4 in/PRE + zich/STM + t/SUF
+2 cycli/STM + sche/SUF
+5 vier/STM
+1 door/STM + s/SUF + ne/STM + de/SUF
+3 Rethual/STM
+1 Pashtu/STM
+2 Architect/STM + en/SUF
+1 kolo/STM + nisatie/STM
+2 toe/STM + spraak/STM
+1 woest/STM + ijn/STM + klimaat/STM
+1 combi/STM + n/SUF + er/SUF + en/SUF
+1 ziet/STM
+1 rand/STM + gebied/STM
+2 77199/STM
+4 samen/STM + lev/STM + ing/SUF
+1 Chris/STM + toffel/STM
+4 talen/STM
+1 joodse/STM
+1 ge/PRE + houden/STM
+2 man/STM
+3 uit/PRE + gang/STM + s/SUF + punt/STM
+9 KC/STM
+1 Novib/STM
+1 top/STM + oniem/STM
+2 be/PRE + spar/STM + en/SUF
+1 overzeese/STM
+2 zeil/STM + de/SUF
+1 hulp/STM
+1 waarnem/STM + er/SUF
+1 woe/STM + de/SUF
+1 pat/STM + ers/SUF
+1 dag/STM + e/SUF
+2 winter/STM
+2 aard/STM + magnet/STM + isch/SUF
+4 Hoewel/STM
+9 km/STM
+2 project/STM
+3 klein/STM
+5 daar/STM + naast/STM
+2 in/PRE + komen/STM + de/SUF
+1 ge/PRE + lijknamige/STM
+1 1992/STM
+1 on/STM + gelovigen/STM
+157 te/STM
+5 eens/STM
+1 beslis/STM + baar/STM + heid/STM
+3 meerder/STM + e/SUF
+5 infra/STM + structuur/STM
+2 gevangenis/STM + straf/STM
+8 via/STM
+2 Schwerin/STM
+2 uitschieter/STM + s/SUF
+2 Enigma/STM
+1 Jikōji/STM
+28 Andorra/STM
+1 Hoboken/STM
+1 Mün/STM + ster/STM
+1 Elk/STM + e/SUF
+1 ver/PRE + sie/STM
+10 ge/PRE + heel/STM
+1 beh/STM + oort/STM
+1 ijs/STM + tijd/STM
+4 1846/STM
+1 hoogte/STM + s/SUF
+2 raakt/STM + e/SUF
+5 ontwerp/STM + er/SUF
+5 uit/PRE + zonder/STM + ing/SUF
+1 ARPEE/STM
+1 plaat/STM + s/SUF + elijk/SUF + e/SUF
+2 binnen/STM + in/STM
+11 15/STM
+10 2005/STM
+5 namen/STM
+1 relat/STM + ieve/STM
+24 rond/STM
+2 gevangenis/STM
+1 blad/STM + en/SUF
+1 vliegveld/STM
+4 feit/STM
+1 W/STM
+2 bouw/STM + regel/STM + s/SUF
+3 groei/STM + t/SUF
+1 anti/STM
+2 1642/STM
+1 Reich/STM + en/SUF
+2 smoker/STM
+1 gavl/STM
+2 sfeer/STM
+2 politici/STM
+2 pr/STM + en/SUF + t/SUF + kunst/STM
+267 De/STM
+1 F/STM
+2 mee/STM + gerekend/STM
+1 i/STM
+2 Bermuda/STM
+2 ge/PRE + conserv/STM + eerd/SUF
+1 Garm/STM + isch/SUF
+1 Parwin/STM
+9 Grot/STM + e/SUF
+1 klinker/STM + s/SUF
+827 en/STM
+1 Vrouw/STM
+1 spoorkno/STM + op/PRE + punt/STM + en/SUF
+1 es/STM + kader/STM
+2 goed/STM + er/SUF + en/SUF
+5 vondst/STM + en/SUF
+1 stadje/STM
+1 film/STM
+1 be/PRE + drag/STM
+1 lucht/STM + foto/STM + grafie/STM
+2 def/STM + in/PRE + itief/STM
+2 milieu/STM + beleid/STM
+2 conden/STM + s/SUF + er/SUF + en/SUF
+4 weder/STM + op/PRE + bouw/STM
+4 maatschapp/STM + elijk/SUF + e/SUF
+1 Lijst/STM
+1 1998/STM
+1 de/STM + s/SUF + till/STM + er/SUF + en/SUF
+1 bloei/STM + end/STM
+1 Meta/STM + fysica/STM
+1 voeg/STM + ers/SUF
+1 zon/STM + sverduistering/STM
+4 tamme/STM
+2 woest/STM + ijn/STM
+2 bron/STM
+2 Annie/STM
+1 genoemd/STM + e/SUF
+2 be/PRE + won/STM + ers/SUF
+1 ton/STM + en/SUF
+3 louter/STM
+3 scholen/STM
+4 mediterrane/STM
+2 Spekman/STM
+3 vliegen/STM
+1 aan/PRE + ge/STM + haald/STM
+1 hoofd/STM + kerk/STM
+1 mens/STM + elijk/SUF + e/SUF
+4 psych/STM + oanalyt/STM + ica/STM
+1 burg/STM + e/SUF + rij/STM
+2 gracht/STM + en/SUF
+37 twee/STM
+1 skioord/STM + en/SUF
+5 koopt/STM
+5 zonne/STM + stelsel/STM
+2 nivale/STM
+2 Molassebekken/STM
+1 ge/PRE + scheiden/STM
+1 ge/PRE + speel/STM + d/SUF
+3 ggd/STM
+1 ander/STM + s/SUF + om/STM
+3 samen/STM + stelling/STM
+2 alweer/STM
+10 Van/STM
+1 be/PRE + houden/STM
+3 aan/PRE + wijz/STM + ing/SUF + en/SUF
+2 wett/STM + elijk/SUF
+1 ontwikke/STM + ld/STM
+2 plaat/STM + s/SUF + elijk/SUF
+3 laag/STM
+2 bloe/STM + dige/STM
+1 43/STM
+1 ge/PRE + vangen/STM
+1 vormig/STM + e/SUF
+1 ge/PRE + tallen/STM
+11 goed/STM
+4 eenvoudig/STM + weg/STM
+1 document/STM + er/SUF + en/SUF
+1 Ranunculus/STM
+1 Supra/STM + nation/STM + aal/STM
+2 ontwikke/STM + ling/STM + s/SUF + samen/STM + werk/STM + ing/SUF
+1 plank/STM + ton/STM
+1 elektro/STM + nische/STM
+1 voor/PRE + alsnog/STM
+1 mur/STM + en/SUF
+5 tegen/STM + woordig/STM
+1 explosie/STM
+3 hypothese/STM
+1 meivie/STM + r/SUF + ing/SUF + en/SUF
+1 Zuid/STM + er/SUF + eiland/STM
+2 eff/STM + ectiev/STM + er/SUF
+1 Oezbek/STM + istan/STM
+1 oorlog/STM + smisdr/STM + ijven/STM
+5 grote/STM + r/SUF
+1 bouw/STM + kunde/STM
+1 keuze/STM
+1 onherkenbaar/STM
+1 Centr/STM + ale/STM
+1 eenduidig/STM
+1 keerzij/STM + de/SUF
+1 speci/STM + aal/STM
+2 Sannen/STM
+10 30/STM
+1 Uranus/STM
+6 ge/PRE + bruik/STM + en/SUF
+4 algoritme/STM + n/SUF
+1 schaar/STM + s/SUF
+5 ver/PRE + leden/STM
+1 Algerijn/STM + en/SUF
+3 ver/PRE + ander/STM + d/SUF
+1 vloei/STM + bare/STM
+1 afspel/STM + en/SUF
+3 Amerika/STM + an/STM
+3 Speer/STM + s/SUF
+1 orga/STM + nische/STM
+1 Trad/STM + itionele/STM
+2 gerekend/STM
+3 Valley/STM
+1 Rhône/STM + vlakte/STM
+5 waarna/STM
+5 euro/STM
+2 theat/STM + er/SUF
+2 EOE/STM
+1 senaat/STM + s/SUF
+1 enkel/STM + spel/STM
+2 onder/PRE + aan/STM
+1 vaatziekte/STM
+10 bij/STM + voor/PRE + be/PRE + eld/STM
+1 onder/PRE + titel/STM
+1 voeg/STM + t/SUF
+9 procent/STM
+6 continent/STM + en/SUF
+6 Via/STM
+5 Unie/STM
+3 schat/STM + t/SUF + ing/SUF
+12 be/PRE + lang/STM + rijk/STM + ste/SUF
+8 daarna/STM
+1 zorg/STM + sector/STM
+1 Gemeen/STM + schap/STM
+9 stroom/STM + t/SUF
+1 kathedraal/STM
+1 ver/PRE + ander/STM + lijk/STM + heid/STM
+8 Midden/STM
+5 Boven/STM + dien/STM
+19 Amsterdam/STM
+1 op/PRE + gewarmd/STM
+1 monument/STM + en/SUF
+1 meen/STM + de/SUF
+1 straat/STM + be/PRE + eld/STM
+4 m3/STM
+1 tv/STM
+1 onder/PRE + strepen/STM
+1 bol/STM + werk/STM
+2 ge/PRE + sch/STM + illen/STM
+2 UNAMI/STM
+1 maatschapp/STM + ij/STM + en/SUF
+2 Arius/STM
+2 France/STM
+4 Middel/STM + land/STM + se/SUF
+3 ultraviolet/STM + te/STM
+19 Door/STM
+9 1900/STM
+11 Atl/STM + anti/STM + sche/SUF
+1 San/STM + t/SUF
+3 sterren/STM + stelsel/STM
+1 op/PRE + leiding/STM
+1 Her/STM + beleggings/STM + index/STM
+2 Over/STM + zich/STM + t/SUF
+1 Buur/STM
+1 7250/STM
+4 AA/STM
+1 zon/STM + s/SUF
+2 paviljoen/STM
+2 rododendron/STM
+2 ge/PRE + ocentr/STM + isme/STM
+2 aan/PRE + ge/STM + stuurd/STM
+2 284373/STM
+3 Indien/STM
+3 gesteld/STM
+2 loy/STM + aliteit/STM
+6 aard/STM + baan/STM
+18 wel/STM
+6 computer/STM
+2 equinox/STM
+1 grens/STM + t/SUF
+3 ge/PRE + wonnen/STM
+1 veerpontje/STM
+8 noord/STM
+1 ver/PRE + sch/STM + uiven/STM
+24 Nederland/STM
+1 trog/STM + gen/STM
+1 dertien/STM
+2 bouw/STM + be/PRE + sluit/STM
+4 aan/PRE + wezig/STM + heid/STM
+3 gekozen/STM
+1 Social/STM + de/SUF + mòcrata/STM
+3 Sportpaleis/STM
+2 470349/STM
+2 enig/STM
+12 jaren/STM
+1 ver/PRE + recht/STM + s/SUF + ing/SUF
+20 Afgha/STM + nistan/STM
+2 Wet/STM + ge/PRE + ven/STM + de/SUF
+3 regio/STM + n/SUF + al/STM + e/SUF
+1 ontwikke/STM + lde/STM + n/SUF
+2 ge/PRE + laden/STM
+1 fabriek/STM + s/SUF + hallen/STM
+1 index/STM + waar/STM + de/SUF
+16 Ook/STM
+2 roepen/STM
+1 project/STM + ontwikke/STM + laar/STM
+2 beïnvloed/STM + de/SUF
+2 logica/STM
+1 vijf/STM + tien/STM
+6 complex/STM + e/SUF
+6 20e/STM
+1 nood/STM + zakelijk/STM
+1 Latijn/STM + se/SUF
+1 ogenblik/STM
+4 leden/STM
+1 voor/PRE + bij/STM
+1 Zeker/STM
+4 op/PRE + tie/STM + beurs/STM
+1 ver/PRE + houding/STM
+2 sterren/STM + stelsel/STM + s/SUF
+1 fonetiek/STM
+2 Herat/STM
+3 Niger/STM
+1 g/STM + astron/STM + om/STM + ie/STM
+4 la/STM
+73 bij/STM
+1 AAA/STM
+8 Kon/STM
+1 control/STM + e/SUF
+2 system/STM + en/SUF
+1 macht/STM + Na/STM
+3 1994/STM
+1 toe/STM + zich/STM + t/SUF
+1 bekend/STM + s/SUF + t/SUF
+1 El/STM
+24 nieuw/STM + e/SUF
+1 introduc/STM + tie/STM
+1 genaamd/STM + e/SUF
+2 karakter/STM
+1 om/PRE + spant/STM
+26 werk/STM
+12 sinds/STM
+1 ieder/STM
+1 steenbreek/STM
+3 Ant/STM + ropologie/STM
+1 be/PRE + schijn/STM + t/SUF
+1 west/STM + elijk/SUF + e/SUF
+1 sterk/STM + ste/SUF
+1 term/STM
+1 Al/STM + piene/STM
+3 hoog/STM + gebergte/STM
+3 ere/STM + dien/STM + s/SUF + t/SUF + en/SUF
+2 echt/STM
+3 moest/STM + en/SUF
+2 olievaten/STM
+1 ver/PRE + dien/STM + t/SUF
+2 kelpwoud/STM
+4 Bellingshausen/STM
+2 afspraken/STM
+2 ge/PRE + graven/STM
+2 propeller/STM + blad/STM
+1 op/PRE + timaal/STM
+1 keffiyeh/STM
+1 ver/PRE + grootte/STM + n/SUF
+3 tien/STM + tallen/STM
+3 juist/STM + e/SUF
+21 komen/STM
+2 differentiatie/STM
+1 ge/PRE + volg/STM + d/SUF
+1 Amro/STM
+1 imm/STM + ers/SUF
+2 bestendigd/STM
+1 ont/PRE + dekk/STM + ing/SUF + en/SUF
+1 object/STM + ief/STM
+4 week/STM
+1 sig/STM + natuur/STM
+2 2200/STM
+1 compleet/STM
+2 ge/PRE + lief/STM + d/SUF
+7 handel/STM + s/SUF + dag/STM
+3 Euro/STM + crisis/STM
+1 eco/STM + systeem/STM
+3 onder/PRE + deel/STM
+1 commun/STM + iceer/STM + den/SUF
+2 overige/STM
+1 spann/STM + en/SUF + de/SUF
+2 seizoen/STM + en/SUF
+1 hulp/STM + middel/STM + en/SUF
+2 von/STM
+2 slam/STM
+1 temperatuur/STM + stijg/STM + ing/SUF + en/SUF
+1 toonde/STM + n/SUF
+4 rol/STM
+1 centi/STM + meter/STM
+2 ontdekkingsreizig/STM + er/SUF
+3 Genua/STM
+1 ge/PRE + accretis/STM + eerd/SUF
+3 steil/STM
+5 park/STM
+3 mede/STM
+1 splits/STM + ing/SUF
+2 1934/STM
+4 solidariteit/STM
+4 ge/PRE + deel/STM + te/STM + lijk/STM
+1 amfibieën/STM
+1 top/STM + tien/STM
+1 in/PRE + der/STM + daad/STM
+1 Pacifist/STM + isch/SUF
+1 land/STM + schap/STM + s/SUF + architect/STM
+2 heli/STM + ocentr/STM + isme/STM
+2 wis/STM + kundig/STM + e/SUF
+5 taak/STM
+1 beleggings/STM + beleid/STM
+3 afkomst/STM + ig/STM + e/SUF
+1 afgeperst/STM
+1 Tria/STM + s/SUF + formatie/STM
+4 zuid/STM + kant/STM
+1 Zuivere/STM
+3 zeldzaam/STM
+1 Akkerbouw/STM
+2 vrees/STM
+4 koers/STM + en/SUF
+2 onder/PRE + zoek/STM + s/SUF + werk/STM
+1 grens/STM + plaat/STM + s/SUF
+2 tegen/STM + stelling/STM
+1 Hart/STM
+2 be/PRE + wind/STM + voer/STM + der/STM
+1 Getronics/STM
+2 koraalrif/STM
+1 getrouw/STM + d/SUF
+4 zonne/STM + schijn/STM
+1 uit/PRE + werk/STM + en/SUF
+2 tegen/STM + zin/STM
+1 p/STM + ublic/STM + er/SUF + en/SUF
+1 durend/STM + e/SUF
+4 diepte/STM
+5 o/STM
+2 van/STM + daar/STM
+1 function/STM + ele/STM
+2 nen/STM
+1 veel/STM + heid/STM
+2 Wilrijk/STM
+3 Doordat/STM
+1 stroming/STM + en/SUF
+1 grond/STM + werk/STM + er/SUF
+2 Media/STM
+1 steen/STM
+1 Berend/STM + recht/STM
+3 ondoorzichtig/STM
+6 veld/STM
+15 Maan/STM
+2 Diemen/STM
+7 oceaan/STM
+1 Pachamama/STM
+4 lezen/STM
+3 club/STM
+3 wet/STM
+2 Echter/STM
+5 25/STM
+7 ver/PRE + lor/STM + en/SUF
+1 rapport/STM
+3 Onder/STM + aan/PRE + nem/STM + er/SUF
+2 schommel/STM + ing/SUF + en/SUF
+29 Deze/STM
+1 scha/STM + de/SUF
+1 op/PRE + vat/STM + t/SUF + ing/SUF + en/SUF
+1 bezwer/STM + en/SUF
+2 teken/STM + ing/SUF + en/SUF
+2 voed/STM + ing/STM + s/SUF + middel/STM + en/SUF
+1 Nedlloyd/STM
+1 bezett/STM + ing/SUF
+1 twintig/STM
+2 door/STM + lopende/STM
+1 ver/PRE + moord/STM + den/SUF
+1 Amstel/STM + eiland/STM
+3 geïnteresseerd/STM
+2 Jacob/STM
+1 be/PRE + groei/STM + ing/SUF
+1 bewijs/STM + materiaal/STM
+2 Secretaris/STM
+1 rond/STM + e/SUF
+26 per/STM
+1 Dreid/STM + ecker/STM
+2 ge/PRE + was/STM + s/SUF + en/SUF
+1 minister/STM + ie/STM
+1 territoriale/STM
+1 parad/STM + e/SUF + s/SUF
+2 Shkurtaj/STM
+4 eindig/STM + e/SUF
+1 klank/STM + een/STM + heid/STM
+1 zorgvuldig/STM
+1 1941/STM
+1 om/PRE + gekeerd/STM
+1 warmte/STM
+1 naast/STM
+19 Duits/STM + land/STM
+1 spreekt/STM
+1 begrensd/STM
+2 ere/STM + dien/STM + s/SUF + t/SUF + plaat/STM + s/SUF
+2 alle/STM + n/SUF
+3 staf/STM
+4 be/PRE + reken/STM + d/SUF
+1 fakkel/STM
+1 Ada/STM
+3 subduc/STM + tie/STM
+3 aan/PRE + deel/STM
+2 behaard/STM
+2 rakett/STM + en/SUF
+3 geweld/STM
+3 plaat/STM + grenzen/STM
+4 Kabul/STM
+2 daar/STM + voor/STM
+2 winnen/STM
+1 Escape/STM
+1 vuile/STM
+1 religie/STM
+1 hoofd/STM + plaat/STM + s/SUF
+1 subduc/STM + eert/STM
+1 Japan/STM
+6 Amu/STM
+1 ereloon/STM
+1 beurs/STM + index/STM
+1 op/PRE + ge/PRE + richt/STM
+13 ge/PRE + leden/STM
+1 artikel/STM + en/SUF
+4 Eerste/STM
+1 gans/STM + e/SUF
+1 Universiteit/STM
+1 ge/PRE + broken/STM
+2 stukje/STM
+5 ver/PRE + drag/STM
+1 onder/PRE + zoek/STM + ing/SUF + en/SUF
+1 ge/PRE + skied/STM
+1 schuld/STM
+1 water/STM + damp/STM
+1 intraday/STM
+1 endDit/STM
+1 EU/STM
+1 vlekkenstrategie/STM
+1 arbeid/STM + s/SUF + omstandigheden/STM
+24 architect/STM
+1 parochie/STM + s/SUF
+5 reis/STM
+3 druk/STM
+2 Rabbits/STM
+1 restauratie/STM
+3 vroe/STM + gere/STM
+3 noord/STM + pool/STM
+10 ander/STM
+2 formule/STM
+3 be/PRE + zette/STM
+2 2800/STM
+3 wereld/STM + s/SUF
+1 bodem/STM + sane/STM + ring/STM
+2 op/PRE + ge/PRE + zette/STM
+1 Of/STM
+1 aan/PRE + gaan/STM + de/SUF
+4 archeol/STM + ogie/STM
+1 zuid/STM + helling/STM + en/SUF
+3 oost/STM + waarts/STM
+1 vliegtuig/STM + ongeluk/STM
+1 Azteken/STM
+1 op/PRE + ge/PRE + slag/STM + en/SUF
+2 toen/STM + maal/STM + s/SUF
+1 gedegrad/STM + eerd/SUF
+2 Ant/STM + illen/STM
+44 Antwer/STM + pen/STM
+2 seizoen/STM
+2 spel/STM + en/SUF
+1 Explorer/STM
+10 Antwerps/STM + e/SUF
+3 Perz/STM + isch/SUF
+2 ver/PRE + over/STM + ing/SUF
+2 Geboorte/STM
+2 ging/STM + en/SUF
+619 in/STM
+1 ge/PRE + plan/STM + t/SUF
+1 8850/STM
+1 goud/STM
+2 personen/STM
+1 Radio/STM + astron/STM + om/STM + ie/STM
+1 VVD/STM
+1 alum/STM + in/PRE + ium/STM
+2 lijk/STM + en/SUF
+1 hoge/STM + druk/STM + gebied/STM
+1 Nick/STM
+1 ver/PRE + uit/STM
+2 Ayutthaya/STM
+2 magnet/STM + isch/SUF
+4 west/STM + verbinding/STM + en/SUF
+3 hang/STM + t/SUF
+1 met/STM + e/SUF + or/STM + ologie/STM
+1 lorken/STM
+1 band/STM + breedte/STM
+2 ecol/STM + ogisch/STM + e/SUF
+1 beschr/STM + ijven/STM
+2 cyanide/STM
+2 gordel/STM + s/SUF
+1 Onder/STM + wij/STM + s/SUF
+3 werk/STM + zaam/STM
+1 410/STM
+2 maïs/STM
+5 be/PRE + dekt/STM
+1 be/PRE + stuurd/STM + ers/SUF
+1 plaat/STM + s/SUF + namen/STM
+1 bedroeg/STM
+2 op/PRE + ium/STM
+1 tolerantie/STM
+2 hier/STM + over/STM
+1 vloerenleggers/STM
+2 televisiedebat/STM
+1 rebell/STM + en/SUF + groep/STM + en/SUF
+8 opdracht/STM
+1 schrift/STM + elijk/SUF
+1 staat/STM + s/SUF + godsdienst/STM
+2 Povlakte/STM
+2 oud/STM + er/SUF + dom/STM
+1 evangeli/STM + sche/SUF
+1 budget/STM
+2 statu/STM + s/SUF
+14 partij/STM + en/SUF
+1 Zuid/STM + er/SUF + zee/STM
+37 kunnen/STM
+1 recursie/STM
+2 door/STM + d/SUF + r/SUF + ing/SUF + en/SUF
+2 vast/STM + gelegd/STM
+1 illu/STM + stratie/STM
+1 1981/STM
+1 Uitvoerend/STM
+3 uniek/STM
+5 waarop/STM
+1 gek/STM + leed/STM
+1 millenn/STM + ia/STM
+2 Stabroek/STM
+1 tempert/STM
+1 uit/STM + d/SUF + ij/STM + en/SUF + de/SUF
+1 cellen/STM
+1 Nicomachus/STM
+1 UIAA/STM
+3 ijzer/STM + erts/STM
+1 Major/STM
+1 Diverse/STM
+1 ast/STM + r/SUF + ologie/STM
+1 Khalili/STM
+1 ontwerp/STM + opdracht/STM
+4 vast/STM + gesteld/STM + e/SUF
+1 zorg/STM + zaam/STM
+4 Blanc/STM
+1 omschr/STM + ijven/STM
+4 geld/STM + en/SUF + de/SUF
+2 handel/STM + en/SUF
+1 om/PRE + loop/STM + tijd/STM
+1 in/PRE + straling/STM
+4 doordat/STM
+3 geallieerden/STM
+1 Berbers/STM + e/SUF
+1 Duits/STM
+1 coprins/STM
+2 Dirk/STM
+1 Anglicaanse/STM
+1 Ge/STM + wezen/STM
+4 1880/STM
+4 over/STM + igens/STM
+1 oxide/STM + n/SUF
+4 Algoritmen/STM
+1 voor/PRE + komt/STM
+5 Voor/STM + be/PRE + eld/STM + en/SUF
+6 ge/PRE + vond/STM + en/SUF
+1 Tonga/STM
+5 lager/STM
+13 altijd/STM
+1 ver/PRE + oord/STM + e/SUF + ling/STM
+237 zijn/STM
+3 ge/PRE + organis/STM + eerd/SUF
+1 Oezbe/STM + ken/STM
+1 agrari/STM + sche/SUF
+2 reeks/STM + en/SUF
+1 recht/STM + lijn/STM + ige/STM
+1 DA/STM
+6 plaat/STM + s/SUF + en/SUF
+1 Humanist/STM + isch/SUF
+4 zomer/STM + s/SUF
+1 toen/STM + dra/STM
+1 auto/STM + bio/STM + grafie/STM
+1 stegen/STM
+1 vallen/STM
+2 luitenant/STM
+1 uit/PRE + gerekend/STM
+1 eierenhande/STM + laar/STM
+1 sch/STM + ildkruid/STM
+1 intellectuel/STM + en/SUF
+3 gesteente/STM + n/SUF
+8 20/STM
+7 Arab/STM + isch/SUF
+2 aan/PRE + leggen/STM
+4 bedrijf/STM
+2 tijd/STM + elijk/SUF + e/SUF
+1 Limbergsperre/STM
+2 lijst/STM + en/SUF
+3 Soldatenliederen/STM
+14 verkiezing/STM + en/SUF
+1 Hier/STM + uit/STM
+4 Midkap/STM
+2 stuk/STM
+14 hoge/STM
+1 feit/STM + elijk/SUF + e/SUF
+3 vanoud/STM + s/SUF
+2 om/PRE + geleid/STM
+1 reken/STM + kundig/STM
+3 Tegen/STM + woordig/STM
+2 op/PRE + ge/PRE + drag/STM + en/SUF
+1 We/STM + d/SUF + strijd/STM + en/SUF
+15 Bij/STM
+1 steppe/STM
+2 uit/PRE + breid/STM + en/SUF
+1 radio/STM + zenders/STM
+4 bleef/STM
+3 zuid/STM + elijk/SUF + e/SUF
+2 iterat/STM + ie/STM
+1 Sanai/STM
+1 Bab/STM
+2 Andrew/STM
+6 grens/STM
+1 noord/STM + west/STM + en/SUF
+1 righ/STM + t/SUF
+1 gezond/STM + heid/STM
+1 nacht/STM
+3 complex/STM + er/SUF
+1 ged/STM + om/PRE + in/PRE + eerd/STM
+4 minerale/STM + n/SUF
+1 zust/STM + er/SUF + band/STM + en/SUF
+6 100/STM
+4 Zone/STM
+7 7/STM
+2 Cunha/STM
+4 groei/STM
+1 Ouder/STM + vereni/STM + ging/STM
+2 ballonnen/STM
+2 eer/STM
+2 bbp/STM
+10 Tijdens/STM
+3 röntgen/STM + straling/STM
+1 Proximus/STM
+17 punt/STM + en/SUF
+1 schatte/STM + n/SUF
+1 lang/STM + er/SUF
+2 ge/PRE + heim/STM + zinnig/STM + e/SUF
+1 skioord/STM
+2 sterren/STM + be/PRE + eld/STM
+1 vriend/STM + elijk/SUF
+1 islam/STM + ist/STM + isch/STM + e/SUF
+1 regen/STM + rijk/STM + e/SUF
+1 Lucht/STM + bal/STM
+1 onrust/STM
+1 hoofd/STM + er/SUF + tszone/STM
+1 ver/PRE + worven/STM
+1 Hoge/STM
+1 Indik/STM + op/PRE + leustes/STM
+1 bouw/STM + t/SUF
+1 proto/STM
+1 ge/PRE + control/STM + eerd/SUF
+1 natie/STM
+1 Jaar/STM + beurs/STM
+1 verkozen/STM + en/SUF
+1 op/PRE + ge/PRE + voed/STM
+4 zomer/STM + eik/STM + en/SUF
+1 41/STM
+1 bevolking/STM + s/SUF + druk/STM
+1 maand/STM + elijk/SUF + se/STM
+1 lag/STM + en/SUF
+5 hadden/STM
+1 op/PRE + perlie/STM + den/SUF
+7 eerd/STM + er/SUF
+3 aan/PRE + hang/STM + ers/SUF
+2 orthoxe/STM
+2 in/PRE + zagen/STM
+3 18/STM
+6 bouw/STM + werk/STM + en/SUF
+2 wrijving/STM
+1 Journal/STM
+55 maar/STM
+2 strijd/STM + en/SUF
+1 NMBS/STM
+2 Noronha/STM
+3 VOC/STM
+3 op/PRE + ium/STM + gebied/STM
+11 beschouw/STM + d/SUF
+1 best/STM + udeer/STM + den/SUF
+1 Holland/STM + se/SUF
+2 Rokin/STM
+242 op/STM
+1 Ira/STM + anse/STM
+2 Breker/STM
+2 kajuitsknecht/STM
+2 onder/PRE + wij/STM + s/SUF
+2 vergrijp/STM
+3 gewicht/STM
+1 be/PRE + leg/STM
+1 zuinige/STM
+1 beroep/STM
+2 Brocades/STM
+1 over/STM + blij/STM + fsel/STM + en/SUF
+2 maximaal/STM
+1 Deva/STM
+3 Hunebed/STM
+3 uit/PRE + vind/STM + ing/SUF
+8 Vlaams/STM + e/SUF
+1 Maetsuycker/STM
+1 rooms/STM
+3 archeol/STM + ogisch/STM + e/SUF
+2 be/PRE + reken/STM + ing/SUF
+1 Laurentius/STM + kerk/STM
+2 490524/STM
+3 loop/STM + t/SUF
+2 Die/STM + mens/STM + land/STM
+1 Byzantijn/STM + en/SUF
+7 melden/STM
+2 waar/STM + den/SUF
+1 schepen/STM + en/SUF
+2 speel/STM + t/SUF
+2 Wat/STM
+1 Kale/STM
+1 aardlag/STM + en/SUF
+1 voor/PRE + afgaan/STM + de/SUF
+2 comp/STM + en/SUF + s/SUF + er/SUF + en/SUF
+1 Ugarit/STM
+1 voed/STM + ing/STM + s/SUF + stof/STM
+3 toe/STM + genomen/STM
+3 Drake/STM
+5 Over/STM
+1 fossiel/STM + en/SUF
+2 Germania/STM
+2 Vervol/STM + ging/STM
+1 zoog/STM + dieren/STM
+2 oceaan/STM + korst/STM
+3 kerk/STM
+1 ont/PRE + ologie/STM
+1 edelste/STM + en/SUF
+1 begon/STM + nen/STM
+4 vol/STM + gorde/STM
+1 regel/STM + t/SUF
+1 beïnvloed/STM + en/SUF
+1 uit/PRE + gezond/STM + en/SUF
+2 borgpen/STM
+1 ec/STM + ologie/STM
+1 ratio/STM
+20 terwijl/STM
+1 ver/PRE + minder/STM + en/SUF
+2 tegen/STM + hang/STM + er/SUF
+1 1987/STM
+1 Dharmatma/STM
+2 Hofarchitekt/STM
+2 Spaans/STM
+39 ze/STM
+2 proces/STM + s/SUF + en/SUF
+5 bouw/STM + en/SUF
+1 zaalvoetbal/STM
+1 tempel/STM + s/SUF
+1 Pia/STM
+1 min/STM
+1 kwestie/STM
+1 Elk/STM
+1 ring/STM + en/SUF
+2 Bouw/STM
+1 afdracht/STM + en/SUF
+1 Justitiepaleis/STM
+1 tien/STM + tal/STM
+1 sneuvel/STM + en/SUF
+2 system/STM + at/STM + isch/SUF
+4 be/PRE + doel/STM + d/SUF
+7 groei/STM + en/SUF
+14 later/STM
+1 E/STM + ver/PRE + est/STM
+2 vertaling/STM
+1 leven/STM + s/SUF + ver/PRE + haal/STM
+2 bekwaam/STM
+1 Bhumi/STM
+2 Opper/STM + vlakte/STM
+2 Moordenaarsbaai/STM
+5 Zo/STM
+1 aan/PRE + treft/STM
+1 koele/STM + r/SUF
+1 zwarte/STM
+1 Hongaarse/STM
+1 Religie/STM + us/STM
+1 alb/STM
+1 vragen/STM
+4 rotatie/STM + snel/STM + heid/STM
+1 Ver/STM + ander/STM + ing/SUF + en/SUF
+1 fic/STM + t/SUF + ief/STM
+9 oude/STM
+15 centrale/STM
+18 Fokker/STM
+21 Agalev/STM
+2 dieren/STM
+1 deel/STM + raadslid/STM
+1 syn/STM + oniem/STM
+2 pool/STM
+4 sider/STM + isch/STM + e/SUF
+2 daarop/STM
+6 meerder/STM + heid/STM
+6 en/STM + erzijds/STM
+1 wij/STM
+2 hoog/STM + land/STM + en/SUF
+1 ma/STM + de/SUF
+2 even/STM + veel/STM
+1 Reif/STM
+2 assemblage/STM
+1 Co/STM + de/SUF
+2 Hypotheek/STM
+1 graan/STM + ver/PRE + bouw/STM
+1 vol/STM + maakt/STM
+2 Corporate/STM
+1 calcium/STM
+13 twee/STM + de/SUF
+2 dwangarbeid/STM + ers/SUF
+4 heette/STM
+1 subalpi/STM + en/SUF
+1 Ver/STM + wacht/STM
+1 steig/STM + er/SUF + bouw/STM + er/SUF
+2 christ/STM + elijk/SUF
+1 Moedjahedien/STM
+1 bourgeoisie/STM
+2 regel/STM + geving/STM
+1 individu/STM
+1 nieuw/STM + jaar/STM + s/SUF + dag/STM
+6 bodem/STM + s/SUF
+36 onder/STM
+2 ver/PRE + tegen/STM + woordig/STM + en/SUF
+3 ont/PRE + stond/STM
+6 ver/PRE + sch/STM + illen/STM
+1 Europe/STM + aan/STM
+7 wett/STM + elijk/SUF + e/SUF
+1 geë/STM + xport/STM + eerd/SUF
+2 472071/STM
+16 10/STM
+3 Andorrezen/STM
+1 commun/STM + ist/STM + isch/STM + e/SUF
+3 in/PRE + middel/STM + s/SUF
+2 belett/STM + en/SUF
+2 Frans/STM + talige/STM
+2 zelf/STM + moord/STM
+1 Fenici/STM + ë/STM
+5 KLM/STM
+1 Khalilullah/STM
+1 partij/STM + congres/STM
+1 gunstiger/STM
+4 sleur/STM + en/SUF
+1 jabr/STM
+2 publ/STM + iceer/STM + de/SUF
+1 fonemati/STM + sche/SUF
+25 men/STM
+6 200/STM
+2 Vrij/STM + zinnig/STM
+6 Darja/STM
+3 India/STM
+1 dollar/STM + s/SUF
+1 Amnesty/STM
+8 leiding/STM
+2 liberale/STM
+2 algebra/STM
+1 3794/STM
+2 Valira/STM
+4 architect/STM + en/SUF
+2 hel/STM + t/SUF
+1 congres/STM + s/SUF + en/SUF
+1 Meryl/STM
+3 Ronald/STM
+4 Hindoekoesj/STM
+3 Om/STM
+2 Indi/STM + sche/SUF
+4 schreef/STM
+1 geloofd/STM
+6 Karel/STM
+30 Een/STM
+2 Amir/STM
+17 hem/STM
+2 ge/PRE + pat/STM + en/SUF + t/SUF + eerd/SUF
+1 Vroege/STM
+8 woord/STM
+1 eustat/STM + isch/SUF
+3 geboren/STM
+8 Rotterdam/STM
+3 ISAF/STM
+9 rivier/STM
+6 Frans/STM
+1 mee/STM + t/SUF
+18 deel/STM
+1 1976/STM
+1 ver/PRE + nietig/STM + en/SUF
+1 intens/STM
+1 zonne/STM + straling/STM
+1 Saxifraga/STM
+1 attractie/STM
+1 stadhouder/STM
+2 letter/STM + kunde/STM
+4 ieder/STM + een/STM
+4 relat/STM + ief/STM
+1 op/PRE + ge/PRE + zet/STM
+1 Scale/STM + Major/STM
+1 stand/STM + aard/STM + symbool/STM
+3 Konink/STM + rijk/STM
+4 vliegtuig/STM + en/SUF
+3 hand/STM + en/SUF
+1 vanzelfsprekend/STM
+2 Helena/STM
+2 materie/STM
+2 Vera/STM
+4 bere/STM + den/SUF
+3 straf/STM
+2 ge/PRE + deel/STM + te/STM + n/SUF
+3 School/STM
+3 oceaan/STM + bodem/STM
+2 stoll/STM + ing/STM + s/SUF + gesteente/STM
+1 Krijt/STM
+1 bottom/STM
+1 Kam/STM
+1 versneld/STM + e/SUF
+3 beruchte/STM
+1 Berbers/STM + tam/STM
+7 manier/STM
+4 Polen/STM
+13 gebergte/STM
+2 stil/STM
+1 meest/STM + er/SUF + stuk/STM
+1 Per/STM
+1 Fauna/STM
+3 lineaire/STM
+2 Olie/STM
+1 fonet/STM + isch/SUF
+1 stopte/STM
+3 de/STM + stijds/STM
+1 radiotelescopen/STM
+2 veeteelt/STM
+2 1982/STM + Onder/STM + staan/STM + de/SUF
+1 volk/STM + shype/STM
+4 vrijdag/STM
+8 Aan/STM
+2 onzekerheid/STM
+1 Anthropol/STM + ogical/STM
+1 merk/STM + baar/STM
+1 materie/STM + el/STM
+1 Zeeuwse/STM
+1 kern/STM + wapen/STM
+2 schrift/STM
+2 pool/STM + streken/STM
+1 onder/PRE + steun/STM + d/SUF
+2 be/PRE + ter/STM + e/SUF
+1 tak/STM
+6 hiervan/STM
+2 Kok/STM
+1 Verzamelde/STM
+2 buffer/STM + staten/STM
+2 Koole/STM
+2 zwom/STM
+1 Kroat/STM + en/SUF
+1 welk/STM
+1 tross/STM + en/SUF
+1 ²/STM
+6 voor/PRE + namelijk/STM
+11 planeet/STM
+1 gevoerd/STM
+2 Ki/STM
+2 W/STM + en/SUF + en/SUF
+1 leef/STM + t/SUF
+1 aan/PRE + zet/STM
+4 vorm/STM + de/SUF
+150 dat/STM
+1 roer/STM
+1 Ge/STM + ografi/STM + sche/SUF
+13 sterren/STM
+2 sporen/STM
+3 advis/STM + er/SUF + en/SUF + de/SUF
+2 gesteente/STM + vorm/STM + en/SUF + de/SUF
+4 zetel/STM
+6 moment/STM
+13 minder/STM
+1 eeuw/STM + ige/STM
+12 wereld/STM
+1 volume/STM
+1 Zalige/STM
+3 sch/STM + rij/STM + fster/STM
+1 nauw/STM
+11 2009/STM
+1 West/STM + er/SUF + park/STM
+3 es/STM
+1 extreme/STM + re/STM
+1 Joan/STM
+2 Euro/STM
+1 tramlijn/STM + en/SUF
+2 handel/STM + ing/SUF + en/SUF
+1 overtuig/STM + en/SUF
+1 Falk/STM + land/STM + eiland/STM + en/SUF
+1 dal/STM + ing/SUF
+1 onder/PRE + legger/STM
+8 grote/STM + n/SUF + deel/STM + s/SUF
+1 Volksre/STM + publiek/STM
+3 vondst/STM
+2 over/STM + ge/PRE + drag/STM + en/SUF
+1 in/PRE + voer/STM + de/SUF
+1 Bestuur/STM
+2 ideol/STM + ogisch/STM + e/SUF
+1 bevolking/STM + scijfer/STM
+2 tijd/STM + spann/STM + e/SUF
+1 vond/STM + en/SUF
+1 ge/PRE + om/PRE + orf/STM + ologie/STM
+1 ver/STM + s/SUF + us/STM
+27 komt/STM
+1 Tekenwerk/STM
+3 gedaan/STM
+1 alpinist/STM + en/SUF + vereni/STM + ging/STM + en/SUF
+14 waar/STM + door/STM
+4 Dam/STM
+1 Babylo/STM + nische/STM
+1 ste/STM + e/SUF + g/STM
+1 Khushal/STM
+1 mis/STM + leiding/STM
+2 1986/STM
+1 barok/STM + architect/STM + uur/STM
+30 tegen/STM
+2 viel/STM
+1 boog/STM + spann/STM + ing/SUF
+2 hetzij/STM
+1 shin/STM
+2 markt/STM + werk/STM + ing/SUF
+2 wijz/STM + ers/SUF
+2 Maan/STM + baan/STM
+2 Banken/STM
+4 beide/STM
+1 mogelijk/STM + heden/STM
+1 draad/STM
+1 Hoor/STM + n/SUF
+1 Marollen/STM
+1 alfa/STM
+1 ge/PRE + foto/STM + graf/STM + eerd/SUF
+1 Zaken/STM
+9 samen/STM
+3 Alcazaba/STM
+3 golflengte/STM + n/SUF
+1 1725/STM
+6 kon/STM
+2 begrip/STM
+2 stierf/STM
+3 Noor/STM + d/SUF + elijk/SUF + e/SUF
+2 toe/STM + komst/STM
+2 stroming/STM
+1 graaf/STM
+1 muziek/STM
+3 voor/STM + t/SUF + durend/STM
+1 Zwarte/STM
+1 Alpe/STM + s/SUF
+104 tot/STM
+3 maat/STM + regel/STM + en/SUF
+1 Gaia/STM
+2 500/STM
+2 soevereiniteit/STM
+1 kamp/STM + en/SUF
+1 doopt/STM + e/SUF
+4 veiligheids/STM + risico/STM
+1 klopt/STM
+1 ambitie/STM
+186 die/STM
+2 deeltjes/STM
+1 Inc/STM
+1 se/STM + n/SUF
+1 uit/PRE + breid/STM + ing/SUF + en/SUF
+1 Pamir/STM
+1 stem/STM
+3 ver/PRE + scheiden/STM + e/SUF
+1 Alpen/STM + land/STM + en/SUF
+1 winter/STM + sport/STM + en/SUF
+513 een/STM
+1 muit/STM + en/SUF + de/SUF
+1 Engels/STM + en/SUF
+1 Zoon/STM
+1 best/STM
+3 dicht/STM + er/SUF
+3 afkomst/STM + ig/STM
+1 pen/STM
+2 reiz/STM + en/SUF
+7 1999/STM
+2 Neer/STM + slag/STM
+140 als/STM
+5 ge/PRE + weest/STM
+5 ge/PRE + ven/STM
+1 gabbro/STM
+2 Industrie/STM
+2 charedische/STM
+3 Nederland/STM + s/SUF
+2 begin/STM + nen/STM
+1 organis/STM + me/STM
+1 le/STM + er/SUF
+4 1500/STM
+2 ver/PRE + hinder/STM + d/SUF
+1 be/PRE + staan/STM + d/SUF
+1 makelaar/STM
+1 terecht/STM + komt/STM
+1 immigrant/STM + en/SUF + talen/STM
+2 leven/STM + dige/STM
+2 Pobekken/STM
+18 af/STM
+9 zetel/STM + s/SUF
+1 ge/PRE + lezen/STM
+1 Hindoeïsme/STM
+1 5000/STM
+1 aan/PRE + teken/STM + ing/SUF + en/SUF
+39 land/STM
+3 algehele/STM
+4 doel/STM
+1 relat/STM + iviteit/STM + s/SUF + theorie/STM
+2 Cornelis/STM
+8 oost/STM
+1 Arbeid/STM
+3 enkel/STM
+1 sugger/STM + eerde/STM
+1 Vre/STM + de/SUF
+6 dankzij/STM
+3 Daar/STM
+2 troposfeer/STM
+1 and/STM
+1 trappisten/STM
+4 Slov/STM + en/SUF + ië/STM
+4 exclus/STM + ief/STM
+10 land/STM + en/SUF
+1 muur/STM
+1 bedrijf/STM + s/SUF + tak/STM + ken/STM
+10 soms/STM
+1 Hou/STM
+2 schrift/STM + system/STM + en/SUF
+3 waar/STM + genomen/STM
+1 water/STM + schap/STM
+1 goed/STM + heid/STM
+1 Claverie/STM
+1 maten/STM
+1 vochtig/STM + heid/STM
+15 wat/STM
+1 nomos/STM
+2 divergente/STM
+1 bij/STM + behoren/STM + de/SUF
+12 1983/STM
+1 diversiteit/STM
+1 vier/STM + maal/STM
+1 kleding/STM
+1 Lòria/STM
+2 opvallend/STM
+2 malen/STM
+1 ont/PRE + haald/STM
+1 wed/STM + erzijds/STM + e/SUF
+4 claim/STM + s/SUF
+9 gemiddeld/STM
+1 savannes/STM
+2 kiez/STM + ers/SUF
+1 beoogd/STM + e/SUF
+1 vind/STM + plaat/STM + s/SUF + en/SUF
+1 weet/STM
+1 gebeur/STM + d/SUF
+1 studie/STM
+3 1954/STM
+1 nederzetting/STM
+4 1876/STM
+7 Alex/STM + ander/STM
+1 Sava/STM
+1 Averroes/STM
+5 4000/STM
+1 Noor/STM + d/SUF + west/STM
+1 direct/STM + ion/STM + ele/STM
+1 Parlem/STM + en/SUF + t/SUF + s/PRE + verkiezing/STM + en/SUF
+2 els/STM + e/SUF
+1 vijf/STM
+1 bewak/STM + en/SUF
+4 afgrond/STM
+2 water/STM + oppervlak/STM + te/STM
+2 bergketen/STM + s/SUF
+4 Middel/STM + eeuw/STM + en/SUF
+4 minuten/STM
+1 ontrukte/STM
+1 zorg/STM
+17 be/PRE + staat/STM
+1 method/STM
+2 cumulonimbus/STM
+1 slakk/STM + en/SUF
+1 cirkel/STM
+1 sprek/STM + en/SUF
+1 aan/PRE + vaar/STM + de/SUF
+1 water/STM + stof/STM + lijn/STM + en/SUF
+1 zodoen/STM + de/SUF
+7 schepen/STM
+2 steenhouwerij/STM + en/SUF
+4 DG/STM
+1 Sweer/STM + s/SUF
+1 Biënnale/STM
+1 zwaarte/STM + kracht/STM + golven/STM
+1 monument/STM
+2 geslepen/STM
+1 dividend/STM + rendement/STM
+1 ge/PRE + lijk/STM + e/SUF + nis/STM
+5 Afrika/STM
+6 Xant/STM + en/SUF
+2 Aard/STM + se/SUF
+4 1920/STM
+1 meteoriet/STM
+1 schrijver/STM
+1 Roosevelt/STM + plaat/STM + s/SUF
+1 kocht/STM + en/SUF
+2 koolstofdioxide/STM
+16 algoritme/STM
+3 ruimte/STM
+1 Hoog/STM + vlakte/STM
+8 groen/STM + e/SUF
+2 A/STM
+1 Luci/STM + en/SUF
+1 post/STM
+1 zette/STM
+6 witte/STM
+1 krediet/STM + crisis/STM
+1 oorlog/STM + s/SUF + plannen/STM
+2 zonne/STM + wind/STM
+2 bij/STM + drag/STM + en/SUF
+1 periode/STM + s/SUF
+7 Zij/STM
+1 keer/STM + den/SUF
+29 Speer/STM
+4 aan/PRE + ge/STM + troffen/STM
+7 ligging/STM
+2 werk/STM + ing/SUF
+1 handel/STM + s/SUF + bal/STM + ans/STM
+1 Government/STM
+1 stabiliteit/STM + ste/SUF + s/SUF + t/SUF + en/SUF
+3 in/PRE + druk/STM
+4 omstandigheden/STM
+1 beh/STM + eerst/STM
+7 vast/STM + e/SUF
+3 bewaard/STM
+2 Karkar/STM
+2 Holemans/STM
+1 1659/STM
+1 verg/STM + elijk/SUF + bare/STM
+2 253295/STM
+3 apparaat/STM
+3 ver/PRE + loop/STM
+1 De/STM + r/SUF + ge/PRE + lijk/STM + e/SUF
+3 band/STM
+1 justify/STM
+2 Borgerhout/STM
+1 astro/STM + fysica/STM
+1 zorgwekkend/STM
+1 particulier/STM
+2 context/STM + en/SUF
+1 beëindi/STM + gd/STM
+1 Alpen/STM + voor/PRE + land/STM
+3 254/STM
+2 be/PRE + vries/STM + t/SUF
+1 ver/PRE + sch/STM + r/SUF + oei/STM + de/SUF
+1 zat/STM
+9 2012/STM
+1 Jos/STM
+1 Boeddhisme/STM
+1 mooi/STM
+7 be/PRE + vind/STM + t/SUF
+1 over/STM + name/STM + s/SUF
+1 testament/STM
+35 zoals/STM
+4 be/PRE + vind/STM + en/SUF
+1 Lo/STM + de/SUF
+1 verdeeld/STM
+1 be/PRE + wind/STM
+1 Groei/STM
+1 betek/STM + en/SUF + de/SUF
+3 zuid/STM + west/STM + en/SUF
+4 Russische/STM
+1 zoek/STM + licht/STM + en/SUF
+1 petro/STM + chemi/STM + sche/SUF
+20 klimaat/STM
+6 meren/STM
+1 Dolomiet/STM + en/SUF
+2 hoogst/STM + waarschijnlijk/STM
+1 selectie/STM
+1 overboord/STM
+1 7000/STM
+1 locatie/STM
+2 1989/STM
+2 formatie/STM + ge/PRE + sprek/STM + ken/STM
+5 dividend/STM
+1 samen/STM + gesteld/STM
+11 baan/STM
+1 ge/PRE + voed/STM
+1 Olympi/STM + sch/STM
+1 reag/STM + er/SUF + en/SUF
+2 noord/STM + west/STM + en/SUF + hoek/STM
+1 oog/STM
+1 bunker/STM
+3 Hoe/STM
+3 kosmische/STM
+3 Jans/STM + s/SUF + en/SUF + s/SUF
+1 allure/STM
+4 1806/STM
+3 material/STM + en/SUF
+3 Poolse/STM
+1 dimensies/STM
+8 missie/STM
+1 bank/STM + wezen/STM
+1 be/PRE + trok/STM + ken/STM
+1 mocht/STM + en/SUF
+1 Hemel/STM + straat/STM
+1 den/STM
+2 Moren/STM
+1 uit/PRE + eind/STM + elijk/SUF + e/SUF
+6 ver/PRE + tegen/STM + woordig/STM + d/SUF
+2 luminositeit/STM
+5 eiland/STM
+1 310/STM
+9 ge/PRE + val/STM
+2 method/STM + isch/SUF
+9 idee/STM
+1 overtuig/STM + t/SUF
+1 Achaemeni/STM + den/SUF
+2 Royal/STM
+2 Leven/STM
+2 zonne/STM
+3 stad/STM + s/SUF + bestuur/STM
+4 Koers/STM + ontwikke/STM + ling/STM
+1 Licht/STM
+2 zodra/STM
+5 dicht/STM + heid/STM
+1 bemanning/STM
+13 Ze/STM
+2 eind/STM + e/SUF
+1 entertainment/STM
+1 explosie/STM + ve/STM
+4 plat/STM + en/SUF
+6 veroorzaakt/STM
+2 Net/STM
+4 kwaliteit/STM
+31 ware/STM + n/SUF
+2 Apple/STM
+1 papier/STM + architect/STM + uur/STM
+2 1996/STM
+1 winter/STM + sport/STM + mogelijk/STM + heden/STM
+5 zullen/STM
+1 Arz/STM
+1 hoopt/STM + e/SUF
+1 Lauredia/STM + anse/STM
+4 hout/STM
+1 Tra/STM + de/SUF
+1 rust/STM + ige/STM
+5 uit/PRE + gevoerd/STM
+1 Wegen/STM
+1 DateFormat/STM
+2 Fortis/STM
+1 stad/STM + ium/STM
+2 keurslijf/STM
+11 Nederland/STM + se/SUF
+2 straf/STM + baar/STM
+1 Munitie/STM
+1 gra/STM + den/SUF
+2 klein/STM + ste/SUF
+1 weg/STM + ing/STM + s/SUF + factor/STM
+1 Hebreeuws/STM
+4 rotatie/STM
+1 bewustmak/STM + ing/SUF
+1 kokosnot/STM + en/SUF
+1 Philippus/STM
+1 handel/STM + s/SUF + volume/STM
+1 progress/STM + ieve/STM
+1 Hess/STM
+1 uit/PRE + voer/STM + apparaat/STM
+1 Klimaat/STM
+1 er/STM + op/STM
+1 rs/STM
+1 νόμος/STM
+1 handel/STM + s/SUF + post/STM
+1 land/STM + schap/STM
+1 Hoger/STM
+5 1945/STM
+3 Drechtkanaal/STM
+1 Be/STM + reken/STM + baar/STM + heid/STM
+18 alle/STM
+1 Beweg/STM + er/SUF
+3 particulier/STM + e/SUF
+1 Ver/STM + gelek/STM + en/SUF
+2 446525/STM
+1 expositiehallen/STM
+2 ge/PRE + dacht/STM + e/SUF
+37 Europa/STM
+1 samen/STM + trekk/STM + en/SUF + de/SUF
+3 ge/PRE + met/STM + en/SUF
+1 Okarito/STM
+16 sterk/STM
+2 Economie/STM
+2 tijd/STM + s/SUF + duur/STM
+2 on/PRE + ver/PRE + moei/STM + bare/STM
+1 IJ/STM + s/SUF + land/STM
+2 her/STM + doopt/STM
+1 basalt/STM
+2 stud/STM + en/SUF + ten/STM
+3 grootte/STM
+1 Fritz/STM
+1 duizend/STM
+4 wijze/STM
+2 aan/PRE + rand/STM + ing/SUF
+11 Antarct/STM + ica/STM
+1 versierd/STM + e/SUF
+1 magma/STM
+2 Jozefkerk/STM
+12 wilde/STM
+12 hoge/STM + r/SUF
+1 pa/STM + den/SUF
+4 waarschijnlijk/STM
+1 Cont/STM + rare/STM + formatie/STM
+3 Maar/STM
+1 ver/PRE + krijg/STM + en/SUF
+1 reken/STM + kundig/STM + e/SUF
+1 Heineken/STM
+1 al/STM + piene/STM
+1 diverse/STM + r/SUF
+1 Macht/STM
+1 archeol/STM + oog/STM
+1 roestvrijstaalpoot/STM
+2 katholiek/STM
+2 hoogte/STM + vlucht/STM
+2 1560/STM
+5 federale/STM
+2 Rijn/STM
+3 debut/STM + eerde/STM
+2 nederzetting/STM + en/SUF
+1 erkenn/STM + ing/SUF
+1 Hall/STM
+2 piste/STM
+1 samen/STM + trekk/STM + ing/SUF
+1 Amstel/STM + ve/STM + en/SUF
+1 representeert/STM
+1 deed/STM
+1 edelweiss/STM
+5 waar/STM + de/SUF
+2 wapen/STM + in/PRE + dustrie/STM
+2 Hogere/STM
+9 Dat/STM
+1 schilderij/STM + en/SUF
+6 ge/PRE + matig/STM + de/SUF
+2 Roemeen/STM + s/SUF
+2 2011/STM
+1 structuur/STM
+1 Huysmans/STM
+1 alpen/STM + dieren/STM + wereld/STM
+1 Unilever/STM
+1 alfabet/STM + isch/SUF
+22 Frank/STM + rijk/STM
+2 inschrijven/STM
+1 mensenheugenis/STM
+2 Jump/STM
+3 criter/STM + ia/STM
+1 be/PRE + knopte/STM
+1 ver/PRE + sch/STM + een/STM
+2 Diemermeer/STM
+2 pot/STM + en/SUF
+1 tactiek/STM
+1 Penni/STM + nische/STM
+1 exti/STM + nctie/STM
+1 onder/PRE + zoek/STM + er/SUF
+1 wekelijkse/STM
+2 universalis/STM
+1 Vatic/STM + aan/PRE + stad/STM
+2 extreme/STM
+7 aan/PRE + nemen/STM
+2 project/STM + en/SUF
+1 leven/STM + s/SUF + vorm/STM + en/SUF
+2 volle/STM + dig/STM
+1 sche/STM + tsmatige/STM
+4 start/STM
+3 toch/STM
+3 licht/STM
+18 Melkert/STM
+5 Taliban/STM
+1 bouw/STM + fysi/STM + sch/STM
+1 vorm/STM + den/SUF
+1 formalisaties/STM
+339 is/STM
+2 Speci/STM + ale/STM
+10 toppen/STM
+5 vanuit/STM
+5 Azië/STM
+11 vanaf/STM
+1 beroemd/STM + ste/SUF
+1 Furie/STM
+3 regering/STM + stroepen/STM
+1 ont/PRE + vlucht/STM
+2 Vanuit/STM
+7 neemt/STM
+1 op/PRE + ge/PRE + schort/STM
+1 vriend/STM + in/STM
+1 nadat/STM
+1 universalia/STM
+1 onder/PRE + hand/STM + se/SUF
+1 belast/STM + er/SUF + en/SUF
+1 Grand/STM + e/SUF
+2 Opties/STM
+3 carrièr/STM + e/SUF
+4 Rhône/STM
+1 kind/STM + ers/SUF + terfte/STM
+1 heer/STM + s/SUF + er/SUF
+1 ver/PRE + taal/STM + t/SUF
+8 21/STM
+1 maan/STM + sverduistering/STM
+1 speci/STM + fic/STM + eert/STM
+4 overal/STM
+1 nieuw/STM
+1 dictator/STM
+1 110/STM
+1 metaal/STM
+1 Unió/STM
+3 Wereld/STM + bank/STM
+2 Kandahar/STM
+2 binnen/STM + zee/STM
+2 contract/STM
+2 stramien/STM
+3 ge/PRE + sproken/STM
+3 ge/PRE + richt/STM
+2 elk/STM
+1 hoogst/STM
+1 Vorm/STM + ing/STM + s/SUF + station/STM
+5 kort/STM + e/SUF
+1 doch/STM
+1 Toe/STM + r/SUF + isme/STM
+1 Connors/STM
+1 Catalaans/STM
+2 stand/STM + punt/STM
+1 N/STM
+1 tijd/STM + elijk/SUF
+1 bie/STM + r/SUF
+1 review/STM
+1 in/PRE + ter/STM + discip/STM + lin/STM + air/STM
+1 collectie/STM
+3 percentage/STM
+6 1991/STM
+1 mede/STM + klinker/STM
+1 8/STM
+1 Fellow/STM
+1 ImageSize/STM
+1 dynamica/STM
+13 koers/STM
+1 ontwierp/STM
+3 wind/STM + richt/STM + ing/SUF
+18 Voor/STM
+1 onder/PRE + nom/STM + en/SUF
+4 Bruggen/STM
+4 35/STM
+2 nomadische/STM
+1 wezen/STM + lijk/STM
+2 veiligheids/STM + macht/STM
+3 Encamp/STM
+2 bronnen/STM
+4 soenniet/STM
+1 ou/STM
+1 الخوارزمي/STM + ات/STM
+2 terecht/STM
+1 Werk/STM + t/SUF
+1 koffie/STM
+3 Alhambra/STM
+1 Society/STM
+1 ge/PRE + niet/STM
+1 AlignBars/STM
+1 Noor/STM + d/SUF + pool/STM + gebied/STM
+2 serv/STM + eert/STM
+1 Khuda/STM
+1 uit/PRE + gekeerd/STM
+1 vertaling/STM + en/SUF
+1 Ontwikkeling/STM
+2 Fernando/STM
+1 eenvoudig/STM + er/SUF
+1 Nationaal/STM
+1 Akzo/STM
+1 16/STM + e/SUF
+7 Grootste/STM
+1 F/STM + e/SUF + deraal/STM
+2 be/PRE + ter/STM
+2 Amstel/STM + station/STM
+6 wis/STM + kunde/STM
+6 Grieks/STM
+3 Centr/STM + aal/STM
+1 water/STM + en/SUF
+1 komee/STM + t/SUF + lichamen/STM
+2 sublimeren/STM
+4 plicht/STM
+4 ge/PRE + slot/STM + en/SUF
+2 kostbare/STM
+1 925/STM
+2 liggen/STM + de/SUF
+14 zij/STM
+1 om/PRE + schrijving/STM
+3 Express/STM
+1 v/STM
+3 totale/STM
+14 alle/STM + en/SUF
+2 toe/STM + kwam/STM + en/SUF
+5 Zee/STM
+3 Trivia/STM
+1 om/PRE + ver/PRE + werp/STM + ing/SUF
+1 ough/STM
+3 tien/STM
+3 bouw/STM + werk/STM
+4 Insubrische/STM
+3 William/STM + s/SUF
+2 AScX/STM
+1 werpa/STM
+3 2013/STM
+1 hernoem/STM + den/SUF
+4 scheiden/STM
+3 klap/STM
+1 con/STM + centri/STM + sche/SUF
+1 zijn/STM + de/SUF
+1 zuid/STM + oost/STM + en/SUF
+3 honderd/STM + ste/SUF
+2 hulp/STM + bron/STM + nen/STM
+6 minder/STM + heid/STM
+2 voltooien/STM
+7 nov/STM + ember/STM
+12 toen/STM
+9 Brussel/STM
+2 lijn/STM
+3 keuken/STM
+19 partij/STM
+3 avond/STM
+1 won/STM + en/SUF
+1 brug/STM
+1 beurs/STM + dagen/STM
+1 grens/STM + control/STM + e/SUF + s/SUF
+1 eerd/STM + er/SUF + e/SUF
+2 reken/STM + ing/SUF
+1 duur/STM + zame/STM + r/SUF
+3 betek/STM + en/SUF + t/SUF
+4 kennis/STM
+2 noord/STM + waar/STM + t/SUF + s/SUF
+67 niet/STM
+2 rijkdommen/STM
+2 ver/PRE + brand/STM + en/SUF
+1 golflengte/STM
+2 Genève/STM
+5 augustus/STM
+1 drank/STM
+1 pool/STM + cirkel/STM
+6 ge/PRE + heim/STM + e/SUF
+4 bouw/STM + project/STM
+1 pasten/STM
+1 jager/STM
+1 varieert/STM
+5 Index/STM
+215 met/STM
+1 streng/STM
+3 in/PRE + ter/STM + ieur/STM + s/SUF
+1 get/STM + ijden/STM + versnelling/STM
+1 mess/STM + en/SUF
+2 be/PRE + lang/STM + stelling/STM
+2 Hagemeyer/STM
+2 dom/STM + in/PRE + eerde/STM
+4 computer/STM + programm/STM + a/STM
+2 Venus/STM
+10 zelf/STM
+4 parochie/STM + kerk/STM
+2 Engels/STM
+8 Groen/STM
+1 geld/STM
+5 maal/STM
+9 Alge/STM + rije/STM
+1 aldaar/STM
+1 koning/STM + in/STM
+3 zin/STM
+1 fa/STM + s/SUF + en/SUF
+1 in/PRE + richt/STM + ing/SUF
+2 1988/STM
+11 stand/STM
+1 vereni/STM + gen/STM
+1 luister/STM + en/SUF
+1 Egypti/STM + sche/SUF
+2 flinke/STM
+1 om/PRE + koperij/STM
+1 snowboar/STM + den/SUF
+2 gunning/STM
+1 publ/STM + icaties/STM
+1 Giovanni/STM
+4 Keulen/STM
+36 na/STM
+6 taal/STM
+8 Amerika/STM
+1 lanc/STM + er/SUF + en/SUF
+1 ge/PRE + wijz/STM + igd/STM
+4 draai/STM + t/SUF
+2 partij/STM + structuur/STM
+5 keer/STM
+1 be/PRE + schreef/STM
+11 1/STM
+5 decenn/STM + ium/STM
+1 Walburga/STM
+8 moest/STM
+2 Fauzaya/STM
+1 vrouw/STM + en/SUF + tennis/STM + toernooi/STM
+1 fulltime/STM
+1 koers/STM + histor/STM + ie/STM
+1 jeug/STM + d/SUF + vereni/STM + ging/STM
+2 moed/STM + er/SUF
+1 wapenle/STM + ver/PRE + anties/STM
+1 Per/STM + soneel/STM
+1 Chamonix/STM
+1 syllogisme/STM
+1 St/STM + ation/STM
+1 Deel/STM + gebied/STM + en/SUF
+4 eik/STM
+1 mede/STM + werk/STM + ing/SUF
+2 dwangarbeid/STM
+1 minister/STM + sMini/STM + ster/STM
+1 tabak/STM
+2 Hierbij/STM
+2 be/PRE + hulp/STM
+1 do/STM + s/SUF + is/STM
+2 groot/STM + s/SUF + heid/STM
+1 B/STM + ecker/STM
+1 Hirado/STM
+1 wereld/STM + oorlog/STM
+1 manager/STM + s/SUF + kwaliteit/STM + en/SUF
+1 BAM/STM
+1 berg/STM + helling/STM + en/SUF
+1 dertien/STM + de/SUF
+1 veenland/STM
+1 toeristen/STM + gebied/STM + en/SUF
+1 intelligent/STM + e/SUF
+1 Algerijnse/STM
+2 Baan/STM
+4 ver/PRE + ant/STM + woord/STM + elijk/SUF + heid/STM
+2 actief/STM
+2 geld/STM + en/SUF
+1 succes/STM
+2 pionierswerk/STM
+1 vereni/STM + gt/STM
+2 ver/PRE + trek/STM
+1 millenn/STM + ium/STM
+1 Bureau/STM
+2 stiekem/STM
+2 lucht/STM + vochtig/STM + heid/STM
+4 Grand/STM
+2 covor/STM + s/SUF + t/SUF + en/SUF
+2 Teven/STM + s/SUF
+1 versierd/STM
+1 twee/STM + jaarlijks/STM
+2 bij/STM + zonder/STM + e/SUF
+1 regering/STM + s/SUF + leider/STM + s/SUF
+2 tennis/STM
+1 moei/STM + lijk/STM + e/SUF
+2 ge/PRE + drag/STM
+4 Mont/STM
+4 west/STM
+5 kwam/STM + en/SUF
+1 ver/PRE + nieuw/STM + en/SUF
+1 Lillo/STM
+1 bouw/STM + s/SUF + om/STM
+1 kloosteror/STM + de/SUF
+2 17/STM
+1 w/STM + en/SUF + s/SUF + en/SUF
+3 premier/STM
+2 op/PRE + nieuw/STM
+1 focus/STM
+3 klein/STM + er/SUF + e/SUF
+2 be/PRE + sloot/STM
+2 Voorts/STM
+1 é/STM + n/SUF
+1 voor/PRE + gang/STM + er/SUF
+1 binnen/STM + kern/STM
+1 kapot/STM
+1 Amund/STM + s/SUF + en/SUF
+6 in/PRE + genieur/STM
+1 B/STM
+1 François/STM
+3 islam/STM
+1 link/STM
+4 Schouten/STM
+9 vele/STM
+1 grauwacken/STM
+1 Bio/STM + grafie/STM
+12 zone/STM
+1 bacteri/STM + ën/STM
+2 zout/STM + water/STM
+8 ontwikke/STM + ling/STM
+2 1819/STM
+1 be/PRE + sluit/STM + vorm/STM + ing/SUF + s/SUF + cultuur/STM
+12 om/PRE + dat/STM
+3 system/STM
+5 24/STM
+1 Grau/STM
+2 flow/STM
+2 ver/PRE + plicht/STM + e/SUF
+1 populaire/STM
+2 godsdienst/STM
+1 groei/STM + de/SUF
+3 nagenoeg/STM
+5 PvdA/STM
+4 voor/PRE + be/PRE + eld/STM
+1 Armeense/STM
+2 Antoni/STM
+1 filoso/STM + fi/STM + sche/SUF
+1 be/PRE + handel/STM + en/SUF
+1 7492/STM
+1 ruimte/STM + lijk/STM
+1 voor/PRE + jaar/STM
+26 water/STM
+1 to/STM
+1 tellen/STM
+6 nu/STM
+10 Vanaf/STM
+1 milli/STM + meter/STM
+1 Nie/STM + t/SUF
+2 afzonderlijke/STM
+18 zal/STM
+4 boek/STM
+1 Center/STM
+1 Massachusetts/STM
+2 hoeven/STM
+2 Caraïben/STM
+2 Detiège/STM
+1 Austral/STM + ië/STM
+1 God/STM + ebald/STM + groep/STM
+1 Speci/STM + aal/STM
+1 pakken/STM
+1 ruim/STM + teson/STM + de/SUF
+2 onder/PRE + bracht/STM
+4 won/STM
+5 voor/PRE + malige/STM
+1 etni/STM + citeit/STM
+2 kruipen/STM
+1 Nederland/STM + stal/STM + ige/STM
+8 Stat/STM + en/SUF
+2 27/STM
+4 zoon/STM
+1 trekk/STM + en/SUF
+1 moti/STM + even/STM
+1 Apterygota/STM
+1 Rudolf/STM
+1 algemene/STM
+1 om/PRE + ge/PRE + zet/STM
+1 D/STM
+2 be/PRE + ste/STM + mpel/STM + d/SUF
+6 daal/STM + de/SUF
+1 toe/STM + stand/STM
+1 270/STM
+1 Lendl/STM
+2 Peripatetische/STM
+1 Debutant/STM + en/SUF + prijs/STM
+1 ver/PRE + spreiding/STM
+1 1585/STM
+3 natuur/STM + kunde/STM
+1 ge/PRE + zegd/STM
+3 verbinding/STM
+2 Turk/STM + istan/STM
+3 zeven/STM
+1 be/PRE + palend/STM
+1 on/STM + opvallend/STM + e/SUF
+1 ver/STM
+1 verdwijn/STM + en/SUF
+6 zien/STM
+1 knokken/STM
+2 anno/STM
+2 9/STM
+1 volwaardig/STM
+1 ver/PRE + wijd/STM + er/SUF + d/SUF
+1 opstuw/STM + ing/SUF
+2 Turk/STM + s/SUF
+2 boven/STM + staan/STM + de/SUF
+1 Compagnie/STM
+3 dorpje/STM
+3 um/STM
+2 alsnog/STM
+2 boeddh/STM + ist/STM + isch/STM + e/SUF
+2 Shkurtaj/STM + s/SUF
+3 binnen/STM + land/STM
+1 Koers/STM + histor/STM + ie/STM
+4 lang/STM + zame/STM
+104 ook/STM
+6 klimatol/STM + ogisch/STM + e/SUF
+1 in/PRE + ter/STM + ieur/STM + architect/STM
+1 huis/STM + vader/STM
+2 massa/STM
+9 werk/STM + en/SUF
+1 Sharif/STM
+1 Associ/STM + ation/STM
+1 exceptioneel/STM
+1 sterf/STM + elijk/SUF
+1 koninklijk/STM
+1 continu/STM
+5 mannen/STM
+1 produc/STM + eerde/STM
+2 X/STM
+2 117269/STM
+1 gerenov/STM + eerd/SUF
+1 oom/STM
+1 Schroy/STM + en/SUF + s/SUF
+4 planten/STM
+2 partij/STM + leider/STM
+1 584/STM
+1 resp/STM
+1 volk/STM + s/SUF + ver/PRE + tegen/STM + woordig/STM + er/SUF
+1 lag/STM + e/SUF
+1 self/STM
+1 ver/PRE + slaglegging/STM
+2 handel/STM + s/SUF + schepen/STM
+1 Streep/STM
+2 homo/STM
+1 Aard/STM + wetenschap/STM + pelijke/STM
+1 nieuw/STM + ste/SUF
+10 volg/STM + en/SUF + s/SUF
+22 at/STM
+1 Syr/STM + isch/SUF
+1 novum/STM
+1 aan/PRE + zien/STM + lijk/STM
+4 bemanning/STM + sleden/STM
+2 heuvelbouw/STM + ers/SUF
+2 natur/STM + aliseren/STM
+1 periode/STM + n/SUF
+1 in/PRE + schrijving/STM
+4 boulevards/STM
+1 zuid/STM + oost/STM + hoek/STM
+2 groot/STM + se/SUF
+1 Geheim/STM
+1 Lago/STM
+1 wetenschap/STM + per/STM
+3 ver/PRE + oord/STM + eeld/STM
+1 ontspringen/STM + de/SUF
+1 Stat/STM + en/SUF + verkiezing/STM
+2 uit/PRE + ge/PRE + ge/PRE + ven/STM
+2 Korea/STM
+1 werk/STM + loos/STM + heid/STM + s/SUF + percentage/STM
+3 gebeur/STM + de/SUF
+13 algemeen/STM
+3 Daarom/STM
+2 Pinus/STM
+1 Gey/STM + s/SUF + els/STM
+1 gletsjer/STM
+1 Frank/STM + lin/STM
+1 fijnsparr/STM + en/SUF
+1 aard/STM + appel/STM + en/SUF
+2 uw/STM
+1 pseudoco/STM + de/SUF
+2 plank/STM
+2 Rud/STM
+5 vader/STM
+1 38º/STM
+2 Talhaoui/STM
+1 Noshaq/STM
+3 fonds/STM
+5 lang/STM + e/SUF
+3 gest/STM + icht/STM
+1 hoogte/STM + grens/STM
+2 honderd/STM
+1 Semiti/STM + sche/SUF
+1 Amyntas/STM
+1 rivier/STM + verbinding/STM
+1 Enkele/STM
+2 op/PRE + en/STM + baar/STM
+1 eiwitt/STM + en/SUF
+1 dagelijk/STM + s/SUF
+1 Julià/STM
+1 Einzelhöfe/STM
+1 1950/STM
+3 ver/PRE + boden/STM
+35 Zon/STM
+27 hun/STM
+2 NSDAP/STM
+2 ver/PRE + wijzend/STM
+1 microgolf/STM
+1 Win/STM + den/SUF
+3 land/STM + s/SUF
+9 maakt/STM
+2 fotosynthese/STM
+1 stikstof/STM
+2 boek/STM + en/SUF
+9 der/STM
+1 ge/PRE + teken/STM + d/SUF
+1 Kemal/STM
+2 Katholieke/STM
+1 slaat/STM
+2 effect/STM + en/SUF + beurs/STM
+1 PlotArea/STM
+2 800/STM
+1 rijk/STM + s/SUF + minister/STM
+1 sch/STM + ieve/STM
+2 gaswolk/STM + en/SUF
+2 personage/STM
+4 waarmee/STM
+1 dramat/STM + isch/SUF
+1 teneind/STM + e/SUF
+3 Locmariaquer/STM
+2 be/PRE + stond/STM
+2 eenvoudig/STM
+1 ze/STM + s/SUF + de/SUF
+1 vis/STM
+3 Zuid/STM + elijk/SUF + e/SUF
+2 ontwikke/STM + len/STM
+1 administrat/STM + ief/STM
+1 senior/STM + en/SUF + groep/STM
+9 enige/STM
+1 ontworpen/STM
+2 Keuken/STM
+1 700/STM
+1 ozongat/STM
+1 ge/PRE + titel/STM + d/SUF
+2 be/PRE + vrij/STM + den/SUF
+1 nieuw/STM + s/SUF
+1 gebundeld/STM
+1 Taliban/STM + regering/STM
+1 keizers/STM
+2 Hodge/STM + s/SUF
+3 om/PRE + geving/STM
+2 aan/PRE + leiding/STM
+5 daarmee/STM
+14 weer/STM
+1 KPN/STM
+2 puinhopen/STM
+1 vroe/STM + gen/STM
+1 Bartumeu/STM
+4 be/PRE + draagt/STM
+9 systeem/STM
+2 vos/STM
+1 ten/STM + minste/STM
+1 ver/STM + s/SUF + ne/STM + den/SUF
+1 be/PRE + schadigd/STM
+2 elementen/STM
+1 alpen/STM + hoorn/STM
+15 maar/STM + t/SUF
+12 Met/STM
+1 ploeg/STM
+1 instrument/STM
+1 dramat/STM + isch/STM + e/SUF
+1 begin/STM + letter/STM
+3 media/STM
+2 be/PRE + sprek/STM + ing/SUF + en/SUF
+2 ontwikke/STM + lde/STM
+3 ge/PRE + lanc/STM + eerd/SUF
+1 be/PRE + scheiden/STM
+1 Tadzjik/STM + istan/STM
+2 Ruud/STM
+11 september/STM
+1 Project/STM
+9 loop/STM
+1 werk/STM + t/SUF
+1 Chinees/STM
+1 Steden/STM + band/STM + en/SUF
+1 Astronomie/STM
+5 moord/STM
+1 Sovjet/STM
+1 bankroet/STM
+1 Spandau/STM + gevangenis/STM
+15 Sinds/STM
+4 drie/STM
+1 Contin/STM + en/SUF + tal/STM + e/SUF
+4 chemi/STM + sche/SUF
+1 bij/STM + komen/STM + de/SUF
+1 staat/STM + s/SUF + hoofd/STM
+3 Pangea/STM
+1 signalen/STM
+1 vijf/STM + en/SUF + twintig/STM
+1 sterren/STM + wacht/STM
+1 770/STM
+1 tegen/STM + ge/PRE + houden/STM
+1 U/STM + t/SUF + recht/STM
+6 soort/STM + en/SUF
+1 ban/STM + anen/STM
+1 Spaar/STM
+2 zwaarte/STM + kracht/STM
+1 ver/PRE + keer/STM + de/SUF
+9 Verder/STM
+1 waar/STM + n/SUF + eembare/STM
+1 uit/PRE + strekt/STM
+4 zuil/STM
+7 heet/STM
+2 Mari/STM + en/SUF + e/SUF
+1 ingewikkelde/STM
+1 Vanoud/STM + s/SUF
+1 her/STM + op/PRE + end/STM
+12 Duits/STM + e/SUF
+1 skiën/STM
+1 1643/STM
+2 Beken/STM + de/SUF
+1 onvoldo/STM + en/SUF + de/SUF
+2 grand/STM + eur/STM
+1 ge/PRE + est/STM + elijk/SUF
+2 winsten/STM
+5 Partij/STM
+2 om/PRE + streek/STM + s/SUF
+1 Shan/STM
+1 gesmolt/STM + en/SUF
+1 Begrip/STM
+1 383/STM
+1 ver/PRE + handel/STM + baar/STM
+2 eerst/STM + en/SUF
+2 maakt/STM + en/SUF
+1 vestig/STM + ing/SUF + en/SUF
+1 ve/STM + e/SUF + hou/STM + de/SUF + rij/STM
+1 bestuur/STM + s/SUF
+2 lot/STM
+1 kwik/STM
+2 leggen/STM
+1 over/STM + geb/STM + leven/STM
+1 Geuze/STM + n/SUF
+1 vol/STM + brengen/STM
+1 R/STM + echt/STM + er/SUF + oever/STM
+1 complete/STM
+1 west/STM + ers/SUF + e/SUF
+11 meestal/STM
+2 fonol/STM + ogisch/STM + e/SUF
+2 Land/STM + en/SUF
+1 astron/STM
+1 kant/STM + oren/STM
+1 Paleogeen/STM
+1 aan/PRE + van/STM + kelijk/STM
+1 Kitab/STM
+1 recept/STM + en/SUF
+2 werk/STM + elijk/SUF + heid/SUF
+1 1863/STM
+1 hoogte/STM + n/SUF
+2 Zeeha/STM + en/SUF
+1 deductie/STM
+1 bouw/STM + team/STM
+3 natuur/STM + wetenschap/STM + pen/STM
+4 over/STM + name/STM
+2 ge/PRE + zant/STM
+1 trad/STM + itie/STM + getrouw/STM
+2 uit/PRE + ge/PRE + zet/STM
+1 Bijna/STM
+1 Turk/STM
+2 Omdat/STM
+1 Bouw/STM + stoffen/STM + be/PRE + sluit/STM
+2 kleur/STM
+2 ge/PRE + hele/STM
+2 tabel/STM
+6 klima/STM + ten/STM
+1 timmerlie/STM + den/SUF
+1 z/STM + acht/STM + er/SUF
+2 gedrukt/STM
+1 kriti/STM + ek/STM
+3 volg/STM + en/SUF
+2 milieu/STM + be/PRE + weg/STM + ing/SUF
+2 schanssp/STM + r/SUF + ing/SUF + en/SUF
+2 psych/STM + ologie/STM
+2 acht/STM
+1 sto/STM + om/PRE + schip/STM
+1 ont/PRE + boden/STM
+2 het/STM + e/SUF
+1 Georgi/STM + a/STM
+5 hoewel/STM
+3 Aanvan/STM + kelijk/STM
+5 voer/STM + en/SUF
+2 aan/PRE + zich/STM + t/SUF
+1 Alle/STM
+2 Latijn/STM
+4 gaf/STM
+2 wieler/STM + leven/STM
+4 hoge/STM + r/SUF + e/SUF
+1 ge/PRE + rapport/STM + eerd/SUF
+1 tempo/STM
+2 Arcelor/STM + Mittal/STM
+1 Rijk/STM + s/SUF + bouw/STM + meest/STM + er/SUF
+1 Opvallen/STM + d/SUF
+1 stroom/STM + op/PRE + waarts/STM
+27 Dit/STM
+2 ver/PRE + ton/STM + en/SUF
+2 le/STM
+2 zeeën/STM
+1 Rumi/STM
+2 4811/STM
+3 beschr/STM + ijft/STM
+2 partij/STM + voorzitter/STM
+2 get/STM + ijden/STM
+1 Tennis/STM + kampioen/STM + schap/STM + pen/STM
+2 organis/STM + er/SUF + en/SUF
+1 viel/STM + en/SUF
+3 bracht/STM
+5 handel/STM
+2 efficiënter/STM
+4 beuken/STM
+1 imposante/STM
+3 vlakte/STM
+2 Water/STM
+1 Street/STM
+1 advis/STM + eur/STM
+1 op/PRE + leiding/STM + straject/STM + en/SUF
+2 National/STM + e/SUF
+1 Dover/STM
+2 Amstel/STM + land/STM
+1 Beatrix/STM
+2 doodsoorzaak/STM
+1 adres/STM
+63 er/STM
+2 team/STM
+1 ondiep/STM
+1 procent/STM + uele/STM
+1 Assistent/STM
+1 twijfel/STM
+1 335/STM
+1 In/STM + formatie/STM
+8 Hitler/STM + s/SUF
+2 plan/STM
+1 invloed/STM + en/SUF
+1 invester/STM + ing/SUF + en/SUF
+1 meso/STM + sfeer/STM
+1 Tempel/STM
+18 laat/STM + ste/SUF
+1 moeras/STM
+1 Ver/STM + en/SUF
+4 Ver/STM + sch/STM + illen/STM + de/SUF
+1 Plan/STM + t/SUF + ijn/STM
+1 GIA/STM
+1 ACE/STM
+6 totaal/STM
+1 schip/STM
+1 Protestantse/STM
+1 kringloop/STM + papier/STM
+2 Mazi/STM + ghanan/STM
+2 woon/STM + t/SUF
+4 berg/STM
+13 Amstel/STM
+2 geblokk/STM + eerd/SUF
+12 2000/STM
+3 trad/STM + itie/STM
+12 hoog/STM
+1 rust/STM
+1 Jood/STM + s/SUF
+1 land/STM + bouw/STM + nederzetting/STM + en/SUF
+1 zien/STM + s/SUF + wijze/STM
+1 spectrum/STM
+1 moorddadige/STM
+1 PAB/STM
+8 hoogst/STM + e/SUF
+3 honderd/STM + en/SUF
+1 Period/STM
+2 ver/PRE + damp/STM + en/SUF
+2 kans/STM + en/SUF
+16 tijd/STM + en/SUF + s/SUF
+1 algawarizmiat/STM
+1 4500/STM
+5 Iran/STM
+1 inzake/STM
+3 eigen/STM + lijk/STM
+6 West/STM
+1 roodroze/STM
+1 vor/STM + s/SUF + t/SUF + en/SUF + dom/STM
+14 bekend/STM
+2 potato/STM
+2 wacht/STM
+1 alle/STM + en/SUF + staan/STM + de/SUF
+6 Wereld/STM + oorlog/STM
+2 parlement/STM
+2 pers/STM + oonlijk/STM + e/SUF
+1 Pieter/STM
+2 272831/STM
+3 verg/STM + elijk/SUF + ing/SUF + en/SUF
+3 Mark/STM
+1 geo/STM + fysica/STM
+17 planeten/STM
+3 sluit/STM
+1 exportpartners/STM
+1 Marino/STM
+64 s/STM
+1 prest/STM + er/SUF + en/SUF + de/SUF
+3 per/STM + soneel/STM
+2 architect/STM + onische/STM
+4 insecten/STM
+1 160021/STM
+2 hommels/STM
+2 tech/STM + niek/STM
+1 heuse/STM
+2 Paar/STM + s/SUF
+1 kerk/STM + dorp/STM
+1 Gemeen/STM + teraad/STM
+4 opgraving/STM
+1 families/STM
+1 onder/PRE + ver/PRE + deling/STM + en/SUF
+1 bevoegd/STM + e/SUF
+3 laten/STM
+2 heroïne/STM
+4 goed/STM + e/SUF
+12 mens/STM + en/SUF
+1 alsook/STM
+1 betwiste/STM
+1 negatieve/STM
+1 J/STM + e/SUF
+1 M/STM + en/SUF
+2 stand/STM + be/PRE + eld/STM
+2 Nauw/STM
+2 dekenaat/STM
+2 Alnu/STM + s/SUF
+2 Hispan/STM + iola/STM
+2 kleding/STM + keuze/STM
+1 studie/STM + maquette/STM + s/SUF
+2 constructie/STM
+1 richtte/STM
+65 Aard/STM + e/SUF
+4 samen/STM + komen/STM
+1 Boreel/STM
+7 2010/STM
+2 collega/STM
+3 wel/STM + vaart/STM
+1 Dixence/STM
+1 aard/STM + appel/STM + sala/STM + de/SUF
+2 Hadas/STM + s/SUF
+2 Antwerps/STM
+4 Nochtans/STM
+1 Rijk/STM + skanselarij/STM
+2 evenement/STM + en/SUF + hal/STM
+2 marken/STM
+4 beïnvloed/STM + e/SUF
+1 gewend/STM
+1 C4/STM
+15 boven/STM
+1 Spel/STM + en/SUF
+1 leden/STM + congres/STM
+3 concentratie/STM
+3 bevatte/STM
+3 over/STM + leed/STM
+2 liet/STM
+1 fu/STM + sioneerde/STM
+1 boven/STM + genoemd/STM + e/SUF
+1 Maggiore/STM
+1 Rail/STM + ways/STM
+1 bouw/STM + heer/STM
+2 Wolfowitz/STM
+2 uit/PRE + eind/STM + elijk/SUF
+1 om/PRE + ring/STM + d/SUF
+1 doel/STM + eind/STM + en/SUF
+3 Oorspronk/STM + elijk/SUF
+1 boks/STM + er/SUF
+2 afwezig/STM
+1 bezig/STM + ge/PRE + houden/STM
+5 in/PRE + formatie/STM
+2 zich/STM + t/SUF
+4 water/STM + scheiding/STM
+1 Vorm/STM
+1 soldaten/STM
+2 moeite/STM
+3 hiermee/STM
+1 FTI/STM
+2 Hand/STM
+10 de/STM + cember/STM
+1 Joris/STM
+1 bouw/STM + technol/STM + oog/STM
+4 termijn/STM
+9 e/STM
+1 marionet/STM
+3 comm/STM + andant/STM
+7 as/STM
+4 volk/STM
+1 Zee/STM + gebied/STM
+1 Boek/STM
+3 bol/STM + vormig/STM
+1 twintig/STM + ste/SUF
+2 Cuypershuis/STM
+2 ge/PRE + ge/PRE + ven/STM + s/SUF
+3 Berchem/STM
+3 Tony/STM
+995 van/STM
+1 kiest/STM
+2 ten/STM + slotte/STM
+1 D66/STM
+3 Erfgoed/STM
+1 ver/PRE + diep/STM + ing/SUF
+1 beroemd/STM
+4 hoeveel/STM + heid/STM
+4 afdeling/STM
+1 weg/STM + geschreven/STM
+1 ceremon/STM + iële/STM
+1 lekkere/STM
+3 ge/PRE + ografi/STM + sche/SUF
+1 bre/STM + n/SUF + gt/STM
+4 uit/PRE + slag/STM + en/SUF
+1 tijd/STM + s/SUF + krediet/STM
+1 o/STM + lijk/STM + e/SUF
+1 linguïstiek/STM
+3 Karzai/STM
+2 ge/PRE + gaan/STM
+3 joden/STM
+1 koude/STM + r/SUF
+6 aan/PRE + wezig/STM
+2 afkomst/STM
+2 en/STM + e/SUF
+2 onder/PRE + zoek/STM + en/SUF
+1 makk/STM + elijk/SUF + e/SUF
+3 in/PRE + dustrie/STM
+4 crisis/STM
+8 Italië/STM
+2 cycli/STM
+1 herstel/STM
+2 be/PRE + treft/STM
+8 huidige/STM
+1 erf/STM + goed/STM
+6 nation/STM + aal/STM
+2 secon/STM + den/SUF
+1 teken/STM + s/SUF
+1 pracht/STM
+1 Na/STM + laten/STM + schap/STM
+2 beschr/STM + even/STM
+1 om/PRE + liggen/STM + de/SUF
+1 over/STM + brengen/STM
+1 Rob/STM
+1 in/PRE + ter/STM + im/STM
+1 Plan/STM + ica/STM
+7 blijkt/STM
+1 ontmoedigd/STM
+4 concept/STM
+3 secretaris/STM
+1 Abel/STM
+2 Jefferson/STM
+1 aan/PRE + wezig/STM + e/SUF
+2 afnemen/STM
+2 kwart/STM
+6 dalen/STM
+1 boek/STM + druk/STM + kunst/STM
+1 bisschop/STM
+3 uit/PRE + water/STM + ing/SUF
+2 bordje/STM
+1 om/PRE + loop/STM + baan/STM
+1 staat/STM + s/SUF + secretaris/STM
+9 gebied/STM
+1 RNA/STM
+4 Götterdämmerung/STM
+1 klasse/STM
+1 Eind/STM
+1 Wits/STM + en/SUF
+3 ver/PRE + sch/STM + eept/STM
+2 Kenmerkend/STM
+1 vast/STM + e/SUF + land/STM
+2 strijd/STM
+1 lading/STM
+1 hiërogliefen/STM
+2 stapte/STM + n/SUF
+1 profil/STM + er/SUF + en/SUF
+2 Zonder/STM
+3 aan/PRE + be/STM + ste/STM + den/SUF
+2 Choltitz/STM
+2 veroorzaakt/STM + e/SUF
+1 extreme/STM + r/SUF
+1 Alfabet/STM
+1 Danone/STM
+1 massa/STM + percentage/STM + s/SUF
+2 aller/STM + lei/STM
+1 organisator/STM
+1 Parten/STM + kirch/STM + en/SUF
+1 propaganda/STM + materiaal/STM
+3 meubel/STM + en/SUF
+2 Formele/STM
+3 grond/STM
+1 water/STM + toe/STM + voer/STM
+1 docent/STM
+5 noord/STM + elijk/SUF + e/SUF
+1 Report/STM
+1 Comit/STM + é/STM
+1 histor/STM + isch/STM + e/SUF
+3 Pompeii/STM
+7 Vooral/STM
+1 be/PRE + vroren/STM
+2 praktijk/STM
+1 hevige/STM
+1 correct/STM
+8 even/STM
+9 ge/PRE + maakt/STM
+1 hoofd/STM + personen/STM
+3 wit/STM
+1 Samen/STM + stelling/STM
+1 Hier/STM + onder/STM
+7 lijst/STM
+2 vergiftigd/STM
+4 vorm/STM + ing/SUF
+8 waarvan/STM
+2 ge/PRE + durend/STM + e/SUF
+2 roman/STM
+3 h/STM + en/SUF
+1 oorlog/STM + smisda/STM + den/SUF
+1 transl/STM + iterat/STM + ie/STM
+1 omschr/STM + even/STM
+5 stappen/STM
+1 West/STM + ers/SUF + e/SUF
+1 afge/STM + broken/STM
+1 268233/STM
+3 onder/PRE + gaat/STM
+7 lid/STM
+3 mitrailleur/STM
+1 Nepal/STM
+2 bestemm/STM + ing/STM + s/SUF + plan/STM
+1 Antwer/STM + pen/STM + ar/STM + en/SUF
+3 introduc/STM + eerde/STM
+1 3400/STM
+2 neer/STM + buig/STM + end/STM + heid/STM
+2 feit/STM + e/SUF
+1 stabiele/STM
+1 Orde/STM + r/SUF
+2 ont/PRE + dekt/STM + e/SUF
+1 Jaume/STM
+1 frequent/STM
+7 lucht/STM
+2 station/STM + s/SUF
+3 lood/STM
+1 Khan/STM
+1 spectrogrammen/STM
+1 geleid/STM + elijk/SUF
+18 ligt/STM
+1 kind/STM + er/SUF + en/SUF
+17 noord/STM + en/SUF
+1 afge/STM + remd/STM
+2 Kalfjeslaan/STM
+3 Anna/STM
+1 grote/STM + r/SUF + e/SUF
+1 Groupe/STM
+5 pas/STM
+2 Shomre/STM
+1 foutmarge/STM
+2 recht/STM
+23 till/STM
+3 eind/STM
+1 Devoon/STM
+1 ge/PRE + drag/STM + en/SUF
+4 Bart/STM
+1 voor/PRE + schrift/STM + en/SUF
+5 1910/STM
+1 in/PRE + genieur/STM + s/SUF + ge/PRE + ologie/STM
+1 Ou/STM + d/SUF + heid/STM
+1 sprek/STM + er/SUF
+1 78/STM
+1 waarschijnlijk/STM + e/SUF
+1 Atmo/STM + sfeer/STM
+1 71/STM
+1 Vereenig/STM + de/SUF
+2 Middel/STM + grote/STM
+1 sport/STM + en/SUF
+2 hoog/STM + land/STM + ers/SUF
+2 lazuli/STM
+2 mm/STM
+6 economi/STM + e/SUF
+1 super/STM + continent/STM
+1 volk/STM + swijk/STM
+5 lokale/STM
+2 benthische/STM
+1 vlak/STM + bij/STM
+1 voor/STM + t/SUF + s/SUF
+1 bepaalt/STM
+2 Heemskerck/STM
+4 geleerd/STM + en/SUF
+2 ver/PRE + sch/STM + ilt/STM
+1 nieuw/STM + bouw/STM
+1 gedefinieerd/STM + e/SUF
+15 Zuid/STM
+4 Irak/STM
+1 tam/STM + elijk/SUF
+1 be/PRE + faam/STM + de/SUF
+1 Oezbeek/STM + s/SUF
+1 meteen/STM
+1 onderhoud/STM + s/SUF + werk/STM + en/SUF
+2 houding/STM
+1 380/STM
+1 kraanmachinist/STM
+1 myth/STM + ologie/STM
+38 over/STM
+1 af/STM + ge/PRE + zet/STM
+50 Alpen/STM
+3 aan/PRE + sprake/STM + n/SUF
+4 sjiiet/STM
+1 linguale/STM
+1 mislukte/STM
+1 van/STM + d/SUF + aan/STM
+2 dicht/STM
+2 ver/PRE + ander/STM + ing/SUF
+1 academi/STM + sche/SUF
+1 uitlaatgas/STM + s/SUF + en/SUF
+24 from/STM
+1 Ge/STM + relat/STM + eerde/STM
+1 tower/STM
+2 aar/STM + de/SUF
+1 detectoren/STM
+2 Verkiez/STM + ing/SUF + sresultaten/STM
+3 1962/STM
+1 kunst/STM + ge/PRE + schiedenis/STM
+2 ontcijfering/STM
+2 raadslid/STM
+1 oog/STM + t/SUF
+1 vrij/STM + kwam/STM
+3 NL/STM
+4 gen/STM + eratie/STM
+2 kanaal/STM
+2 ver/PRE + sch/STM + illen/STM + d/SUF
+1 recente/STM
+4 50/STM
+2 gold/STM
+1 British/STM
+1 Mercurius/STM
+1 be/PRE + lang/STM + rijk/STM + er/SUF
+24 leven/STM
+2 onbegrensd/STM
+1 laffe/STM
+1 nazi/STM
+1 stuurd/STM + e/SUF
+1 ver/PRE + wante/STM
+4 be/PRE + ste/STM
+5 april/STM
+1 hindoes/STM
+1 in/PRE + geleverd/STM
+1 werknem/STM + ers/SUF
+13 be/PRE + lang/STM + rijk/STM + e/SUF
+1 Henryk/STM
+1 Prij/STM + s/SUF
+1 erosie/STM
+43 nog/STM
+1 Games/STM
+3 mogelijk/STM + e/SUF
+2 gaat/STM
+5 telde/STM
+8 Vlaanderen/STM
+1 Napels/STM
+5 geschreven/STM
+3 840/STM
+1 voed/STM + s/SUF + el/STM
+1 wind/STM + snel/STM + heid/STM
+6 ën/STM
+2 onweer/STM
+2 waddenzee/STM
+4 regio/STM
+3 ge/PRE + bouw/STM + de/SUF
+2 lager/STM + e/SUF
+1 1603/STM
+1 TimeAxis/STM
+2 situatie/STM + s/SUF
+3 koos/STM
+2 tak/STM + en/SUF
+1 op/PRE + ge/PRE + lost/STM
+1 dubbel/STM + spel/STM
+2 Troost/STM
+9 soort/STM
+1 volk/STM + s/SUF + ver/PRE + tegen/STM + woordig/STM + ers/SUF
+1 symbooldossi/STM + ers/SUF
+2 Krediet/STM
+1 Tran/STM + sport/STM
+1 Artesis/STM
+1 Tielro/STM + de/SUF
+1 stand/STM + aard/STM + waar/STM + de/SUF
+3 bevatte/STM + n/SUF
+1 onder/PRE + nem/STM + ing/SUF
+1 Ti/STM + er/SUF
+2 fonds/STM + manager/STM
+2 circa/STM
+1 méér/STM
+2 hart/STM
+1 ver/PRE + rijk/STM + en/SUF
+1 Karinth/STM + ië/STM
+1 Cont/STM + rol/STM
+1 ge/PRE + stolen/STM
+1 be/PRE + haalt/STM
+1 Mike/STM
+1 1921/STM
+1 mandat/STM + en/SUF
+1 Lucht/STM + vaart/STM
+1 Allen/STM
+2 overwin/STM + n/SUF + ing/SUF
+1 via/STM + duct/STM
+7 kent/STM
+9 ge/PRE + zien/STM
+2 zak/STM + en/SUF
+1 Flora/STM
+2 88487/STM
+1 notities/STM
+21 veel/STM
+1 though/STM
+2 Bood/STM + schap/STM
+8 ge/PRE + bruik/STM
+1 rangor/STM + den/SUF
+1 Hari/STM + rivier/STM
+15 ge/PRE + bruik/STM + t/SUF
+5 Groen/STM + en/SUF
+2 herhal/STM + en/SUF
+1 consumptie/STM
+1 ge/PRE + deel/STM + te/STM + lijk/STM + e/SUF
+3 ge/PRE + laten/STM
+3 noord/STM + elijk/SUF
+5 verg/STM + elijk/SUF + ing/SUF
+3 uit/PRE + ge/PRE + nodig/STM + d/SUF
+1 lood/STM + gieter/STM
+1 Arche/STM + ologie/STM
+1 ver/PRE + sch/STM + ijnsel/STM + en/SUF
+2 rendement/STM
+7 Europe/STM + se/SUF
+5 85/STM
+2 aan/PRE + merk/STM + ing/SUF
+5 gemeen/STM + schap/STM
+1 845/STM
+1 stromen/STM + de/SUF
+3 Kings/STM
+2 wolk/STM
+4 6/STM
+1 Afhank/STM + elijk/SUF
+3 weer/STM + ge/PRE + ge/PRE + ven/STM
+1 ge/PRE + schie/STM + d/SUF + schrijver/STM
+1 ver/PRE + speel/STM + de/SUF
+2 Miljoenen/STM
+1 el/STM
+1 steppe/STM + klimaat/STM
+1 Dank/STM + zij/STM
+1 Joseph/STM
+1 voor/PRE + ge/PRE + houden/STM
+2 bewonder/STM + d/SUF
+1 opstuw/STM + end/STM
+1 ontmaske/STM + ring/STM
+24 groen/STM + en/SUF
+1 Georgi/STM + sch/STM
+8 weinig/STM
+1 kort/STM + periodieke/STM
+2 hoofd/STM + syn/STM + agoge/STM
+2 perfect/STM
+1 specul/STM + er/SUF + en/SUF
+1 twee/STM + maal/STM
+1 insloeg/STM
+4 helling/STM
+2 planten/STM + soort/STM + en/SUF
+2 UNODC/STM
+1 zuid/STM + pool/STM
+1 dreef/STM
+1 daar/STM + uit/STM
+15 politiek/STM + e/SUF
+3 Widlund/STM
+2 klok/STM
+2 gevraagd/STM
+1 kunst/STM + uit/STM + ing/SUF
+4 u/STM
+2 opzichte/STM + n/SUF
+1 zorg/STM + de/SUF
+1 h/STM
+18 toe/STM
+21 plaat/STM + s/SUF
+2 vorige/STM
+32 had/STM
+3 return/STM
+4 1982/STM
+1 ontbos/STM + s/SUF + ing/SUF
+1 La/STM + den/SUF
+1 transcendente/STM
+2 slaap/STM + plaat/STM + s/SUF + en/SUF
+2 minerale/STM
+1 staal/STM + baden/STM
+1 2900/STM
+2 schoon/STM + heid/STM + s/PRE + commissie/STM
+1 Air/STM + lines/STM
+1 aan/PRE + ge/STM + moed/STM + igd/STM
+1 klokkenluider/STM
+1 mee/STM + ge/PRE + maakt/STM
+2 1967/STM
+1 On/STM + t/SUF + dekk/STM + ing/SUF + en/SUF
+10 gaan/STM
+6 maand/STM
+1 acht/STM + er/SUF + grond/STM
+5 Turing/STM + machine/STM
+2 Gooi/STM
+1 bevoegd/STM
+1 serv/STM + er/SUF + en/SUF
+3 Hoge/STM + school/STM
+1 vetes/STM
+1 ver/PRE + borg/STM + en/SUF
+3 tran/STM + sparant/STM
+1 magnesium/STM
+1 Normaal/STM
+1 contact/STM
+2 woningen/STM
+1 Fo/STM
+1 senior/STM
+2 aard/STM + wetenschap/STM + pen/STM
+2 wetenschap/STM + pelijke/STM
+2 Ouder/STM + kerk/STM
+8 klein/STM + e/SUF
+1 onder/PRE + aan/PRE + nem/STM + er/SUF + s/SUF + dien/STM + s/SUF + t/SUF + en/SUF
+1 tropen/STM
+11 2004/STM
+1 Rahman/STM
+1 1953/STM
+1 bij/STM + naam/STM
+4 1990/STM
+1 hyperboli/STM + sche/SUF
+2 patron/STM + en/SUF
+7 kwam/STM
+2 in/PRE + dustrie/STM + el/STM
+1 terug/STM + komt/STM
+6 geld/STM + t/SUF
+1 302058/STM
+2 150650/STM
+1 abstract/STM
+1 Stammenoorl/STM + ogen/STM
+1 kopie/STM
+1 afplat/STM + t/SUF + ing/SUF
+2 onze/STM
+1 ver/PRE + wierf/STM
+1 titel/STM
+1 mecha/STM + nische/STM
+1 uit/PRE + reken/STM + t/SUF
+1 op/PRE + in/PRE + iestuk/STM
+1 bank/STM + ge/PRE + bouw/STM + en/SUF
+3 regering/STM + en/SUF
+1 twaalf/STM
+1 af/STM + lopende/STM
+1 bos/STM + s/SUF + en/SUF
+1 zi/STM + e/SUF
+1 voor/PRE + ge/PRE + zet/STM + en/SUF
+2 acht/STM + ing/SUF
+1 ver/PRE + schijn/STM + ing/SUF
+1 gemeen/STM + te/STM + raad/STM
+1 bereikt/STM + e/SUF
+2 beslis/STM + s/SUF + ing/SUF + en/SUF
+3 bloei/STM + en/SUF + de/SUF
+15 Ver/STM + enigd/STM + e/SUF
+1 Oost/STM + elijk/SUF
+2 uitgesleten/STM
+1 op/PRE + voed/STM + ing/SUF
+1 op/PRE + richt/STM + ing/SUF + s/SUF + congres/STM
+1 Garda/STM + meer/STM
+1 be/PRE + taal/STM + middel/STM
+1 drukst/STM
+1 advis/STM + eert/STM
+1 Boeton/STM
+1 Ver/STM + ge/PRE + lijk/STM
+5 1930/STM
+1 Noor/STM + d/SUF + er/SUF + dokken/STM
+1 aan/PRE + grenzen/STM + de/SUF
+1 bedrijf/STM + s/SUF + ge/PRE + bouw/STM + en/SUF
+4 3000/STM
+3 toernooi/STM
+# Time used (secs): 0
