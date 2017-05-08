@@ -18,6 +18,8 @@ _log = logging.getLogger('morpho_stats')
 
 
 # TODO: Actually get the Romani corpus
+# Ignore stems when doing morphology stats - only using affixes gives better idea of grammar
+# Compare to Swahili or Zulu?
 
 
 def load_compressed_wikipedia(corpus_filename, n):
@@ -565,6 +567,7 @@ if __name__ == '__main__':
         iranian_languages = ['farsi']
         turkic_languages = ['turkish']
         vietic_languages = ['vietnamese']
+        tai_languages = ['thai']
 
         languages = []
         languages += romance_languages
@@ -577,6 +580,7 @@ if __name__ == '__main__':
         languages += iranian_languages
         languages += turkic_languages
         languages += vietic_languages
+        languages += tai_languages
         languages += ['voynichese']
         for language in languages:
             try:

@@ -1,0 +1,4812 @@
+# expandmorphsegmentations.pl, Mon May  1 11:12:44 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+1 CC/STM
+1 مت/STM + وا/STM + ری/SUF
+1 او/STM + را/SUF + ن/SUF + وس/STM
+26 باعث/STM
+1 ب/STM + ا/SUF + گذشت/STM
+1 است/STM + ود/STM + ی/SUF + وی/STM
+1 مخ/STM + تر/SUF + عی/STM
+4 سر/STM + پر/STM + س/SUF + ت/SUF
+2 دا/STM + ن/SUF + ش/SUF + من/STM + دا/STM + ن/SUF + ی/SUF
+6 ب/STM + ا/SUF + ز/SUF
+1 نزاع/STM
+37 رو/STM + د/SUF + ک/SUF + ی/SUF
+1 هر/STM + چه/STM
+1 آ/STM + ی/SUF + لت/STM
+2 بر/STM + ا/SUF + ی/SUF + ش/SUF
+1 س/STM + کو/STM + ن/SUF
+4 مایک/STM + رو/STM + ی/SUF + و/SUF
+4 دبیرک/STM + ل/SUF
+13 تبد/STM + یل/SUF
+1 نو/STM + تر/STM + ی/SUF + ن/SUF + و/SUF
+1 نش/STM + ر/SUF + یا/STM + ت/SUF
+1 مس/STM + ئ/SUF + ول/STM + ین/SUF
+1 هم/STM + دا/STM + ن/SUF
+6 آ/STM + ب/SUF + اد/SUF
+1 اج/STM + انب/STM
+1 سر/STM + و/SUF + کار/STM
+5 ویژ/STM + ه/SUF
+5 است/STM + ان/SUF
+2 نق/STM + و/STM + ش/SUF
+1 اب/STM + د/SUF + اع/STM
+4 مسجع/STM
+1 تبع/STM + ات/SUF
+1 جد/STM + ی/SUF + د/SUF + ش/SUF
+5 قن/STM + ده/STM + ار/SUF
+1 ۱۲۸/STM
+1 نگ/STM + اشت/STM + ن/SUF
+3 یا/STM + د/SUF
+2 ضم/STM + ان/STM + ت/SUF
+31 حدود/STM
+2 خل/STM + ا/SUF + ل/SUF
+2 دفا/STM + ع/SUF + یه/STM
+1 ال/STM + ک/SUF + ت/SUF + رو/STM + م/SUF + غ/STM + ن/SUF + اطیس/STM
+1 ان/STM + کار/STM + تا/STM
+1 ۸/STM + ۴/STM
+1 مار/STM + گو/STM + ت/SUF
+28 نظر/STM
+1 سایر/STM + ین/SUF
+1 قه/STM + رم/STM + ان/SUF + ی/SUF
+1 شب/STM + اه/STM + ت/SUF
+3 بلوچ/STM
+6 سرتیپ/STM
+1 محس/STM + وس/STM
+2 اح/STM + د/SUF + اث/STM
+1 ب/STM + ل/SUF + ر/SUF
+6 بی/STM + ش/SUF + تر/SUF + ی/SUF
+1 کا/STM + ی/SUF + زر/STM
+1 کل/STM + مه/STM
+1 Group/STM
+3 ۲۵۰۰/STM
+3 قل/STM + ن/SUF + در/STM
+1 گا/STM + ن/SUF + ه/SUF
+7 در/STM + بار/STM
+2 فر/STM + ا/SUF + وا/STM + ن/SUF + ی/SUF
+1 تا/STM + م/SUF + پا/STM + ی/SUF
+1 اص/STM + حاب/STM
+1 گذر/STM + ا/SUF
+10 دی/STM + د/SUF + گا/STM + ه/SUF
+7 اب/STM + ت/SUF + دا/SUF
+2 ده/STM + ند/SUF + ه/SUF
+1 او/STM + ت/SUF
+1 اص/STM + ط/STM + ل/SUF + اح/STM
+6 ب/STM + ا/SUF + د/SUF
+2 آ/STM + ل/SUF + ن/SUF
+8 کشته/STM
+18 شد/STM + ند/SUF
+7 فنی/STM
+3 گذ/STM + اشت/STM + ه/SUF
+23 باشد/STM
+1 خ/STM + م/SUF + ری/STM + ات/SUF
+2 ثر/STM + و/SUF + تم/STM + ند/SUF
+1 فی/STM + ل/SUF
+1 سو/STM + ئ/STM + د/SUF
+2 مفهو/STM + م/SUF + ی/SUF
+1 کار/STM + بر/STM + ی/SUF
+1 خط/STM + ره/STM + ای/SUF + ی/SUF
+1 امتیاز/STM + ات/SUF
+1 ب/STM + زرگ/STM + تر/SUF
+1 مشا/STM + ر/SUF
+14 اشع/STM + ار/SUF
+1 سی/STM + ره/STM
+5 قانون/STM + ی/SUF
+4 ب/STM + د/SUF + ه/SUF + ند/SUF
+2 جم/STM + ع/SUF + ه/SUF
+1 ۸/STM + ۹/STM
+5 مدیر/STM + یت/SUF
+1 تف/STM + ری/SUF + ح/STM + ی/SUF
+2 ۱۳۰/STM + ۴/STM
+5 عبارت/STM
+2 اصلاح/STM + ی/SUF
+2 نرد/STM
+2 تل/STM + وی/SUF + زی/STM + و/SUF + نی/STM
+2 ۷/STM + ۸/STM
+1 متر/STM + وی/STM
+1 ب/STM + ع/SUF + مل/STM
+2 ای/STM + شا/STM + نی/STM + وی/STM + ور/SUF + ک/SUF
+3 اد/STM + ع/SUF + ای/SUF
+2 ح/STM + ا/SUF + کم/STM + ه/SUF
+17 اختر/STM + ا/SUF + ع/SUF
+1 سئ/STM + و/SUF + ل/SUF
+1 Sessions/STM
+1 ب/STM + ه/SUF + ره/STM
+1 مرد/STM
+1 هم/STM + نام/STM
+2 ک/STM + ی/SUF
+2 تل/STM + قی/STM
+2 م/STM + صاحب/STM + ی/SUF
+1 کن/STM + د/SUF + ی/SUF
+5 نتایج/STM
+1 فی/STM + ث/STM + ا/SUF + غ/STM + ور/SUF + ث/STM
+1 نمود/STM + ند/SUF
+1 نش/STM + ست/STM + ها/SUF
+2 در/STM + ح/STM + ا/SUF + ل/SUF
+2 عر/STM + ف/SUF
+3 اح/STM + ت/SUF + را/SUF + م/SUF
+1 تج/STM + ر/SUF + یش/STM
+1 اق/STM + لا/STM + می/SUF
+29 ب/STM + س/SUF + ی/SUF + ار/SUF + ی/SUF
+7 کیه/STM + ا/SUF + ن/SUF
+7 تیر/STM
+10 ار/STM + وپا/STM
+2 میا/STM + نش/STM + ان/SUF
+1 کم/STM + ری/SUF
+5 نزد/STM
+2 جنگ/STM + های/SUF
+1 گ/STM + م/SUF + رک/STM + ی/SUF
+1 تشعش/STM + عا/STM + ت/SUF
+22 خو/STM + رش/STM + ید/SUF
+1 ژو/STM + ها/SUF + نس/STM
+1 بر/STM + ی/SUF + زن/STM + د/SUF
+2 ب/STM
+13 رو/STM + ز/SUF + نام/STM + ه/SUF
+2 بر/STM + آور/STM + د/SUF
+2 آ/STM + ز/SUF + اد/SUF + گا/STM + ن/SUF
+1 بر/STM + وز/STM
+1 را/STM + دی/SUF + و/SUF + اک/STM + ت/SUF + یو/STM + ی/SUF
+2 در/STM + مور/STM + د/SUF
+7 آ/STM + ل/SUF + ب/SUF + و/SUF + م/SUF
+26 نتیجه/STM
+6 سلا/STM + ح/SUF
+1 ما/STM + گ/STM + ن/SUF + وس/STM
+1 صل/STM + ا/SUF + ح/STM + یت/SUF
+2 اص/STM + ال/STM + ت/SUF
+2 واس/STM + ط/SUF + ة/STM
+1 گ/STM + د/SUF + اخته/STM
+3 آ/STM + ک/SUF + اد/SUF + می/SUF
+1 ب/STM + ا/SUF + ز/SUF + ب/STM + و/SUF + د/SUF + ن/SUF
+2 آر/STM + ا/SUF + ی/SUF
+2 وق/STM + ای/STM + ع/SUF
+1 پ/STM + ی/SUF + ش/SUF + گا/STM + ما/STM + ن/SUF
+1 رق/STM + ی/SUF + بش/STM
+1 ح/STM + ا/SUF + ل/SUF + ات/SUF
+26 وزیر/STM
+1 کش/STM + ت/SUF
+8 دا/STM + د/SUF + ند/SUF
+2 مت/STM + مرک/STM + ز/SUF
+7 نسب/STM + ت/SUF
+3 شبی/STM
+1 مک/STM + عب/STM
+2 سن/STM + ا/SUF + ت/SUF + ور/STM + ها/SUF
+1 ب/STM + د/SUF + ان/STM + ند/SUF
+1 چش/STM + م/SUF + گی/SUF + رش/STM
+1 هی/STM + جا/STM + ن/SUF
+3 سی/STM + نما/STM + ی/SUF
+7 ح/STM + ک/SUF + و/SUF + م/SUF + ت/SUF
+5 در/STM + ون/SUF
+3 رض/STM + وی/SUF
+1 461/STM
+2 اش/STM + رافی/STM
+3 صا/STM + در/STM + ا/SUF + ت/SUF + ی/SUF
+2 ۷۱۰/STM
+1 ابر/STM + گا/STM + ز/SUF
+1 یک/STM + سر/STM
+1 اج/STM + را/SUF + ئی/STM + ه/SUF
+1 هد/STM + ا/SUF + یا/STM
+2 نظر/STM + ها/SUF
+21 عل/STM + م/SUF + ی/SUF
+2 سا/STM + عا/STM + ت/SUF
+1 مول/STM + وی/STM
+2 است/STM + را/STM + ت/SUF + ژیک/STM
+1 صنعت/STM + گر/STM
+2 خو/STM + ش/SUF + نویس/STM + ی/SUF
+5 منافع/STM
+1 خا/STM + م/SUF
+1 سخ/STM + ن/SUF + انی/SUF
+3 نزاع/STM + ی/SUF
+1 چش/STM + م/SUF + ه/SUF
+6 مقا/STM + م/SUF
+5 اشغال/STM
+2 زن/STM + د/SUF + ه/SUF
+3 سنگلج/STM
+1 ع/STM + دل/STM
+1 سف/STM + ره/STM + ا/SUF
+3 آ/STM + ی/SUF + د/SUF
+1 ب/STM + و/SUF + می/SUF
+1 فر/STM + یم/SUF
+2 فر/STM + ی/SUF + اد/STM
+3 ب/STM + ن/SUF + در/STM
+1 ف/STM + شار/STM + ها/SUF
+1 جا/STM + ن/SUF + دار/STM + ان/SUF
+3 ب/STM + ن/SUF + ا/SUF + های/SUF
+1 ال/STM + د/SUF + و/SUF + ل/SUF + ه/SUF
+6 زا/STM + ه/SUF + دی/SUF
+1 قد/STM + س/SUF
+1 شب/STM + ه/SUF
+2 هم/STM + خو/STM + ا/SUF + ن/SUF + ی/SUF
+3 ۱۹۶۴/STM
+3 پر/STM + تاپ/STM
+1 از/STM + هم/STM
+1 بی/STM + ست/SUF
+7 جو/STM + ا/SUF + نی/SUF
+1 ما/STM + کا/STM + ن/SUF
+1 نویس/STM + د/SUF
+2 است/STM + ق/SUF + با/STM + ل/SUF
+3 طر/STM + ف/SUF + ان/STM + ه/SUF
+1 اف/STM + را/STM + د/SUF + ی/SUF
+1 اس/STM + یر/SUF
+1 ب/STM + د/SUF + اشت/STM
+2 آ/STM + ن/SUF + گو/STM + ن/SUF + ه/SUF
+2 رف/STM + را/STM + ند/SUF + و/SUF + م/SUF + ی/SUF
+3 کال/STM + ج/SUF
+2 من/STM + ا/SUF + ره/STM
+17 بی/STM + ت/SUF
+1 ۱۳۸/STM + ۶/STM
+3 وس/STM + ا/SUF + یل/SUF
+2 اک/STM + باتا/STM + ن/SUF
+4 اب/STM + ز/SUF + ار/SUF
+7 حض/STM + ور/SUF
+1 جم/STM + ه/SUF + ور/STM
+25 تاریخ/STM
+1 بر/STM + س/SUF + د/STM
+12 سیاسی/STM
+1 کش/STM + شی/SUF
+5 تحقیق/STM + ا/SUF + ت/SUF
+3 سال/STM + ه/SUF
+3 سنجا/STM + بی/STM
+2 محا/STM + کم/STM + ه/SUF
+2 گذر/STM + گا/STM + ه/SUF
+1 در/STM + مد/STM + ح/SUF
+15 نسب/STM + یت/SUF
+4 فور/STM + یه/SUF
+57 مج/STM + ل/SUF + س/SUF
+2 شن/STM + ی/SUF + دن/STM
+1 وب/STM + ه/SUF
+3 یو/STM + نیزاس/STM + یو/STM + ن/SUF
+1 حض/STM + رت/STM
+2 متوسط/STM + ه/SUF
+7 درست/STM
+1 در/STM + آ/STM + ن/SUF + ها/SUF
+1 ش/STM + ک/SUF
+1 بی/STM + ول/STM + و/SUF + ژ/STM + ی/SUF
+2 ب/STM + ع/SUF + بار/STM + ت/SUF + ی/SUF
+4 شی/STM + ری/SUF
+2 ۱۲/STM + ۹۹/STM
+2 ۱۳۸/STM + ۰/SUF
+2 مح/STM + م/SUF + د/SUF + باقر/STM
+1 مطال/STM + ب/SUF + ی/SUF
+1 ۱۲۸/STM + ۵/STM
+1 صد/STM + ر/SUF
+4 چهره/STM
+1 شا/STM + ه/SUF + د/SUF
+6 اج/STM + تماعی/STM
+8 نگ/STM + اشت/STM + ه/SUF
+5 استخ/STM + دام/STM
+2 ب/STM + نویس/STM + ند/SUF
+4 تاریخ/STM + ی/SUF
+2 مراتب/STM
+3 کانون/STM
+1 نو/STM + از/SUF
+2 کال/STM + اه/SUF + ای/SUF
+2 ور/STM + ام/STM + ین/SUF
+2 پر/STM + و/SUF + ند/STM + ه/SUF
+1 ۱۲۸/STM + ۲/SUF
+2 جلال/STM + ی/SUF
+3 آ/STM + میخته/STM
+9 پ/STM + ی/SUF + ش/SUF + ین/SUF
+2 کش/STM + ور/SUF + های/SUF + ی/SUF
+18 گرفت/STM + ه/SUF
+4 محاصره/STM
+4 در/STM + ی/SUF
+1 پ/STM + و/SUF + ست/SUF
+5 جلسه/STM
+9 یک/STM + دیگر/STM
+1 رو/STM + سی/STM
+5 تص/STM + اویر/STM
+1 of/STM
+1 مول/STM + د/SUF
+2 نجوم/STM + ی/SUF
+2 مت/STM + هم/STM + ان/SUF
+3 شا/STM + ی/SUF + گا/STM + ن/SUF
+1 ک/STM + جا/STM + ی/SUF
+1 ویرایشگر/STM + ی/SUF
+1 کرب/STM + و/SUF + نیز/STM + ه/SUF
+1 شا/STM + گر/STM + د/SUF
+5 چه/STM + ار/SUF + م/SUF
+2 پ/STM + و/SUF + د/SUF + ول/STM + س/SUF + ک/STM + ی/SUF
+1 را/STM + ی/SUF + ت/SUF
+5 اع/STM + ت/SUF + ما/STM + د/SUF
+5 انج/STM + ام/SUF + ید/SUF
+1 من/STM + ت/SUF + فی/STM
+1 گیر/STM + د/SUF
+9 نه/STM
+13 عل/STM + و/SUF + م/SUF
+2 سلا/STM + طی/STM + ن/SUF
+2 هم/STM + سر/STM
+3 مریخ/STM
+2 میل/STM + یا/SUF + رد/STM
+1 نا/STM
+5 ای/STM + را/SUF + د/SUF
+5 ان/STM + د/SUF + از/SUF + ه/SUF
+3 ترس/STM + یم/SUF
+1 ج/STM + س/SUF + دش/STM
+3 ۱۹۳۵/STM
+1 مایک/STM + ر/SUF + وساف/STM + ت/SUF
+4 رو/STM + ش/SUF + ن/SUF
+2 حما/STM + سه/STM
+13 هیچ/STM
+2 ب/STM + زن/STM + د/SUF
+1 دو/STM + ام/SUF
+2 نقد/STM + ال/STM + ن/SUF + ص/STM + و/SUF + ص/STM
+1 اخت/STM + ص/STM + ا/SUF + ص/STM
+2 ول/STM + ی/SUF + ع/SUF + هد/STM
+1 ذ/STM + وق/STM
+2 پ/STM + ا/SUF + ک/SUF
+1 متر/STM + و/SUF
+1 فر/STM + زن/STM + د/SUF + ش/SUF
+5 ۱۴/STM
+1 زی/STM + ب/STM + ا/SUF + کل/STM + ام/SUF
+1 فه/STM + ند/SUF + ژ/STM
+2 ثر/STM + و/SUF + ت/SUF
+4 مشغول/STM
+2 ۳/STM + ۹/STM
+2 ابر/STM + نو/STM + اختر/STM + ها/SUF
+27 تن/STM + ها/SUF
+2 نی/STM + م/SUF
+4 چگال/STM
+1 اص/STM + را/STM + ر/SUF
+7 شر/STM + و/SUF + ع/SUF
+2 محا/STM + فظ/STM + ت/SUF
+1 فر/STM + ا/SUF + مت/STM + ن/SUF
+1 بر/STM + سا/STM + ن/SUF + ند/SUF
+1 هش/STM + دار/STM
+1 ساب/STM + قش/STM
+1 رس/STM + ت/SUF + گا/STM + ری/SUF
+6 ۷/STM
+2 معم/STM + ار/SUF + ان/SUF
+1 وی/STM + لهلم/STM
+1 وزیر/STM + ان/SUF
+6 بوهر/STM
+21 اینکه/STM
+2 خا/STM + ن/SUF + دا/STM + ن/SUF
+1 پ/STM + تر/SUF + ول/STM + ی/SUF + وم/STM
+1 شن/STM + ا/SUF + س/SUF + ا/SUF + یی/SUF
+2 ری/STM + ا/SUF + لی/SUF
+6 ۵/STM
+2 مق/STM + د/SUF + مه/STM
+3 گر/STM + ام/STM + ا/SUF + ف/SUF + و/SUF + ن/SUF
+2 گ/STM + مار/STM + ده/SUF
+4 ب/STM + ل/SUF + ند/SUF
+6 گس/STM + تر/SUF + ش/SUF
+31 ب/STM + س/SUF + ی/SUF + ار/SUF
+5 مر/STM + ح/STM + ل/SUF + ه/SUF
+2 لط/STM + یف/STM
+20 زن/STM + د/SUF + گی/SUF
+5 ب/STM + ا/SUF + لا/SUF + ی/SUF
+5 ۱۲/STM
+6 ۶/STM
+3 قدر/STM
+12 عل/STM + ی/SUF
+3 دچ/STM + ار/SUF
+1 مطاب/STM + ق/SUF + ت/SUF
+1 پ/STM + ن/SUF + چ/STM
+2 خواهر/STM + خو/STM + ا/SUF + ند/SUF + ه/SUF
+8 دقیق/STM
+6 طر/STM + ی/SUF + ق/SUF
+1 ام/STM + تناع/STM
+1 مکا/STM + رم/STM + ی/SUF
+1 نص/STM + یر/SUF
+2 نام/STM + ش/SUF
+1 ش/STM + کار/STM + گر/STM + ی/SUF
+2 شهر/STM + ست/STM + ا/SUF + ن/SUF
+1 کر/STM + ما/STM + ن/SUF + ی/SUF
+3 ام/STM + تداد/STM
+1 ف/STM + شر/STM + ده/SUF
+1 عث/STM + ما/STM + ن/SUF + ی/SUF
+1 متوسط/STM
+1 مو/STM + ز/SUF + یک/STM + ش/SUF
+5 اصلاح/STM
+5 سن/STM + ت/SUF
+2 آدم/STM + ها/SUF
+116 اینشت/STM + ین/SUF
+1 است/STM + ین/SUF + اف/STM
+1 دا/STM + ئ/STM + م/SUF
+3 تش/STM + وی/SUF + ق/SUF
+1 عن/STM + او/STM + ین/SUF
+9 وب/STM
+1 کرب/STM + نی/SUF
+5 فر/STM + ا/SUF + ین/STM + د/SUF
+2 رو/STM + لی/SUF + نگ/STM
+12 چه/STM + ار/SUF
+1 مدخل/STM + های/STM + ی/SUF
+4 نزدیک/STM + ی/SUF
+1 ری/STM + ا/SUF + ح/STM + ی/SUF
+1 غ/STM + ذ/STM + ا/SUF
+12 بر/STM + د/SUF
+2 قل/STM + مر/STM + و/SUF
+1 بر/STM + هم/STM + نی/SUF
+2 نی/STM + مه/STM
+1 ۳/STM + ۷/STM + ۰/SUF
+1 ۲۰۰/STM + ۹/STM
+31 نی/STM + وتن/STM
+7 میل/STM + اد/SUF
+5 نویس/STM + ند/SUF + گ/SUF + ان/SUF
+2 نما/STM + ی/SUF
+1 غ/STM + ذ/STM + اه/STM + ا/SUF + ی/SUF
+1 نا/STM + شر/STM
+5 گر/STM + د/SUF + ش/SUF
+3 داشت/STM + ند/SUF
+5 عناصر/STM
+1 تص/STM + ور/STM + ات/SUF
+5 ضد/STM
+1 قد/STM + ح/STM
+4 برخ/STM + ور/SUF + د/SUF + ار/SUF
+2 تعل/STM + ق/SUF
+1 ان/STM + در/STM + کار/STM
+1 خواهر/STM + زا/STM + ده/SUF
+2 م/STM + خص/STM + و/SUF + ص/SUF
+2 هنر/STM + های/SUF
+1 مول/STM + یا/STM + ن/SUF
+1 سپ/STM + ری/SUF
+2 ساط/STM + ع/SUF
+21 کرد/STM + ند/SUF
+2 سحا/STM + بی/STM
+1 خد/STM + ا/SUF + یی/SUF
+1 اب/STM + و/SUF + عل/STM + ی/SUF
+2 هم/STM + ان/SUF + جا/STM
+5 ب/STM + ن/SUF + ا/SUF + بر/STM + ای/STM + ن/SUF
+1 قر/STM + ار/SUF + داشت/STM
+5 تلا/STM + ش/SUF
+1 دا/STM + غ/STM
+1 مت/STM + ف/SUF + او/STM + ت/SUF
+1 اع/STM + ت/SUF + د/SUF + ال/STM + ین/SUF
+1 گا/STM + ل/SUF + یلئ/STM + و/SUF
+5 ب/STM + یست/STM + م/SUF
+1 مد/STM + یا/STM + ویکی/STM
+1 رو/STM + ش/SUF + ها/SUF
+6 ۲۰۰۵/STM
+1 مصلح/STM + ت/SUF
+1 خد/STM + ا/SUF + حافظ/STM + ی/SUF
+1 نخ/STM
+1 فعال/STM + یت/SUF + ش/SUF
+1 قر/STM + م/SUF + زی/STM
+1 خا/STM + ن/SUF + م/SUF
+1 مر/STM + مر/STM
+2 عقی/STM + ده/SUF
+1 و/STM + غ/STM + بار/STM
+4 شا/STM + ه/SUF + نام/STM + ه/SUF
+4 فایبر/STM
+2 محس/STM + ن/SUF
+15 اه/STM + ل/SUF
+1 تبلیغ/STM
+2 تع/STM + طی/STM + ل/SUF
+18 مخالف/STM + ت/SUF
+2 ان/STM + د/SUF + اخت/STM
+1 guerre/STM
+1 قر/STM + یب/STM
+3 اب/STM + و/SUF + بکر/STM
+24 گرفت/STM
+8 نقا/STM + ط/SUF
+2 بشر/STM + ی/SUF
+6 دن/STM + یا/SUF
+1 ک/STM + ی/SUF + نگ/STM + س/SUF + تو/STM + ن/SUF
+5 ایفا/STM
+4 خل/STM + ب/STM + ا/SUF + ن/SUF + ی/SUF
+1 قبل/STM + ه/SUF
+9 اغلب/STM
+5 ما/STM + در/STM
+1 ح/STM + وض/STM
+3 سبک/STM
+9 صبح/STM
+4 هو/STM + ک/SUF
+1 اشع/STM + ه/SUF
+1 ش/STM + فق/STM
+2 ۱۸۸۹/STM
+1 ن/STM + پ/STM + ت/SUF + ون/SUF
+1 کش/STM + ی/SUF + دن/STM + د/SUF
+1 زی/STM + لارد/STM
+2 پ/STM + تر/SUF + زب/STM + و/SUF + رگ/STM
+2 جز/STM + ئ/SUF + ی/SUF
+3 یکصد/STM
+1 پر/STM + يشا/STM + ن/SUF + ي/STM
+2 عل/STM + او/STM + ه/SUF
+3 مري/STM
+2 پ/STM + و/SUF + ش/SUF + ش/SUF
+1 زد/STM + ن/SUF
+2 پر/STM
+2 ۱۳۰/STM + ۲/SUF
+1 تق/STM + ا/SUF + ضا/STM + های/SUF
+4 سال/STM + ان/STM + ه/SUF
+5 ۱۸/STM
+2 لبخ/STM + ند/SUF
+1 تح/STM + ف/SUF + ة/STM
+1 ت/STM + ث/STM + بی/STM + ت/SUF
+5 ال/STM + بر/STM + ز/SUF
+2 آ/STM + ف/SUF + تا/STM + ن/SUF + دل/STM + یا/SUF + نس/STM
+1 کا/STM + ک/SUF + ی/STM
+2 گا/STM + بر/STM + ی/SUF + ل/SUF
+3 فروپا/STM + شی/SUF
+4 مت/STM + ون/SUF
+1 زی/STM + ب/STM + ا/SUF
+1 م/STM + غ/STM + رض/STM + ا/SUF + نه/STM
+2 طبق/STM
+1 عدا/STM + وت/STM
+3 ره/STM + بر/STM
+5 ب/STM + ا/SUF + ز/SUF + داشت/STM
+1 مج/STM + ال/STM
+6 ان/STM + تخا/STM + ب/SUF + ات/SUF
+3 کمیته/STM
+2 جو/STM + ان/STM + ان/SUF
+2 فا/STM + را/SUF + بی/STM
+2 ب/STM + و/SUF + بکر/STM
+1 ما/STM + ه/SUF + ها/SUF
+1 م/STM + گر/STM
+1 تب/STM + ر/SUF + یز/STM
+1 نا/STM + خو/STM + ا/SUF + ه/SUF
+1 نام/STM + شخص/STM
+4 آیزاک/STM
+11 صد/STM + ا/SUF + ی/SUF
+2 نگفت/STM
+1 من/STM + شاء/STM
+2 مت/STM + شر/STM
+4 صحبت/STM
+3 برکن/STM + ار/STM + ی/SUF
+39 چن/STM + د/SUF
+1 تا/STM + می/STM + ن/SUF
+1 نص/STM + یر/STM + ی/SUF
+1 مت/STM + فکر/STM + ان/SUF
+4 گا/STM + ن/SUF + دی/SUF
+1 مس/STM + ی/SUF + ح/STM + ی/SUF
+1 ترک/STM + م/SUF + نی/STM
+8 اعضا/STM + ی/SUF
+1 معم/STM + ول/STM + ی/SUF
+2 ب/STM + ح/SUF + رخ/STM + ف/SUF + یف/STM
+1 تح/STM + ول/STM + ی/SUF
+1 رو/STM + شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF
+4 کیل/STM + و/SUF + م/SUF + تر/SUF + ی/SUF
+3 واس/STM + طه/STM
+2 مو/STM + ا/SUF + جه/STM
+1 و/STM + ثوق/STM
+1 پر/STM + و/SUF + یز/STM
+1 خو/STM + ف/SUF
+1 بغ/STM + ض/STM + ی/SUF
+1 ب/STM + ح/SUF + ران/SUF
+1 پ/STM + ی/SUF + و/SUF + س/SUF + ت/SUF + ه/SUF
+1 خل/STM + ف/SUF
+2 عم/STM + ل/SUF + کرد/STM
+2 ساکن/STM
+54 مور/STM + د/SUF
+1 د/STM + یل/STM + ن/SUF
+13 بار/STM
+10 معم/STM + ار/SUF
+1 ۱۹/STM + ۱۸/STM
+76 پ/STM + س/SUF
+1 نا/STM + جو/STM + ری/SUF
+3 عکا/STM + س/SUF
+8 حساب/STM
+2 Nuit/STM
+3 نفوذ/STM
+1 مس/STM + لم/STM + ان/SUF
+2 فار/STM + س/SUF
+2 مث/STM + ل/SUF
+1 در/STM + خشا/STM + نی/SUF
+9 مل/STM + ل/SUF
+1 وا/STM + ک/SUF + نش/STM + های/SUF
+2 سر/STM + و/SUF + دن/STM + ش/SUF
+3 سر/STM + دار/STM
+1 ۱۹/STM + ۷۱/STM
+1 صد/STM + را/SUF + لاشراف/STM
+39 توسط/STM
+2 گنج/STM + وی/STM
+1 مق/STM + صود/STM
+1 ر/STM + صد/STM + های/SUF
+2 را/STM + ک/SUF
+6 فلسفه/STM
+2 نما/STM + ده/SUF + ای/STM
+7 کش/STM + ور/SUF + های/SUF
+1 عب/STM + دا/SUF + ل/SUF + ر/SUF + زا/STM + ق/SUF
+1 عظ/STM + یم/SUF + ی/SUF
+4 ال/STM + سلط/STM + ن/SUF + ه/SUF
+2 نار/STM + اح/STM + ت/SUF
+3 مال/STM + ی/SUF + ه/SUF
+4 پ/STM + س/SUF + ت/SUF
+1 ود/STM + ر/SUF
+1 کام/STM + یو/STM + ن/SUF
+1 گر/STM + گا/STM + ن/SUF + ی/SUF
+2 ند/STM + ه/SUF + ند/SUF
+12 آ/STM + ز/SUF + اد/SUF
+2 خر/STM + گر/STM + د/SUF
+1 نم/STM + ی/SUF
+6 دوست/STM
+1 مرد/STM + ی/SUF
+1 نا/STM + پل/STM
+1 نا/STM + ب/STM + س/SUF + ت/SUF + ی/SUF
+6 او/STM + ا/SUF + یل/SUF
+32 رو/STM + ی/SUF
+6 لر/STM + ی/SUF
+1 افغ/STM + ا/SUF + ن/SUF + ی/SUF
+1 کا/STM + فه/STM
+6 سی/STM + د/SUF
+1 کشا/STM + ند/STM + ه/SUF
+3 خائن/STM
+1 معاصر/STM + ان/SUF
+1 قد/STM + مت/STM + ی/SUF
+9 خو/STM + بی/SUF
+1 تیر/STM + ه/SUF
+1 ب/STM + ا/SUF + ب/SUF + ل/SUF
+10 مرک/STM + ز/SUF
+1 جو/STM + ا/SUF + د/SUF + خ/STM + ان/SUF
+3 ح/STM + ل/SUF + بی/SUF
+8 سلط/STM + ن/SUF + ت/SUF + ی/SUF
+10 مد/STM + ت/SUF
+1 زم/STM + ام/SUF + دا/STM + ران/SUF
+1 تح/STM + ول/STM + ات/SUF
+2 اپ/STM + اک/STM + ت/SUF
+3 عرب/STM
+2 نا/STM + درست/STM
+1 ۱۲۸/STM + ۷/STM
+2 حر/STM + ف/SUF
+1 داست/STM + ا/SUF + ن/SUF + ی/SUF
+1 است/STM + اد/STM + انی/SUF
+3 GFDL/STM
+5 فر/STM + ص/SUF + ت/SUF
+3 عبدالله/STM
+4 کشاورزی/STM
+3 مج/STM + رو/STM + ح/SUF
+1 و/STM + ود/STM
+1 ۲۰۰/STM + ۰/SUF
+3 تشعش/STM + ات/SUF
+2 تر/STM + ی/SUF + اک/STM
+3 ۱۹۲۶/STM
+2 شور/STM + ا/SUF
+2 فض/STM + ل/SUF
+1 رض/STM + ا/SUF + خا/STM + ن/SUF
+1 رو/STM + ی/SUF + گر/STM + د/SUF + ان/SUF
+2 سو/STM + خت/STM
+1 مص/STM + را/SUF + نه/STM
+2 فی/STM + ل/SUF + ام/STM + ا/SUF + ن/SUF
+4 الکترونیک/STM
+2 ۳۰/STM + ۰/SUF
+4 گر/STM + ا/SUF + یش/SUF
+3 تأسی/STM + س/SUF
+1 غیر/STM + کار/STM + بر/STM + د/SUF + ی/SUF
+6 باقی/STM
+1 خا/STM + ن/SUF + ق/SUF + اه/STM
+2 خط/STM + ی/SUF + بی/STM
+1 Pilote/STM
+1 م/STM + زی/STM + نی/SUF
+2 مس/STM + ل/SUF + ح/STM
+3 شخص/STM + یت/SUF
+3 قب/STM + ا/SUF + یل/STM
+1 تو/STM + به/STM
+2 پ/STM + ا/SUF + تر/SUF + یک/STM
+3 در/STM + ه/SUF
+2 وس/STM + ی/SUF + له/STM
+2 ب/STM + س/SUF + ت/SUF + گی/SUF
+1 ح/STM + ا/SUF + م/SUF + ل/SUF
+1 ای/STM + ست/SUF + اد/STM + گی/SUF
+1 آژ/STM + ا/SUF + کس/STM
+1 خا/STM + دم/STM
+14 قبل/STM
+7 تح/STM + ری/SUF + م/SUF
+9 بی/STM + ا/SUF + ن/SUF
+1 کش/STM + ید/SUF
+1 نا/STM + گ/STM + ها/STM + ن/SUF
+5 اس/STM + لام/STM
+4 کار/STM + شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF
+2 خا/STM + تمة/STM
+5 خا/STM + ص/SUF + ی/SUF
+2 ۷/STM + ۲/SUF
+2 نصر/STM + الله/STM
+1 ب/STM + ن/SUF + یا/STM + ن/SUF + گذ/STM + ار/SUF
+3 خی/STM + ل/SUF + ی/SUF
+1 شا/STM + ه/SUF + ان/SUF
+1 ره/STM + نما/STM
+3 ۲۱/STM
+1 نور/STM + ست/STM + ا/SUF + ن/SUF + ی/SUF
+1 ب/STM + ل/SUF + ک/SUF
+2 فار/STM + ض/SUF
+1 ما/STM + ن/SUF + د/SUF + ن/SUF
+1 کا/STM + ن/SUF + اد/STM + ا/SUF
+1 نداشت/STM + ه/SUF
+1 مر/STM + ج/SUF + عی/STM
+1 یک/STM + تا/STM + پر/STM + س/SUF + ت/SUF
+3 اد/STM + يسون/STM
+2 حساب/STM + ی/SUF
+9 تن/STM
+18 اصل/STM + ی/SUF
+1 مح/STM + رک/STM
+1 عب/STM + د/SUF
+3 هی/STM + ات/SUF
+1 شرا/STM + ب/STM + س/SUF + ت/SUF + ی/SUF
+2 مو/STM + ت/SUF + ور/STM + ها/SUF
+3 نو/STM + ار/SUF
+1 سیب/STM
+4 کو/STM + ه/SUF
+7 نداشت/STM
+5 ۶۵۵/STM
+7 ب/STM + ا/SUF + ز/SUF + ن/SUF + شسته/STM
+1 ع/STM + س/SUF + ک/STM + بر/STM + د/SUF + ار/STM + ی/SUF
+1 یک/STM + بار/STM + ه/SUF
+1 انتق/STM + اد/SUF + ات/SUF
+1 آر/STM + ا/SUF + ئ/STM + و/SUF
+2 رد/STM + یابی/STM
+1 Attribution/STM
+2 بر/STM + نام/STM + ه/SUF
+4 پژ/STM + و/SUF + ه/SUF + ش/SUF + گر/STM + ا/SUF + ن/SUF
+1 خ/STM + ش/SUF + ک/STM
+1 پ/STM + ا/SUF + یی/SUF + ز/SUF
+1 ز/STM + عم/STM
+3 ۱۳۲۸/STM
+14 جنوب/STM
+2 x/STM
+1 موج/STM + و/SUF + د/SUF + ی/SUF
+17 آغ/STM + از/SUF
+1 ب/STM + ا/SUF + با/STM
+20 حرکت/STM
+1 من/STM + ط/STM + ق/SUF
+1 رق/STM + یب/STM
+1 هر/STM + اس/STM
+1 نظا/STM + م/SUF + ی/SUF + ه/SUF
+2 رو/STM + ند/SUF
+1 ای/STM + ت/SUF + و/SUF
+1 ساز/STM + م/SUF + ا/SUF + ن/SUF + ده/STM + ان/SUF
+1 نخ/STM + و/SUF + رد/STM
+2 دم/STM
+11 مذه/STM + ب/SUF + ی/SUF
+21 جمله/STM
+3 اه/STM + می/STM + ت/SUF
+34 مح/STM + م/SUF + د/SUF
+1 data/STM
+1 عو/STM + د/SUF + لا/STM + جا/STM + ن/SUF
+1 ح/STM + و/SUF + زه/STM
+24 مرد/STM + م/SUF
+6 بر/STM + ند/STM + ه/SUF
+1 ار/STM + تبا/STM + ط/SUF + ی/SUF
+3 خا/STM + ک/SUF
+1 سا/STM + سا/STM + ن/SUF + ی/SUF
+1 در/STM + خار/STM + ج/SUF
+2 بخ/STM + ش/SUF + ی/SUF
+2 مو/STM + ار/SUF + دی/SUF
+1 گفت/STM + یم/SUF
+231 است/STM
+7 شن/STM + ا/SUF + س/SUF
+1 دبی/STM + ران/SUF
+2 ویرایشگر/STM
+54 هست/STM + ند/SUF
+2 متع/STM + ا/SUF + قب/STM
+2 غلام/STM + رض/STM + ا/SUF
+58 دیگر/STM
+7 چن/STM + د/SUF + ی/SUF
+3 ۱۹۴۴/STM
+2 رو/STM + س/SUF
+1 من/STM + ش/SUF + أ/STM
+1 قی/STM + ام/SUF
+2 فر/STM + و/SUF + گ/SUF + شا/STM + یی/SUF
+1 پر/STM + شور/STM
+1 چ/STM + لو/STM + ک/SUF + باب/STM
+1 مس/STM + ئ/SUF + ول/STM
+2 آور/STM + د/SUF + ه/SUF
+5 ب/STM + گیر/STM + د/SUF
+2 یر/STM + وا/STM + ند/SUF
+1 عل/STM + ا/SUF + مت/STM
+2 من/STM + جم/STM + ین/SUF
+2 ده/STM + ل/SUF + وی/STM
+1 صن/STM + د/SUF + و/SUF + ق/SUF + های/STM
+2 ممن/STM + ون/SUF
+5 ضم/STM + ن/SUF
+1 ی/STM + غاب/STM + ری/SUF
+9 هفت/STM + اد/SUF
+27 سه/STM
+12 تعدا/STM + د/SUF
+1 قاب/STM + ل/SUF + یت/SUF
+1 برپا/STM
+1 صا/STM + ل/SUF + ح/STM
+5 مرک/STM + ز/SUF + ی/SUF
+1 ار/STM + ج/SUF
+1 Tell/STM
+3 عمر/STM + ت/SUF
+4 شهر/STM + ب/STM + ا/SUF + نی/SUF
+2 ح/STM + س/SUF + ی/SUF + ن/SUF + یه/STM
+2 آ/STM + ب/SUF + کار/STM
+1 لا/STM + لی/SUF
+1 ب/STM + ا/SUF + ط/STM + ل/SUF
+1 ب/STM + ا/SUF + ز/SUF + ما/STM + ن/SUF + د/SUF + گا/STM + ن/SUF
+1 فر/STM + ا/SUF + دست/STM
+4 خط/STM + و/SUF + ط/SUF
+1 هم/STM + یش/SUF + گی/SUF
+1 واق/STM + مار/STM
+1 اج/STM + س/SUF + ام/STM
+1 عر/STM + اق/STM
+10 تلسکوپ/STM
+3 پ/STM + ا/SUF + د/SUF + ش/SUF + ا/SUF + ه/SUF
+2 و/STM + ک/SUF + ال/STM + ت/SUF
+14 منابع/STM
+1 مر/STM + ا/SUF + ج/SUF + عه/STM
+2 سا/STM + سه/STM
+1 ام/STM + ید/SUF + وار/STM
+12 دا/STM + ن/SUF + ش/SUF + نام/STM + ه/SUF
+1 بر/STM + ی/SUF + زد/STM
+2 وی/STM + را/STM + ی/SUF + ش/SUF + ی/SUF
+2 دو/STM + دم/STM + ان/SUF
+2 ب/STM + ل/SUF + ا/SUF + فاصله/STM
+2 ف/STM + صل/STM
+1 امیر/STM + ی/SUF
+2 آور/STM + یم/SUF
+1 تش/STM + ی/SUF + ع/STM
+1 کل/STM + ی/SUF + نگ/STM + ان/SUF
+2 خیر/STM + آ/STM + ب/SUF + اد/SUF
+1 تأ/STM + مل/STM
+2 ای/STM + نترنت/STM
+1 شور/STM + شی/STM + ان/SUF
+1 خط/STM + ره/STM + ای/SUF
+1 لی/STM + لی/SUF + وس/STM
+2 صم/STM + ص/STM + ام/SUF
+13 قمر/STM + ی/SUF
+1 ف/STM + دا/STM + ی/SUF + یا/STM + ن/SUF
+10 مهم/STM
+1 رو/STM + ز/SUF + گا/STM + ر/SUF
+1 چش/STM + م/SUF + ان/SUF
+3 مبن/STM + ی/SUF
+1 مش/STM + و/SUF + رت/STM + ی/SUF
+8 زب/STM + ا/SUF + ن/SUF + ی/SUF
+9 فیز/STM + ی/SUF + ک/SUF
+4 من/STM + قرض/STM
+3 ۱۹۴۰/STM
+1 چی/STM + رگ/STM + ی/SUF
+2 عب/STM + دا/SUF + ل/SUF + ح/STM + س/SUF + ی/SUF + ن/SUF
+1 دا/STM + ن/SUF + ست/SUF
+9 نخس/STM + ت/SUF + ین/SUF
+3 هن/STM + د/SUF
+1 کور/STM + ی/SUF + ر/SUF
+1 کش/STM + ت/SUF + ی/STM
+2 ت/STM + ی/SUF + مس/STM + ار/SUF
+2 خو/STM + د/SUF + خو/STM + ا/SUF + ه/SUF + ی/SUF + ها/SUF
+3 اب/STM + ت/SUF + دا/SUF + ی/SUF
+1 ۲۰۰/STM + ۶/STM
+2 دا/STM + ن/SUF + ش/SUF + جو/STM + یی/SUF
+3 آ/STM + ی/SUF + ین/SUF
+2 عم/STM + ار/STM + ت/SUF
+2 الکترونیک/STM + ی/SUF
+1 ب/STM + ه/SUF + ز/SUF + اد/STM
+1 نصر/STM + ال/STM + دی/SUF + ن/SUF
+2 I/STM
+8 عظ/STM + یم/SUF
+2 تک/STM + ن/SUF + ول/STM + و/SUF + ژ/STM + ی/SUF
+3 ست/STM
+2 خل/STM + ع/SUF + تب/STM + ری/SUF
+9 مع/STM + نی/SUF
+6 عق/STM + ای/STM + د/SUF
+2 ف/STM + لو/STM + ری/SUF + دا/STM
+3 دی/STM + د/SUF
+2 نشد/STM + ند/SUF
+1 رو/STM + سی/STM + ه/SUF
+4 پ/STM + ی/SUF + و/SUF + س/SUF + ت/SUF
+3 ضیاء/STM
+2 تن/STM + گا/STM + ت/SUF + نگ/STM
+1 هم/STM + ان/SUF + طور/STM + که/STM
+1 مکا/STM + ن/SUF + ی/SUF
+2 مربع/STM
+1 یافت/STM + ن/SUF
+1 اس/STM + ام/STM + ی/SUF
+6 ام/STM + نی/STM + ت/SUF
+2 مهم/STM + یز/STM + ها/SUF
+1 ب/STM + جا/STM + یی/SUF
+4 مستقل/STM
+2 مم/STM + ت/SUF + از/STM + ی/SUF
+1 زی/STM + ان/SUF
+2 آذر/STM + ب/STM + ا/SUF + ی/SUF + جا/STM + ن/SUF
+21 رئ/STM + ی/SUF + س/SUF
+5 شی/STM + را/SUF + ز/SUF
+14 دا/STM + ن/SUF + ش/SUF
+3 پ/STM + ا/SUF + د/SUF + ش/SUF + ا/SUF + ه/SUF + ان/SUF
+1 اح/STM + ق/SUF + اق/STM
+3 ۱۶۶۸/STM
+1 ۱۹۳/STM + ۳/STM
+8 شهر/STM + دار/STM
+11 در/STM + بار/STM + ه/SUF
+4 تجا/STM + ری/SUF
+2 آ/STM + س/SUF + انی/SUF
+1 کود/STM + نی/SUF
+2 ت/STM + ی/SUF + غ/STM
+2 پ/STM + ا/SUF + یب/STM + ند/SUF
+1 مد/STM + رک/STM
+2 تر/STM + ی/SUF + ن/SUF + یت/STM + ی/SUF
+2 ۱۵/STM + ۴۶/STM
+2 ب/STM + ن/SUF + زی/STM + ن/SUF
+2 است/STM + ان/SUF + دار/STM + د/SUF
+57 کش/STM + ور/SUF
+2 ست/STM + ا/SUF + د/SUF
+1 سم/STM + ع/STM + انی/SUF
+1 صف/STM + ح/SUF + ا/SUF + ت/SUF + ی/SUF
+3 مج/STM + ل/SUF + ه/SUF
+5 رس/STM + ید/SUF + ند/SUF
+7 سپس/STM
+2 تا/STM + تا/STM + ر/SUF
+2 ت/STM + د/SUF
+1 گ/STM + ه/SUF + کا/STM + ه/SUF
+1 حر/STM + کا/STM + ت/SUF
+1 اپ/STM + وز/STM + ی/SUF + سی/STM + ون/SUF
+2 است/STM + یو/STM
+1 پ/STM + ا/SUF + یی/SUF + ن/SUF + تر/SUF
+3 بر/STM + ه/SUF
+4 عبارت/STM + ند/SUF
+3 زیست/STM
+2 ور/STM
+1 نش/STM + س/SUF + تن/STM
+3 بمب/STM
+1 آ/STM + دام/STM + ز/SUF
+1 بر/STM + ه/SUF + نه/STM
+1 مت/STM + فاوت/STM + ی/SUF
+1 بی/STM + کار/STM + ی/SUF
+1 حقیق/STM + یش/STM
+1 تس/STM + خیر/STM
+8 چاپ/STM
+3 صف/STM + ح/SUF + ا/SUF + ت/SUF
+1 دک/STM + ار/STM + ت/SUF
+4 امکا/STM + ن/SUF
+1 مر/STM + وار/STM + ید/SUF
+1 مه/STM + ر/SUF
+14 نمود/STM
+1 مذ/STM + ا/SUF + کر/STM + ات/SUF
+9 ما/STM + ن/SUF + د/SUF + ه/SUF
+1 متر/STM + اد/STM + ف/SUF
+2 ۱۹۲/STM + ۷/STM
+4 ۱۹۲۳/STM
+1 نم/STM + و/SUF + نه/STM
+8 سما/STM + وی/SUF
+1 صد/STM + ا/SUF
+2 است/STM + اد/STM
+1 ح/STM + د/SUF + ف/SUF + اصل/STM
+2 منسو/STM + جا/STM + ت/SUF
+3 خل/STM + ا/SUF + قانه/STM
+7 منجر/STM
+3 امر/STM
+3 معم/STM + ار/SUF + ی/SUF
+4 تدو/STM + ین/SUF
+1 انی/STM
+4 نشد/STM
+4 تاکن/STM + ون/SUF
+1 غز/STM + ل/SUF + سرای/STM + ان/SUF
+1 بر/STM + هم/STM + ک/SUF + نش/STM
+3 طول/STM + انی/SUF
+1 فر/STM + ه/SUF + ن/SUF + گ/SUF + سر/STM + ا/SUF
+4 متر/STM
+1 اب/STM + و/SUF + ط/STM + ا/SUF + لب/STM
+27 تش/STM + کیل/STM
+2 ای/STM + ز/SUF + اک/STM
+1 انی/STM + شت/STM + ین/SUF
+10 مختل/STM + ف/SUF
+5 صد/STM
+9 دور/STM + ه/SUF
+2 ب/STM + ا/SUF + ور/SUF + ن/SUF + کردن/STM + ی/SUF
+21 بر/STM + ا/SUF + بر/STM
+1 د/STM + شت/STM + ی/SUF
+1 سا/STM + وه/STM
+2 مد/STM + نی/SUF
+10 شیخ/STM
+1 بر/STM + گز/STM + ی/SUF + دن/STM + د/SUF
+1 تق/STM + نی/SUF + نی/STM + ه/SUF
+2 تف/STM + او/STM + ت/SUF
+11 اس/STM + لام/STM + ی/SUF
+3 شهر/STM + ی/SUF + ار/SUF
+2 نا/STM + شی/SUF
+3 نواحی/STM
+1 خ/STM + ش/SUF + کسال/STM + ی/SUF
+8 دو/STM + م/SUF
+5 آ/STM + ل/SUF + م/SUF + ا/SUF + ن/SUF
+10 سر/STM
+3 اثر/STM + ی/SUF
+162 شد/STM
+4 ۳۶/STM
+1 آ/STM + ز/SUF + ار/SUF
+6 خوارزم/STM + شا/STM + ه/SUF
+1 ۱۳/STM + ۶۷/STM
+4 مقفع/STM
+1 ت/STM + ح/STM + س/SUF + ی/SUF + ن/SUF
+1 خو/STM + ا/SUF + ه/SUF + ی/SUF
+4 صنایع/STM
+3 خت/STM + ا/SUF
+1 fork/STM
+1 نب/STM + ش/SUF
+2 تا/STM + ب/STM + س/SUF + ت/SUF + ا/SUF + ن/SUF
+1 خا/STM + ک/SUF + بر/STM + د/SUF + ار/STM + ی/SUF
+1 No/STM
+2 ش/STM + کس/STM + ت/SUF
+1 گی/STM + لک/STM
+50 شا/STM + ه/SUF
+15 وق/STM + ت/SUF
+4 دست/STM + ی/SUF
+1 مس/STM + ا/SUF + فر/STM + ت/SUF
+1 ترس/STM
+11 او/STM + ل/SUF + ین/SUF
+1 ان/STM + ت/SUF + ظ/STM + ار/SUF
+1 ۱۹۳/STM + ۰/SUF
+1 ۱۶/STM + ۴/STM + ۰/SUF
+2 ج/STM
+4 خل/STM + ب/STM + ا/SUF + ن/SUF
+10 کرد/STM + ن/SUF
+1 میز/STM + های/SUF
+1 Klingon/STM
+2 ۸/STM + ۸۴/STM
+2 شهر/STM + ست/STM + ا/SUF + ن/SUF + ها/SUF
+10 البته/STM
+21 شود/STM
+1 کم/STM + یس/STM + ار/SUF + یا/STM + ی/SUF
+1 د/STM + ع/SUF + وا/STM + ی/SUF
+34 آ/STM + ن/SUF + ها/SUF
+1 آذر/STM + ب/STM + ا/SUF + ی/SUF + جا/STM + ن/SUF + ی/SUF
+1 پ/STM + ا/SUF + یا/SUF + ن/SUF + ی/SUF
+1 مب/STM + اد/SUF + له/STM
+8 گل/STM + ست/STM + ا/SUF + ن/SUF
+1 عر/STM + فا/STM + نی/SUF
+173 ب/STM + و/SUF + د/SUF
+1 ب/STM + درست/STM + ی/SUF
+5 هیچ/STM + گا/STM + ه/SUF
+2 ال/STM + م/SUF + لک/STM
+1 اختر/STM + شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF
+5 مقاب/STM + ل/SUF + ه/SUF
+2 ح/STM + ا/SUF + ئ/STM + ری/SUF
+439 را/STM
+3 هفت/STM
+1 زب/STM + ا/SUF + له/STM
+2 Mosque/STM
+1 Reason/STM
+1 سا/STM + ده/SUF
+1 نی/STM + کو/STM
+1 رف/STM + ت/SUF + ه/SUF
+9 ان/STM + تخا/STM + ب/SUF
+19 مش/STM + هور/STM
+1 For/STM + k/STM
+2 تف/STM + ری/SUF + ح/STM + ات/SUF
+5 انرژ/STM + ی/SUF
+9 ب/STM + د/SUF + ون/SUF
+3 آ/STM + ه/SUF + ن/SUF + گ/SUF
+9 ریاض/STM + ی/SUF + ات/SUF
+1 ویرایشگر/STM + های/SUF
+3 آپا/STM + چ/STM + ی/SUF
+13 شامل/STM
+4 هواپ/STM + یم/SUF + ا/SUF + یش/SUF
+1 قد/STM + یم/SUF + ی/SUF
+13 مطال/STM + ع/SUF + ه/SUF
+1 اق/STM + و/SUF + ام/STM
+6 عموم/STM + ی/SUF
+1 مرد/STM + گا/STM + ن/SUF
+7 کتاب/STM + ی/SUF
+2 آ/STM + ن/SUF + در/STM + یا/SUF
+1 چ/STM + ا/SUF + مس/STM + ک/SUF + ی/STM
+12 امیر/STM
+19 آمریکا/STM
+1 عل/STM + ا/SUF + ق/SUF + من/STM + د/SUF
+1 ب/STM + ا/SUF + لا/SUF + ج/SUF + با/STM + ر/SUF
+1 در/STM + مناطق/STM
+3 ۳۱/STM
+1 ج/STM + لس/STM + ات/SUF
+16 مقاله/STM
+3 تجز/STM + یه/SUF
+5 جم/STM + ع/SUF
+2 هی/STM + ت/SUF + لر/STM
+2 در/STM + واق/STM + ع/SUF
+1 خر/STM + اب/STM + کار/STM + ان/STM + ه/SUF
+1 چه/STM + ار/SUF + چوب/STM
+16 عرب/STM + ی/SUF
+5 تحل/STM + یل/SUF
+1 ار/STM + کا/STM + ن/SUF
+3 مسائل/STM
+4 هو/STM + ا/SUF + ی/SUF + ی/SUF
+3 بور/STM + ن/SUF
+2 مو/STM + ار/SUF + د/SUF
+1 تعل/STM + یم/SUF
+1 اع/STM + ت/SUF + قا/STM + د/SUF + ات/SUF
+1 ح/STM + ک/SUF + یمان/STM
+1 اق/STM + مار/STM
+5 موفق/STM
+4 ماکس/STM
+1 گر/STM + اس/STM + ی/SUF + مو/STM + ف/SUF
+5 تو/STM + ا/SUF + ن/SUF
+7 داشت/STM + ن/SUF
+1 صا/STM + د/SUF + ق/SUF
+1 Blues/STM
+1 ب/STM + ن/SUF + یا/STM + ن/SUF
+3 گو/STM + اه/SUF + ین/SUF + ام/STM + ه/SUF
+2 خو/STM + د/SUF + ش/SUF
+1 د/STM + ب/STM + س/SUF + ت/SUF + ا/SUF + ن/SUF
+12 جستا/STM + ره/STM + ای/SUF
+2 تس/STM + لط/STM
+2 پ/STM + ن/SUF + اه/STM + گا/STM + ه/SUF
+2 خی/STM + ا/SUF + با/STM + ن/SUF
+4 ۱۶/STM
+135 خو/STM + د/SUF
+1 ۱۵/STM + ۸/STM + ۲/SUF
+8 دا/STM + د/SUF + گا/STM + ه/SUF
+1 نه/STM + اد/STM + ند/SUF
+2 طال/STM + ق/SUF + ان/SUF
+1 ساز/STM
+20 هم/STM + ان/SUF
+4 بریتانیک/STM + ا/SUF
+1 اح/STM + اط/STM + ه/SUF
+1 تا/STM + ری/SUF + ک/SUF
+2 نی/STM + ا/SUF + مد/STM
+6 خر/STM + ا/SUF + سا/STM + ن/SUF
+2 Layla/STM
+2 ها/STM + آر/STM + ت/SUF + ص/SUF
+2 رسال/STM + ه/SUF
+1 خو/STM + رش/STM + ید/SUF + گرفت/STM + گی/SUF
+2 ای/STM + را/SUF + ن/SUF + ی/SUF + ان/SUF
+3 فر/STM + ی/SUF + دو/STM + ن/SUF
+1 جو/STM + ا/SUF + نه/STM + ا/SUF
+2 تظ/STM + ا/SUF + هر/STM + کن/STM + ند/SUF + گا/STM + ن/SUF
+1 سیا/STM + ق/SUF
+1 سا/STM + یت/SUF
+7 ۸۰/STM
+7 محمود/STM
+1 پر/STM + گر/STM + د/SUF
+1 نا/STM + بی/STM + ن/SUF + ای/STM
+5 سوئیس/STM
+2 سر/STM + و/SUF + دن/STM
+1 صح/STM + ن/SUF
+2 کم/STM + پ/STM + انی/SUF
+25 برخ/STM + ی/SUF
+6 شهر/STM + ی/SUF
+7 ام/STM + ور/SUF
+2 حر/STM + م/SUF
+4 اعتراض/STM
+1 وق/STM + و/SUF + ع/STM
+6 کام/STM + ل/SUF
+3 ۷۳۹/STM
+5 حقیق/STM + ت/SUF
+1 وز/STM + را/SUF + ء/STM
+2 ب/STM + ه/SUF + ار/SUF
+11 کمک/STM
+1 گس/STM + تر/SUF + د/SUF + گی/SUF
+1 مقا/STM + لا/STM + ت/SUF + ی/SUF
+4 ساما/STM + نی/SUF + ان/SUF
+1 سر/STM + به/STM
+2 را/STM + ست/STM + ی/SUF
+1 گر/STM + د/SUF + د/SUF
+2 اتاق/STM + ی/SUF
+1 هم/STM + کا/STM + را/SUF + نش/STM
+1 جو/STM + ا/SUF + یز/STM
+1 شور/STM + ی/SUF + ده/STM
+8 اریک/STM
+1 هر/STM + گو/STM + ن/SUF + ه/SUF
+2 ب/STM + ه/SUF + ب/STM + و/SUF + د/SUF + ی/SUF
+7 کیه/STM + ا/SUF + ن/SUF + ی/SUF
+1 قل/STM + بی/STM
+2 من/STM + قول/STM
+2 1329/STM + و/SUF
+1 مقا/STM + لا/STM + ت/SUF
+12 فر/STM + م/SUF + ا/SUF + ن/SUF
+6 قر/STM + ار/SUF + دا/STM + د/SUF
+2 اختر/STM + ا/SUF + ع/SUF + شا/STM + ن/SUF
+41 هم/STM
+3 عام/STM + ل/SUF
+3 جا/STM + ن/SUF
+4 هنر/STM + ی/SUF
+4 مر/STM + ا/SUF + ک/SUF + ز/SUF
+1 UV/STM
+2 ب/STM + ا/SUF + نفوذ/STM
+1 نت/STM + وا/STM + ن/SUF
+3 نسخه/STM
+2 Vol/STM
+1 ات/STM + ها/SUF + ما/STM + ت/SUF
+8 دست/STM + ور/SUF
+3 ب/STM + ط/SUF + لا/SUF + ن/SUF
+1 آ/STM + ل/SUF + و/SUF + یس/STM + ی/SUF + وس/STM
+1 ۷/STM + ۲/SUF + ۳۰/STM
+1 اب/STM + لاغ/STM
+2 شع/STM + اع/STM
+1 هم/STM + جو/STM + ن/SUF
+3 خا/STM + ک/SUF + ی/SUF
+1 مک/STM + مل/STM
+1 پ/STM + ن/SUF + ها/STM + ن/SUF
+2 فر/STM + ه/SUF + ن/SUF + گ/SUF + ست/STM + ا/SUF + ن/SUF
+2 تبلیغ/STM + ات/SUF
+1 بر/STM + ا/SUF + در/STM + ش/SUF
+1 ب/STM + زرگ/STM + تر/STM + ی/SUF
+1 آ/STM + جر/STM
+1 شه/STM + ام/STM + ت/SUF
+16 وی/STM + را/STM + ی/SUF + ش/SUF
+6 خار/STM + ج/SUF + ی/SUF
+2 م/STM + ضم/STM + ون/SUF
+1 University/STM
+2 انگ/STM + ی/SUF + ز/SUF
+8 صهیونیس/STM + م/SUF
+2 میز/STM + ب/STM + ا/SUF + ن/SUF + ان/SUF
+1 ۳۲/STM + ۲/SUF
+1 وا/STM + کسی/STM + ن/SUF + اس/STM + یو/STM + ن/SUF
+1 Principia/STM
+3 ح/STM + د/SUF
+11 نوپ/STM + دیا/STM
+5 اس/STM + ف/SUF + ند/SUF
+1 سر/STM + ب/STM + زرگ/STM + ی/SUF
+1 ده/STM + ق/SUF + انان/STM
+1 شن/STM + به/STM
+1 ب/STM + ن/SUF + ا/SUF + ها/SUF
+2 جا/STM + نب/STM
+2 گ/STM + دار/STM
+1 کر/STM + ای/STM + ه/SUF
+6 میز/STM + ب/STM + ا/SUF + ن/SUF
+7 بلکه/STM
+2 ۲۶/STM
+5 آغ/STM + از/SUF + ین/SUF
+4 ۳۲/STM
+1 مع/STM + ن/SUF + وی/STM
+1 بلوچ/STM + ی/SUF
+1 قو/STM + چ/STM + انی/SUF
+119 کرد/STM
+2 گر/STM + ا/SUF + یی/SUF
+2 ما/STM + ن/SUF + ع/SUF
+2 ع/STM + ش/SUF + ق/STM
+3 زن/STM + گی/SUF
+9 وزیر/STM + ی/SUF
+1 یا/STM + بد/STM
+1 ف/STM + خر/STM
+2 زب/STM + ا/SUF + ن/SUF + شن/STM + ا/SUF + س/SUF
+3 ند/STM + ید/SUF + ند/SUF
+2 صف/STM + ح/STM + ه/SUF
+1 ماجرا/STM + ی/SUF
+3 جالب/STM
+1 خر/STM + د/SUF + ی/SUF
+1 خد/STM + ا/SUF
+18 کن/STM + ند/SUF
+3 صف/STM + وی/SUF
+3 اد/STM
+1 مل/STM + از/SUF + مانش/STM
+1 Bell/STM
+3 همگا/STM + نی/SUF
+17 هز/STM + ار/SUF
+2 ۱۶۹۹/STM
+1 تس/STM + لی/STM + م/SUF
+2 ضیاء/STM + ال/STM + دی/SUF + ن/SUF
+3 درجه/STM
+3 زیرپا/STM
+1 زم/STM + ین/SUF + ی/SUF
+1 بر/STM + گ/SUF
+1 ن/STM + کرد/STM + ه/SUF
+8 ۱۰/STM
+10 عل/STM + ت/SUF
+1 Cry/STM
+1 وض/STM + و/SUF + ح/STM
+4 مسی/STM + ح/STM + ی/SUF + ا/SUF + ن/SUF
+2 خرافی/STM
+4 هو/STM + ا/SUF + ی/SUF
+1 ب/STM + ه/SUF + به/STM + انی/SUF
+1 مت/STM + حر/STM + ک/SUF
+1 نداشت/STM + ند/SUF
+13 ج/STM + ه/SUF + ا/SUF + ن/SUF + ی/SUF
+7 شناخته/STM
+2 ید/STM
+1 خو/STM + ز/SUF + ستان/STM
+2 ال/STM + عقد/STM
+2 تال/STM + می/SUF
+2 چه/STM + ار/SUF + ده/SUF
+7 پر/STM + د/SUF + از/SUF + ش/SUF
+1 آ/STM + ش/SUF + کار/STM + ا/SUF
+16 ندارد/STM
+41 هم/STM + چن/STM + ی/SUF + ن/SUF
+1 تال/STM + ما/STM + ت/SUF
+4 معاصر/STM
+4 پراکن/STM + ده/SUF
+3 1306/STM
+1 ادب/STM + ی/SUF
+2 آ/STM + ب/SUF + را/SUF + ها/STM + میا/STM + ن/SUF
+7 خاطر/STM
+3 ان/STM + فج/STM + ار/SUF
+1 تط/STM + اب/STM + ق/SUF
+2 ۹۹/STM
+1 ع/STM + ج/STM + ل/SUF
+2 نام/STM + عل/STM + و/SUF + م/SUF
+1 گو/STM + یش/STM
+3 خل/STM + یل/SUF + ی/SUF
+1 خو/STM + ا/SUF + ه/SUF
+2 مو/STM + زا/STM + ئ/SUF + یک/STM + ی/SUF
+1 ب/STM + و/SUF + لی/SUF + نگ/STM
+1 ار/STM + اد/STM + ت/SUF
+2 ساب/STM + قه/STM
+1 در/STM + یا/SUF + ی/SUF
+1 سال/STM + نام/STM + ه/SUF
+1 جا/STM + نش/STM + ین/SUF
+3 سوز/STM + ن/SUF
+2 ای/STM + پ/STM + ک/SUF
+1 کف/STM + شی/SUF
+1 ح/STM + ک/SUF + یم/STM
+1 رو/STM + ز/SUF + ه/SUF
+2 دل/STM + ب/STM + س/SUF + ت/SUF + ن/SUF
+8 تک/STM + ام/SUF + ل/SUF
+1 مخ/STM + زن/STM
+2 اع/STM + ظ/STM + م/SUF
+1 اظ/STM + ه/SUF + ار/SUF + نظر/STM
+3 ب/STM + ا/SUF + ور/SUF
+4 مدخل/STM
+2 ساعت/STM + ی/SUF
+2 تل/STM + وی/SUF + زی/STM + ون/SUF
+3 رو/STM + ست/STM + ا/SUF + ی/SUF
+14 نظر/STM + ی/SUF + ه/SUF
+1 نام/STM + ید/SUF
+1 چی/STM + زه/STM + ا/SUF
+4 هدف/STM
+5 اطلاع/STM + ات/SUF + ی/SUF
+2 وض/STM + ع/SUF
+2 آراء/STM
+2 سال/STM + م/SUF
+3 کور/STM
+2 د/STM + سا/STM + مبر/STM
+5 هجری/STM
+3 اتاب/STM + ک/SUF
+1 فر/STM + ا/SUF + گرفت/STM
+1 اف/STM + ت/SUF + اد/STM
+1 اع/STM + ظ/STM + می/SUF
+1 دو/STM + م/SUF + ین/SUF
+8 فر/STM + ست/STM + ا/SUF + د/SUF + ه/SUF
+1 دس/STM + ی/SUF + سه/STM
+1 بخ/STM + و/SUF + اه/STM + ند/SUF
+2 او/STM + غ/STM + ان/SUF
+3 اوائل/STM
+3 قر/STM + ار/SUF + دا/STM + د/SUF + ی/SUF
+1 اخ/STM + ل/SUF + اق/STM
+1 بخ/STM + ار/SUF + آب/STM
+1 مقا/STM + وم/STM
+2 ۱۲/STM + ۶۱/STM
+4 حدیث/STM
+6 کار/STM + بر/STM + ا/SUF + ن/SUF
+1 م/STM + شی/STM + ری/SUF
+2 ب/STM + و/SUF + د/SUF + جه/STM
+6 طال/STM + ب/SUF + ا/SUF + ن/SUF
+2 چگ/STM + و/SUF + نگ/STM + ی/SUF
+1 دفا/STM + تر/SUF
+1 رن/STM + ج/SUF
+2 شعر/STM + ا/SUF
+1 زن/STM + د/SUF + ان/SUF
+1 مو/STM + ا/SUF + فق/STM
+2 کال/STM + بد/STM
+1 پر/STM + تلفا/STM + ت/SUF
+2 ان/STM + ح/STM + ر/SUF + اف/STM
+1 کل/STM + ت/SUF
+2 ته/STM + ماسب/STM
+1 اح/STM + و/SUF + ال/STM
+1 ال/STM + عم/STM + ار/STM + ه/SUF
+1 پ/STM + ا/SUF + ی/SUF
+4 اه/STM + ا/SUF + لی/SUF
+9 سن/STM
+1 βίος/STM
+5 یو/STM + ن/SUF + انی/SUF
+4 بر/STM + جسته/STM
+4 ال/STM + دی/SUF + ن/SUF
+1 خط/STM + ر/SUF
+3 نه/STM + ض/STM + ت/SUF
+2 پذ/STM + ی/SUF + رف/STM + ت/SUF
+9 ذکر/STM
+1 عا/STM + لم/STM
+2 برپا/STM + یی/SUF
+1 مط/STM + م/SUF + ئن/STM
+1 مر/STM + ا/SUF + سم/STM
+3 رف/STM + ت/SUF + ار/SUF
+3 نخواهد/STM
+4 توص/STM + ی/SUF + ف/SUF
+1 سر/STM + و/SUF + کار/STM + ی/SUF
+8 کود/STM + ت/SUF + ا/SUF + ی/SUF
+2 آ/STM + م/SUF + د/SUF + ن/SUF
+9 جو/STM
+2 دا/STM + ن/SUF + ش/SUF + ج/SUF + وی/STM + ان/SUF
+3 شمس/STM
+1 مد/STM + ا/SUF + فع/STM + ان/SUF
+7 آ/STM + ی/SUF + ن/SUF + ده/SUF
+4 مد/STM + ار/SUF
+5 سخ/STM + ن/SUF
+2 مت/STM + ه/SUF + و/SUF
+5 کوچول/STM + و/SUF
+2 سط/STM + ره/STM + ای/SUF
+2 یک/STM + سا/STM + ن/SUF + ی/SUF
+3 مفهو/STM + م/SUF
+2 ب/STM + گذ/STM + ارد/STM
+2 پارسی/STM
+6 نور/STM + ی/SUF
+2 سرگر/STM + می/SUF
+3 تع/STM + طی/STM + ل/SUF + ی/SUF
+2 ویژ/STM + گی/SUF
+1 مر/STM + تب/STM
+2 نا/STM + ب/STM
+3 رأئی/STM
+6 صو/STM + ت/SUF + ی/SUF
+1 ته/STM + را/SUF + م/SUF
+8 ب/STM + ن/SUF
+1 فر/STM + ست/STM + ا/SUF + د/SUF + ند/SUF
+8 زی/STM + اد/SUF
+1 من/STM + صف/STM + ان/STM + ه/SUF
+2 ی/STM
+2 ب/STM + ن/SUF + ا/SUF + در/STM
+8 قصی/STM + ده/SUF
+3 سول/STM + وا/STM + ی/SUF
+1 هو/STM + ش/SUF
+1 نو/STM + آور/STM
+1 خد/STM + مه/STM
+1 نه/STM + ا/SUF + د/SUF
+53 وجو/STM + د/SUF
+1 کف/STM + ش/SUF
+1 دش/STM + ت/SUF
+1 ضر/STM + ی/SUF + ح/STM
+3 مح/STM + م/SUF + د/SUF + رض/STM + ا/SUF
+3 language/STM
+2 ت/STM + خ/STM + می/STM + ن/SUF
+13 بررسی/STM
+6 فاط/STM + می/SUF
+1 صد/STM + ر/SUF + الدین/STM
+2 صف/STM + ت/SUF
+1 نا/STM + بی/STM + ن/SUF + ا/SUF
+1 کم/STM + ب/STM + و/SUF + د/SUF
+2 ۷/STM + ۰/SUF
+1 ب/STM + پر/STM + د/SUF + از/SUF + د/SUF
+19 شکل/STM
+6 عه/STM + ده/SUF
+1 سر/STM + ی/SUF + ع/STM
+1 دن/STM + دا/STM + ن/SUF
+4 جنبش/STM
+1 نو/STM + شاتل/STM
+1 اک/STM + بر/STM
+2 سپ/STM + ه/SUF
+5 ار/STM + م/SUF + نی/SUF
+1 ذ/STM + غال/STM
+1 سر/STM + ش/SUF
+11 لامپ/STM
+1 Body/STM
+1 جغرافی/STM + ای/STM + ی/SUF
+2 یو/STM
+2 افغ/STM + ا/SUF + ن/SUF + س/SUF + ت/SUF + ا/SUF + ن/SUF + ی/SUF
+6 رم/STM + ان/SUF
+1 گر/STM + ا/SUF + یا/STM + ن/SUF
+1 ح/STM + د/SUF + سی/STM + ات/SUF
+1 پر/STM + تو/STM + های/SUF
+1 کش/STM + م/SUF + کش/STM + های/SUF
+35 فارسی/STM
+8 ترک/STM
+1 ح/STM + ی/SUF + ن/SUF
+5 اخذ/STM
+2 کلا/STM + می/SUF
+1 تا/STM + ج/SUF + یک/STM + ی/SUF
+1 ز/STM + ح/STM + م/SUF + تکشا/STM + ن/SUF
+2 v2/STM
+1 لو/STM + میر/STM
+2 سف/STM + ی/SUF + ران/STM
+2 in/STM
+15 اگر/STM
+4 سر/STM + آغ/STM + از/SUF
+1 اش/STM + ر/SUF + اق/STM
+2 صم/STM + یم/STM + ی/SUF
+5 تعا/STM + ری/STM + ف/SUF
+10 عام/STM
+2 رو/STM + ان/STM + ه/SUF
+1 ب/STM + ا/SUF + لی/SUF + نی/STM
+19 ما/STM + ن/SUF + ند/SUF
+9 توانست/STM
+1 مخالف/STM + ت/SUF + های/STM + ی/SUF
+2 تال/STM + م/SUF + ود/STM
+1 گ/STM + لی/STM + م/SUF
+2 مو/STM + ز/SUF + یس/STM + ین/SUF
+1 آ/STM + ف/SUF + ت/SUF + اب/STM
+1 سو/STM + د/SUF
+1 ب/STM + ساز/STM + ند/SUF
+1 هم/STM + دا/STM + ن/SUF + ی/SUF
+2 Epacte/STM
+7 سیا/STM + ه/SUF
+5 ح/STM + ا/SUF + ل/SUF + ی/SUF
+2 تو/STM + ا/SUF + ن/SUF + ای/STM + ی/SUF
+6 اسرائی/STM + ل/SUF
+2 رو/STM + ز/SUF + به/STM
+2 سر/STM + ت/SUF + اس/STM + ر/SUF
+1 بر/STM + اه/STM + ه/SUF
+31 ب/STM + زرگ/STM
+1 کو/STM + ش/SUF + ک/SUF
+10 قر/STM + ن/SUF
+2 آ/STM + س/SUF + پرجر/STM
+5 حجم/STM
+1 یا/STM + د/SUF + گیری/STM
+1 ۱۹/STM + ۷۶/STM
+1 ب/STM + ا/SUF + ز/SUF + وی/STM
+6 من/STM
+3 سن/STM + ا/SUF
+1 هن/STM + دوست/STM + ان/SUF
+2 سر/STM + د/SUF + بی/STM + ری/SUF
+12 جنگ/STM
+3 ۵۸۵/STM
+9 ب/STM + ا/SUF + شن/STM + د/SUF
+2 اد/STM + ی/SUF + ان/SUF
+1 هو/STM + یبرگ/STM
+3 آ/STM + ش/SUF + نا/STM
+3 ح/STM + س/SUF + ن/SUF
+10 طی/STM
+1 لی/STM
+4 کور/STM + ی/SUF
+1 سیب/STM + ی/SUF
+2 مح/STM + م/SUF + د/SUF + ح/STM + س/SUF + ن/SUF
+23 دار/STM + ای/SUF
+12 منطقه/STM
+2 دک/STM + تر/SUF + مح/STM + م/SUF + د/SUF
+2 ۱۳۸/STM + ۹/STM
+1 س/STM + ز/SUF + ای/STM + ی/SUF
+3 ۱۹۱۵/STM
+1 تق/STM + دم/STM
+15 نیست/STM
+3 عدم/STM
+1 مس/STM + کو/STM + نی/SUF
+1 جا/STM + های/SUF
+2 نام/STM + زد/STM
+1 لح/STM + ظ/STM + ه/SUF
+11 مدر/STM + س/SUF + ه/SUF
+3 مت/STM + لا/SUF + شی/SUF
+1 رو/STM + ب/STM + ا/SUF + ز/SUF
+9 تول/STM + د/SUF
+615 که/STM
+1 کر/STM + زی/STM
+1 انجمن/STM + ی/SUF
+4 پ/STM + ا/SUF + لا/STM + ی/SUF + شگاه/STM
+2 ال/STM + ک/SUF + ت/SUF + ری/SUF + ک/SUF
+3 تر/STM + ا/SUF + ف/SUF + یک/STM
+1 ب/STM + زرگ/STM + ن/SUF + ما/STM + یی/SUF
+1 گز/STM + ید/SUF
+1 Cre/STM + am/STM
+1 ز/STM + غال/STM
+3 تقدیم/STM
+1 پر/STM + ت/SUF + غال/STM
+4 گو/STM + ن/SUF + ه/SUF
+5 طنز/STM
+1 Humboldt/STM
+3 فر/STM + و/SUF + سرخ/STM
+2 کتاب/STM + ش/SUF
+2 ساز/STM + ی/SUF
+1 صح/STM + را/SUF + نش/STM + ین/SUF
+25 شد/STM + ن/SUF
+1 ۱۳/STM + ۶۰/STM
+43 استفا/STM + د/SUF + ه/SUF
+1 را/STM + زی/STM
+1 ان/STM + ها/SUF
+1 ۱۶/STM + ۸۴/STM
+2 خودر/STM + و/SUF + ه/SUF + ا/SUF
+1 مور/STM
+1 مار/STM + پ/STM + ی/SUF + چ/STM + ی/SUF
+1 دا/STM + ن/SUF + ش/SUF + گا/STM + ه/SUF + های/SUF
+7 ب/STM + ق/SUF + یه/SUF
+4 روجر/STM
+3 dicdefs/STM
+1 ح/STM + ن/SUF + فی/STM
+1 کار/STM + دا/STM + ن/SUF + ش/SUF
+2 رو/STM + ان/SUF
+1 سو/STM + ال/STM + ی/SUF
+3 نار/STM + سا/STM + یی/SUF
+3 مناظ/STM + را/STM + ت/SUF
+2 جو/STM + ی/SUF
+1 ساخت/STM + ن/SUF
+2 ۱۹۱۴/STM
+4 پ/STM + ا/SUF + ک/SUF + ست/STM + ا/SUF + ن/SUF
+3 شهر/STM + و/SUF + ند/SUF + ان/SUF
+1 عکا/STM + س/SUF + ی/SUF
+3 کس/STM
+1 وی/STM + را/SUF + نی/STM
+1 ابر/STM + از/SUF
+1 ساز/STM + ش/SUF + کا/STM + را/SUF + نه/STM
+5 اضاف/STM + ه/SUF
+1 اشت/STM + ر/SUF + اک/STM
+2 ط/STM + لب/STM
+1 ۱۴/STM + ۰/SUF
+1 ۱۲/STM + ۰/SUF
+12 رو/STM + ش/SUF
+2 مختل/STM + ف/SUF + ی/SUF
+2 وی/STM + جر/STM
+1 پ/STM + ی/SUF + کر/STM + تر/SUF + اش/STM
+2 اظ/STM + ه/SUF + ار/SUF + ات/SUF
+5 فعال/STM + یت/SUF
+1 مرد/STM + یه/STM + ا/SUF
+1 جواب/STM + شا/STM + ن/SUF
+1 پ/STM + ن/SUF + ج/SUF + کن/STM + ت/SUF
+1 مؤس/STM + س/SUF
+1 دو/STM + ل/SUF + ت/SUF + شا/STM + ه/SUF
+1 ب/STM + س/SUF + ت/SUF + ه/SUF
+2 کا/STM + نت/STM
+5 جا/STM + ن/SUF + سو/STM + ن/SUF
+4 حماسی/STM
+3 تعریف/STM + ی/SUF
+1 گا/STM + نگ/STM
+1 سن/STM + ا/SUF + یی/SUF
+7 پاسخ/STM
+5 ح/STM + ل/SUF
+1 کا/STM + تب/STM
+4 ژو/STM + ئن/STM
+6 طی/STM + ف/SUF
+16 واق/STM + ع/SUF
+2 انب/STM + و/SUF + هی/STM
+3 شور/STM + وی/SUF
+1 ج/STM + ذب/STM
+2 ت/STM + خصص/STM + ی/SUF
+1 نقش/STM + بن/STM + د/SUF + یه/STM
+1 چن/STM + د/SUF + زب/STM + ا/SUF + ن/SUF + ه/SUF
+3 ۶۱۰/STM
+2 بر/STM + می/SUF
+1 بحث/STM + ها/SUF
+1 اب/STM + و/SUF + ا/SUF + سحا/STM + ق/SUF
+2 ش/STM + پ/STM + ی/SUF + سی/STM
+2 هست/STM + ی/SUF
+15 درصد/STM
+4 سن/STM + ت/SUF + ی/SUF
+1 مشاغ/STM + ل/SUF
+7 سی/STM + است/STM
+2 مس/STM + یر/SUF
+14 نفت/STM
+1 برکن/STM + ار/SUF
+10 کش/STM + ف/SUF
+2 کن/STM + ند/SUF + گا/STM + ن/SUF
+2 فض/STM + ا/SUF + پ/STM + ی/SUF + ما/STM + ی/SUF
+1 جر/STM + ی/SUF + ا/SUF + ن/SUF + ی/SUF
+1 است/STM + اد/STM + ش/SUF
+1 مش/STM + ترک/STM + ی/SUF
+1 ۵/STM + ۷/STM
+1 جز/STM + ء/STM
+4 مهم/STM + ی/SUF
+1 جواب/STM + ی/SUF
+1 مب/STM + تن/STM + ی/SUF
+2 آور/STM + ند/STM + ه/SUF
+2 ار/STM + سل/STM + ان/SUF
+8 ای/STM + ست/STM + گا/STM + ه/SUF
+1 ۸/STM + ۲/SUF
+3 را/STM + ه/SUF + ی/SUF
+1 نما/STM
+1 ع/STM + ده/SUF
+1 گو/STM + د/SUF
+7 غرب/STM
+4 رباع/STM + ی/SUF
+3 آ/STM + ز/SUF + ما/STM + ی/SUF + ش/SUF
+1 مر/STM + تکب/STM
+1 شو/STM + ا/SUF
+1 ۲/STM + ۴/STM
+1 مشا/STM + به/STM
+1 مناسب/STM + ت/SUF + ی/STM
+1 مذ/STM + ا/SUF + کر/STM + ه/SUF
+2 نا/STM + ئل/STM
+2 مست/STM + قی/STM + م/SUF
+3 آ/STM + ل/SUF + ای/STM + ن/SUF + ده/SUF
+2 ۱۳۳/STM + ۱/STM
+2 ای/STM + وا/STM + ن/SUF + ک/SUF + ی/STM
+1 وار/STM + د/SUF + ات/STM + ی/SUF
+3 رو/STM + د/SUF + خا/STM + ن/SUF + ه/SUF
+12 مرد/STM + اد/SUF
+6 آژ/STM + ا/SUF + ن/SUF + س/SUF
+3 ۱۰۰/STM
+4 شد/STM + ی/SUF + دی/SUF
+1 ش/STM + کا/STM + ف/SUF + تن/STM + د/SUF
+1 مت/STM + کل/STM + ف/SUF
+11 تحت/STM
+1 مه/STM + ندس/STM + ی/SUF
+2 اه/STM + د/SUF + اف/STM
+7 بر/STM + ی/SUF + ت/SUF + ان/SUF + یا/SUF
+2 س/STM + خت/STM + ی/SUF
+7 مجوز/STM
+3 سر/STM + گذشت/STM
+1 جا/STM + یگاه/STM + ش/SUF
+2 تا/STM + بع/STM + یت/SUF
+5 طراحی/STM
+3 ساب/STM + ق/SUF
+1 ای/STM + ل/SUF + سه/STM
+2 طه/STM + م/SUF + اسبی/STM
+1 ۶/STM + ۵۶/STM
+1 اختر/STM + گو/STM + یی/SUF
+2 سع/STM + ید/SUF
+2 ش/STM + کا/STM + یت/SUF
+2 پ/STM + ی/SUF + ک/SUF + اس/STM + و/SUF
+1 گ/STM + شت/STM
+2 چن/STM + ان/SUF + که/STM
+1 د/STM + ع/SUF + ای/STM
+1 سر/STM + ی/SUF + ال/STM
+4 شی/STM + میا/STM + یی/SUF
+1 پ/STM + ی/SUF + م/SUF + ای/STM + ش/SUF
+1 ن/STM + صب/STM
+1 تب/STM + ر/SUF + ئ/STM + ه/SUF
+8 سر/STM + و/SUF + ده/SUF
+1 تع/STM + ال/STM + یم/SUF
+15 مطرح/STM
+3 ۲۹/STM
+1 اد/STM + ا/SUF
+867 ب/STM + ه/SUF
+2 شور/STM + ا/SUF + ها/SUF
+2 کار/STM + ی/SUF
+64 ای/STM + را/SUF + ن/SUF
+46 هر/STM
+11 فر/STM + ه/SUF + ن/SUF + گ/SUF + ی/SUF
+3 او/STM + ق/SUF + ات/SUF
+1 سخ/STM + ت/SUF
+1 زم/STM + ا/SUF + ن/SUF + ی/SUF + که/STM
+1 جو/STM + ش/SUF
+22 بخ/STM + ش/SUF
+2 ۳۵/STM
+1 او/STM + ج/SUF
+1 زیر/STM + زم/STM + ین/SUF + ی/SUF
+14 هم/STM + ه/SUF
+1 ق/STM + ط/SUF + بی/STM
+2 ست/STM + ا/SUF + یش/STM
+3 ب/STM + د/SUF + ه/SUF + د/SUF
+2 رو/STM + ست/STM + ا/SUF + های/SUF
+2 سخ/STM + ن/SUF + ان/SUF
+1 شی/STM + رو/STM + د/SUF + ی/SUF
+4 دفا/STM + ع/SUF
+4 ۵۵/STM
+1 ب/STM + جز/STM
+1 ۱۹/STM + ۷۸/STM
+1 کم/STM + ی/SUF
+2 واحد/STM + های/SUF
+2 ۱۷/STM + ۰۹/STM
+2 پ/STM + و/SUF + گواش/STM
+1 مف/STM + ید/SUF
+2 در/STM + برخ/STM + ی/SUF
+2 را/STM + سل/STM
+3 ساعت/STM
+5 خد/STM + م/SUF + ات/SUF
+4 متح/STM + د/SUF
+1 بی/STM + نه/STM + ا/SUF + یت/SUF
+1 مخ/STM + بر/STM + ال/STM + د/SUF + و/SUF + ل/SUF + ه/SUF
+1 تر/STM + ج/SUF + یح/STM
+1 To/STM
+3 وز/STM + ن/SUF
+1 ۱۷/STM + ۰/SUF
+1 من/STM + ظ/STM + م/SUF
+1 ول/STM + اد/SUF + ت/SUF
+1 ۱۳/STM + ۹۰/STM
+3 خا/STM + ور/STM + میا/STM + نه/STM
+2 سر/STM + شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF
+6 زی/STM + ب/STM + ا/SUF + ی/SUF
+1 قا/STM + س/SUF + مل/STM + و/SUF
+3 ژید/STM
+2 About/STM
+1 پ/STM + ل/SUF + ان/STM + ک/SUF
+5 گر/STM + ا/SUF + ن/SUF + ش/SUF + ی/SUF
+2 تک/STM + میل/STM
+1 اب/STM + یا/STM + ت/SUF + ی/SUF
+3 کار/STM + گر/STM + ی/SUF
+1 منتسب/STM + ین/SUF
+3 ب/STM + ا/SUF + ز/SUF + ی/SUF
+1 صح/STM + ا/SUF + به/STM
+1 اض/STM + طر/STM + ا/SUF + ری/SUF
+3 ۲۰۰۳/STM
+11 ان/STM + ت/SUF + شار/STM
+13 میا/STM + ن/SUF
+1 ع/STM + ج/SUF + یب/STM
+2 شی/STM + رخ/STM + ان/SUF
+15 ادام/STM + ه/SUF
+1 اب/STM + و/SUF + ا/SUF + ل/SUF + فض/STM + ل/SUF
+1 ب/STM + ا/SUF + ز/SUF + رگ/STM + انی/SUF
+7 پر/STM + د/SUF + اخت/STM
+6 تر/STM
+2 امیر/STM + نصر/STM
+1 ای/STM + دی/SUF + ول/STM + و/SUF + ژ/STM + یک/STM + ی/SUF
+2 فر/STM + س/SUF + ود/STM + گی/SUF
+3 بر/STM + گرفت/STM
+1 فا/STM + زه/STM + ا/SUF
+3 وز/STM + را/STM + ی/SUF
+1 ب/STM + و/SUF + ی/SUF
+2 آر/STM + ا/SUF
+1 ته/STM + اح/STM + م/SUF
+1 سخ/STM + ن/SUF + ی/SUF
+2 قل/STM + م/SUF + داد/STM
+2 غ/STM + ا/SUF + لب/STM
+7 جا/STM + یگاه/STM
+2 رو/STM + د/SUF
+2 گ/STM + ند/SUF + ها/STM + را/SUF
+2 سق/STM + ف/SUF
+3 معر/STM + و/SUF + ف/SUF + تر/STM + ی/SUF + ن/SUF
+1 خو/STM + ا/SUF + ن/SUF + ش/SUF
+1 بی/STM + دل/STM
+2 یورش/STM
+4 سب/STM + ب/SUF
+1 در/STM + بار/STM + ی/SUF
+1 نمود/STM + ار/SUF
+1 مخ/STM + تر/SUF + ع/STM + ان/SUF
+2 مشاغ/STM + لی/SUF
+17 میل/STM + اد/SUF + ی/SUF
+188 آ/STM + ن/SUF
+1 فر/STM + غ/STM + ان/STM + ه/SUF
+5 وظایف/STM
+1 دک/STM + رت/STM
+1 آ/STM + ی/SUF + ن/SUF + د/SUF
+1 فور/STM + ی/SUF
+1 شد/STM + ت/SUF
+1 دو/STM + بی/STM + ت/SUF
+1 گی/STM + را/SUF
+1 شا/STM + ی/SUF + عه/STM
+9 کو/STM + انتوم/STM
+2 رو/STM + ی/SUF + اه/STM + ا/SUF + ی/SUF
+3 تص/STM + وی/SUF + ب/SUF + ی/SUF
+1 بر/STM + هم/STM
+4 بر/STM + لی/STM + ن/SUF
+2 گذر/STM + انی/STM + د/SUF
+1 ط/STM + ب/STM
+1 بشر/STM + دوست/STM
+2 ب/STM + د/SUF + ر/SUF
+6 درست/STM + ی/SUF
+1 من/STM + ت/SUF + ظر/STM
+1 دو/STM + شنبه/STM
+2 آور/STM + ی/SUF
+2 تظ/STM + ا/SUF + هر/STM + ات/SUF
+1 و/STM + از/SUF
+2 سه/STM + م/SUF
+1 اب/STM + و/SUF + ش/SUF + کو/STM + ر/SUF
+2 هو/STM + ا/SUF + دار/STM + ان/SUF
+2 جر/STM + ج/SUF
+4 شبکه/STM
+10 را/STM + ی/SUF
+7 بر/STM + ق/SUF
+28 انج/STM + ام/SUF
+5 توص/STM + ی/SUF + ه/SUF
+1 پ/STM + ی/SUF + کربن/STM + دی/SUF
+2 م/STM
+13 گروه/STM
+1 Yardbirds/STM
+1 شو/STM + ا/SUF + هد/STM + ی/SUF
+5 جم/STM + ه/SUF + و/SUF + ری/SUF
+1 ان/STM + ست/STM + ی/SUF + تو/STM + ی/SUF
+3 طبری/STM
+2 ال/STM + ش/SUF + باب/STM
+2 نو/STM + ع/SUF
+1 عم/STM + ل/SUF + ی/SUF
+6 صدیقی/STM
+2 معر/STM + و/SUF + ف/SUF + یت/SUF
+3 تک/STM
+3 زا/STM
+1 خر/STM + د/SUF + نام/STM + ه/SUF
+2 ق/STM
+2 وب/STM + اد/SUF
+2 تر/STM + ا/SUF + نه/STM
+2 ب/STM + د/SUF + ین/SUF + سو/STM
+3 نا/STM + مرئی/STM
+3 هی/STM + پار/STM + ک/SUF + وس/STM
+2 شخص/STM + ی/SUF
+2 ام/STM + و/SUF + اج/STM + ی/SUF
+4 ب/STM + صور/STM + ت/SUF
+11 ۳۰/STM
+3 مت/STM + ز/SUF + گر/STM
+12 کن/STM + ار/SUF
+1 مس/STM + ی/SUF + ح/STM
+2 مع/STM + ت/SUF + قد/STM
+1 ساخت/STM + گی/SUF
+1 نو/STM
+1 ح/STM + سب/STM
+1 مت/STM + و/SUF + فی/STM + ات/SUF
+9 پسر/STM
+1 شغ/STM + ل/SUF + ی/SUF
+1 شی/STM + می/SUF
+1 پ/STM + خ/STM + ش/SUF
+3 ام/STM + پر/STM + ا/SUF + تور/STM + ی/SUF
+2 دار/STM + ای/SUF + ی/SUF
+1 مو/STM + ظ/STM + ف/SUF
+1 عقی/STM + ل/SUF
+3 ۱۶۶۱/STM
+1 اد/STM + ی/SUF + با/STM + ن/SUF
+5 تقل/STM + ید/SUF
+1 دل/STM + گ/SUF + شا/STM
+3 اس/STM + کا/STM + ت/SUF + ل/SUF + ن/SUF + دی/STM
+2 پر/STM + ی/SUF + ن/SUF + ست/STM + ون/SUF
+1 وا/STM + م/SUF
+1 پار/STM + اد/STM + و/SUF + کس/STM
+40 یک/STM + ی/SUF
+3 AC/STM
+2 چ/STM + ا/SUF + بک/STM + ی/SUF
+1 منبع/STM + ی/SUF
+1 سو/STM + ی/SUF + س/SUF
+1 ۱۸۸۹/STM + م/SUF
+6 در/STM + گذشت/STM
+1 اس/STM + ک/SUF + یز/STM + و/SUF + فر/STM + نی/SUF
+1 تو/STM + ما/STM + ن/SUF + ی/SUF
+8 فعال/STM
+2 نه/STM + ا/SUF + نگاه/STM
+6 تأ/STM + ثیر/STM
+9 پر/STM + و/SUF + از/SUF
+5 ناخالص/STM
+56 افغ/STM + ا/SUF + ن/SUF + س/SUF + ت/SUF + ا/SUF + ن/SUF
+1 در/STM + خو/STM + است/STM + های/STM + ی/SUF
+1 تر/STM + از/SUF
+5 آخر/STM + ین/SUF
+1 تح/STM + و/SUF + یل/STM
+15 نور/STM
+3 ۲۰۰۸/STM
+3 یا/STM + را/SUF + نش/STM
+1 پ/STM + ی/SUF + رو/STM + ی/SUF
+5 نش/STM + ان/SUF + ه/SUF
+1 تف/STM + ا/SUF + سی/STM + ری/SUF
+3 آ/STM + س/SUF + یا/SUF
+1 ح/STM + ک/SUF + و/SUF + م/SUF + ت/SUF + ی/SUF
+1 ب/STM + ه/SUF + ار/SUF + ستان/STM
+11 نقش/STM
+2 am/STM
+5 نی/STM + وی/STM + ور/SUF + ک/SUF
+1 ۱۹۳۱/STM + م/SUF
+12 مث/STM + ن/SUF + وی/SUF
+1 در/STM + خشا/STM + ن/SUF
+2 ۸/STM + ۱/STM
+1 مق/STM + یم/SUF
+3 ران/STM
+32 ج/STM + ه/SUF + ا/SUF + ن/SUF
+1 در/STM + کهکش/STM + ا/SUF + ن/SUF
+1 مط/STM + ل/SUF + ع/STM
+1 نما/STM + ها/SUF
+2 و/STM + تلگ/STM + را/SUF + ف/SUF
+1 ع/STM + ذ/STM + ر/SUF
+1 مربو/STM + ط/SUF + ه/SUF
+2 لا/STM + ی/SUF + تم/STM + ن/SUF
+1 مع/STM + ت/SUF + قد/STM + ند/SUF
+1 ت/STM + حق/STM + ق/SUF
+14 هر/STM + ات/SUF
+3 ۵۰۰/STM
+1 رس/STM + انی/STM + د/SUF
+7 گذشت/STM + ه/SUF
+1 Science/STM
+8 آ/STM + م/SUF + د/SUF + ه/SUF
+2 yours/STM
+3 قبر/STM
+1 عموم/STM
+6 دمنه/STM
+1 اش/STM + ا/SUF + عر/STM + ه/SUF
+3 ب/STM + ا/SUF + ور/SUF + ند/SUF
+2 ابر/STM + های/SUF
+10 کپلر/STM
+1 عب/STM + دا/SUF + ل/SUF + قا/STM + در/STM
+8 ۲۰۰۴/STM
+4 مت/STM + ق/SUF + اع/STM + د/SUF
+4 نه/STM + ا/SUF + یی/SUF
+3 هشت/STM
+2 نف/STM + ع/SUF
+1 است/STM + قر/STM + ار/SUF
+9 انقلاب/STM
+1 هست/STM + ه/SUF
+75 وی/STM
+3 مط/STM + لبی/STM
+2 ب/STM + ه/SUF + ب/STM + و/SUF + د/SUF
+2 صد/STM + ور/SUF
+2 تس/STM + لا/STM
+4 ۹/STM
+2 درصد/STM + ی/SUF
+1 مب/STM + ل/SUF + غ/STM + ی/SUF
+1 زن/STM + جا/STM + ن/SUF + ی/SUF
+10 مشخص/STM
+1 مف/STM + ر/SUF + وض/STM
+1 مع/STM + لم/STM
+4 انتقال/STM + ی/SUF
+1 ذ/STM + ات/STM + ی/SUF
+1 اف/STM + سو/STM + ن/SUF + گر/STM + ی/SUF
+1 طر/STM + ی/SUF + ق/SUF + ت/SUF
+5 من/STM + ع/SUF
+1 ب/STM + پر/STM + د/SUF + از/SUF + ند/SUF
+1 خر/STM + ی/SUF + دا/STM + ران/SUF
+1 خص/STM + و/SUF + ص/SUF + ی/SUF + ات/SUF
+3 قتل/STM
+4 قدر/STM + ت/SUF
+13 مه/STM + ندس/STM
+2 ج/STM + ه/SUF + ت/SUF
+1 مت/STM + ن/SUF + ا/SUF + وب/STM
+1 تص/STM + ور/SUF
+1 می/STM + د/SUF + ید/SUF
+5 انتق/STM + اد/SUF
+1 طرح/STM + ی/SUF
+13 دا/STM + د/SUF + ه/SUF
+2 ۱۹۳۱/STM
+1 ها/STM + شم/STM
+1 اخت/STM + صا/STM + ری/SUF
+6 جز/STM
+11 اب/STM + ن/SUF
+2 آ/STM + ه/SUF + ن/SUF + گ/SUF + ساز/STM
+11 انحلال/STM
+4 رض/STM + ا/SUF + شا/STM + ه/SUF
+6 یهو/STM + دی/SUF
+3 آر/STM + ت/SUF + ور/SUF
+1 نی/STM + رو/STM
+4 اگرچه/STM
+1 کو/STM + فه/STM
+7 آ/STM + ن/SUF + ان/SUF
+3 دا/STM + ن/SUF + ش/SUF + و/SUF + ران/SUF
+1 ق/STM + ضا/STM + ی/SUF + ای/STM
+23 نوشت/STM + ه/SUF
+2 وا/STM + ین/SUF
+10 داست/STM + ا/SUF + ن/SUF
+2 اقتص/STM + ا/SUF + د/SUF
+4 سر/STM + نگ/STM + ون/SUF + ی/SUF
+1 صد/STM + د/SUF
+5 خر/STM + ا/SUF + سا/STM + ن/SUF + ی/SUF
+1 سی/STM + نما/STM + ت/SUF + یک/STM
+1 را/STM + ه/SUF + ن/SUF + ما/STM + یی/SUF
+5 روزول/STM + ت/SUF
+1 شن/STM + ا/SUF + خت/STM + ی/SUF
+1 اس/STM + ل/SUF + ح/STM + ه/SUF
+2 اد/STM + ع/SUF + ا/SUF
+6 نیست/STM + ند/SUF
+2 انب/STM + ساط/STM + ی/SUF
+4 نو/STM + تر/STM + و/SUF + نی/SUF
+2 پ/STM + ی/SUF + رامو/STM + ن/SUF
+1 بر/STM + آن/STM
+6 کو/STM + ش/SUF + ش/SUF
+3 چگونه/STM
+1 فر/STM + و/SUF + ش/SUF
+3 فکر/STM
+1 مع/STM + ی/SUF + نی/STM
+2 و/STM + ظ/STM + ی/SUF + فه/STM
+1 مت/STM + س/SUF + اع/STM + د/SUF
+2 ان/STM + ز/SUF + جا/STM + ر/SUF
+4 ال/STM + ک/SUF + ت/SUF + ری/SUF + ک/SUF + ی/SUF
+3 ب/STM + س/SUF + ت/SUF + گا/STM + ن/SUF
+3 جیمز/STM
+10 اخت/STM + ل/SUF + ا/SUF + ف/SUF
+1 ار/STM + ز/SUF + ش/STM
+1 مل/STM + و/SUF + کانه/STM
+1 گ/STM + ل/SUF + ول/STM + ه/SUF
+1 گ/STM + چ/STM
+1 دست/STM + ور/SUF + ها/SUF + یش/STM
+2 آ/STM + م/SUF + ار/SUF + های/SUF
+1 ۱۸/STM + ۹۶/STM
+2 رو/STM + ح/SUF + انی/SUF
+9 ب/STM + زرگ/STM + ان/SUF
+2 کف/STM + ال/STM + ت/SUF
+10 برگزار/STM
+1 متر/STM + ی/SUF
+2 تلسکوپ/STM + های/SUF
+1 گر/STM + د/SUF + ید/SUF + ه/SUF
+4 قطع/STM
+40 جا/STM + م/SUF + ی/SUF
+1 ۱۳/STM + ۵۳/STM
+1 مع/STM + قول/STM + تر/SUF
+1 گر/STM + ی/SUF + گو/STM + ری/SUF
+4 لو/STM + ایح/STM
+1 در/STM + خو/STM + د/SUF + ما/STM + ن/SUF + د/SUF + گی/SUF
+1 تو/STM + ن/SUF + ی/SUF
+1 سب/STM + حةال/STM + ابر/STM + ار/SUF
+2 ای/STM + نترنت/STM + ی/SUF
+1 من/STM + ز/SUF + وی/STM
+1 سو/STM + ی/SUF + یس/STM
+5 امض/STM + ا/SUF
+1 ۱۹۶/STM + ۳/STM
+14 رس/STM + ید/SUF
+3 حاصل/STM
+1 اص/STM + یل/STM
+2 خ/STM + م/SUF + ری/STM + ه/SUF
+14 آلبرت/STM
+14 ان/STM + گلیس/STM + ی/SUF
+1 زن/STM + د/SUF
+11 عل/STM + م/SUF
+3 پ/STM + ی/SUF + و/SUF + س/SUF + ت/SUF + ن/SUF
+1 نا/STM + گا/STM + ه/SUF
+1 ضم/STM + یر/SUF
+22 بی/STM + ن/SUF
+2 مر/STM + ا/SUF + ک/SUF + ش/SUF
+1 صف/STM + ار/SUF + یا/STM + ن/SUF
+1 دم/STM + ا/SUF + ی/SUF
+1 فی/STM + ل/SUF + م/SUF + بر/STM + د/SUF + ار/STM + ی/SUF
+5 فا/STM + صل/STM + ه/SUF
+2 مد/STM + ت/SUF + ی/SUF
+1 هم/STM + ان/SUF + طور/STM
+12 های/STM
+1 تا/STM + ج/SUF + یک/STM + ها/SUF
+1 نور/STM + شن/STM + ا/SUF + س/SUF + ی/SUF
+2 داخل/STM
+4 دشمن/STM
+17 وز/STM + ار/SUF + ت/SUF
+6 را/STM + بر/STM + ت/SUF
+72 دک/STM + تر/SUF
+1 ۴/STM + ۸۱/STM
+1224 و/STM
+2 کلا/STM + ن/SUF + شهر/STM
+21 ب/STM + و/SUF + س/SUF + ت/SUF + ا/SUF + ن/SUF
+3 کورب/STM + یس/STM
+18 زی/STM + اد/SUF + ی/SUF
+1 فی/STM + ل/SUF + م/SUF + ساز/STM + ی/SUF
+1 پ/STM + دی/STM + د/SUF
+15 رش/STM + ت/SUF + ه/SUF
+3 ۱۳۲۹/STM
+5 افغ/STM + ا/SUF + ن/SUF
+9 تو/STM + ده/SUF
+1 مار/STM
+1 ب/STM + ن/SUF + و/SUF + یس/STM + د/SUF
+7 ۱۳۳۲/STM
+1 ب/STM + د/SUF + ل/SUF
+1 دست/STM + ور/SUF + عدم/STM
+1 ت/STM + مرک/STM + ز/SUF
+1 مت/STM + مم/STM
+1 جا/STM + جر/STM + م/SUF + ی/SUF
+1 تو/STM + ا/SUF + م/SUF
+1 مب/STM + د/SUF + أ/STM
+1 سف/STM + ید/SUF
+1 اپ/STM + را/STM + ی/SUF
+2 تق/STM + ری/SUF + بی/STM
+1 چن/STM + د/SUF + ان/SUF
+1 لر/STM + ست/STM + ا/SUF + ن/SUF
+2 مح/STM + تر/SUF + م/SUF
+2 گر/STM + ا/SUF + یش/SUF + های/SUF
+1 کن/STM + ار/SUF + ی/SUF
+1 کش/STM + ف/SUF + یا/STM + ت/SUF
+5 شاز/STM + ده/SUF
+2 شا/STM + ی/SUF + ست/STM + گی/SUF
+1 اس/STM + لام/STM + گرای/STM + ان/SUF
+1 ب/STM + س/SUF + ز/SUF + ای/STM + ی/SUF
+2 رو/STM + گ/SUF
+1 یا/STM + ران/SUF
+1 اضاف/STM + ی/SUF
+20 طور/STM
+1 ق/STM + صد/STM
+8 پ/STM + در/STM + ش/SUF
+11 جر/STM + م/SUF
+1 غز/STM + ن/SUF + وی/STM
+1 ب/STM + بی/STM + ن/SUF + ی/SUF + م/SUF
+2 فر/STM + از/SUF
+2 مذه/STM + ب/SUF
+12 گر/STM + د/SUF + ید/SUF
+2 کتاب/STM + چه/STM
+1 آ/STM + ش/SUF + نا/STM + ئی/STM
+1 قصا/STM + ید/SUF + ی/SUF
+4 عدد/STM
+8 اصل/STM
+7 توزی/STM + ع/SUF
+2 Vous/STM
+1 ۱۴/STM + ۲/SUF + ۷/STM
+8 بار/STM + ه/SUF + ا/SUF
+2 آ/STM + ش/SUF + کار/STM
+141 او/STM
+1 ال/STM + گو/STM + ی/SUF
+2 ج/STM + یم/STM + ی/SUF
+2 تج/STM + او/STM + ز/SUF
+5 عی/STM + ن/SUF
+3 نکاتی/STM
+3 عواط/STM + ف/SUF
+2 قال/STM + ی/SUF + با/STM + ف/SUF
+2 کم/STM
+2 پ/STM + ن/SUF + ج/SUF + شنبه/STM
+8 ری/STM
+19 عم/STM + اد/SUF
+2 بر/STM + ا/SUF + بر/STM + های/SUF
+1 م/STM + ؤث/STM + ری/SUF
+1 Journal/STM
+105 تا/STM
+1 هم/STM + سر/STM + ش/SUF
+1 در/STM + سال/STM
+1 آ/STM + م/SUF + ست/SUF + رد/STM + ام/SUF
+1 یز/STM + دی/SUF
+2 کا/STM + وی/STM + انی/SUF
+1 خو/STM + ش/SUF + ح/STM + ا/SUF + ل/SUF
+2 نا/STM + بی/STM + ن/SUF + ای/STM + ی/SUF
+1 من/STM + ا/SUF + صب/STM
+2 دخ/STM + یل/STM
+4 ال/STM + ه/SUF + ام/SUF
+1 ۱۲۷/STM + ۴/STM
+2 جنگ/STM + او/STM + ران/SUF
+1 مم/STM + لک/STM + ت/SUF
+1 فع/STM + لا/STM
+1 شم/STM + ول/STM
+1 سرگر/STM + دا/STM + ن/SUF + ی/SUF
+15 اثر/STM
+3 رنگ/STM
+1 رو/STM + ز/SUF + ی/SUF
+10 ار/STM + تبا/STM + ط/SUF
+1 ممنوع/STM + یت/SUF
+1 عل/STM + نی/SUF
+1 سو/STM + ل/SUF + وی/STM
+8 اط/STM + را/SUF + ف/SUF
+1 شخص/STM + یت/SUF + های/SUF
+2 ۱۹۴/STM + ۵/STM
+2 هف/STM + ده/SUF + م/SUF
+1 هم/STM + ن/SUF + وع/STM + ان/SUF
+1 ان/STM + ک/SUF + سا/STM + ری/SUF
+1 نا/STM + ب/STM + و/SUF + د/SUF + ی/SUF
+1 مر/STM + ا/SUF + ج/SUF + ع/STM + ت/SUF
+1 یا/STM + ب/STM
+1 دل/STM + ار/SUF + ی/SUF
+1 پ/STM + ا/SUF + ی/SUF + گا/STM + ه/SUF
+1 ۱۹۴/STM + ۷/STM
+1 بر/STM + د/SUF + ن/SUF + د/SUF
+1 واق/STM + ع/SUF + یت/SUF
+1 معر/STM + و/SUF + ف/SUF + ی/SUF
+1 مخالف/STM + ت/SUF + ها/SUF
+1 مت/STM + م/SUF + ای/STM + ز/SUF
+1 مأ/STM + م/SUF + ور/STM + ان/SUF
+1 کا/STM + ت/SUF + ال/STM + ی/SUF + ست/STM
+14 حزب/STM
+1 ان/STM + ست/SUF + یت/STM + و/SUF
+1 شور/STM + ش/SUF
+1 کو/STM + ش/SUF + ید/SUF
+1 ش/STM + ک/SUF + نج/STM + ه/SUF
+2 ۱۲۷۵/STM
+2 تحقیق/STM + ا/SUF + ت/SUF + ی/SUF
+2 وس/STM + ت/STM + ی/SUF + نگ/STM + ها/SUF + وس/STM
+4 لو/STM + مو/STM + ند/SUF
+2 من/STM + لو/STM + پار/STM + ک/SUF
+1 ام/STM + ور/SUF + ی/SUF
+1 و/STM + ول/STM + ف/SUF
+1 بر/STM + سا/STM + ند/SUF
+4 گس/STM + تر/SUF + د/SUF + ه/SUF
+1 عب/STM + ور/SUF
+12 سمت/STM
+1 خص/STM + و/SUF + ص/SUF + ا/SUF
+3 ۱۹/STM
+2 نی/STM + کلا/STM + ی/SUF
+3 نیافت/STM
+36 زم/STM + ا/SUF + ن/SUF
+2 مرد/STM + اد/SUF + ما/STM + ه/SUF
+3 نق/STM + ص/SUF
+7 فض/STM + ا/SUF
+2 هر/STM + چن/STM + د/SUF
+2 ب/STM + ل/SUF + خ/STM
+2 بر/STM + عکس/STM
+2 دو/STM + ل/SUF + ت/SUF + ی/SUF
+3 صل/STM + ه/SUF
+2 تبع/STM
+1 فی/STM + ل/SUF + ی/SUF + پ/STM
+3 اب/STM + ت/SUF + دا/SUF + یی/SUF
+1 سق/STM + را/SUF + ط/STM
+1 ت/STM + ی/SUF
+3 گیر/STM + ند/SUF
+1 صح/STM + ی/SUF + فه/STM
+1 ۱۰۰/STM + ۰/SUF
+11 اخت/STM + یار/STM
+4 مرئی/STM
+9 آور/STM + د/SUF
+11 کهکش/STM + ا/SUF + ن/SUF
+6 سر/STM + انج/STM + ام/SUF
+1 مج/STM + از/SUF
+1 خل/STM + ا/SUF + ص/STM + ه/SUF
+3 باست/STM + ا/SUF + ن/SUF
+3 اد/STM + ی/SUF + سو/STM + ن/SUF + انی/STM + م/SUF + ی/SUF + شن/STM
+1 دار/STM + آ/STM + ب/SUF + اد/SUF
+1 دی/STM + لم/STM + ی/SUF
+1 اح/STM + ت/SUF + ساب/STM
+3 مجدد/STM
+2 جر/STM + یر/SUF
+1 دا/STM + دوست/STM + د/SUF
+1 فر/STM + ض/SUF + یه/STM
+1 ۱۲۷/STM + ۳/STM
+4 بخ/STM + ار/STM + ا/SUF
+1 ج/STM + ه/SUF + ات/SUF
+2 ب/STM + ا/SUF + قل/STM + یا/STM + ن/SUF
+4 کود/STM + ک/SUF + ی/SUF
+2 تحقیق/STM
+3 قیاس/STM
+4 فوتبال/STM
+8 کسب/STM
+3 آقا/STM
+2 تق/STM + دی/STM + ر/SUF
+1 ب/STM + ا/SUF + ن/SUF + وی/STM + ه/SUF
+4 اد/STM + ار/STM + ه/SUF
+3 ۲۰۰۱/STM
+1 لو/STM + گو/STM + ی/SUF
+1 ز/STM + حل/STM
+3 جلال/STM
+1 پروژ/STM + کت/STM + ور/SUF
+2 صهیونیس/STM + ت/SUF
+3 پر/STM + ده/SUF
+3 اشت/STM + ب/STM + ا/SUF + ه/SUF
+4 بر/STM + تر/SUF
+1 نش/STM + ود/STM
+9 ح/STM + ق/SUF
+4 گور/STM
+1 دا/STM + ل/SUF
+8 کل/STM + پ/STM + ت/SUF + ون/SUF
+3 عوض/STM
+2 ۱۹۶/STM + ۵/STM
+1 پر/STM + س/SUF + ی/SUF + د/SUF
+1 یا/STM + قو/STM + ت/SUF
+2 مک/STM + س/SUF
+9 سال/STM + گی/SUF
+1 مط/STM + هر/STM
+1 صد/STM + ق/SUF
+1 اب/STM + ز/SUF + ار/SUF + های/SUF
+1 To/STM + night/STM
+3 خر/STM + د/SUF + اد/SUF
+5 مرگ/STM
+1 شا/STM + در/STM + وا/STM + ن/SUF
+10 پ/STM + ی/SUF + و/SUF + ند/SUF
+1 فر/STM + م/SUF + ا/SUF + ن/SUF + ده/SUF
+2 هم/STM + ای/STM + ون/SUF
+3 رف/STM + ت/SUF + ند/SUF
+1 Alike/STM
+1 دار/STM + ال/STM + ف/SUF + نو/STM + ن/SUF
+3 در/STM + مقاب/STM + ل/SUF
+1 خس/STM + ته/STM
+3 رایگا/STM + ن/SUF
+1 بی/STM + م/SUF
+1 اخر/STM
+1 اف/STM + سر/STM + ی/SUF
+2 ته/STM + را/SUF + ن/SUF + ی/SUF
+2 ۱۶۹۶/STM
+1 م/STM + غ/STM + ن/SUF + اط/STM + ی/SUF + سی/STM
+3 دخ/STM + تر/SUF
+1 اق/STM + ل/SUF + یت/STM
+2 نویس/STM + ند/SUF + گ/SUF + ی/SUF
+5 ایام/STM
+5 اقتص/STM + ا/SUF + د/SUF + ی/SUF
+1 ران/STM + ی/SUF
+1 رو/STM + می/SUF
+2 آ/STM + ل/SUF + م/SUF + ا/SUF + ن/SUF + ها/SUF
+1 صاحب/STM + قر/STM + ان/SUF + یه/STM
+4 تنظ/STM + یم/SUF
+1 جم/STM + لا/STM + ت/SUF
+1 تعا/STM + دل/STM
+2 صد/STM + وق/STM
+1 تص/STM + وی/SUF + ره/STM + ای/SUF
+3 واگر/STM
+1 Roosters/STM
+1 ان/STM + صا/STM + ری/SUF
+1 هیچ/STM + گو/STM + ن/SUF + ه/SUF
+3 اخوان/STM
+8 ساما/STM + نی/SUF
+2 سر/STM + ا/SUF + یی/SUF
+1 قد/STM
+2 اح/STM + ت/SUF + ی/SUF + اج/STM
+2 نی/STM + کو/STM + ل/SUF + اس/STM
+1 ظا/STM + هر/STM
+1 ب/STM + س/SUF + وز/STM + ند/SUF
+1 مه/STM + ا/SUF + ج/SUF + ر/SUF + پذیر/STM + ند/SUF
+1 مت/STM + خصص/STM
+1 ورود/STM + ش/SUF
+2 ۱۳/STM + ۵۷/STM
+2 عم/STM + ی/SUF + قا/STM
+1 تق/STM + س/SUF + ی/SUF + ما/STM + ت/SUF
+6 سوم/STM
+1 موج/STM + د/SUF
+2 ف/STM + و/SUF + أ/STM + د/SUF
+3 مع/STM + ا/SUF + ون/SUF
+6 جایز/STM + ه/SUF
+1 وی/STM + و/SUF + لو/STM + ن/SUF
+1 اخت/STM + ص/STM + ار/SUF
+28 دا/STM + د/SUF
+3 منظر/STM
+5 ور/STM + ز/SUF + شگاه/STM
+60 کار/STM
+5 کاخ/STM
+1 عم/STM + ار/STM + ت/SUF + ی/SUF
+5 جا/STM + م/SUF + ع/SUF + ه/SUF
+3 رحمت/STM
+5 چیزی/STM
+1 سی/STM + زد/STM + ه/SUF
+2 مه/STM + دی/SUF
+2 فلس/STM + فی/STM
+1 متع/STM + د/SUF + دی/STM
+3 ح/STM + ک/SUF + م/SUF + ت/SUF
+3 ۱۳۸۴/STM
+4 تلا/STM + ش/SUF + های/SUF
+17 ده/STM + ه/SUF
+2 الح/STM + یا/SUF + ة/STM
+6 دن/STM + ب/STM + ا/SUF + ل/SUF
+1 من/STM + طبق/STM
+1 را/STM + دست/STM + گیر/STM
+1 ۱۲۸/STM + ۶/STM
+2 مهارت/STM
+1 الح/STM + اق/STM + ی/SUF
+3 ام/STM + رو/STM + ز/SUF + ی/SUF
+4 مع/STM + نا/STM + یی/SUF
+1 یا/STM + زد/STM + ه/SUF + م/SUF
+17 خا/STM + ن/SUF + ه/SUF
+1 ب/STM + گر/STM + ام/SUF
+1 آ/STM + ز/SUF + ما/STM + ی/SUF + ش/SUF + های/SUF
+4 تعدا/STM + د/SUF + ی/SUF
+4 پ/STM + در/STM
+8 صا/STM + در/STM
+1 بی/STM + اب/STM + ند/SUF
+1 مح/STM + تو/STM + ا/SUF
+2 تو/STM + ا/SUF + لی/SUF
+2 مس/STM + ا/SUF + بق/STM + ات/SUF
+3 رع/STM + ای/STM + ت/SUF
+2 ج/STM + شن/STM
+1 آ/STM + ست/STM + ا/SUF + ن/SUF + ه/SUF
+1 ها/STM + و/SUF + ای/STM + ی/SUF
+7 جد/STM + ا/SUF
+1 رج/STM + ا/SUF
+1 بر/STM + ک/SUF + شی/STM + ده/SUF
+4 اع/STM + ت/SUF + بار/STM
+1 ول/STM + اد/SUF + تم/STM
+1 چ/STM + مر/STM + ان/SUF
+1 اق/STM + ل/SUF
+1 نی/STM + از/SUF + من/STM + د/SUF
+2 نا/STM + یی/SUF + نی/SUF
+1 تول/STM + ید/SUF + ات/SUF
+1 اخت/STM + ل/SUF + ا/SUF + ف/SUF + ی/SUF
+1 ف/STM + ص/STM + ی/SUF + ح/STM
+3 خطاب/STM
+10 عم/STM + ل/SUF
+14 یع/STM + نی/SUF
+2 اب/STM + و/SUF + بکر/STM + بن/STM
+1 گا/STM + و/SUF
+5 پ/STM + ا/SUF + یی/SUF + ن/SUF
+3 کر/STM + یم/SUF
+1 پ/STM + ا/SUF + پ/STM + و/SUF + ش/SUF + ی/SUF
+1 فرد/STM + ای/STM
+1 سی/STM + زد/STM + ه/SUF + م/SUF
+1 او/STM + ل/SUF + یا/SUF + ء/STM + الله/STM
+1 پژ/STM + و/SUF + ه/SUF + ش/SUF + ی/SUF
+1 مب/STM + غوض/STM
+1 مع/STM + ا/SUF + ش/SUF
+1 عام/STM + ه/SUF
+2 مال/STM + ی/SUF
+3 مت/STM + ن/SUF
+2 مار/STM + کف/STM
+2 دا/STM + ئ/STM + ر/SUF + ةالمع/STM + ا/SUF + رف/STM
+1 خو/STM + ا/SUF + بی/STM
+8 چن/STM + د/SUF + ی/SUF + ن/SUF
+4 گیتاریست/STM
+1 گی/STM + ب/STM + ز/SUF
+1 پ/STM + س/SUF + ون/STM + د/SUF
+2 تح/STM + ری/SUF + ری/SUF + ه/SUF
+3 طبا/STM + ط/SUF + با/STM + یی/SUF
+8 آ/STM + ز/SUF + اد/SUF + ی/SUF
+2 امر/STM + دا/STM + د/SUF
+1 ب/STM + د/SUF + ی/SUF
+1 اش/STM + ر/SUF + اف/STM + ز/SUF + اد/STM + گا/STM + ن/SUF
+4 آور/STM + د/SUF + ند/SUF
+406 ای/STM + ن/SUF
+3 تک/STM + ام/SUF + ل/SUF + ی/SUF
+2 پ/STM + ی/SUF + ا/SUF + م/SUF + های/STM + ی/SUF
+1 نام/STM + ی/SUF
+13 ب/STM + ع/SUF + د/SUF + ها/SUF
+2 اب/STM + و/SUF + نصر/STM
+6 نوشت/STM + ار/SUF
+6 مو/STM + ا/SUF + د/SUF
+1 ۳/STM + ۸۴/STM
+4 چش/STM + م/SUF
+1 مور/STM + س/SUF
+1 پ/STM + ی/SUF + ش/SUF + تر/SUF
+1 اسرائی/STM + ل/SUF + ی/SUF
+11 خو/STM + رش/STM + ید/SUF + ی/SUF
+1 مع/STM + ت/SUF + بر/STM + تر/SUF + ین/SUF
+2 مشا/STM + ء/STM
+2 ۱۷/STM + ۴۷/STM
+1 اق/STM + ام/SUF + ه/SUF
+1 تخریب/STM + های/SUF
+1 پ/STM + ا/SUF + ت/SUF + گ/STM
+4 هد/STM + ای/STM + ت/SUF
+1 تج/STM + ر/SUF + بی/STM
+1 ب/STM + ا/SUF + ز/SUF + ار/SUF + ها/SUF
+1 مص/STM + رف/STM
+3 بما/STM + ند/SUF
+1 شر/STM + اب/STM
+14 اواخر/STM
+1 اپ/STM + را/SUF + تو/STM + ر/SUF
+1 ع/STM + ط/STM + ار/SUF
+2 عم/STM + ی/SUF + دی/SUF
+4 دخالت/STM
+1 اس/STM + کن/STM + د/SUF + ر/SUF
+5 چن/STM + د/SUF + انی/SUF
+2 ضم/STM + ن/SUF + ی/SUF
+2 خو/STM + ا/SUF + ن/SUF + ند/STM + ه/SUF
+1 هن/STM + د/SUF + سی/STM
+3 رسال/STM + ات/SUF
+2 رت/STM + به/STM
+1 دو/STM + بار/STM + ه/SUF
+1 ۱۹/STM + ۹۸/STM
+1 ال/STM + ی/SUF + اس/STM
+28 بی/STM + ش/SUF + تر/SUF
+4 بر/STM + قر/STM + ار/SUF
+5 نظیر/STM
+3 بازنگر/STM + ی/SUF
+4 فر/STM + ا/SUF + گیر/STM + ی/SUF
+2 اف/STM + تا/STM + ده/SUF
+1 است/STM + ی/SUF + فا/STM + ی/SUF
+1 اب/STM + و/SUF + ع/SUF + بی/STM + د/SUF
+2 دس/STM + ی/SUF + بل/STM
+2 تا/STM + ثیر/STM
+1 قر/STM + با/STM + ن/SUF
+1 رو/STM + ای/STM + ات/SUF
+1 بکر/STM + د/SUF
+1 نی/STM + او/STM + ران/SUF
+1 اف/STM + ت/SUF
+9 ام/STM + رو/STM + ز/SUF + ه/SUF
+1 اش/STM + ان/SUF
+3 تراکم/STM
+1 ما/STM + ن/SUF + ی/SUF
+3 صد/STM + ها/SUF
+2 ان/STM + ت/SUF + های/SUF
+2 ب/STM + ا/SUF + ن/SUF + ک/STM
+2 گو/STM + یا/SUF
+2 زیر/STM + ین/SUF
+4 سده/STM
+1 اص/STM + فه/STM + ان/SUF
+1 صر/STM + اح/STM + ت/SUF
+1 چه/STM + ار/SUF + سال/STM
+4 مش/STM + ک/SUF + ل/SUF
+1 رو/STM + ز/SUF + نه/STM
+1 ساخت/STM + ار/SUF + های/SUF
+1 سو/STM + خت/STM + ن/SUF
+7 شهر/STM + ها/SUF + ی/SUF
+13 تع/STM + یی/STM + ن/SUF
+1 ار/STM + زا/STM + ن/SUF
+10 خار/STM + ج/SUF
+4 ملت/STM
+1 مشا/STM + ور/STM + ان/SUF
+1 مح/STM + تر/SUF + می/STM + ن/SUF
+1 تو/STM + چال/STM
+3 گور/STM + ست/STM + ا/SUF + ن/SUF
+3 ب/STM + زرگ/STM + تر/STM + ی/SUF + ن/SUF
+3 اد/STM + ع/SUF + اه/STM + ا/SUF + ی/SUF
+1 رس/STM + تم/STM + ی/SUF
+1 صف/STM + اج/STM + و/SUF
+2 سن/STM + ی/SUF
+2 نو/STM + ا/SUF + زن/STM + د/SUF + گی/SUF
+1 نوشت/STM + م/SUF
+1 رس/STM + م/SUF + ی/SUF + ت/SUF
+1 آ/STM + م/SUF + و/SUF + خت/STM
+1 است/STM + ی/SUF + ضاح/STM
+1 جو/STM + ا/SUF + هر/STM + ات/SUF
+3 دوست/STM + ان/SUF
+9 الله/STM
+3 ح/STM + ک/SUF + م/SUF
+2 اساس/STM + نام/STM + ه/SUF
+1 X/STM
+2 دبی/STM + ر/SUF + ستان/STM + ها/SUF
+1 خت/STM + ک/SUF
+3 اصلاح/STM + ات/SUF
+14 شرکت/STM
+1 عل/STM + ی/SUF + رض/STM + ا/SUF
+11 موج/STM + ب/SUF
+2 س/STM + د/SUF
+3 من/STM + از/SUF + ل/SUF
+3 مهاجرت/STM
+1 قو/STM + ه/SUF
+3 شکر/STM
+10 طر/STM + ف/SUF + دار/STM + ا/SUF + ن/SUF
+1 خو/STM + رد/STM + ن/SUF
+1 ح/STM + ا/SUF + ئل/STM + ی/SUF
+11 شو/STM + ند/SUF
+1 دار/STM + ی/SUF
+1 مع/STM + یر/STM + ی/SUF
+2 رو/STM + ی/SUF + دا/STM + د/SUF + های/SUF
+1 آمریکا/STM + ی/SUF + ی/SUF
+2 ب/STM + و/SUF + د/SUF + ای/STM + ی/SUF
+4 سنگ/STM + ین/SUF
+7 شما/STM
+1 بی/STM + وس/STM
+1 ب/STM + ا/SUF + د/SUF + غ/STM + ی/SUF + سی/STM
+2 خو/STM + ش/SUF + ه/SUF
+1 تول/STM + د/SUF + ش/SUF
+3 م/STM + قر/STM + را/SUF + ت/SUF
+1 مر/STM + ور/SUF + گر/STM + ان/SUF
+1 آتش/STM + ف/SUF + شا/STM + ن/SUF
+1 در/STM + آور/STM + د/SUF + ه/SUF
+1 پر/STM + د/SUF + اخت/STM + ه/SUF
+4 فر/STM + ش/SUF
+1 انب/STM + ساط/STM
+3 شهر/STM + ها/SUF
+6 در/STM + ک/SUF
+5 آ/STM + م/SUF + و/SUF + ز/SUF + ش/SUF
+2 خودر/STM + و/SUF + های/SUF
+1120 در/STM
+4 چن/STM + ان/SUF
+1 فی/STM + رو/STM + ز/SUF
+1 اق/STM + لی/SUF + دس/STM
+1 For/STM
+1 متوسط/STM + ی/SUF
+13 موض/STM + و/SUF + ع/SUF
+1 اخ/STM + ل/SUF + اق/STM + ی/SUF
+1 دم/STM + ا/SUF
+1 فر/STM + جه/STM
+2 پ/STM + ن/SUF + ج/SUF + اه/STM
+1 رف/STM + ع/SUF
+1 تو/STM + کل/STM
+2 یو/STM + ن/SUF + ان/SUF
+33 اد/STM + ی/SUF + سو/STM + ن/SUF
+26 طول/STM
+1 دا/STM + و/SUF + دی/STM + ه/SUF
+31 پ/STM + ی/SUF + ش/SUF
+1 حب/STM + س/SUF
+1 چن/STM + ان/SUF + چه/STM
+3 هم/STM + یش/SUF + ه/SUF
+2 Top/STM
+2 گو/STM + اه/STM + ی/SUF
+1 ۱۲۸/STM + ۴/STM
+1 واق/STM + ع/SUF + ه/SUF
+2 هنر/STM
+1 م/STM + کر/STM + ر/SUF
+1 اد/STM + ی/SUF + سو/STM + وا/STM + ن/SUF
+1 عب/STM + ده/SUF
+1 perlbal/STM
+2 هر/STM + ن/SUF + وع/STM
+1 پ/STM + س/SUF + ت/SUF + ی/SUF
+1 شه/STM + ود/STM + ی/SUF
+2 ژرف/STM + تر/STM + ی/SUF + ن/SUF
+1 ح/STM + کا/STM + یا/STM + ت/SUF + ی/SUF
+3 ۱۳۸۲/STM
+1 مو/STM + سی/STM
+1 جز/STM + یی/SUF
+5 آنکه/STM
+1 آر/STM + ما/STM + ن/SUF + ش/SUF
+2 اختر/STM
+1 شی/STM + را/SUF + ز/SUF + ی/SUF
+3 مظفر/STM
+1 دو/STM + گا/STM + ن/SUF + ه/SUF
+5 صنعت/STM
+8 ویرایشگر/STM + ا/SUF + ن/SUF
+2 یا/STM + زد/STM + ه/SUF
+1 ح/STM + ک/SUF + و/SUF + م/SUF + ت/SUF + شا/STM + ن/SUF
+9 معرفی/STM
+1 ن/STM + کرد/STM + ند/SUF
+6 پ/STM + ا/SUF + نویس/STM
+2 ام/STM + ت/SUF + ح/STM + ان/STM + ات/SUF
+3 لژبن/STM
+1 مح/STM + ضر/STM
+1 سا/STM + نت/STM + ی/SUF
+1 نظر/STM + یا/SUF + ت/SUF + ش/SUF
+2 گر/STM + د/SUF + آور/STM + ی/SUF
+1 مر/STM + ور/SUF
+1 ب/STM + ا/SUF + ف/SUF + ند/STM + گی/SUF
+5 نه/STM + ا/SUF + یت/SUF
+1 مح/STM + صور/STM
+4 محق/STM + ق/SUF + ین/SUF
+1 را/STM + بع/STM + ه/SUF
+1 مق/STM + ی/SUF + اس/STM
+13 تغییر/STM
+1 هفت/STM + م/SUF
+1 ما/STM + زن/STM + د/SUF + ران/SUF
+1 ط/STM + و/SUF + سی/STM
+1 خو/STM + ش/SUF
+9 قوانین/STM
+2 صن/STM + د/SUF + و/SUF + ق/SUF
+1 پر/STM + ی/SUF + شی/SUF
+5 شهر/STM + و/SUF + ند/SUF
+8 رض/STM + ا/SUF
+5 مطال/STM + ع/SUF + ات/SUF
+2 شن/STM + ا/SUF + س/SUF + نام/STM + ه/SUF
+1 آ/STM + ز/SUF + مو/STM + ن/SUF
+1 نم/STM + از/SUF
+1 از/STM + آنجا/STM
+3 انقلاب/STM + ی/SUF
+2 سخ/STM + ن/SUF + را/SUF + نی/STM
+1 ع/STM + ذاب/STM
+1 ما/STM + ن/SUF + د/SUF + گا/STM + ن/SUF + ش/SUF
+2 مس/STM + لط/STM
+1 اج/STM + را/SUF + ئی/STM
+13 چن/STM + ی/SUF + ن/SUF
+3 رس/STM + ید/SUF + ه/SUF
+1 موج/STM + و/SUF + د/SUF + ات/SUF
+9 موحد/STM
+4 بدست/STM
+5 پ/STM + ی/SUF + ش/SUF + نه/STM + اد/SUF
+3 عبدالرحمن/STM
+3 نظر/STM + یا/SUF + ت/SUF + ی/SUF
+17 اساس/STM + ی/SUF
+1 گ/STM + ه/SUF + گا/STM + ه/SUF
+2 وجهه/STM
+2 ات/STM + م/SUF
+15 ب/STM + ا/SUF + ب/SUF
+15 تما/STM + م/SUF
+1 سپ/STM + ه/SUF + بد/STM
+2 فر/STM + زن/STM + دا/STM + ن/SUF + ش/SUF
+2 عل/STM + ا/SUF + ئ/SUF + می/SUF
+1 دا/STM + یی/SUF
+1 زا/STM + یل/STM
+1 اق/STM + لام/STM
+1 ه/STM + کت/STM + ار/SUF
+1 ل/STM + شکر/STM
+1 دار/STM + ند/SUF + ه/SUF
+13 رس/STM + م/SUF + ی/SUF
+9 ور/STM + ز/SUF + شی/SUF
+2 ح/STM + ا/SUF + یز/STM
+1 دا/STM + و/SUF + ود/STM
+1 فر/STM + و/SUF + د/SUF + های/SUF
+1 انگ/STM + ار/STM + ی/SUF
+1 تخت/STM
+5 ارد/STM + ی/SUF + بهشت/STM
+1 Astronomy/STM
+2 بشر/STM
+1 شم/STM + ار/SUF + ش/SUF + گر/STM + ها/SUF
+8 فر/STM + ا/SUF + ن/SUF + س/SUF + وی/SUF
+1 پ/STM + ا/SUF + یی/SUF + زی/STM
+2 تو/STM + س/SUF
+2 خر/STM + گو/STM + ش/SUF
+8 طرح/STM
+1 WikiWikiWeb/STM
+3 نو/STM + ا/SUF + مبر/STM
+1 زن/STM + د/SUF + انی/SUF
+2 خو/STM + ش/SUF + م/SUF
+1 گر/STM + د/SUF + ن/SUF
+2 صب/STM + ر/SUF
+2 اق/STM + ام/SUF + ت/SUF
+1 زه/STM + د/SUF
+2 آخر/STM
+1 موج/STM
+1 وس/STM + ع/STM + ت/SUF
+3 ثال/STM + ث/STM
+14 ای/STM
+2 کام/STM + پ/STM + ی/SUF + و/SUF + تر/STM + ی/SUF
+4 ما/STM + ن/SUF + د/SUF
+3 کا/STM + ه/SUF + ش/SUF
+1 قب/STM + ول/STM + ی/SUF
+1 مج/STM + ل/SUF + س/SUF + ی/SUF
+5 بخ/STM + ش/SUF + ید/SUF
+1 کال/STM + یب/STM + ر/SUF
+7 ۱۵/STM
+3 خا/STM + ن/SUF + دا/STM + ن/SUF + های/SUF
+3 مقاب/STM + ل/SUF
+4 تأ/STM + یی/STM + د/SUF
+8 خط/STM
+9 اع/STM + ت/SUF + قا/STM + د/SUF
+1 تف/STM + س/SUF + یر/STM + ها/SUF
+1 نج/STM + م/SUF
+1 وی/STM + ران/SUF
+1 سی/STM + صد/STM
+2 است/STM + وا/STM + ن/SUF + ه/SUF
+1 سر/STM + چش/STM + م/SUF + ه/SUF
+2 مس/STM + ئل/STM + ه/SUF
+23 صور/STM + ت/SUF
+7 اج/STM + را/SUF + ی/SUF
+1 صد/STM + ی/SUF + ق/SUF
+5 محسوب/STM
+1 عل/STM + م/SUF + ای/STM
+1 دا/STM + ن/SUF + ش/SUF + من/STM + دی/SUF
+1 زن/STM + د/SUF + انیا/STM + ن/SUF
+1 ر/STM + ب/STM + و/SUF + د/SUF + ه/SUF
+1 جز/STM + ی/SUF + ره/STM
+3 معلوم/STM
+3 پر/STM + و/SUF + س/SUF
+1 مم/STM + ان/SUF + ع/STM + ت/SUF
+1 ۶۰/STM + ۶/STM
+11 داشت/STM + ه/SUF
+1 کو/STM + ش/SUF + ش/SUF + های/SUF
+5 خر/STM + و/SUF + ج/SUF
+1 ب/STM + وجو/STM + د/SUF
+1 است/STM + ن/SUF + لی/STM
+7 سقوط/STM
+1 ب/STM + بی/STM + ن/SUF + ی/SUF + د/SUF
+1 نگاه/STM + ش/SUF
+2 دم/STM + ا/SUF + ون/STM + د/SUF
+2 ما/STM + ه/SUF + یت/SUF
+4 سلسله/STM
+3 محمدعل/STM + ی/SUF
+1 نش/STM + تن/STM
+1 ۱۸/STM + ۵۰۰/STM + ۰۰/STM + ۰/SUF + ۰۰/STM
+2 ج/STM + ن/SUF + را/SUF + ل/SUF
+1 دست/STM + گر/STM + د/SUF + ی/SUF
+1 آ/STM + در/STM + س/SUF
+9 ریاض/STM + ی/SUF
+3 متعلق/STM
+4 ره/STM + بر/STM + ا/SUF + ن/SUF
+1 Bottom/STM
+1 ۳۵/STM + ۲/SUF
+6 غرب/STM + ی/SUF
+1 ب/STM + س/SUF + ط/SUF
+1 سوم/STM + ین/SUF
+1 ح/STM + ا/SUF + د/SUF
+2 کن/STM + تر/STM + ل/SUF
+1 در/STM + پی/STM
+5 منهتن/STM
+10 تما/STM + م/SUF + ی/SUF
+6 خا/STM + لی/SUF
+1 دل/STM + یل/SUF + ی/SUF
+13 فی/STM + ل/SUF + م/SUF
+2 من/STM + ت/SUF + هی/STM
+4 آماتور/STM
+2 سی/STM + ف/SUF + ولی/STM + لی/SUF
+3 است/STM + وار/STM
+48 ام/STM + ا/SUF
+6 کلیله/STM
+1 سر/STM + در/STM
+1 ۱۹/STM + ۰/SUF + ۱/STM
+12 سایر/STM
+1 ۱۳۴/STM + ۲/SUF
+1 آ/STM + و/SUF + یز/STM + ان/SUF
+1 بدست/STM + ور/SUF
+2 قاج/STM + ار/SUF + یه/STM
+1 تلگ/STM + را/SUF + ف/SUF
+3 علاقه/STM
+1 ۱۹/STM + ۰۹/STM
+2 در/STM + یا/SUF + یی/SUF
+2 سب/STM + و/SUF
+3 یافت/STM + ند/SUF
+2 خو/STM + ی/SUF
+1 زن/STM + د/SUF + گا/STM + ن/SUF + ی/SUF
+1 چی/STM + ن/SUF
+1 محق/STM + قا/STM + ن/SUF
+4 مسلم/STM + ان/SUF + ان/SUF
+4 نقل/STM
+1 ما/STM + در/STM + ش/SUF
+1 او/STM + طر/STM + ف/SUF + دار/STM
+5 مار/STM + س/SUF
+1 خل/STM + ق/SUF
+1 هر/STM + سال/STM + ه/SUF
+1 ۳/STM + ۳۱/STM
+1 اع/STM + ت/SUF + د/SUF + ال/STM + ی/SUF
+1 دا/STM + ن/SUF + ان/SUF
+1 نجوم/STM
+1 وب/STM + اش/STM + کو/STM + ه/SUF + ی/SUF
+1 خا/STM + ئ/SUF + فی/STM
+13 اف/STM + را/STM + د/SUF
+6 صلح/STM
+1 ف/STM + وق/STM
+1 را/STM + ست/SUF + ای/STM
+1 تو/STM + فا/STM + نی/SUF
+2 در/STM + وس/STM
+1 فر/STM + ح/STM + ز/SUF + اد/STM
+1 صا/STM + در/STM + ات/SUF
+1 ت/STM + ز/SUF + ئی/STM + ن/SUF + ات/STM
+1 اس/STM + کن/STM + د/SUF + ری/SUF
+1 گر/STM + ا/SUF + ن/SUF + د/SUF
+40 داشت/STM
+1 خو/STM + است/STM + ه/SUF
+3 کرد/STM + که/STM
+2 ما/STM + رت/STM + ین/SUF
+2 کار/STM + بر/STM
+3 بار/STM + ه/SUF
+25 کن/STM + د/SUF
+8 عل/STM + ی/SUF + ه/SUF
+4 سع/STM + د/SUF
+2 او/STM + ان/SUF
+1 ژو/STM + لی/SUF + نی/STM
+1 ک/STM + دام/STM
+1 ن/STM + نمود/STM
+24 دا/STM + ن/SUF + ش/SUF + گا/STM + ه/SUF
+1 آ/STM + س/SUF + پرگر/STM
+2 هست/STM + یم/SUF
+2 مت/STM + ما/STM + ی/SUF + ل/SUF
+6 نشده/STM
+3 آ/STM + ی/SUF + ن/SUF + شت/STM + ای/STM + ن/SUF
+4 ب/STM + ا/SUF + ز/SUF + دی/STM + د/SUF
+6 پ/STM + ن/SUF + ج/SUF + م/SUF
+2 گ/STM + نو/STM
+1 مم/STM + ت/SUF + د/STM
+1 ان/STM + تخا/STM + ب/SUF + ی/SUF
+4 صو/STM + فی/STM + ه/SUF
+6 خس/STM + رو/STM
+2 غیر/STM + قانون/STM + ی/SUF
+1 های/STM + ی/SUF
+4 جسم/STM
+1 ج/STM + ه/SUF + اد/STM
+2 تمدن/STM
+3 در/STM + س/SUF
+5 ب/STM + ا/SUF + لا/SUF + ی/SUF + ی/SUF
+1 طا/STM + هر/STM + ی/SUF
+1 هو/STM + ی/SUF + گنس/STM
+1 ال/STM + سا/STM
+1 نام/STM + گذ/STM + ار/STM + ی/SUF
+3 کن/STM + فر/STM + ا/SUF + ن/SUF + س/SUF
+1 را/STM + ی/SUF + زن/STM + ی/SUF
+3 گا/STM + ز/SUF
+2 گذ/STM + ار/STM + ی/SUF
+1 ار/STM + قا/STM + م/SUF
+1 کود/STM + ک/SUF + ان/SUF
+1 مت/STM + ا/SUF + بع/STM + ت/SUF
+1 بخ/STM + وا/STM + ن/SUF + ید/SUF
+1 کرد/STM + نش/STM + ین/SUF
+8 او/STM + ل/SUF
+1 ب/STM + گیر/STM + ان/SUF
+1 سر/STM + ک/SUF + وب/STM + ی/SUF
+2 ۱۱۵/STM
+1 واس/STM + ط/SUF
+1 مت/STM + ه/SUF + م/SUF
+1 غ/STM + با/STM + ر/SUF + غ/STM + لی/SUF + ظ/STM
+1 آ/STM + ب/SUF + د/SUF + هی/STM
+3 عم/STM + وی/STM + ش/SUF
+2 Herat/STM
+2 منتسب/STM
+27 اختر/STM + شن/STM + ا/SUF + س/SUF + ی/SUF
+2 ن/STM + ژ/STM + اد/SUF
+1 و/STM + انحلال/STM
+1 ۷/STM + ۰۰/STM
+1 ب/STM + ظاهر/STM
+1 ت/STM + ئ/SUF + ور/STM + ی/SUF
+1 ط/STM + ل/SUF + اق/STM + ش/SUF
+2 یا/STM + د/SUF + گا/STM + ر/SUF
+10 شاعر/STM
+1 می/STM + د/SUF
+2 بخ/STM + ش/SUF + های/STM + ی/SUF
+2 پار/STM + لم/STM + ان/SUF
+2 ب/STM + ق/SUF + را/SUF + ط/STM
+12 حما/STM + یت/SUF
+2 سم/STM + رق/STM + ن/SUF + دی/STM
+1 اف/STM + ت/SUF + خ/STM + ار/SUF
+3 نزدیک/STM + ان/SUF
+6 تل/STM + ف/SUF + ن/SUF
+1 پ/STM + ا/SUF + شی/STM + د/SUF
+3 بازتاب/STM + ش/SUF
+6 کام/STM + ل/SUF + ی/SUF
+1 Ocean/STM
+2 مشارکت/STM + ی/SUF
+3 بطلم/STM + ی/SUF + وس/STM
+2 کر/STM + ج/SUF
+2 پذ/STM + ی/SUF + رف/STM + ت/SUF + ه/SUF
+3 عباس/STM
+121 یک/STM
+1 آ/STM + ب/SUF + ی/SUF
+2 دا/STM + د/SUF + وی/STM + ه/SUF
+3 کا/STM + ش/SUF + غر/STM
+2 تیر/STM + ما/STM + ه/SUF
+1 ما/STM + در/STM + ی/SUF
+1 اف/STM + شار/STM
+1 تا/STM + کید/STM
+2 انگ/STM + ی/SUF + زه/STM
+3 تجدید/STM
+2 ب/STM + توسط/STM
+3 متر/STM + مربع/STM
+10 اگز/STM + و/SUF + پر/STM + ی/SUF
+1 کار/STM + گز/STM + ار/SUF
+2 توانست/STM + ند/SUF
+1 خو/STM + یی/SUF
+7 سرعت/STM
+1 نس/STM + ب/STM
+3 نیل/STM + ز/SUF
+5 کل/STM
+5 محاسبه/STM
+1 ال/STM + ا/SUF + حر/STM + ار/SUF
+1 یک/STM + نو/STM + اخت/STM
+2 نقش/STM + ه/SUF
+1 انقلاب/STM + ی/SUF + ن/SUF
+27 دار/STM + ند/SUF
+4 ان/STM + گل/STM + ست/STM + ا/SUF + ن/SUF
+3 فر/STM + و/SUF + د/SUF + گا/STM + ه/SUF
+1 چ/STM + نگ/STM
+7 امتیاز/STM
+1 ف/STM + ن/SUF
+1 ث/STM + ان/SUF + یه/STM
+1 پ/STM + ل/SUF + ی/SUF + دی/STM
+1 وا/STM + ض/SUF + ح/STM
+1 در/STM + ای/STM + ن/SUF
+7 طبق/STM + ه/SUF
+3 می/STM + د/SUF + ان/SUF
+1 اشع/STM + ار/SUF + ش/SUF
+18 اقد/STM + ام/SUF
+1 مار/STM + یا/SUF
+3 مقایس/STM + ه/SUF
+1 ب/STM + کن/STM + ند/SUF
+8 ۴/STM
+6 ابر/STM + نو/STM + اختر/STM
+1 آ/STM + ن/SUF + ی/SUF
+2 مح/STM + تو/STM + ا/SUF + ی/SUF
+5 ما/STM + ده/SUF
+2 رو/STM + ست/STM + ا/SUF + ی/SUF + ی/SUF
+1 ما/STM + ج/SUF
+2 ک/STM + ثیر/STM + ی/SUF
+3 در/STM + نه/STM + ا/SUF + یت/SUF
+1 آ/STM + ن/SUF + ها/SUF + گر/STM + م/SUF + ای/STM
+1 مست/STM + جا/STM + ب/STM + س/SUF + ت/SUF + ی/SUF
+1 ح/STM + ذ/STM + ف/SUF
+1 شم/STM + ی/SUF + را/STM + م/SUF
+2 جغرافی/STM + ای/STM
+2 تج/STM + ه/SUF + یز/STM + ات/SUF
+1 طر/STM + ب/STM
+1 پ/STM + ا/SUF + میر/STM + ی/SUF
+1 نس/STM + ل/SUF
+4 ۱۹۹۰/STM
+2 تحل/STM + یل/SUF + ی/SUF
+5 رایج/STM
+1 ما/STM + ن/SUF + وی/STM + ان/SUF
+1 شا/STM + خ/STM + ه/SUF
+2 ۶/STM + ۴/STM
+6 هنو/STM + ز/SUF
+3 هم/STM + وار/STM + ه/SUF
+1 فیز/STM + ی/SUF + ک/SUF + دا/STM + ن/SUF + انی/SUF
+1 ش/STM + یک/STM + د/SUF
+1 فض/STM + لا/STM
+3 پ/STM + ا/SUF + ن/SUF + صد/STM
+2 سال/STM + ها/SUF
+1 ات/STM + و/SUF + بو/STM + س/SUF
+1 ها/STM + تف/STM + ی/SUF
+1 سپ/STM + اس/STM
+1 تک/STM + را/STM + ر/SUF
+1 Berl/STM + in/STM
+1 دام/STM + اد/STM
+1 اک/STM + تب/STM + ر/SUF
+1 لا/STM + قی/STM + د/SUF
+2 رس/STM + ان/STM + د/SUF
+2 نا/STM + چ/STM + ار/STM + ند/SUF
+1 مش/STM + ترک/STM
+1 ق/STM + ز/SUF + اق/STM + ست/STM + ا/SUF + ن/SUF
+1 ز/STM + عام/STM + ت/SUF
+1 نا/STM + شناخته/STM
+4 اف/STM + کار/STM
+2 پ/STM + ی/SUF + گیر/STM + ی/SUF
+1 مر/STM + سوم/STM
+3 زود/STM + گذر/STM
+2 زب/STM + ا/SUF + ن/SUF + شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF + ه/SUF
+1 م/STM + زا/STM + ی/SUF + ای/STM
+11 سط/STM + ح/SUF
+2 آماتور/STM + ها/SUF
+5 اطلاع/STM
+1 تو/STM + ط/SUF + ئ/STM + ه/SUF
+2 غ/STM + بار/STM
+1 جا/STM + ری/SUF
+1 نا/STM + فر/STM + جا/STM + م/SUF
+9 مناطق/STM
+1 اگز/STM + و/SUF + ز/SUF
+1 کال/STM + ی/SUF + فر/STM + ن/SUF + یا/STM
+1 ند/STM + ید/SUF + ست/STM + ی/SUF
+1 منسو/STM + خ/STM
+1 ب/STM + و/SUF + ق/SUF
+2 ام/STM + ا/SUF + م/SUF + زا/STM + ده/SUF
+1 احمد/STM + آ/STM + ب/SUF + اد/SUF
+1 ن/STM + ک/SUF + ته/STM
+1 شد/STM + ید/SUF
+2 جز/STM + ئ/SUF + یا/STM + ت/SUF
+8 منظ/STM + و/SUF + م/SUF + ه/SUF
+2 زو/STM + ری/SUF + خ/STM
+1 پ/STM + ش/SUF + می/SUF
+16 نش/STM + ان/SUF
+20 منزل/STM
+2 رف/STM + ض/SUF
+2 تص/STM + وی/SUF + ر/SUF
+3 سال/STM + ی/SUF
+1 ب/STM + ه/SUF + را/STM + م/SUF
+13 انجمن/STM
+2 پ/STM + ا/SUF + ک/SUF + ی/SUF
+9 ب/STM + ا/SUF + لا/SUF
+5 آ/STM + ن/SUF + در/STM + ه/SUF
+1 ب/STM + ت/SUF + ی/SUF
+1 ر/STM + صد/STM + خا/STM + ن/SUF + ه/SUF
+1 بغ/STM + ض/SUF
+1 مک/STM + مل/STM + ی/SUF
+1 ب/STM + ا/SUF + ز/SUF + دی/STM + د/SUF + کن/STM + ند/SUF + گا/STM + ن/SUF + ش/SUF
+3 ول/STM + ز/SUF
+1 تم/STM + شی/STM + ت/SUF
+2 بی/STM + ا/SUF + ن/SUF + یه/STM
+1 کا/STM + ت/SUF + ولیک/STM
+1 مل/STM + وا/STM + ن/SUF + ان/SUF
+1 گو/STM + سف/STM + ند/SUF
+1 اب/STM + ع/SUF + اد/STM
+1 آ/STM + ن/SUF + را/SUF
+1 گر/STM + و/SUF
+1 مه/STM + ا/SUF + ج/SUF + ر/SUF
+56 دو/STM
+1 ف/STM + لک/STM
+1 ساب/STM + سا/STM + ی/SUF + زر/STM + ها/SUF
+3 توافق/STM
+1 بر/STM + فر/STM + از/SUF
+2 اف/STM + شار/STM + ط/SUF + وس/STM
+1 مست/STM + خدم/STM + ین/SUF
+1 ری/STM + خت/STM
+8 اج/STM + از/SUF + ه/SUF
+2 کرد/STM + ست/STM + ا/SUF + ن/SUF
+1 در/STM + چ/STM + ن/SUF + گا/STM + ل/SUF
+1 س/STM + کونت/STM
+3 دیگر/STM + ان/SUF
+1 ار/STM + تبا/STM + ط/SUF + ات/SUF
+3 سلط/STM + ن/SUF + ت/SUF
+3 کن/STM + ند/SUF + ه/SUF
+1 مج/STM + رد/STM
+1 ت/STM + یک/STM + و/SUF
+2 من/STM + ط/SUF + قی/STM
+1 لا/STM + ه/SUF + ه/STM
+2 هم/STM + گ/STM + ن/SUF
+1 من/STM + از/SUF + عه/STM
+2 مقصد/STM
+2 ام/STM + و/SUF + اج/STM
+1 کلا/STM + نت/STM + ری/SUF
+1 یا/STM + ن/SUF + س/SUF + ک/STM + ی/SUF
+2 پ/STM + ی/SUF + ش/SUF + رو/STM + ی/SUF + ی/SUF
+3 دن/STM + یا/SUF + ی/SUF
+9 رو/STM
+4 آ/STM + ل/SUF + م/SUF + ا/SUF + ن/SUF + ی/SUF
+5 خل/STM + ع/SUF
+2 نش/STM + اط/STM
+1 اک/STM + تشاف/STM + ی/SUF
+1 رو/STM + ح/SUF + ی/SUF
+1 مت/STM + أسف/STM + ان/STM + ه/SUF
+1 نوشت/STM + ار/SUF + ی/SUF
+1 است/STM + ا/SUF + دا/STM + ن/SUF + ش/SUF
+2 ب/STM + زرگ/STM + سال/STM + ی/SUF
+1 اشغال/STM + ی/SUF
+3 تو/STM + م/SUF + اس/STM
+14 ست/STM + ار/SUF + ه/SUF
+15 احمد/STM
+1 انگ/STM + ی/SUF + زا/STM + ند/SUF
+2 وص/STM + یت/SUF
+1 سرگر/STM + م/SUF
+12 خو/STM + ا/SUF + ه/SUF + د/SUF
+1 ش/STM + ست/SUF + شو/STM
+1 فر/STM + یب/STM + کار/STM + ان/SUF
+1 جنگ/STM + لی/SUF
+1 ب/STM + ا/SUF + ور/SUF + انی/SUF
+1 کو/STM + ت/SUF + ول/STM + ه/SUF
+7 خا/STM + ن/SUF + وا/STM + ده/SUF
+5 ده/STM + ند/SUF
+1 ما/STM + زن/STM + در/STM + انی/SUF
+2 وس/STM + ی/SUF + عی/STM
+3 شا/STM + ه/SUF + کار/STM
+3 آ/STM + ی/SUF
+1 λογία/STM
+2 نی/STM + رو/STM + های/SUF
+2 وار/STM + ط/STM + ان/SUF
+2 ۱۹۰۰/STM
+17 ب/STM + و/SUF + د/SUF + ه/SUF
+1 ب/STM + ل/SUF + د/SUF + یه/STM
+2 ۸۷/STM + ۵/STM
+1 ۳/STM + ۳۲۰/STM
+2 مدایح/STM
+1 مح/STM + رم/STM + ان/SUF + ه/SUF
+1 ت/STM + کر/STM + یم/SUF
+1 عقی/STM + م/SUF
+1 رخ/STM
+1 ح/STM + ا/SUF + کم/STM
+2 سی/STM + رو/STM
+2 آ/STM + ل/SUF
+27 می/STM
+2 Einstein/STM
+1 نا/STM + یر/SUF
+11 فق/STM + ط/SUF
+10 رأ/STM + ی/SUF
+1 بر/STM + ج/SUF
+2 غ/STM + و/SUF + طه/STM
+1 مش/STM + یر/SUF + الدول/STM + ه/SUF
+3 کن/STM + یم/SUF
+12 ایشا/STM + ن/SUF
+1 مو/STM + س/SUF + سه/STM
+2 در/STM + اثر/STM
+3 امانت/STM
+2 کش/STM + ی/SUF + ده/STM
+1 امتیاز/STM + د/SUF + هی/STM
+2 دا/STM + ن/SUF + ش/SUF + من/STM + دا/STM + ن/SUF
+4 بیابد/STM
+1 سم/STM + ور/SUF
+1 محد/STM + و/SUF + د/SUF + یت/SUF
+1 ش/STM + مرد/STM + ه/SUF
+1 انب/STM + ار/STM + ها/SUF + ی/SUF
+2 یو/STM + سف/STM
+1 پ/STM + ی/SUF + ش/SUF + ت/SUF + از/STM + ان/SUF
+30 مل/STM + ی/SUF
+1 مش/STM + تق/STM
+2 صر/STM + ف/SUF + نظر/STM
+3 ساخت/STM + ار/SUF
+5 مش/STM + ک/SUF + ل/SUF + ات/SUF
+3 جبه/STM + ه/SUF
+9 آ/STM + م/SUF + ار/SUF
+19 را/STM + ه/SUF
+1 ۳۰/STM + ۱/STM
+7 نما/STM + یش/SUF
+1 ۶/STM + ۱/STM
+2 ف/STM + وت/STM
+6 او/STM + ل/SUF + یه/SUF
+1 من/STM + فی/STM
+1 شعر/STM + ی/SUF
+3 سر/STM + شن/STM + ا/SUF + س/SUF + ی/SUF
+1 ضیا/STM + ال/STM + سلط/STM + ن/SUF + ه/SUF
+2 دست/STM + ور/SUF + نام/STM + ه/SUF
+2 ع/STM + ض/STM + و/SUF
+2 شا/STM + فع/STM + ی/SUF
+1 کار/STM + شا/STM + ن/SUF
+3 ح/STM + د/SUF + ا/SUF + قل/STM
+2 سم/STM + رق/STM + ند/SUF
+1 کار/STM + بر/STM + د/SUF + های/SUF
+4 نوشت/STM
+2 ط/STM + بع/STM
+1 او/STM + د/SUF + لا/STM + جا/STM + ن/SUF
+2 دف/STM + تر/SUF
+3 متول/STM + د/SUF
+18 آ/STM + م/SUF + د/SUF
+1 ن/STM + از/STM + ک/SUF
+2 شه/STM + اب/STM + ی/SUF
+11 شمس/STM + ی/SUF
+9 نام/STM + ه/SUF
+1 کر/STM + یم/SUF + خا/STM + ن/SUF
+1 دی/STM + شب/STM
+1 لی/STM + سا/STM + ن/SUF + س/SUF
+8 ترتیب/STM
+62 شهر/STM
+3 نوبل/STM
+2 کار/STM + ل/SUF
+1 مق/STM + دم/STM + ات/STM + ی/SUF
+1 تأ/STM + خیر/STM
+3 قد/STM + یم/SUF
+1 گا/STM + ما/STM
+1 عل/STM + ا/SUF + ئ/SUF + م/SUF
+1 واگر/STM + دا/STM + ن/SUF + ی/SUF
+1 میل/STM
+2 ب/STM + س/SUF + ت/SUF
+2 متع/STM + هد/STM
+1 کشا/STM + ور/STM + ز/SUF
+3 ۱۹۷۴/STM
+3 گفت/STM + ار/SUF
+1 پ/STM + ی/SUF + کر/STM
+2 ما/STM + شا/STM + الله/STM
+10 چه/STM
+1 فر/STM + ا/SUF + مرزی/STM
+2 عدا/STM + لت/STM
+6 ایا/STM + لا/STM + ت/SUF
+3 آ/STM + ی/SUF + ا/SUF
+5 مکانیک/STM
+1 خر/STM + ا/SUF + ب/STM + س/SUF + ت/SUF + ی/SUF
+1 ب/STM + و/SUF + د/SUF + ن/SUF + ش/SUF
+8 مسجد/STM
+2 مد/STM + ا/SUF + م/SUF
+1 ۱۹۴/STM + ۹/STM
+1 کش/STM + ور/SUF + شا/STM + ن/SUF
+4 فردوسی/STM
+3 ما/STM + د/SUF + ی/SUF
+1 جغرافی/STM + ا/SUF
+7 مشروطه/STM
+1 ۱۷/STM + ۲/SUF + ۷/STM
+5 هنگ/STM + ا/SUF + م/SUF + ی/SUF
+22 نفر/STM
+1 ۱۰/STM + ۲/SUF
+5 توسعه/STM
+5 تر/STM + ی/SUF + ن/SUF
+8 محیط/STM
+1 ۱۳/STM + ۲۰/STM
+2 فر/STM + و/SUF + زا/STM + ن/SUF
+4 فر/STM + ا/SUF + وا/STM + ن/SUF
+4 ۱۷/STM
+2 ج/STM + لو/STM + گیر/STM + ی/SUF
+1 ف/STM + در/STM + ال/STM
+1 اختر/STM + شن/STM + ا/SUF + س/SUF
+2 معم/STM + ول/STM
+1 فر/STM + ا/SUF + ین/STM + د/SUF + های/SUF
+2 عر/STM + فا/STM + ن/SUF
+2 مح/STM + ت/SUF + وی/STM + ات/SUF
+1 سر/STM + زم/STM + ین/SUF
+2 ۱۳/STM + ۱۹/STM
+2 شا/STM + ه/SUF + دا/STM + ن/SUF
+4 پاریس/STM
+2 گو/STM + ش/SUF
+2 رس/STM + ید/SUF + ن/SUF
+3 ساخت/STM + ما/STM + ن/SUF
+1 ب/STM + ش/SUF + ود/STM
+2 فر/STM + ا/SUF + هم/STM
+1 بی/STM + گا/STM + ن/SUF + گا/STM + ن/SUF
+16 گس/STM + ل/SUF
+4 دار/STM + یم/SUF
+1 ار/STM + ت/SUF + ع/SUF + اش/STM
+1 ناصر/STM + ال/STM + دی/SUF + ن/SUF
+1 تف/STM + سی/STM + ری/SUF
+1 اب/STM + و/SUF + ا/SUF + ل/SUF + مو/STM + ید/SUF
+5 کار/STM + بر/STM + ا/SUF + ن/SUF + ی/SUF
+1 کو/STM + ک/SUF + ی/STM
+1 تف/STM + ا/SUF + هم/STM
+3 jpg/STM
+4 دی/STM
+1 مر/STM + خص/STM + ی/SUF
+2 ور/STM + قی/STM
+1 ن/STM + کرد/STM
+1 نو/STM + جو/STM + ا/SUF + نی/SUF
+1 سو/STM + سیال/STM
+3 گرفت/STM + ن/SUF
+1 گذر/STM + ان/STM + د/SUF
+1 پر/STM + می/SUF + وم/STM
+1 جو/STM + ز/SUF + جا/STM + نی/SUF
+5 ترجم/STM + ه/SUF
+28 رو/STM + ز/SUF
+1 صد/STM + ا/SUF + های/SUF
+1 ال/STM + گو/STM + های/SUF
+2 شا/STM + ن/SUF + زد/STM + ه/SUF + م/SUF + ین/SUF
+1 سپ/STM + ه/SUF + سال/STM + ار/STM + ی/SUF
+1 چ/STM + پ/STM + گر/STM + ا/SUF + ن/SUF + ه/SUF
+2 صهیونیس/STM + ت/SUF + ی/SUF
+1 دی/STM + ن/SUF
+1 نم/STM + د/SUF
+1 پ/STM + ا/SUF + لا/STM + ی/SUF + ش/SUF
+1 ب/STM + ن/SUF + ج/SUF + رو/STM + د/SUF
+1 م/STM + واق/STM + ع/SUF
+1 تال/STM + یف/STM
+1 زد/STM + ند/SUF
+2 RTA/STM
+8 میل/STM + یو/STM + ن/SUF
+1 از/STM + بک/STM + ست/STM + ا/SUF + ن/SUF
+2 میا/STM + ن/SUF + گی/STM + ن/SUF
+2 مه/STM + ا/SUF + ج/SUF + ران/SUF
+4 سر/STM + ی/SUF
+3 ان/STM
+2 مع/STM + ت/SUF + بر/STM
+6 تعریف/STM
+2 پر/STM + و/SUF + ف/SUF + سو/STM + ر/SUF
+4 خا/STM + ن/SUF
+1 تص/STM + اویر/STM + ی/SUF
+1 نو/STM + ا/SUF + خت/STM + ن/SUF
+1 اب/STM + وز/STM + را/SUF + عه/STM
+1 مج/STM + ا/SUF + هد/STM + ین/SUF
+4 شیعه/STM
+1 پ/STM + و/SUF + ش/SUF + ید/SUF
+5 کل/STM + ی/SUF
+1 ان/STM + د/SUF + از/SUF
+1 اک/STM + تشاف/STM + ات/SUF
+2 سحا/STM + ب/STM + س/SUF + ت/SUF + ی/SUF
+1 ته/STM + دی/STM + د/SUF
+1 زر/STM + د/SUF + شت/STM + ی/SUF
+1 ۱۱/STM + ۲/SUF
+2 دار/STM + ها/SUF
+1 مت/STM + فکر/STM
+1 ب/STM + زرگ/STM + ش/SUF
+3 ب/STM + و/SUF + س/SUF + یله/STM
+1 دا/STM + ن/SUF + یل/STM
+1 پ/STM + ی/SUF + د/SUF + ا/SUF + ست/SUF
+2 اعل/STM + ام/SUF + ی/SUF
+3 de/STM
+1 B/STM + p/STM
+2 سیا/STM + را/SUF + ت/SUF + ی/SUF
+1 هل/STM + ن/SUF + دی/STM
+10 لاز/STM + م/SUF
+1 سر/STM + شن/STM + ا/SUF + س/SUF
+2 مثال/STM
+1 من/STM + زه/STM
+3 اوست/STM
+11 ب/STM + ا/SUF + ز/SUF + گ/SUF + ش/SUF + ت/SUF
+2 یو/STM + ها/SUF + نس/STM
+1 فق/STM + های/SUF
+18 زیر/STM
+2 جا/STM + م/SUF + ه/SUF
+5 دامنه/STM
+4 صرافی/STM
+2 اب/STM + و/SUF + ا/SUF + ل/SUF + حسن/STM
+2 ل/STM + غ/STM + و/SUF
+4 خو/STM + یش/SUF
+13 تول/STM + ید/SUF
+1 نش/STM + ان/SUF + گا/STM + ن/SUF
+1 رو/STM + ی/SUF + دا/STM + د/SUF
+19 رف/STM + را/STM + ند/SUF + و/SUF + م/SUF
+1 کرب/STM + ن/SUF
+1 کم/STM + تر/SUF + ی/SUF
+2 مول/STM + ان/STM + ا/SUF
+1 سی/STM + تر/SUF
+3 ماجرا/STM
+5 ژان/STM + وی/STM + ه/SUF
+1 فا/STM + ئ/STM + ق/SUF
+34 کتاب/STM
+2 دقیق/STM + ی/SUF
+2 پار/STM + سا/STM
+2 خاطر/STM + ات/SUF
+1 کهکش/STM + ا/SUF + ن/SUF + ها/SUF
+1 ک/STM + پر/STM + ن/SUF + یک/STM
+2 مد/STM + عی/STM
+1 ۱۷/STM + ۰/SUF + ۴/STM
+2 مع/STM + نا/STM + ی/SUF
+5 عزل/STM
+2 من/STM + صوب/STM
+1 پ/STM + ل/SUF + یس/STM
+1 ظ/STM + هی/STM + ر/SUF
+1 نگ/STM + ار/SUF + ست/STM + ا/SUF + ن/SUF
+5 ما/STM + ریچ/STM
+1 بی/STM + ض/STM + ی/SUF
+3 عم/STM + ده/SUF
+1 دشمن/STM + ی/SUF
+1 جنگ/STM + ی/SUF
+1 مست/STM + قر/STM
+2 تع/STM + صب/STM
+1 ۱۹/STM + ۱۷/STM
+3 هرگز/STM
+1 تن/STM + د/SUF + با/STM + د/SUF
+1 ب/STM + ن/SUF + ج/SUF + رو/STM + دک/STM
+1 مح/STM + و/SUF
+2 نگاه/STM
+2 عب/STM + دا/SUF + ل/SUF + قد/STM + یر/SUF
+3 يک/STM
+2 ای/STM + ن/SUF + ها/SUF
+3 مورخا/STM + ن/SUF
+1 ط/STM + بی/STM
+1 صف/STM + وی/SUF + ه/SUF
+4 رو/STM + ز/SUF + های/SUF
+1 تأ/STM + ثیر/STM + ات/SUF
+15 کا/STM + ش/SUF + انی/SUF
+16 شهر/STM + دار/STM + ی/SUF
+2 چه/STM + ل/SUF
+1 در/STM + آور/STM + د/SUF
+4 ام/STM + ید/SUF
+10 نزدیک/STM
+2 او/STM + تو/STM
+10 گر/STM + ا/SUF + ن/SUF + ش/SUF
+2 آ/STM + ش/SUF + کار/STM + ساز/STM
+1 فر/STM + نس/STM + س/SUF
+3 ح/STM + ی/SUF + و/SUF + ان/STM + ات/SUF
+2 هد/STM + ای/STM + ت/SUF + های/SUF
+1 تم/STM + ا/SUF + شا/STM + ی/SUF
+1 اس/STM + ام/STM + ه/SUF
+2 است/STM + شه/STM + اد/SUF
+1 مو/STM + ا/SUF + زی/STM
+1 فق/STM + ه/SUF
+4 جا/STM + ی/SUF + گز/STM + ین/SUF
+1 لو/STM + یی/SUF
+1 سیا/STM
+3 کرد/STM + قبل/STM
+1 شد/STM + ن/SUF + ش/SUF
+1 Boulevard/STM
+1 دست/STM + با/STM + ف/SUF
+1 سا/STM + ق/SUF + ط/STM
+8 زم/STM + ا/SUF + ن/SUF + ی/SUF
+1 عباس/STM + عل/STM + ی/SUF
+2 بی/STM + جا/STM
+1 UseModWiki/STM
+1 عن/STM + ص/STM + ری/SUF
+1 اف/STM + ل/SUF + اط/STM + ون/SUF
+1 شعر/STM + های/SUF
+1 تر/STM + ا/SUF + شی/STM + ده/SUF
+2 سه/STM + می/SUF
+1 اح/STM + ت/SUF + مال/STM + ی/SUF
+1 نی/STM + و/SUF + جرسی/STM
+1 ۱۸/STM + ۸۰/STM
+2 بر/STM + ا/SUF + ند/SUF + از/STM + ی/SUF
+2 نفر/STM + ت/SUF
+1 آ/STM + ن/SUF + چه/STM
+1 ۱۶/STM + ۰۹/STM
+2 عی/STM + د/SUF
+9 مز/STM + ار/SUF
+6 محد/STM + و/SUF + د/SUF
+3 نر/STM + یم/STM + ان/SUF
+1 انج/STM + ا/SUF
+4 شرایط/STM
+7 ادب/STM + یا/STM + ت/SUF
+1 در/STM + خ/STM + ش/SUF + ند/STM + گی/SUF
+1 وا/STM + تر/STM + ز/SUF
+3 The/STM
+3 مطبو/STM + عا/STM + ت/SUF
+1 ان/STM + ت/SUF + صاب/STM
+15 دیگر/STM + ی/SUF
+1 ص/STM
+1 نا/STM + ق/SUF + ص/STM
+2 فر/STM + ا/SUF + کسی/STM + ون/SUF
+3 پر/STM + س/SUF + ش/SUF
+5 نهم/STM
+3 بازتاب/STM + ش/SUF + ی/SUF
+23 دل/STM + یل/SUF
+1 شفا/STM + فی/STM + ت/SUF
+23 ایج/STM + اد/SUF
+3 فر/STM + م/SUF + ا/SUF + ن/SUF + فر/STM + م/SUF + ا/SUF
+1 زود/STM + رس/STM + ی/SUF
+4 ۶۰/STM
+1 ۱۹۶/STM + ۲/SUF
+10 جم/STM + ع/SUF + ی/SUF + ت/SUF
+6 ح/STM + ی/SUF + ات/SUF
+1 طر/STM + ق/SUF
+5 زیر/STM + ک/SUF
+22 پ/STM + ا/SUF + یا/SUF + ن/SUF
+1 مناطق/STM + ی/SUF
+1 احمد/STM + شا/STM + ه/SUF + ی/SUF
+3 منعقد/STM
+2 اشت/STM + غال/STM
+2 اب/STM + و/SUF + ج/SUF + عفر/STM
+1 وس/STM + ی/SUF + ع/STM + تر/SUF
+1 رو/STM + ض/STM + ه/SUF
+1 ۱۳/STM + ۵۵/STM
+1 سال/STM + رو/STM + ز/SUF
+1 ۳۱/STM + ۱/STM
+12 معر/STM + و/SUF + ف/SUF
+2 امیر/STM + عل/STM + ا/SUF + ئ/SUF + ی/SUF
+1 کم/STM + ی/SUF + سی/STM + ون/SUF
+1 کا/STM + فی/STM
+1 ض/STM + ع/SUF + یف/STM
+27 ب/STM + ع/SUF + د/SUF
+1 بیما/STM + ری/SUF + ها/SUF
+1 نی/STM + از/STM + های/SUF
+1 بخ/STM + ش/SUF + ید/SUF + ن/SUF
+2 اد/STM + وار/STM + د/SUF
+1 ن/STM + ــــ/STM + ه/SUF
+1 غیر/STM + ان/SUF + تفاع/STM + ی/SUF
+3 اط/STM + می/STM + ن/SUF + ان/SUF
+6 پ/STM + ا/SUF + یه/SUF
+1 ۱۹/STM + ۵۵/STM
+1 نو/STM + گر/STM + ا/SUF + یی/SUF
+1 و/STM + در/STM + اخت/STM + یار/STM
+2 ب/STM + زرگ/STM + ها/SUF
+1 15/STM
+2 تق/STM + ا/SUF + ضا/STM + ها/SUF
+1 آ/STM + ن/SUF + زم/STM + ا/SUF + ن/SUF
+1 ه/STM + جد/STM + ه/SUF
+1 م/STM + غول/STM + ان/SUF
+5 قول/STM
+1 مور/STM + خ/STM
+1 پ/STM + ی/SUF + ما/STM + ن/SUF
+2 تأ/STM + کید/STM
+4 کهکش/STM + ا/SUF + ن/SUF + ی/SUF
+1 را/STM + جر/STM
+1 ت/STM + ضم/STM + ین/SUF
+1 اش/STM
+2 نی/STM + رو/STM + ی/SUF + ی/SUF
+14 دی/STM + وا/STM + ن/SUF
+6 خو/STM + ا/SUF + ج/SUF + ه/SUF
+36 سع/STM + د/SUF + ی/SUF
+2 مح/STM + ض/SUF
+2 تا/STM + خیر/STM
+1 اوست/STM + ا/SUF + ئی/STM
+13 حقوق/STM
+1 عن/STM + صر/STM + ها/SUF
+1 صا/STM + در/STM + کن/STM + ند/SUF + ه/SUF
+4 اح/STM + ادیث/STM
+3 اس/STM + ما/STM + ع/SUF + یل/STM
+8 logo/STM
+5 باغ/STM
+5 مظفر/STM + ال/STM + دی/SUF + ن/SUF
+1 سع/STM + ی/SUF
+1 ام/STM + ا/SUF + م/SUF
+9 برگزار/STM + ی/SUF
+16 وابسته/STM
+1 تش/STM + کیل/STM + ات/SUF
+9 زا/STM + ده/SUF
+130 بر/STM + ا/SUF + ی/SUF
+4 رواب/STM + ط/SUF
+2 زن/STM
+2 محد/STM + و/SUF + د/SUF + ی/SUF
+2 تج/STM + لی/SUF
+17 ساخت/STM + ه/SUF
+1 مه/STM + یا/SUF
+1 کر/STM + ا/SUF + کر/STM
+1 هی/STM + أ/STM + ت/SUF
+5 دل/STM + ار/SUF
+2 دا/STM + ن/SUF + ند/SUF
+1 ۱۹۶/STM + ۷/STM
+1 نخ/STM + لی/SUF
+3 خی/STM + ا/SUF + ل/SUF
+2 سر/STM + ه/SUF + نگ/STM
+1 شن/STM + ا/SUF + خت/STM + ن/SUF
+2 توجه/STM + ی/SUF
+1 کل/STM + ما/STM + ت/SUF
+5 متح/STM + د/SUF + ه/SUF
+11 تح/STM + صی/STM + ل/SUF
+1 را/STM + هر/STM + و/SUF
+9 نظا/STM + م/SUF + ی/SUF
+2 است/STM + ون/SUF
+1 نخ/STM + به/STM
+1 ریچ/STM + ارد/STM
+2 ان/STM + سیکل/STM + و/SUF + پ/STM + د/SUF + یا/STM
+5 قن/STM + ا/SUF + ت/SUF
+3 دورب/STM + ین/SUF
+2 وبسیاری/STM
+1 ان/STM + و/SUF + اع/STM + ی/SUF
+3 تخت/STM + ی/SUF
+13 دور/STM
+2 عم/STM + وی/STM
+5 گو/STM + ن/SUF + ا/SUF + گو/STM + ن/SUF
+1 ب/STM + ا/SUF + ز/SUF + گر/STM + د/SUF + ان/SUF + دن/STM
+1 می/STM + ت/SUF + ی/SUF + نگ/STM + های/STM + ی/SUF
+5 ۲۸/STM
+2 ب/STM + ت/SUF + وا/STM + ند/SUF
+1 عر/STM + وس/STM + ک/SUF
+1 مل/STM + احظ/STM + ه/SUF
+3 جد/STM + ی/SUF + د/SUF + تر/SUF
+2 مق/STM + دس/STM
+1 می/STM + ۲۰۰۴/STM
+2 وال/STM + تر/SUF
+1 ب/STM + ا/SUF + ز/SUF + ار/SUF + یا/STM + ن/SUF
+3 خودر/STM + و/SUF
+2 جو/STM + ز/SUF + ف/STM
+2 قزو/STM + ین/SUF
+1 ۱۸/STM + ۶۹/STM
+4 بر/STM + د/SUF + ه/SUF
+8 تجربه/STM
+2 فض/STM + ا/SUF + های/SUF
+3 آ/STM + ن/SUF + تو/STM + ا/SUF + ن/SUF
+12 پ/STM + ی/SUF
+1 ح/STM + ا/SUF + ل/SUF + ت/SUF + ی/STM
+10 نبود/STM
+2 گفت/STM + نی/SUF
+1 ک/STM + یش/STM
+1 رو/STM + ح/SUF + ان/SUF + یو/STM + ن/SUF
+2 مد/STM + ون/SUF
+6 کم/STM + بر/STM + ی/SUF + ج/SUF
+1 پ/STM + ی/SUF + رامو/STM + نش/STM + ان/SUF
+1 نش/STM + ست/STM + ه/SUF
+61 زب/STM + ا/SUF + ن/SUF
+2 هفت/STM + صد/STM
+1 ال/STM + ان/SUF + ساب/STM
+1 جد/STM + ا/SUF + ی/SUF
+1 آماتور/STM + ی/SUF
+7 ۳/STM
+1 ار/STM + ا/SUF + د/SUF + تش/STM
+1 نا/STM + بغ/STM + ه/SUF
+2 پ/STM + ی/SUF + رو/STM + ز/SUF + ی/SUF
+4 صح/STM + ت/SUF
+1 Cocaine/STM
+6 وق/STM + ت/SUF + ی/SUF
+1 مج/STM
+1 ۱۶/STM + ۸۷/STM
+3 تعل/STM + یم/STM + ی/SUF
+1 تدر/STM + یج/STM
+3 شهر/STM + ی/SUF + ور/SUF
+1 گز/STM + لو/STM
+1 چرا/STM + غ/STM
+2 آ/STM + س/SUF + ما/STM + ن/SUF
+1 مش/STM + ق/SUF
+1 زا/STM + د/SUF + روز/STM
+4 گارد/STM
+2 غز/STM + ل/SUF + یا/STM + ت/SUF
+2 حوادث/STM + ی/SUF
+1 خو/STM + د/SUF + جو/STM + ش/SUF
+1 مل/STM + جم/STM
+31 بی/STM + ش/SUF
+1 ت/STM + شبی/STM + ه/SUF + ات/SUF
+1 ن/STM + رس/STM + ید/SUF
+2 جیبی/STM
+25 قانون/STM
+3 Lojban/STM
+3 ۴۵/STM
+5 بر/STM + خل/STM + ا/SUF + ف/SUF
+1 کر/STM + ه/SUF
+1 انب/STM + یا/SUF
+1 لی/STM + سب/STM + ون/SUF
+1 سر/STM + د/SUF + سی/STM + ر/SUF
+1 سال/STM + ن/SUF
+1 پ/STM + هناو/STM + ری/SUF
+17 اج/STM + را/SUF + م/SUF
+5 سراسر/STM
+1 مار/STM + یج/STM
+1 پ/STM + ن/SUF + اه/STM + ند/SUF + گا/STM + ن/SUF
+91 مصد/STM + ق/SUF
+1 ف/STM + صل/STM + ها/SUF
+1 تق/STM + ا/SUF + ضا/STM + ی/SUF
+2 زود/STM
+1 تق/STM + وی/SUF + ت/SUF
+2 ل/STM + ز/SUF + وم/STM
+13 فر/STM + ا/SUF + ن/SUF + س/SUF + ه/SUF
+2 نت/STM + وا/STM + نست/STM + ه/SUF
+1 ۹/STM + ۵/STM
+7 ورود/STM
+1 زم/STM + ست/STM + ا/SUF + ن/SUF
+1 غ/STM + سل/STM
+1 غیر/STM + صحیح/STM
+2 ث/STM + اب/STM + ت/SUF
+1 نا/STM + چیزی/STM
+1 جز/STM + و/SUF
+3 صحیح/STM
+3 گر/STM + ام/STM + ا/SUF + ف/SUF + و/SUF + ن/SUF + ش/SUF
+7 گا/STM + ه/SUF + ی/SUF
+1 نم/STM + را/STM + ت/SUF
+1 آ/STM + س/SUF + ای/STM + ش/SUF
+9 هنگ/STM + ا/SUF + م/SUF
+2 نا/STM + یب/STM
+2 خو/STM + ش/SUF + وق/STM + ت/SUF
+1 EPR/STM
+3 مق/STM + دار/STM
+11 جر/STM + ی/SUF + ا/SUF + ن/SUF
+1 ال/STM + قا/STM + ی/SUF
+2 نچه/STM
+2 سپ/STM + رد/STM + ه/SUF
+6 مطال/STM + ب/SUF
+3 فر/STM + م/SUF + ا/SUF + ن/SUF + رو/STM + ای/SUF
+17 ست/STM + ار/SUF + گ/SUF + ا/SUF + ن/SUF
+1 ۱۰/STM + ۶/STM
+2 اف/STM + زود/STM + ه/SUF
+9 موج/STM + و/SUF + د/SUF
+8 موسیقی/STM
+1 پر/STM + د/SUF + از/SUF + د/SUF
+1 مو/STM + زه/STM
+2 ژئ/STM + و/SUF + پ/STM + ول/STM + ی/SUF + ت/SUF + یک/STM + ی/SUF
+3 ات/STM + ف/SUF + اق/STM
+6 نمایندگا/STM + ن/SUF
+2 آ/STM + گا/STM + ه/SUF + ش/SUF
+1 گذ/STM + ار/SUF
+11 وار/STM + د/SUF
+4 جبر/STM
+3 امر/STM + ی/SUF
+1 نما/STM + ین/SUF + د/SUF
+1 نو/STM + ا/SUF + یی/SUF
+3 باست/STM + ا/SUF + ن/SUF + ی/SUF
+1 در/STM + ون/SUF + ی/SUF
+28 دست/STM
+3 ان/STM + گلیس/STM
+1 مح/STM + کو/STM + م/SUF
+1 ه/STM + جو/STM + م/SUF
+1 مب/STM + ل/SUF + غ/STM + ان/SUF
+7 آ/STM + ل/SUF + و/SUF + د/SUF + گی/SUF
+1 20/STM
+4 خار/STM + ج/SUF + ه/SUF
+5 ب/STM + ه/SUF + تر/STM + ی/SUF + ن/SUF
+1 سلا/STM + مت/STM
+15 شور/STM + ا/SUF + ی/SUF
+1 سر/STM + های/SUF
+1 در/STM + ۳۱/STM
+1 میل/STM + انی/SUF
+2 بی/STM + ت/SUF + ی/SUF
+70 نام/STM
+2 y/STM
+1 آر/STM + ن/SUF + ول/STM + د/SUF
+8 حاضر/STM
+2 کا/STM + بی/STM + ن/SUF + ه/SUF
+4 ج/STM + ه/SUF + ن/SUF + م/SUF
+23 نخس/STM + ت/SUF
+1 تر/STM + بی/STM + ت/SUF
+1 نور/STM + شن/STM + اخت/STM
+1 حب/STM + اب/STM
+1 پ/STM + ا/SUF + یی/SUF + ن/SUF + ی/SUF
+3 مث/STM + ل/SUF + ث/STM + ات/SUF
+1 Wonderful/STM
+64 قر/STM + ار/SUF
+10 پ/STM + ی/SUF + د/SUF + ا/SUF
+1 آ/STM + و/SUF + اه/STM + ا/SUF
+1 ساز/STM + کار/STM
+2 ار/STM + وپا/STM + یی/SUF
+1 هم/STM + رف/STM + ت/SUF
+3 کار/STM + بر/STM + د/SUF
+1 ب/STM + ن/SUF + ا/SUF + م/SUF
+2 ری/STM + است/STM
+1 ۱۳۳/STM + ۰/SUF
+1 رخ/STM + دا/STM + د/SUF + های/SUF
+8 فر/STM + ه/SUF + ن/SUF + گ/SUF
+9 ان/STM + سا/STM + ن/SUF + ی/SUF
+16 ای/STM + را/SUF + ن/SUF + ی/SUF
+1 ح/STM + فاظ/STM + ت/SUF
+3 سی/STM + ما/STM + ن/SUF
+2 آ/STM + ب/SUF + ت/SUF + ز/STM
+1 دار/STM + د/SUF + فق/STM + ط/SUF
+1 ن/STM + رس/STM + د/SUF
+2 ماکس/STM + یم/SUF
+1 سط/STM + ل/SUF
+2 حض/STM + ار/SUF
+1 خو/STM + اب/STM
+4 خ/STM + بر/STM
+1 جم/STM + ال/STM
+15 آنجا/STM
+1 ما/STM + در/STM + ز/SUF + اد/STM + ی/SUF
+5 ملک/STM + ی/SUF
+1 ۱۹۳/STM + ۲/SUF
+5 بعض/STM + ی/SUF
+4 ب/STM + ع/SUF + د/SUF + ی/SUF
+7 عمر/STM
+1 تا/STM + ر/SUF + یک/STM + ی/SUF
+1 مو/STM + ا/SUF + د/SUF + ی/SUF
+3 تف/STM + سی/STM + ر/SUF
+5 گزارش/STM
+5 عرض/STM + ه/SUF
+1 نا/STM + شر/STM + ان/SUF
+1 عرب/STM + ست/STM + ا/SUF + ن/SUF
+1 بر/STM + داشت/STM + ه/SUF
+2 آ/STM + ه/SUF + ن/SUF + گ/SUF + ین/SUF
+5 شا/STM + ن/SUF + زد/STM + ه/SUF + م/SUF
+4 سیستم/STM
+5 عمر/STM + ش/SUF
+1 مک/STM
+2 طال/STM + ق/SUF + انی/SUF
+1 ف/STM + از/STM + های/SUF
+1 حما/STM + یت/SUF + ش/SUF
+1 زم/STM + ا/SUF + ن/SUF + ش/SUF
+1 مد/STM + ار/SUF + ک/SUF
+7 پ/STM + ی/SUF + ش/SUF + رف/STM + ت/SUF
+4 جواب/STM
+1 ذ/STM + م/SUF
+1 NAACP/STM
+4 جا/STM + ی/SUF
+8 بی/STM + ش/SUF + تر/SUF + ی/SUF + ن/SUF
+1 مناسب/STM + ی/SUF
+1 ار/STM + ت/SUF + قا/STM + ی/SUF
+32 ب/STM + و/SUF + د/SUF + ند/SUF
+3 ال/STM + ف/SUF + با/STM
+6 اح/STM + ت/SUF + مال/STM
+4 خ/STM
+2 ب/STM + ا/SUF + ل/SUF + غ/STM
+1 قو/STM + س/SUF
+8 ما/STM
+1 نام/STM + ی/SUF + ده/STM
+3 حوم/STM + ه/SUF
+1 شم/STM + ی/SUF + ران/STM + ات/SUF
+1 ۲/STM + ۷/STM + ۲۰۰/STM + ۰/SUF
+1 طبیعی/STM + ات/SUF
+9 غیر/STM
+6 ضبط/STM
+1 کار/STM + گا/STM + ه/SUF + ها/SUF
+1 دی/STM + ری/SUF + نه/STM
+2 ای/STM + ن/SUF + طور/STM
+19 آث/STM + ار/SUF
+6 ۲۲/STM
+1 بر/STM + ا/SUF + کهاو/STM + س/SUF
+4 هن/STM + د/SUF + ی/SUF
+3 ب/STM + ا/SUF + ب/SUF + وی/STM + ه/SUF
+3 خل/STM + ا/SUF + ف/SUF
+1 سن/STM + ج/STM + ش/SUF
+4 واحد/STM
+1 ب/STM + و/SUF + شهر/STM
+4 ب/STM + زرگ/STM + ی/SUF
+3 قو/STM + ام/SUF
+5 سی/STM + نما/STM
+2 پ/STM + ش/SUF + ت/SUF + یب/STM + انی/SUF
+1 سه/STM + م/SUF + گ/STM + ین/SUF
+2 مخا/STM + بر/STM + ات/SUF
+2 مؤس/STM + سا/STM + ت/SUF
+1 نمود/STM + ه/SUF
+1 چ/STM + رخ/STM + ش/SUF
+16 شما/STM + ل/SUF
+3 فاقد/STM
+2 ف/STM + شار/STM
+1 ان/STM + سا/STM + ن/SUF + های/SUF
+3 نی/STM + رو/STM + های/STM + ی/SUF
+1 سا/STM + ما/STM + ن/SUF
+7 ب/STM + ن/SUF + ی/SUF + اد/SUF
+1 تا/STM + ثیر/STM + ات/SUF
+1 ب/STM + ا/SUF + ز/SUF + رگ/STM + ان/STM + ان/SUF
+1 اس/STM + ن/SUF + اد/STM + ی/SUF
+7 فض/STM + ا/SUF + ی/SUF
+4 نظ/STM + ار/SUF + ت/SUF
+1 نما/STM + دی/SUF
+3 نا/STM + ح/STM + ی/SUF + ه/SUF
+2 نا/STM + کا/STM + می/SUF
+2 فر/STM + و/SUF + غ/STM + ی/SUF
+4 ارتش/STM
+1 ات/STM + می/SUF
+2 اف/STM + ز/SUF + ای/STM + ش/SUF
+1 مع/STM + ی/SUF + ارهای/STM
+4 مح/STM + ص/SUF + ول/STM + ات/SUF
+3 او/STM + را/SUF + نی/SUF + وم/STM
+1 فر/STM + ا/SUF + ن/SUF + س/SUF + وا/STM
+5 ممنوع/STM
+2 اب/STM + ت/SUF + کار/STM + ی/SUF
+1 اع/STM + ت/SUF + د/SUF + ال/STM
+1 ره/STM + ی/SUF
+1 جا/STM + ست/SUF
+1 اد/STM + له/STM
+1 قو/STM + ی/SUF
+11 شم/STM + ار/SUF
+1 پ/STM + ا/SUF
+2 اع/STM + ی/SUF + اد/STM
+1 کمک/STM + ی/SUF
+2 نی/STM + می/SUF
+3 مأ/STM + مور/STM + یت/SUF
+23 گفت/STM
+1 گ/STM + د/SUF + از/STM + ند/STM + ه/SUF
+1 مع/STM + د/SUF + ود/STM + ی/SUF
+1 نش/STM + ی/SUF + نی/STM + مح/STM + م/SUF + د/SUF
+1 زهر/STM + ی/SUF
+2 اع/STM + دا/STM + د/SUF
+1 تلا/STM + ش/SUF + ی/SUF
+3 مستوفی/STM
+2 ت/STM + ی/SUF + پ/STM
+1 مع/STM + قول/STM
+5 شرق/STM + ی/SUF
+1 اج/STM + را/SUF + م/SUF + ی/SUF
+2 نما/STM + د/SUF
+4 کمال/STM
+1 مس/STM + ا/SUF + فر/STM
+1 مج/STM + بور/STM
+2 پ/STM + ی/SUF + د/SUF + ا/SUF + یش/STM
+1 وص/STM + ف/SUF
+1 Cache/STM
+1 اد/STM + مو/STM + ند/SUF
+1 سو/STM + وا/STM + ن/SUF
+1 مح/STM + بوب/STM
+1 ید/STM + الله/STM
+3 هنر/STM + س/SUF + تا/STM + ن/SUF
+1 ات/STM + حا/STM + د/SUF + یه/STM
+5 وض/STM + عی/STM + ت/SUF
+18 چو/STM + ن/SUF
+6 پایتخت/STM
+5 کلاسی/STM + ک/SUF
+1 ما/STM + ی/SUF + ل/SUF + ی/SUF
+3 گزارشگر/STM
+1 نگ/STM + ار/SUF + ش/SUF
+1 خر/STM + ید/SUF
+8 را/STM + دی/SUF + و/SUF + یی/SUF
+1 ۴/STM + ۶۰/STM
+2 سع/STM + د/SUF + بن/STM
+10 مدیر/STM
+2 مخالف/STM + ان/SUF
+1 اس/STM + پ/STM + ان/SUF + یا/STM
+1 وه/STM + دف/STM
+3 جم/STM + ع/SUF + ی/SUF
+1 تاریخ/STM + چه/STM
+1 هو/STM + ا/SUF + دار/STM
+1 آ/STM + م/SUF + و/SUF + ز/SUF
+1 لب/STM + ه/SUF
+1 مش/STM + هد/STM
+2 قب/STM + ول/STM
+3 بی/STM + ا/SUF
+1 می/STM + کر/STM + و/SUF + بی/STM
+4 قصا/STM + ید/SUF
+2 ب/STM + ه/SUF + شت/STM
+6 شرق/STM
+2 سن/STM + د/SUF + با/STM + د/SUF + نامه/STM
+1 دو/STM + سوم/STM
+1 ۱۸/STM + ۹۵/STM + م/SUF
+1 شع/STM + ار/SUF
+4 اطلاع/STM + ات/SUF
+1 ا/STM + ئ/SUF + تلاف/STM + ی/SUF
+2 سیب/STM + وی/STM + ه/SUF
+1 عب/STM + ید/SUF
+2 دار/STM
+1 عا/STM + زم/STM
+3 اج/STM + را/SUF
+1 سیا/STM + ره/STM
+4 پر/STM + خو/STM + ا/SUF + ن/SUF + ن/SUF + ده/SUF
+2 او/STM + ژ/STM + ن/SUF
+1 مشغول/STM + ند/SUF
+6 زم/STM + ین/SUF + ه/SUF
+2 تبع/STM + ه/SUF
+1 تش/STM + وی/SUF + قش/STM
+4 ب/STM + زرگ/STM + داشت/STM
+1 کو/STM + ه/SUF + ست/STM + ا/SUF + ن/SUF + ی/SUF
+1 اخر/STM + اج/STM
+2 ابر/STM + خو/STM + ش/SUF + ه/SUF
+3 حوادث/STM
+5 شبی/STM + ه/SUF
+1 مست/STM + ع/SUF + فی/STM
+1 عا/STM + دت/STM
+2 همگا/STM + ن/SUF
+1 شن/STM + ا/SUF + س/SUF + ا/SUF + ن/SUF
+2 کا/STM + توزی/STM + ان/SUF
+1 پ/STM + ن/SUF + دار/STM + ی/SUF
+1 اس/STM + تعدا/STM + د/SUF
+4 اتاق/STM
+1 مت/STM + خصص/STM + ان/SUF
+2 ب/STM + فر/STM + م/SUF + ا/SUF + ین/STM + د/SUF
+3 نگ/STM + ار/SUF
+3 تغییر/STM + ات/SUF
+1 کو/STM + ه/SUF + های/SUF
+1 بر/STM + وج/STM
+2 آدم/STM
+2 قل/STM + ی/SUF + چ/STM
+3 نام/STM + نظ/STM + م/SUF
+1 تعل/STM + م/SUF
+2 ب/STM + ت/SUF + وا/STM + ن/SUF + ند/SUF
+3 بر/STM + اساس/STM
+5 تما/STM + یل/SUF
+2 تش/STM + ری/SUF + فا/STM + ت/SUF + ی/STM
+5 ششم/STM
+1 مذ/STM + م/SUF + وم/STM
+4 وصل/STM
+3 مدل/STM
+2 ژئ/STM + و/SUF + است/STM + را/STM + ت/SUF + ژ/STM + یک/STM + ی/SUF
+5 فض/STM + ا/SUF + ی/SUF + ی/SUF
+2 Zionism/STM
+1 cache/STM
+2 فا/STM + ت/SUF + حة/STM
+771 از/STM
+1 رس/STM + ول/STM
+66 دار/STM + د/SUF
+2 فق/STM + ر/SUF
+1 ده/STM + ان/SUF
+5 مطاب/STM + ق/SUF
+1 مل/STM + ا/SUF
+4 تخریب/STM
+4 نقد/STM
+4 هم/STM + را/STM + ه/SUF + ی/SUF
+1 و/STM + حد/STM + ت/SUF
+1 ح/STM + ا/SUF + فظ/STM + ه/SUF
+1 ام/STM + ا/SUF + م/SUF + ی/SUF
+2 کار/STM + یر/SUF
+1 اد/STM + ر/SUF + اک/STM + ی/SUF
+1 خا/STM + ور/STM + ان/SUF
+2 پ/STM + ز/SUF + ش/SUF + ک/SUF + ی/SUF
+1 مط/STM + ل/SUF + وب/STM
+1 هم/STM + ای/STM + ش/SUF
+2 ات/STM + حا/STM + د/SUF
+1 نا/STM + ظ/STM + م/SUF
+7 رو/STM + ای/STM + ت/SUF
+1 تحقیق/STM + ا/SUF + ت/SUF + ش/SUF
+1 بی/STM + ام/SUF + وز/STM + د/SUF
+1 میر/STM + غلام/STM
+1 تک/STM + تو/STM + ن/SUF + یک/STM
+1 آ/STM + ف/SUF + تا/STM + ب/STM + س/SUF + ت/SUF + ی/SUF
+2 را/STM + س/SUF
+1 تن/STM + در/STM + و/SUF
+2 کل/STM + پتن/STM
+1 ن/STM + گذشت/STM
+3 نب/STM + وی/STM
+1 کرس/STM
+1 تک/STM + ن/SUF + یک/STM + ی/SUF
+5 ناصر/STM
+4 فهرست/STM
+1 بر/STM + قر/STM + ار/SUF + ی/SUF
+3 رق/STM + م/SUF
+1 پ/STM + ا/SUF + ی/SUF + دا/STM + ری/SUF
+1 رو/STM + نق/STM
+1 سل/STM + ف/SUF
+3 ترکیب/STM
+1 ح/STM + ک/SUF + م/SUF + ا/SUF + ی/SUF
+1 حر/STM + ام/SUF
+1 جسم/STM + ی/SUF
+1 ان/STM + در/STM
+4 استدلال/STM
+1 ب/STM + ا/SUF + لا/SUF + دست/STM
+1 B/STM
+5 بر/STM + د/SUF + ن/SUF
+1 مب/STM + احث/STM
+1 آ/STM + ل/SUF + ب/SUF + و/SUF + م/SUF + ی/SUF
+1 پ/STM + ش/SUF + تک/STM + ار/SUF
+1 فض/STM + ا/SUF + شن/STM + ا/SUF + س/SUF + ی/SUF
+3 منظ/STM + ور/SUF
+1 لی/STM + ک/SUF
+4 طبیعت/STM
+3 ۱۳۷۹/STM
+4 در/STM + انی/SUF
+2 اح/STM + سا/STM + سا/STM + ت/SUF
+4 کود/STM + ک/SUF
+3 ان/STM + گلیس/STM + ی/SUF + ها/SUF
+4 مو/STM + سوم/STM
+2 زی/STM + ار/SUF + تگاه/STM
+1 ای/STM + ما/STM + ن/SUF
+1 ان/STM + فر/STM + ا/SUF + دی/SUF
+1 مق/STM + طع/STM
+1 ام/STM + ده/SUF
+10 جا/STM + م/SUF + ع/SUF
+11 ها/STM
+2 ن/STM + ب/STM + ا/SUF + ید/SUF
+1 میل/STM + ی/SUF + متر/STM + ی/SUF
+3 پرورش/STM
+2 جا/STM + دوگر/STM
+3 عا/STM + لی/SUF
+1 اد/STM + ی/SUF + نگتو/STM + ن/SUF
+1 چ/STM + و/SUF + بی/STM + ن/SUF
+2 قول/STM + ی/SUF
+1 است/STM + ود/STM + ی/SUF + وی/STM + ی/SUF
+1 اف/STM + ت/SUF + تاح/STM
+1 ار/STM + ث/STM + ی/SUF
+3 طر/STM + ف/SUF + دار/STM
+2 چ/STM + ار/SUF + ل/STM + ز/SUF
+1 رو/STM + ی/SUF + ت/SUF
+1 شا/STM + ه/SUF + ن/SUF + شاه/STM + ی/SUF
+3 ظاهر/STM + شا/STM + ه/SUF
+2 خو/STM + ا/SUF + ه/SUF + ی/SUF + م/SUF
+2 رو/STM + ح/SUF
+5 ندارند/STM
+1 ب/STM + اختر/STM
+1 است/STM + ان/SUF + دار/STM + ی/SUF
+7 منتشر/STM
+1 می/STM + تو/STM + ا/SUF + ن/SUF
+3 میا/STM + ن/SUF + ه/SUF
+1 من/STM + ز/SUF + جر/STM
+7 ۲۵/STM
+13 توجه/STM
+3 ۱۳۷۴/STM
+1 من/STM + قش/STM
+3 ارتف/STM + اع/STM
+4 بقائی/STM
+1 اخ/STM + ط/STM + ار/SUF
+4 تح/STM + صی/STM + ل/SUF + ات/SUF
+1 خواهر/STM
+2 دن/STM + ب/STM + ا/SUF + ل/SUF + ه/SUF
+3 کار/STM + های/SUF
+3 مع/STM + ظ/STM + می/SUF
+1 انگ/STM + شت/STM
+1 اک/STM + و/SUF
+1 ار/STM + م/SUF
+2 تف/STM + ن/SUF + ن/STM
+3 تخلص/STM
+2 شی/STM + عی/STM
+1 دخ/STM + تر/SUF + ان/SUF
+3 مواعظ/STM
+1 ا/STM + ئ/SUF + مه/STM
+1 ب/STM + د/SUF + ان/SUF
+1 سف/STM + ر/SUF
+2 ۱۵/STM + ۰/SUF
+4 ریچمن/STM
+1 ب/STM + چ/STM + ر/SUF + خا/STM + ند/SUF
+5 ۲/STM
+1 مقا/STM + وم/STM + ت/SUF
+3 زد/STM + ه/SUF
+1 ت/STM + وق/STM + ف/SUF
+17 اعل/STM + ام/SUF
+4 نظر/STM + ی/SUF
+2 در/STM + ع/SUF + مق/STM
+1 زم/STM + ین/SUF + دار/STM
+2 نا/STM + ظر/STM
+2 ۴۸۷/STM
+13 غز/STM + ل/SUF
+1 غر/STM + وب/STM
+2 اشع/STM + ار/SUF + ی/SUF
+5 موفق/STM + یت/SUF
+1 در/STM + کتاب/STM
+2 مس/STM + خر/STM + ه/SUF
+1 سر/STM + شم/STM + ار/SUF + ی/SUF
+1 نه/STM + ان/SUF
+12 هم/STM + چو/STM + ن/SUF
+1 دست/STM + خو/STM + ش/SUF
+1 جد/STM + ي/STM + د/SUF + آنلاي/STM + ن/SUF
+1 است/STM + ع/SUF + ف/SUF + ا/SUF + ی/SUF
+1 آ/STM + م/SUF + ار/SUF + ها/SUF
+1 ۸/STM + ۳/STM
+2 گر/STM + کا/STM + نی/SUF
+2 کار/STM + آ/STM + م/SUF + د/SUF + تر/SUF
+1 بر/STM + آ/STM + م/SUF + د/SUF
+2 چش/STM + م/SUF + گیر/STM + ی/SUF
+1 یا/STM + د/SUF + گا/STM + ره/STM + ای/SUF
+1 لر/STM
+1 خر/STM + اب/STM
+5 نرخ/STM
+2 یع/STM + ق/SUF + وب/STM
+1 صا/STM + د/SUF + قی/STM + ه/SUF
+9 شهر/STM + ت/SUF
+1 مش/STM + ک/SUF + ل/SUF + ات/SUF + ی/SUF
+1 مص/STM + ون/SUF
+3 ۱۳۴۳/STM
+1 بی/STM + رو/STM + ن/SUF + ی/SUF
+10 رد/STM
+3 قا/STM + ض/STM + ی/SUF
+3 نف/STM + س/SUF
+3 اث/STM + ب/SUF + ات/SUF
+3 مشارکت/STM
+10 موقع/STM + یت/SUF
+3 گرفت/STM + ند/SUF
+3 مبارزه/STM
+1 اب/STM + را/SUF + هی/STM + م/SUF
+2 حب/STM
+1 فی/STM + ل/SUF + سوفا/STM + ن/SUF
+1 گر/STM + ا/SUF + ن/SUF
+2 ب/STM + ا/SUF + ز/SUF + ساز/STM + ی/SUF
+4 اصول/STM
+2 لو/STM + ام/SUF + ع/STM
+1 پ/STM + ا/SUF + یش/STM
+1 ۱۷/STM + ۸۷/STM
+3 بحث/STM
+1 ال/STM + ح/STM + ا/SUF + ل/SUF
+1 میل/STM + ی/SUF
+3 من/STM + جم/STM + ان/SUF
+1 ۳/STM + ۹۴/STM
+2 میز/STM + ب/STM + ا/SUF + ن/SUF + ی/SUF
+1 مج/STM + ری/SUF
+3 ارسط/STM + و/SUF
+4 محد/STM + و/SUF + د/SUF + ه/SUF
+1 پ/STM + ا/SUF + پ/STM
+6 کابل/STM
+2 جد/STM + ا/SUF + گا/STM + ن/SUF + ه/SUF
+3 اکثر/STM
+2 ت/STM + ذ/STM + ه/SUF + یب/STM
+2 خد/STM + ا/SUF + ون/STM + د/SUF
+1 Local/STM
+1 دم/STM + و/SUF + کر/STM + ات/SUF
+1 Share/STM
+2 رس/STM + ای/STM + ل/SUF
+1 ۸۷/STM + ۴/STM
+1 ۱۹۶/STM + ۰/SUF
+1 است/STM + قلال/STM
+1 اس/STM + لام/STM + شهر/STM
+1 نا/STM + کام/STM
+1 نویس/STM + انی/SUF
+2 پ/STM + ش/SUF + ت/SUF
+3 اظ/STM + ه/SUF + ار/SUF
+103 بر/STM
+10 ارائه/STM
+1 اخ/STM + بار/STM
+1 مک/STM + ت/SUF + وب/STM
+182 سال/STM
+13 هم/STM + را/STM + ه/SUF
+2 ح/STM + د/SUF + ی/SUF
+2 مخالف/STM
+3 ۱۹۳۹/STM
+3 هندسه/STM
+1 س/STM + جا/STM + د/SUF
+1 رو/STM + ما/STM + ت/SUF + یس/STM + م/SUF
+2 عی/STM + ان/SUF
+2 ذ/STM + یل/STM
+1 خص/STM + ی/SUF + ص/STM + ه/SUF
+2 ب/STM + ا/SUF + ن/SUF
+3 مغز/STM
+1 امتیاز/STM + ات/STM + ی/SUF
+1 پ/STM + ل/SUF + نگ/STM
+1 مت/STM + ن/SUF + اه/STM + ی/SUF
+3 گروه/STM + ی/SUF
+1 غیر/STM + ممکن/STM
+4 مع/STM + نا/STM
+1 ست/STM + ا/SUF + ین/STM + د/SUF + گا/STM + ن/SUF
+1 آنجا/STM + یی/SUF
+1 نگ/STM + ه/SUF + دا/STM + ری/SUF
+4 مرد/STM + ه/SUF
+1 مع/STM + ط/STM + ل/SUF
+8 دا/STM + د/SUF + ن/SUF
+2 فر/STM + زن/STM + د/SUF
+1 کال/STM + ین/STM + ز/SUF
+1 مخ/STM + در/STM
+3 فرد/STM
+1 اع/STM + ت/SUF + ی/SUF + اد/STM
+4 ب/STM + د/SUF + ین/SUF
+1 سر/STM + ز/SUF + نش/STM
+3 پژ/STM + و/SUF + ه/SUF + ش/SUF
+7 طر/STM + ف/SUF
+2 پر/STM + و/SUF + ان/STM + ه/SUF
+1 جا/STM + ذبه/STM
+1 مکا/STM + ن/SUF + ی/SUF + سم/STM + ی/SUF
+2 ضر/STM + ور/STM + ی/SUF
+1 جا/STM + ن/SUF + بد/STM + ار/SUF + انه/STM
+5 موقع/STM
+3 ان/STM + د/SUF
+1 آر/STM + ا/SUF + را/STM + ت/SUF
+1 مر/STM + ت/SUF + ض/STM + ی/SUF
+5 حساس/STM
+19 اساس/STM
+2 تق/STM + س/SUF + یم/SUF
+4 دی/STM + وا/STM + ن/SUF + ی/SUF
+4 کود/STM + ت/SUF + ا/SUF
+1 کل/STM + ی/SUF + ف/SUF + ور/STM + د/SUF
+1 کس/STM + ر/SUF
+1 ب/STM + ک/SUF + ار/SUF + گیری/STM
+1 گر/STM + مس/STM + یر/SUF
+1 آر/STM + وت/STM + ز/SUF
+1 ۱۳/STM + ۱۳/STM
+1 نا/STM + شن/STM + ا/SUF + س/SUF
+2 جو/STM + ا/SUF + ن/SUF
+1 قا/STM + فی/STM + ه/SUF
+1 نام/STM + دار/STM + ان/SUF
+9 نوشت/STM + ن/SUF
+8 عصر/STM
+3 نی/STM + از/SUF
+19 کسی/STM
+2 Plait/STM
+1 اس/STM + ات/SUF + ید/STM + ی/SUF
+5 کیف/STM + یت/SUF
+1 گزارش/STM + ی/SUF
+7 نما/STM + ید/SUF
+2 کار/STM + خا/STM + ن/SUF + ج/SUF + ات/STM + ی/SUF
+1 دل/STM
+1 عر/STM + اق/STM + ی/SUF
+1 پ/STM + ن/SUF + دار/STM + ها/SUF
+3 قر/STM + ار/SUF + ند/SUF
+1 پر/STM + تو/STM
+5 ته/STM + یه/SUF
+6 اب/STM + ق/SUF + ا/SUF + ی/SUF
+4 لامپ/STM + ی/SUF
+1 شفا/STM + ف/SUF
+4 گذشت/STM
+8 مدر/STM + ن/SUF
+2 من/STM + صب/STM
+1 فر/STM + و/SUF + رد/STM + ین/SUF
+5 فیز/STM + ی/SUF + ک/SUF + ی/SUF
+1 تف/STM + هی/STM + م/SUF
+1 پ/STM + ی/SUF + ش/SUF + رف/STM + ت/SUF + ه/SUF
+1 شم/STM + ی/SUF + ران/SUF
+3 نبود/STM + ن/SUF
+1 ه/STM
+1 دبی/STM + ر/SUF
+3 خر/STM + د/SUF
+2 ب/STM + ا/SUF + میا/STM + ن/SUF
+2 دا/STM + ن/SUF + ست/STM + ه/SUF
+2 جو/STM + یا/SUF
+3 تاز/STM + ه/SUF
+1 تنظ/STM + ی/SUF + ما/STM + ت/SUF
+10 سو/STM + ی/SUF
+2 مب/STM + لم/STM + ان/SUF
+1 ۱۳۷/STM + ۰/SUF
+5 رو/STM + بر/STM + و/SUF
+14 جد/STM + ی/SUF + د/SUF
+2 نظا/STM + م/SUF
+2 دور/STM + دست/STM
+2 اع/STM + م/SUF + ال/STM
+3 خص/STM + و/SUF + ص/SUF + ی/SUF
+5 کم/STM + تر/SUF
+2 ر/STM + صد/STM
+1 دف/STM + عا/STM + ت/SUF
+12 ح/STM + س/SUF + ی/SUF + ن/SUF
+3 تا/STM + یمز/STM
+2 Webby/STM
+8 توقیف/STM
+4 دست/STM + گا/STM + ه/SUF
+5 ب/STM + د/SUF + ن/SUF
+3 کو/STM + ت/SUF + اه/STM
+3 ذرا/STM + ت/SUF
+1 کل/STM + ی/SUF + ه/SUF
+2 پشتو/STM + ن/SUF
+8 خل/STM + یل/SUF
+1 اس/STM + حا/STM + ق/SUF
+1 چی/STM + ز/SUF + هایی/STM
+1 ۱۳/STM + ۶۱/STM
+2 ب/STM + ه/SUF + من/STM
+1 دی/STM + وا/STM + ن/SUF + گی/SUF
+3 کرس/STM + ی/SUF
+1 ۱۹۴/STM + ۶/STM
+1 پ/STM + ی/SUF + ا/SUF + م/SUF + بر/STM
+3 رف/STM + اه/SUF
+2 عر/STM + وض/STM + ی/SUF
+3 ح/STM + ا/SUF + وی/SUF
+2 شو/STM + ا/SUF + هد/STM
+8 خو/STM + است/STM
+3 مکا/STM + ن/SUF
+4 ۲۳/STM
+1 نفر/STM + ی/SUF
+1 ب/STM + دل/STM + یل/SUF
+1 سا/STM + حل/STM
+22 ما/STM + ه/SUF
+7 آ/STM + ب/SUF
+1 کن/STM + کور/STM
+2 جا/STM + یی/SUF
+8 دی/STM + د/SUF + ه/SUF
+6 اخیر/STM
+1 ن/STM + عم/STM + ت/SUF
+15 تص/STM + وی/SUF + ب/SUF
+1 جو/STM + لا/STM + ی/SUF
+1 وا/STM + ژ/STM + گا/STM + ن/SUF
+7 موض/STM + و/SUF + ع/SUF + ات/SUF
+3 پذیر/STM + ش/SUF
+3 منبع/STM
+1 شهی/STM + د/SUF + بلخی/STM
+1 ساکن/STM + ین/SUF
+1 ح/STM + ن/SUF + ظله/STM
+7 گذ/STM + اشت/STM + ن/SUF
+1 وال/STM + دی/SUF + نش/STM
+1 مول/STM + ک/SUF + ول/STM + ی/SUF
+4 خو/STM + ا/SUF + ند/SUF
+1 است/STM + ا/SUF + لم/STM + ن/SUF
+2 ن/STM + ح/STM + و/SUF
+1 خا/STM + ن/SUF + و/SUF + اد/STM + گی/SUF
+2 ژو/STM + ئی/STM + ه/SUF
+5 کس/STM + انی/SUF
+3 بر/STM + داشت/STM
+2 تا/STM + ج/SUF + یک/STM + ست/STM + ا/SUF + ن/SUF
+4 اکثر/STM + یت/SUF
+10 طبیعی/STM
+1 ابر/STM + ی/SUF + شم/STM
+7 مشاهدات/STM
+2 تا/STM + بع/STM + ین/SUF
+9 نما/STM + ین/SUF + د/SUF + ه/SUF
+1 caching/STM
+4 ۱۱/STM
+1 وال/STM + ی/SUF + گر/STM + ی/SUF
+2 ۱۳۸/STM + ۵/STM
+2 جالب/STM + ی/SUF
+1 نما/STM + ند/STM + ه/SUF
+1 وق/STM + فه/STM
+3 فیز/STM + ی/SUF + ک/SUF + دا/STM + ن/SUF
+4 ذه/STM + ن/SUF
+1 ری/STM + پل/STM + ی/SUF
+16 میر/STM + ز/SUF + ا/SUF
+3 غنی/STM
+4 منظ/STM + و/SUF + م/SUF
+2 آ/STM + ه/SUF + ن/SUF
+3 گر/STM + د/SUF
+1 پ/STM + ی/SUF + و/SUF + ند/SUF + های/SUF
+7 ۲۰/STM
+3 بطرف/STM
+22 سیا/STM + را/SUF + ت/SUF
+1 سرگر/STM + د/SUF
+2 برخ/STM + است/STM
+1 کش/STM + ور/SUF + ی/SUF
+1 اک/STM + سی/STM + د/SUF
+1 سی/STM + ل/SUF
+2 بی/STM + ض/SUF + وی/STM
+2 صد/STM + هز/STM + ار/SUF
+5 سب/STM + ز/SUF
+1 عل/STM + ی/SUF + شی/STM + ر/SUF
+1 ما/STM + ن/SUF
+1 تف/STM + اس/STM + یر/SUF
+3 ند/STM + ید/SUF
+4 نقطه/STM
+5 نظر/STM + ات/SUF
+3 ذخیره/STM
+1 نگ/STM + ران/SUF
+14 گفت/STM + ه/SUF
+3 بی/STM + ن/SUF + ی/SUF
+2 ضر/STM + اب/STM + خا/STM + ن/SUF + ه/SUF
+2 سر/STM + ل/SUF + شکر/STM
+26 اش/STM + ار/STM + ه/SUF
+4 ثبت/STM
+1 دست/STM + ه/SUF
+13 بی/STM
+1 عمر/STM + ان/SUF
+2 پر/STM + انرژ/STM + ی/SUF
+1 تا/STM + ج/SUF + گذاری/STM
+1 مد/STM + یت/STM + را/SUF + نه/STM
+1 ات/STM + ه/SUF + ام/STM
+2 آ/STM + ی/SUF + ن/SUF + ه/SUF
+2 پ/STM + دی/STM + د/SUF + ار/SUF
+1 قطع/STM + ه/SUF
+2 طر/STM + ف/SUF + ی/SUF
+1 دل/STM + ت/SUF + نگ/STM
+2 را/STM + دی/SUF + و/SUF
+2 غز/STM + ن/SUF + ین/SUF
+3 قرائی/STM
+1 ن/STM + کو/STM + ه/SUF + ش/SUF
+2 لطفا/STM
+2 عب/STM + ری/SUF
+1 هی/STM + در/STM + و/SUF + ژ/STM + ن/SUF
+4 گرگو/STM + ری/SUF
+2 نام/STM + های/SUF
+2 سی/STM + ست/STM + ا/SUF + ن/SUF
+3 اواسط/STM
+3 حفظ/STM
+9 شرح/STM
+7 زیر/STM + ا/SUF
+1 را/STM + وی/STM
+1 ار/STM + وپا/STM + ی/SUF
+3 اینشت/STM + ن/SUF
+2 ۱۹/STM + ۵۱/STM
+1 ساز/STM + م/SUF + ا/SUF + ن/SUF + ی/SUF
+272 ب/STM + ا/SUF
+2 توص/STM + ی/SUF + ف/SUF + ی/SUF
+2 خی/STM + ا/SUF + م/SUF
+1 ۱۹/STM + ۰/SUF + ۲/STM
+9 قاب/STM + ل/SUF
+3 صنعت/STM + ی/SUF
+1 خو/STM + ا/SUF + ند/SUF + ه/SUF
+1 است/STM + ر/SUF + داد/STM
+2 ۱۹/STM + ۱۹/STM
+1 آ/STM + س/SUF + یا/SUF + ی/SUF
+3 گو/STM + یی/SUF
+1 مس/STM + ا/SUF + حت/STM + ش/SUF
+2 صر/STM + ف/SUF
+3 ۴۲/STM
+1 کوچ/STM + ک/SUF + ی/SUF
+45 دو/STM + ل/SUF + ت/SUF
+2 در/STM + آ/STM + م/SUF + د/SUF
+1 ضر/STM + بد/STM + ری/SUF
+27 زم/STM + ین/SUF
+9 مربو/STM + ط/SUF
+1 مج/STM + ذوب/STM
+2 اس/STM + م/SUF
+1 ب/STM + و/SUF + یه/STM
+3 پسر/STM + ش/SUF
+3 زهر/STM + ه/SUF
+1 در/STM + د/SUF + سر/STM + های/SUF
+1 آ/STM + ز/SUF + اد/SUF + ند/SUF
+1 ته/STM
+2 ای/STM + ش/SUF + ا/SUF
+26 ول/STM + ی/SUF
+1 مس/STM + کن/STM
+2 ور/STM + ز/SUF + شگاه/STM + ای/STM
+12 محل/STM
+4 ده/STM
+1 ال/STM + عظ/STM + یم/SUF
+6 هواپ/STM + یم/SUF + ا/SUF
+3 شش/STM
+3 صص/STM
+1 می/STM + ت/SUF
+2 می/STM + را/SUF + ث/STM
+3 دیپ/STM + لم/STM
+1 رس/STM + م/SUF
+1 بی/STM + ار/SUF
+1 تال/STM + ار/SUF
+1 هم/STM + و/SUF + طنش/STM
+2 شهی/STM + د/SUF
+2 آ/STM + و/SUF + ای/STM + ی/SUF
+4 لقب/STM
+1 شو/STM + شت/STM + ری/SUF
+2 مک/STM + ی/SUF
+2 تک/STM + لم/STM
+2 مو/STM + ن/SUF + تاگو/STM
+3 لیث/STM
+1 مح/STM + م/SUF + د/SUF + ی/SUF
+4 تأ/STM + لی/SUF + ف/SUF
+1 سو/STM + گ/STM + ند/SUF
+4 عو/STM + ام/SUF + ل/SUF
+1 سه/STM + ل/SUF
+1 ط/STM + لو/STM + ع/SUF
+3 انتقال/STM
+1 تعا/STM + مل/STM
+1 قی/STM + مت/STM
+2 sign/STM
+1 Astrology/STM
+1 ای/STM + ال/STM + ت/SUF
+2 مص/STM + رع/STM
+5 مساله/STM
+4 تق/STM + وی/SUF + م/SUF
+1 قش/STM + ون/SUF
+1 WHO/STM
+1 ب/STM + ه/SUF + تر/SUF + ی/SUF
+7 صاحب/STM
+1 ما/STM + ه/SUF + یت/STM + های/SUF
+1 کلا/STM + م/SUF
+1 گزا/STM + ری/SUF
+2 خ/STM + می/STM + د/SUF + گی/SUF
+1 سر/STM + ا/SUF + ن/SUF + ه/SUF
+2 گارد/STM + ین/SUF
+2 موض/STM + و/SUF + ع/SUF + ی/SUF
+1 ۲۰۰/STM + ۷/STM
+6 چرا/STM
+2 Squid/STM
+6 یو/STM + ن/SUF + س/SUF + ک/SUF + و/SUF
+2 مکانیک/STM + ی/SUF
+1 اب/STM + و/SUF + ری/SUF + ح/STM + ان/SUF
+1 فار/STM + یابی/STM
+11 هم/STM + کار/STM + ی/SUF
+13 مد/STM + ح/SUF
+3 ب/STM + ن/SUF + ا/SUF
+1 ۱۳۷/STM + ۳/STM
+2 نش/STM + ین/SUF
+2 است/STM + ع/SUF + لام/STM
+1 آ/STM + ن/SUF + گا/STM + ه/SUF
+87 شد/STM + ه/SUF
+4 رابط/STM + ه/SUF
+1 شر/STM + ط/SUF
+1 گ/STM + لس/STM
+1 کش/STM + ش/SUF
+5 ای/STM + ن/SUF + گو/STM + ن/SUF + ه/SUF
+3 تدریس/STM
+1 ت/STM + ذکر/STM + ه/SUF
+1 می/STM + سر/STM
+1 قن/STM + ا/SUF + ت/SUF + ها/SUF
+12 پروژ/STM + ه/SUF
+2 پر/STM + تراکم/STM
+1 فا/STM + ض/STM + ل/SUF + اب/STM
+2 ۴۰۰/STM
+1 مش/STM + تر/STM + ی/SUF
+12 در/STM + یافت/STM
+4 ام/STM + رو/STM + ز/SUF
+2 بر/STM + گ/SUF + زی/STM + ده/SUF
+6 پ/STM + ی/SUF + ا/SUF + م/SUF
+1 امض/STM + ا/SUF + ی/SUF
+1 مج/STM + ذ/STM + ور/SUF
+6 مشا/STM + ه/SUF + ده/SUF
+2 دل/STM + ای/STM + ل/SUF
+8 ح/STM + ت/SUF + ی/SUF
+1 کال/STM + اه/STM + ا/SUF
+1 خو/STM + ش/SUF + نویس/STM
+1 ات/STM + ما/STM + م/SUF
+1 ب/STM + خاطر/STM
+1 دک/STM + تر/SUF + ی/SUF
+4 آمریکا/STM + ی/SUF
+2 و/STM + خا/STM + ن/SUF
+5 شهر/STM + ک/SUF
+1 پ/STM + ی/SUF + د/SUF + ایشا/STM + ن/SUF
+1 ب/STM + ا/SUF + ین/SUF + در/STM
+1 نو/STM + ه/SUF
+1 اش/STM + یا/SUF
+15 ویکی/STM
+3 فلس/STM + طی/STM + ن/SUF
+1 خا/STM + می/SUF
+3 آور/STM + یل/SUF
+1 ن/STM + حوه/STM
+3 ره/STM + بر/STM + ی/SUF
+7 ب/STM + ن/SUF + ا/SUF + بر/STM
+94 نیز/STM
+11 نثر/STM
+1 ۱۶۶/STM + ۵/STM
+20 دور/STM + ان/SUF
+1 ب/STM + ا/SUF + ل/SUF + قو/STM + ه/SUF
+5 خد/STM + م/SUF + ت/SUF
+4 برخ/STM + ور/SUF + د/SUF
+1 اعل/STM + ی/SUF
+1 در/STM + خت/STM
+2 هو/STM + ا/SUF + ن/SUF + سی/STM + ان/SUF
+10 ۱/STM
+1 از/STM + اد/STM
+2 سا/STM + سا/STM + ن/SUF + ی/SUF + ان/SUF
+3 مناسب/STM
+5 لحاظ/STM
+1 مشا/STM + یی/SUF
+2 غز/STM + ل/SUF + ی/SUF
+1 تور/STM + م/SUF
+1 ح/STM + ک/SUF + م/SUF + ا/SUF
+1 سر/STM + پ/STM + ی/SUF + چ/STM + ی/SUF
+1 سع/STM + ود/STM + ی/SUF
+1 Truth/STM
+2 رو/STM + ز/SUF + ن/SUF
+1 سلط/STM + ه/SUF
+1 از/STM + بک/STM + ی/SUF
+4 ح/STM + ا/SUF + م/SUF + ی/SUF
+1 ره/STM + ن/SUF + مو/STM + ن/SUF
+1 ع/STM + ش/SUF + قر/STM + ی/SUF
+2 گور/STM + ک/SUF + یا/STM + ن/SUF
+1 م/STM + خار/STM + ج/SUF
+1 تو/STM + ض/SUF + یح/STM
+2 ورود/STM + ی/SUF
+7 ان/STM + سا/STM + ن/SUF
+1 قیاس/STM + ی/SUF
+7 دا/STM + ن/SUF + ش/SUF + ک/SUF + د/SUF + ه/SUF
+1 خا/STM + ن/SUF + ق/SUF + اه/STM + ی/SUF
+2 قرآن/STM
+1 ف/STM + ن/SUF + او/STM + ری/SUF
+2 بی/STM + ت/SUF + در/STM
+4 سانگر/STM
+4 ۸/STM
+10 ب/STM + ا/SUF + ز/SUF + ار/SUF
+6 قسمت/STM
+2 سو/STM + اد/STM
+2 مش/STM + هور/STM + ی/SUF
+1 ح/STM + می/SUF + دی/STM
+2 نس/STM + بی/STM
+15 یافت/STM
+34 کرد/STM + ه/SUF
+2 آ/STM + و/SUF + از/SUF
+1 گفت/STM + گو/STM + یی/SUF
+4 گذ/STM + اشت/STM
+2 جد/STM + ی/SUF + د/SUF + ی/SUF
+1 نا/STM + زی/STM
+10 رشد/STM
+1 گو/STM + ته/STM
+1 وی/STM + لو/STM + ن/SUF
+3 تصم/STM + یم/SUF
+1 او/STM + را/SUF
+1 فر/STM + و/SUF + ند/SUF
+1 سپ/STM + ت/SUF + ام/STM + بر/STM
+1 بی/STM + ه/SUF + شی/STM
+5 ساخت/STM
+1 مخ/STM + فی/STM
+2 چ/STM + پ/STM + او/STM + ل/SUF + گر/STM + ا/SUF + ن/SUF
+1 مر/STM + ثیه/STM
+2 شو/STM + خ/STM
+2 بر/STM + طر/STM + ف/SUF
+1 فر/STM + ابنف/STM + ش/SUF
+3 حقوق/STM + ی/SUF
+1 نف/STM + ی/SUF + سی/STM
+4 دست/STM + گیر/STM
+9 بلعم/STM + ی/SUF
+1 تا/STM + ر/SUF
+1 مو/STM + ا/SUF + جه/STM + ند/SUF
+1 نو/STM + ا/SUF + م/SUF
+7 پهلو/STM + ی/SUF
+1 اص/STM + غر/STM
+1 آ/STM + شت/STM + ی/SUF
+5 نظر/STM + یا/SUF + ت/SUF
+1 دی/STM + فر/STM + ا/SUF + ن/SUF + س/SUF + یل/STM
+5 دف/STM + ن/SUF
+1 ها/STM + دی/SUF
+2 آ/STM + گا/STM + ه/SUF + ی/SUF
+1 یک/STM + سا/STM + ن/SUF
+1 ح/STM + ی/SUF + ات/SUF + ش/SUF
+1 ب/STM + س/SUF + ت/SUF + ن/SUF
+3 تط/STM + بی/SUF + ق/SUF
+1 پ/STM + ا/SUF + س/SUF + داشت/STM
+1 تعا/STM + لی/SUF
+5 ازدواج/STM
+1 آ/STM + س/SUF + یا/SUF + یی/SUF
+2 فکر/STM + ی/SUF
+2 د/STM + ق/SUF + ت/STM
+5 محل/STM + ه/SUF
+1 رو/STM + انی/SUF
+1 پر/STM + و/SUF + از/SUF + ی/SUF
+1 ۸/STM + ۸۷/STM
+2 1320/STM
+1 تق/STM + ری/SUF + با/STM
+5 بیما/STM + ری/SUF
+2 را/STM + ه/SUF + ن/SUF + ما/STM + ی/SUF + یه/STM + ا/SUF
+1 بر/STM + ا/SUF + در/STM + ان/SUF
+2 پ/STM + ا/SUF + پ/STM + ا/SUF + س/SUF
+80 یا/STM
+1 کام/STM + ل/SUF + ا/SUF
+6 شاعر/STM + ان/SUF
+1 کار/STM + کرد/STM + های/SUF
+5 جنوب/STM + ی/SUF
+2 کرد/STM + یم/SUF
+1 ها/STM + لی/SUF
+1 ج/STM + ذ/STM + ا/SUF + بی/STM + ت/SUF
+1 صف/STM + ار/STM + ی/SUF
+1 بر/STM + رو/STM + ی/SUF
+1 گا/STM + ه/SUF
+1 اه/STM + ان/STM + ت/SUF
+1 عل/STM + ل/SUF
+2 و/STM + فا/STM + ت/SUF
+3 شب/STM + ان/STM + ه/SUF
+2 من/STM + شی/SUF
+1 هشت/STM + م/SUF
+2 است/STM + اد/STM + ان/SUF
+2 میر/STM + ح/STM + س/SUF + ی/SUF + ن/SUF
+2 ند/STM + ان/SUF + ست/SUF
+3 پر/STM + س/SUF + ی/SUF
+3 هو/STM + ا/SUF
+1 ل/STM + ذ/STM + ا/SUF
+3 ساز/STM + ند/SUF
+130 ته/STM + را/SUF + ن/SUF
+7 غلام/STM + ح/STM + س/SUF + ی/SUF + ن/SUF
+1 دف/STM + ع/SUF
+5 پ/STM + ل/SUF
+5 ب/STM + ه/SUF + تر/SUF
+1 ۱۶/STM + ۴۳/STM
+2 پ/STM + ی/SUF + و/SUF + س/SUF + ت/SUF + ن/SUF + د/SUF
+1 امر/STM + ار/SUF
+1 اع/STM + ت/SUF + نا/STM
+2 مو/STM + ن/SUF
+1 حر/STM + ار/STM + ت/SUF + ی/SUF
+2 را/STM + بس/STM + ون/SUF
+4 جا/STM + م/SUF
+1 سو/STM + د/SUF + آ/STM + ور/SUF
+2 مر/STM + ا/SUF + ک/SUF + ز/SUF + ی/SUF
+1 مکا/STM + ن/SUF + ی/SUF + سم/STM
+2 سف/STM + یر/SUF
+1 تح/STM + صی/STM + ل/SUF + ات/SUF + ش/SUF
+1 پ/STM + ز/SUF + ش/SUF + ک/SUF + ان/SUF
+17 نی/STM + رو/STM + ی/SUF
+1 آ/STM + ی/SUF + س/SUF + اف/STM
+6 ۱۳/STM
+1 شا/STM + لو/STM + ده/SUF
+3 ابر/STM
+1 غ/STM + نا/STM + یی/SUF
+1 کا/STM + غذ/STM + ی/SUF
+6 کوچ/STM + ک/SUF
+1 آ/STM + م/SUF + یز/STM
+7 ممکن/STM
+1 نو/STM + ا/SUF + د/SUF + گا/STM + ن/SUF
+3 مصلح/STM + ت/SUF + ی/SUF
+1 خو/STM + اب/STM + گا/STM + ه/SUF + ی/SUF
+1 فه/STM + می/SUF + دن/STM
+1 در/STM + بر/STM + دار/STM + ند/SUF + ه/SUF
+2 بر/STM + گر/STM + د/SUF + ا/SUF + ند/SUF
+1 ایج/STM + از/SUF
+1 دست/STM + گیر/STM + ی/SUF
+3 شریف/STM
+1 موج/STM + ی/SUF
+1 اثر/STM + ش/SUF
+2 بغ/STM + دا/STM + د/SUF
+1 دست/STM + گا/STM + ه/SUF + ی/SUF
+5 شب/STM
+29 شعر/STM
+4 نصر/STM
+5 خو/STM + ا/SUF + ند/SUF + ن/SUF
+20 ح/STM + ا/SUF + ل/SUF
+1 تما/STM + یل/SUF + ی/SUF
+1 دی/STM + ج/STM + یت/SUF + ال/STM
+1 اج/STM + ل/SUF
+15 خا/STM + ص/SUF
+2 وا/STM + ژ/STM + ه/SUF
+15 رف/STM + ت/SUF
+1 زود/STM + تر/SUF
+1 ح/STM + ا/SUF + ج/SUF + یع/STM + لی/SUF
+1 ش/STM + ج/SUF + اع/STM + ت/SUF
+1 فر/STM + م/SUF + ا/SUF + ن/SUF + ده/STM + ان/SUF
+1 ح/STM + م/SUF + له/STM
+2 رق/STM + م/SUF + ی/SUF
+1 بر/STM + مک/STM
+1 عل/STM + ا/SUF + ئ/SUF + ی/SUF
+2 هو/STM + تک/STM + ی/SUF
+4 پشتو/STM
+1 تر/STM + قی/STM
+1 رح/STM + ما/STM + ن/SUF
+1 ب/STM + ا/SUF + لا/SUF + خر/STM + ه/SUF
+3 پ/STM + ا/SUF + د/SUF + ش/SUF + ا/SUF + ه/SUF + ی/SUF
+3 گر/STM + م/SUF
+1 پ/STM + ی/SUF + رو/STM + ز/SUF
+1 مع/STM + ا/SUF + ون/SUF + ت/SUF
+11 نویس/STM + ند/SUF + ه/SUF
+2 فر/STM + ا/SUF
+1 ت/STM + یم/STM + ی/SUF
+1 یا/STM + ری/SUF
+1 اف/STM
+4 پ/STM + ن/SUF + ج/SUF
+4 در/STM + خو/STM + است/STM
+1 قر/STM + ه/SUF
+3 تش/STM + خی/STM + ص/SUF
+1 لو/STM + ژ/STM + یا/SUF
+2 اف/STM + زود/STM + ن/SUF
+2 دو/STM + از/STM + ده/SUF
+2 چن/STM + د/SUF + ف/SUF + از/STM + ی/SUF
+2 مد/STM + ا/SUF + وم/STM
+2 سو/STM
+1 ج/STM + لب/STM
+2 داخل/STM + ه/SUF
+2 حقیق/STM + ی/SUF
+2 اختر/STM + س/SUF + نج/STM + ی/SUF
+1 هم/STM + گی/SUF
+1 DC/STM
+1 مرد/STM + م/SUF + ی/SUF
+2 من/STM + حصر/STM
+3 کتب/STM
+1 فه/STM + م/SUF
+1 گر/STM + ما/STM
+7 نوعی/STM
+1 آ/STM + ب/SUF + ر/SUF + یز/STM
+1 ما/STM + در/STM + ب/STM + زرگ/STM + ش/SUF
+1 قرآن/STM + ی/SUF
+4 گیر/STM + ی/SUF
+7 آر/STM + ا/SUF + مگاه/STM
+2 نما/STM + یش/SUF + نام/STM + ه/SUF
+1 هست/STM + ند/SUF + سپس/STM
+2 خ/STM + بر/STM + ی/SUF
+4 آ/STM + س/SUF + ما/STM + ن/SUF + ی/SUF
+2 ع/STM + قب/STM
+1 ما/STM + نس/STM + ک/SUF
+1 هی/STM + ئ/STM + ت/SUF
+3 گالیله/STM
+1 جز/STM + ئ/SUF + یا/SUF + تش/STM + ان/SUF
+2 مشا/STM + ه/SUF + یر/SUF
+1 قر/STM + ا/SUF + ئ/STM + ت/SUF
+1 ۴۰۰/STM + ۰۰/STM
+1 ۱۹۴/STM + ۱/STM
+1 ال/STM + اس/STM + لام/STM
+2 مهم/STM + تر/STM + ی/SUF + ن/SUF
+5 شاعر/STM + ی/SUF
+1 لا/STM + ی/SUF + ح/STM + ه/SUF
+1 رو/STM + ی/SUF + دا/STM + د/SUF + ها/SUF
+1 منتشر/STM + شد/STM + ه/SUF
+2 ح/STM + ا/SUF + ل/SUF + ی/SUF + که/STM
+6 ب/STM + ه/SUF + داشت/STM
+1 فی/STM + ل/SUF + سو/STM + ف/SUF
+1 کلا/STM + ه/SUF + دو/STM + ز/SUF
+1 کور/STM + ون/SUF + یش/STM + ن/SUF
+3 شما/STM + ل/SUF + ی/SUF
+2 ترکیب/STM + ی/SUF
+4 اکن/STM + ون/SUF
+1 ۲۳/STM + ۰/SUF
+2 ب/STM + ل/SUF + وز/STM
+5 چاله/STM
+1 ح/STM + د/SUF + س/SUF
+1 دست/STM + رس/STM + ی/SUF
+3 ب/STM + اختر/STM + ی/SUF
+2 عی/STM + ن/SUF + ی/SUF
+4 عکس/STM
+1 آر/STM + ا/SUF + مش/STM
+5 آقا/STM + ی/SUF
+1 مح/STM + تو/STM + ا/SUF + یی/SUF
+17 ساز/STM + م/SUF + ا/SUF + ن/SUF
+1 ان/STM + ور/STM + ی/SUF
+3 خص/STM + و/SUF + ص/SUF
+1 بر/STM + ی/SUF + ت/SUF + یش/STM
+11 ب/STM + ا/SUF + ید/SUF
+1 نا/STM + ن/SUF + وم/STM + تر/SUF
+2 شن/STM + ا/SUF + س/SUF + ی/SUF
+2 نو/STM + بت/STM
+2 حول/STM
+1 جر/STM + ی/SUF + ا/SUF + ن/SUF + های/SUF
+1 کا/STM + نی/SUF + نگ/STM + ه/SUF + ام/STM
+1 گذ/STM + ار/STM + ند/SUF
+4 شغ/STM + ل/SUF
+1 قر/STM + ق/SUF + یز/STM + ست/STM + ا/SUF + ن/SUF
+12 بی/STM + رو/STM + ن/SUF
+2 زی/STM + ب/STM + ا/SUF + ی/SUF + ش/SUF
+8 داخل/STM + ی/SUF
+5 کیل/STM + و/SUF + م/SUF + تر/SUF
+1 ب/STM + ح/SUF + را/SUF + نی/STM
+2 ده/STM + د/SUF
+1 پ/STM + ز/SUF + ش/SUF + ک/SUF
+5 ح/STM + ک/SUF + ای/STM + ت/SUF
+3 مت/STM + داول/STM
+47 عنوا/STM + ن/SUF
+18 مجم/STM + و/SUF + ع/SUF + ه/SUF
+8 بلخی/STM
+4 آتش/STM
+2 ذه/STM + ن/SUF + ی/SUF
+3 است/STM + ع/SUF + ف/SUF + ا/SUF
+1 ان/STM + و/SUF + اع/STM
+1 شهر/STM + ت/SUF + ی/SUF
+3 فر/STM + ا/SUF + ساخت/STM + ه/SUF
+15 ب/STM + و/SUF + د/SUF + ن/SUF
+15 هم/STM + ین/SUF
+9 نظ/STM + م/SUF
+5 ادب/STM
+1 ور/STM + ز/SUF + ش/SUF
+3 قاج/STM + ار/SUF
+1 ایج/STM + اب/STM
+5 میزا/STM + ن/SUF
+1 پ/STM + ی/SUF + ک/SUF
+5 پ/STM + دی/STM + د/SUF + ه/SUF
+# Time used (secs): 0

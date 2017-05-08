@@ -7,3 +7,6 @@
 [submodule "vn_tokenizer"]
 	path = vn_tokenizer
 	url = git@github.com:DethRaid/Roy_VnTokenizer.git
+[submodule "fastText"]
+	path = fastText
+	url = https://github.com/facebookresearch/fastText.git

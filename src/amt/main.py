@@ -27,5 +27,24 @@ greatly reducing the number of languages pairs used
 """
 
 import logging
+import sys
+
+import matlab.engine
+
+from src.amt.embeddings import LanguageModel
 
 logging.basicConfig(filename='all.log', level=logging.DEBUG)
+logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
+
+_log = logging.getLogger('main')
+
+if __name__ == '__main__':
+    languages = ['voynichese', 'english']
+    dimensions = 100
+    models = []
+    for language in languages:
+        models.append(LanguageModel(language, dim=dimensions))
+
+    matlab_engine = matlab.engine.start_matlab()
+
+    results = matlab_engine.jrmpc([model.get_all_word_embeddings() for model in models], [0 for x in range(dimensions)])

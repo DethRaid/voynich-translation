@@ -196,3 +196,5 @@ jrmps-reference
 temp
 **/corpus_morphemes.txt
 **.gz
+**.vec
+**.bin

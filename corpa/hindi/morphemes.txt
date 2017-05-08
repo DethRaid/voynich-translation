@@ -1,0 +1,934 @@
+# expandmorphsegmentations.pl, Mon May  1 11:09:58 2017
+# Working dir: /home/ddubois/PycharmProjects/voynich-translation
+# Input file: viterbitagsplit2.iii.tagged.gz.tmp
+# -full: OFF
+# -showstruct: OFF
+2 Religion/STM
+3 झलक/STM
+2 ०५/STM
+16 gks/STM
+4 cM/STM
+1 per/STM
+1 health/STM
+1 १९/STM + ०/STM + १/STM
+2 Iykuh/STM
+4 ok/STM
+1 experiment/STM + al/SUF
+2 Great/STM
+1 ड/STM
+1 mind/STM
+1 Dawkins/STM
+4 ckgj/STM
+2 vUrj/STM
+17 जय/STM
+1 एफ/STM
+2 sA/STM
+9 पद/STM
+6 dkQh/STM
+10 kadq/STM
+18 bl/STM
+4 FksA/STM
+2 उ/STM
+2 १९/STM + ९/STM + ६/STM
+1 Goldberg/STM
+2 ce/STM
+2 fnu/STM
+2 phenomena/STM
+4 ihfy/STM
+6 blls/STM
+2 vFkkZr/STM
+6 आगम/STM
+4 ygj/STM
+1 1716/STM
+10 vkSj/STM
+10 lkFk/STM
+8 ३/STM
+2 fuLo/STM
+2 1783/STM
+1 ३००/STM
+1 १५/STM
+2 अन/STM
+2 Vhys/STM
+1 20/STM
+11 लगभग/STM
+1 1856/STM
+2 rVh/STM
+2 tSlk/STM
+2 3000/STM
+4 frgkbZ/STM
+2 1920/STM
+2 Hindu/STM + tva/STM
+2 Beauty/STM
+1 7783/STM
+2 gVk/STM
+1 work/STM
+1 APA/STM
+2 oydSuks/STM
+2 tedj/STM
+3 cognition/STM
+1 Non/STM
+27 जब/STM
+2 ३२/STM
+5 २०/STM
+4 f/STM
+2 scientific/STM
+3 1947/STM
+1 Martin/STM
+2 Unique/STM
+6 FkkA/STM
+2 all/STM
+4 ओ/STM
+2 bZ/STM
+2 yEcs/STM
+2 fIyfu/STM
+1 ऋष/STM + भ/STM
+4 foLQksVd/STM
+2 ftldk/STM
+1 १७९७/STM
+9 तब/STM
+2 मन/STM + न/STM
+2 iM/STM
+1 instruments/STM
+1 1987/STM
+4 अवसर/STM
+2 भगवद/STM
+1 1646/STM
+1 Richard/STM
+4 gok/STM
+49 कर/STM
+1 900/STM
+2 gksrh/STM
+2 folwfwfwfo/STM
+3 एक/STM + व/STM + चन/STM
+10 ek/STM
+2 ijr/STM
+1 २००५/STM
+8 inkFkZ/STM
+1 चरम/STM
+2 kuh/STM
+2 fudyrs/STM
+6 uyh/STM
+1 Antichthones/STM
+1 भगत/STM
+1 कब/STM
+2 Vksyl/STM
+1 २००६/STM
+3 N/STM
+1 शहद/STM
+1 १९/STM + ८/STM + ३/STM
+20 कम/STM
+2 ekfVZfud/STM
+1 qualitative/STM
+1 खबर/STM
+2 leku/STM
+5 आ/STM
+1 Kierkegaard/STM
+1 आए/STM
+2 २१/STM
+2 ØkØkVksvk/STM
+2 ९/STM
+1 गऊ/STM
+1 १९/STM + ९/STM + ९/STM
+8 आप/STM
+4 ysrk/STM
+2 eSnku/STM
+1 जल/STM
+3 स/STM
+2 स/STM + फल/STM
+38 k/STM
+20 उस/STM
+7 ई/STM
+2 size/STM
+1 एन/STM
+41 न/STM
+2 fp/STM
+2 foLr/STM
+1 Jung/STM
+1 programm/STM + ing/STM
+1 ७०/STM
+1 per/STM + suasion/STM
+1 SC/STM
+1 life/STM
+10 tSls/STM
+1 stochastic/STM
+1 शवसन/STM
+14 izdkj/STM
+1 शत/STM
+14 ½/STM
+2 1950/STM
+6 gokbZ/STM
+1 meaningful/STM
+1 relationships/STM
+1 unconscious/STM
+15 4/STM
+2 ideologies/STM
+1 questions/STM
+1 conform/STM + ity/STM
+1 psycho/STM + ticism/STM
+1 २००७/STM
+2 os/STM
+1 1914/STM
+1 दस/STM
+2 gSa/STM
+1 असल/STM
+1 rodents/STM
+1 एवम/STM
+2 teko/STM
+2 development/STM
+1 variable/STM
+2 All/STM
+2 36000/STM
+2 tula/STM
+2 ३४/STM
+2 Stephen/STM
+1 Association/STM
+5 दर/STM
+1 sports/STM
+2 rjy/STM
+3 कथन/STM
+2 An/STM
+1 language/STM
+2 ftuds/STM
+14 ¼/STM
+1 India/STM
+2 tqM/STM
+1 Tolman/STM
+1 1980/STM
+1 बलवन/STM
+2 ik/STM
+2 ySfiyh/STM
+2 le/STM
+2 1869/STM
+2 D/STM
+1 Heidegger/STM
+1 Skinner/STM
+2 iwohZ/STM
+1 321/STM
+1 National/STM
+1 1858/STM
+6 gqvk/STM
+3 ३३/STM
+1 औशनस/STM
+2 Hkkxksa/STM
+1 1715/STM
+1 ए/STM
+3 ment/STM + al/SUF
+2 If/STM
+2 there/STM
+1 1801/STM
+1 १९/STM + ८/STM + ४/STM
+2 fllyh/STM
+6 17/STM
+1 Humanistic/STM
+2 jk/STM
+2 nsrh/STM
+2 ijiksf/STM
+1 चरण/STM
+39 कई/STM
+2 nwj/STM
+1 introversion/STM
+6 uhps/STM
+2 cgqr/STM
+2 ekjs/STM
+1 1769/STM
+6 blds/STM
+1 Unicode/STM
+1 protocols/STM
+1 experiment/STM
+4 QhV/STM
+1 १८८५/STM
+1 hunter/STM
+1 symbol/STM
+30 gS/STM
+3 २००३/STM
+2 1894/STM
+2 ihyh/STM
+3 १०/STM + ००/STM
+5 ६/STM
+2 1911/STM
+1 मई/STM
+1 facilitated/STM
+1 1929/STM
+2 lqukbZ/STM
+2 vkrs/STM
+3 सरल/STM
+1 differences/STM
+4 izk/STM
+1 logia/STM
+1 सकलन/STM
+2 जगह/STM
+1 नत/STM
+1 affective/STM
+2 gq/STM
+1 ९०/STM
+15 मत/STM
+2 lfØ/STM
+1 etho/STM + logy/STM
+1 दम/STM
+2 iqjkus/STM
+42 वह/STM
+2 An/STM + alysis/STM
+4 dsUsUsUnzhzhzh/STM
+2 mBh/STM
+1 १९/STM + ६/STM + ०/STM
+2 fxj/STM
+2 qx/STM
+1 ६०/STM
+1 motor/STM
+4 मरण/STM
+1 हनन/STM
+1 mathematic/STM + al/SUF
+4 ugha/STM
+6 fdeh/STM
+1 natur/STM + al/SUF
+3 असतत/STM
+1 কমলদল/STM
+2 1860/STM
+1 eclectic/STM
+4 an/STM + alysis/STM
+2 Hindu/STM
+4 and/STM
+1 Big/STM
+2 c/STM
+2 बन/STM + कर/STM
+2 fuefTtr/STM
+2 तप/STM
+1 एबडकशन/STM
+2 vkrk/STM
+1 ५५२/STM
+2 depth/STM
+4 H/STM
+1 ओम/STM
+2 behavior/STM
+6 tc/STM
+4 blh/STM
+2 बच/STM
+4 fr/STM
+3 theorists/STM
+1 Cognitive/STM
+10 Hk/STM
+3 ८/STM
+2 eksVh/STM
+16 rd/STM
+4 gksuk/STM
+66 ds/STM
+1 आ/STM + दर/STM
+13 आज/STM
+4 yxrk/STM
+4 fyikjh/STM
+2 अ/STM + हर/STM + ह/STM
+6 Hkkx/STM
+2 per/STM + sonal/STM + ity/STM
+2 izkfIr/STM
+1 १९/STM + ३/STM + ७/STM
+3 Trait/STM
+8 l/STM
+7 बन/STM
+14 hi/STM
+2 xkok/STM
+1 testing/STM
+1 कर/STM + क/STM
+1 अवतण/STM
+3 factor/STM
+2 कम/STM + ल/STM
+1 औ/STM
+1 २००२/STM
+8 rqY/STM
+1 Psycho/STM + metrics/STM
+1 आफ/STM
+4 कठ/STM
+1 अवतरण/STM
+4 nks/STM
+2 vkSJ/STM
+2 xkjksa/STM
+1 ८००/STM
+1 ळ/STM
+12 गण/STM
+1 1971/STM
+1 physio/STM + logical/STM
+2 folqfo/STM
+2 xSlsa/STM
+1 हलचल/STM
+1 method/STM
+4 5/STM
+3 1965/STM
+6 अत/STM
+2 pkjksa/STM
+1 science/STM
+9 ७/STM
+1 बस/STM
+22 xkj/STM
+25 अल/STM + ग/STM
+8 तव/STM
+1 primates/STM
+1 abil/STM + ities/STM
+1 Freedom/STM
+1 body/STM
+1 Carl/STM
+1 १०२१/STM
+1 media/STM + tional/STM
+2 teus/STM
+1 four/STM
+24 गए/STM
+2 द/STM
+4 ईश/STM
+1 आय/STM
+1 transcrani/STM + al/SUF
+2 blfy/STM
+1 Book/STM
+4 lkxj/STM
+2 80/STM
+1 Soci/STM + al/SUF
+10 सब/STM
+2 igqap/STM
+4 HkwdEi/STM
+1 Søren/STM
+2 अ/STM
+2 cydsfu/STM
+1 psycho/STM + logists/STM
+1 magnetic/STM
+8 Hksnu/STM
+1 हई/STM
+1 अवगत/STM
+1 6/STM
+4 QwyxksHkh/STM
+13 जन/STM
+1 ISBN/STM
+2 1883/STM
+2 vR/STM
+1 Hans/STM
+1 stress/STM
+1 1780/STM
+8 Hinduism/STM
+1 aging/STM
+1 Eysenck/STM
+8 ehy/STM
+2 १९/STM + ११/STM
+2 xbZA/STM
+6 ckn/STM
+2 gksxhA/STM
+4 kr/STM
+4 Hksnsnsnu/STM
+2 १९/STM + ९/STM + १/STM
+2 गहन/STM
+1 हवन/STM
+1 मद/STM
+1 चल/STM
+1 लय/STM
+2 dj/STM
+2 उल/STM
+4 भर/STM
+2 vU/STM
+2 izdV/STM
+2 फल/STM
+1 meme/STM
+3 दशक/STM
+1 ओणम/STM
+2 नरक/STM
+1 रह/STM + कर/STM
+1 घ/STM
+2 Foundation/STM
+6 उप/STM
+1 १८५७/STM
+2 organiza/STM + tional/STM
+2 १९/STM + ५/STM + ०/STM
+7 ५/STM
+3 कह/STM
+2 bVyh/STM
+1 bio/STM + psycho/STM + social/STM
+2 njkj/STM
+2 1832/STM
+2 tkok/STM
+2 तहत/STM
+7 पर/STM + म/STM
+23 2/STM
+1 वश/STM
+2 १८७९/STM
+4 100/STM
+1 process/STM + ing/STM
+2 Wisdom/STM
+1 communication/STM
+8 मत/STM + लब/STM
+2 chp/STM
+1 reason/STM + ing/STM
+4 lqek/STM
+13 २/STM
+8 अरब/STM
+4 iorZ/STM
+2 fDr/STM
+2 tyMe/STM
+2 mn/STM + Hksnsnsnu/STM
+1 श/STM + मन/STM
+1 च/STM + ल/STM + कर/STM
+4 gksus/STM
+1 hypotheses/STM
+2 fly/STM
+2 jgrk/STM
+28 dk/STM
+1 सद/STM
+2 kfu/STM
+1 पतन/STM
+1 इतर/STM
+3 कप/STM
+2 social/STM
+1 ढ/STM
+1 1779/STM
+1 मच/STM
+2 ftlds/STM
+1 १८७५/STM
+1 extraversion/STM
+1 postpositions/STM
+7 जगत/STM
+2 vkLVªsfy/STM
+1 myth/STM
+2 y/STM
+1 आगमन/STM
+2 tkx/STM
+2 1961/STM
+2 ftuls/STM
+2 Makes/STM
+2 kj/STM
+1 ९४०/STM
+2 Mkbd/STM
+2 lewg/STM
+2 आदम/STM
+1 Specialist/STM
+10 bls/STM
+1 stereotype/STM
+2 ØkdkVksvk/STM
+2 V/STM
+1 1851/STM
+4 LFkku/STM
+1 Greece/STM
+1 dynamic/STM
+1 अतएव/STM
+3 ऐ/STM
+2 5oka/STM
+2 iBkj/STM
+2 नव/STM
+1 १७००/STM
+2 curs/STM
+4 fo/STM
+4 xSlksa/STM
+17 3/STM
+2 dqN/STM
+1 २००९/STM
+2 अ/STM + स/STM + फल/STM
+19 psycho/STM + logy/STM
+1 एस/STM
+126 यह/STM
+2 kurk/STM
+3 भवन/STM
+1 structure/STM
+2 70/STM
+1 psycho/STM + metrics/STM
+2 fQyhikbu/STM
+1 Field/STM
+14 tkrk/STM
+4 kkUr/STM
+2 ioZr/STM
+1 अनत/STM
+2 izlqIr/STM
+1 ७७/STM
+1 १७९/STM
+1 Lewis/STM
+5 वचन/STM
+2 a/STM
+2 lcls/STM
+2 rsgSA/STM
+4 आज/STM + क/STM + ल/STM
+1 तट/STM
+1 population/STM
+2 uked/STM
+4 kjkry/STM
+1 Mendelian/STM
+3 आठ/STM
+1 neuro/STM + logical/STM
+2 भय/STM
+2 vksj/STM
+2 oydSuSuSuks/STM
+1 रह/STM
+1 vs/STM
+2 उपनयन/STM
+2 हय/STM
+8 vkdkj/STM
+1 जन/STM + क/STM
+1 Psycho/STM + logists/STM
+2 उन/STM + पर/STM
+2 igqpa/STM
+1 Comparative/STM
+2 १६४२/STM
+10 adj/STM
+1 2011/STM
+4 gSaA/STM
+1 Rollo/STM
+1 nomo/STM + logical/STM
+4 njkjh/STM
+463 और/STM
+16 dh/STM
+1 ह/STM + ट/STM + कर/STM
+1 Philosophy/STM
+11 ओर/STM
+1 Ψυχολογία/STM
+2 vkkkj/STM
+14 x/STM
+4 mnxkj/STM
+116 इस/STM
+1 ६५००/STM
+2 1710/STM
+2 tkdj/STM
+36 mn/STM
+4 xksy/STM
+1 industry/STM
+1 socio/STM + logy/STM
+2 iryk/STM
+1 etho/STM + logical/STM
+8 rhozrk/STM
+1 taboo/STM
+2 Aspects/STM
+1 existenti/STM + al/SUF
+1 function/STM + al/SUF
+7 १०/STM
+2 ladjh/STM
+21 व/STM
+16 q/STM
+1 म/STM + हम/STM + द/STM
+1 neuro/STM + ticism/STM
+1 मदन/STM
+2 उप/STM + कर/STM + ण/STM
+1 1806/STM
+2 egksn/STM
+4 tks/STM
+1 1863/STM
+2 Industrial/STM
+1 आब/STM
+1 stimulation/STM
+1 गगन/STM
+2 fHkUu/STM
+2 kl/STM
+2 50/STM
+1 1859/STM
+1 therapy/STM
+2 izd/STM
+1 Five/STM
+2 ३०/STM
+1 7/STM
+6 r/STM
+2 iSekus/STM
+2 178/STM
+1 २६५/STM
+188 पर/STM
+1 neuroimaging/STM
+2 LVªksEcksyh/STM
+2 vuqlkj/STM
+2 ऊपर5/STM
+1 Counsel/STM + ing/STM
+2 vaxaxax/STM
+2 VªEcksyh/STM
+6 tek/STM
+1 Press/STM
+1 ११/STM
+18 ls/STM
+1 Wundt/STM
+1 74/STM
+1 Persian/STM
+4 fpifpik/STM
+2 dkSulh/STM
+2 Critical/STM
+2 ØsVj/STM
+2 fudyrh/STM
+54 gSA/STM
+1 baahr/STM
+2 10/STM
+8 kA/STM
+1 human/STM + ities/STM
+2 bruk/STM
+3 बल/STM
+4 vojks/STM
+17 उन/STM
+2 LFkykd/STM
+2 iqu/STM
+7 हर/STM
+1 cultur/STM + al/SUF
+1 9/STM
+1 implicit/STM
+2 inter/STM + per/STM + sonal/STM
+1 rebirth/STM + ing/STM
+4 mls/STM
+1 २००४/STM
+4 gksdj/STM
+2 १२/STM
+1 inter/STM + pretation/STM
+2 foLrkj/STM
+2 lgkjs/STM
+1 period/STM
+1 18/STM
+1 सकल/STM
+2 eq/STM
+1 मय/STM
+1 1887/STM
+2 1957/STM
+18 gksrk/STM
+1 reparent/STM + ing/STM
+1 ८०/STM
+21 त/STM + रह/STM
+8 e/STM
+1 academic/STM
+2 lEcfU/STM
+12 u/STM
+1 acquisition/STM
+2 dks/STM
+1 neuro/STM + linguistic/STM
+2 any/STM
+1 अटकल/STM
+1 गठन/STM
+12 ÅapkbZ/STM
+3 चयन/STM
+1 भर/STM + त/STM
+6 de/STM
+10 xSl/STM
+3 न/STM + मन/STM
+1 र/STM + ख/STM + कर/STM
+2 nwjh/STM
+2 neuro/STM + science/STM
+1 Therapy/STM
+1 1831/STM
+1 सरन/STM
+2 mRrj/STM
+2 वजह/STM
+1 १९/STM + ७/STM + २/STM
+1 आव/STM
+1 ङ/STM
+2 kwy/STM
+1 १९/STM + ७/STM + ५/STM
+1 Πέρσις/STM
+2 fØ/STM
+2 1821/STM
+24 तक/STM
+11 i/STM
+1 evolution/STM
+14 oa/STM
+2 सम/STM + झ/STM
+1 law/STM
+1 development/STM + al/SUF
+1 ४००/STM
+3 औसत/STM
+1 de/STM + ductive/STM
+1 रख/STM
+2 ed/STM + uca/STM + tional/STM
+1 122/STM
+2 नर/STM
+5 बदल/STM
+2 attitudes/STM
+2 What/STM
+8 dHkh/STM
+3 anim/STM + al/SUF
+10 dgrs/STM
+1 द/STM + मन/STM
+1 Thought/STM
+1 12/STM
+2 xqEcn/STM
+2 njkjksa/STM
+2 1962/STM
+1 अटल/STM
+1 १७२७/STM
+1 voca/STM + tional/STM
+1 history/STM
+16 rFkk/STM
+1 रस/STM
+2 Univers/STM + al/SUF
+4 rks/STM
+2 Hkwe/STM
+2 व/STM + जन/STM
+2 webpage/STM
+1 an/STM + al/SUF + ytic/STM + al/SUF
+1 statistic/STM + al/SUF
+1 40/STM
+1 ऑसनस/STM
+1 mor/STM + al/SUF
+5 आचरण/STM
+1 यम/STM
+1 १९/STM
+1 1847/STM
+60 kh/STM
+4 budk/STM
+1 १३/STM
+4 is/STM
+2 नगर/STM
+9 अब/STM
+2 Nk/STM
+16 हम/STM
+2 prob/STM + ability/STM
+1 Univers/STM + ity/STM
+1 १५०/STM
+16 vf/STM
+16 गई/STM
+1 1932/STM
+1 media/STM
+1 08/STM
+6 १०/STM + ८/STM
+2 effect/STM
+1 छह/STM
+1 Memetics/STM
+1 81/STM
+2 es/STM
+1 perception/STM
+1 function/STM
+2 The/STM
+2 fLFkfr/STM
+2 vkokt/STM
+2 120/STM
+5 ४/STM
+4 १६/STM
+1 traits/STM
+2 Åij/STM
+1 अगर/STM
+33 सम/STM + य/STM
+8 of/STM
+4 fgod/STM
+12 d/STM
+1 १९/STM + ९/STM + २/STM
+1 13/STM
+1 ४०/STM
+2 च/STM
+1 in/STM + ductive/STM
+1 Wilhelm/STM
+1 १०/STM + ०/STM
+1 Leipzig/STM
+2 xSals/STM
+2 ylnkj/STM
+6 rjg/STM
+1 १९/STM + ८/STM + ६/STM
+2 dgykrs/STM
+18 ij/STM
+1 regression/STM
+2 human/STM
+2 VsQk/STM
+1 past/STM
+1 evolutionary/STM
+15 १/STM
+190 एक/STM
+1 ५०/STM
+2 fudyk/STM
+4 foLQksV/STM
+3 १९/STM + ५/STM + ६/STM
+2 process/STM + es/STM
+8 g/STM
+6 ckny/STM
+4 O/STM
+1 quantitative/STM
+1 15/STM
+1 ९०००/STM
+1 लव/STM
+1 degree/STM
+1 शक/STM
+1 Bombay/STM
+4 आई/STM
+4 blesa/STM
+1 gatherer/STM
+2 रत/STM
+2 श/STM + हर/STM
+2 ySdksfyFk/STM
+1 अकबर/STM
+1 Psycho/STM + metric/STM
+29 इन/STM
+1 क/STM
+1 ऊ/STM + पर/STM
+4 izdzdzdkj/STM
+1 घर/STM
+58 Tokykeq/STM
+1 nature/STM
+1 May/STM
+2 rc/STM
+2 नई/STM
+2 kjk/STM
+1 १४/STM
+2 gh/STM
+2 about/STM
+4 ftlls/STM
+1 १९/STM + ४/STM + ७/STM
+1 २०/STM + ११/STM
+1 AIR/STM
+1 perfect/STM
+1 Emo/STM + tional/STM
+3 School/STM
+2 mM/STM
+2 clinical/STM
+1 information/STM
+2 dsUnzh/STM
+4 fd/STM
+1 Set/STM
+1 determinism/STM
+1 चर/STM
+4 rqYqYqY/STM
+2 1796/STM
+2 ३१/STM
+2 ह/STM + बल/STM
+10 okys/STM
+1 १७२०/STM
+1 सर/STM
+24 kd/STM
+1 सम/STM
+1 individu/STM + al/SUF
+1 २४५/STM
+28 ykok/STM
+1 अमर/STM
+4 lokZf/STM
+1 systems/STM
+2 ईद/STM
+24 1/STM
+1 bio/STM + logist/STM
+1 २५/STM
+1 १९/STM + ८/STM + ७/STM
+1 science/STM + s/STM
+2 218/STM
+1 Prim/STM + al/SUF
+1 glyph/STM
+2 tkrs/STM
+4 tkrh/STM
+2 ksafd/STM
+3 छठ/STM
+1 Optics/STM
+1 explanatory/STM
+2 79/STM
+2 folwfo/STM
+1 critic/STM + al/SUF
+2 v/STM
+1 ख/STM
+2 hiksa/STM
+6 उदय/STM
+2 deh/STM
+1 अवयव/STM
+4 पथ/STM
+2 cu/STM
+1 १५६४/STM
+2 vesfjdk/STM
+4 djhc/STM
+1 बजट/STM
+1 अधययन/STM
+2 कह/STM + कर/STM
+62 esa/STM
+2 Infinity/STM
+14 fNnz/STM
+6 s/STM
+2 दल/STM
+2 8/STM
+27 ॐ/STM
+2 भ/STM + जन/STM
+1 748/STM
+1 आस/STM
+1 ३९/STM
+4 gksrs/STM
+2 १८९६/STM
+4 धन/STM
+1 Technique/STM
+2 ekxZ/STM
+13 मन/STM
+2 nh/STM
+4 n/STM
+2 सहज/STM
+7 नए/STM
+1 ii/STM
+1 emotion/STM
+1 33/STM
+# Time used (secs): 0
