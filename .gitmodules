@@ -1,11 +1,5 @@
-[submodule "morfessor"]
-	path = morfessor
-	url = git@github.com:aalto-speech/morfessor.git
 [submodule "thirdparty/Roy_VnTokenizer"]
 	path = thirdparty/Roy_VnTokenizer
-	url = git@github.com:DethRaid/Roy_VnTokenizer.git
-[submodule "vn_tokenizer"]
-	path = vn_tokenizer
 	url = git@github.com:DethRaid/Roy_VnTokenizer.git
 [submodule "fastText"]
 	path = fastText
